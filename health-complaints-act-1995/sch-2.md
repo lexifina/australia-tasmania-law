@@ -9,5 +9,5 @@ Optometrists Registration Board
 Pharmacy Board of Tasmania
 Physiotherapists Registration Board of Tasmania
 Podiatrists Registration Board
-Psychologists Registration Board
+Psychologists Registration Board of Tasmania
 Radiographers Registration Board
