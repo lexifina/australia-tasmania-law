@@ -1,5 +1,4 @@
 # Schedule 2 Cessation of certain land as State forest
-[Not yet in force. Commences: 27 December 2000]
 Section 6
 | Column 1 | Column 2 | Column 3
 | Location | Approx. Area (ha) | Plan No.
@@ -64,4 +63,3 @@ Section 6
 59.  | Vicinity of Tomahawk River | 318 | 4730
 60.  | Vicinity of Tyndall Range | 15 635 | 4584
 61.  | Vicinity of Woodstock Spur (2 lots) | 284 | 4725
-[End of text not yet in force]
