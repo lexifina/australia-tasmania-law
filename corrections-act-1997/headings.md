@@ -10,4 +10,5 @@ Part 7 Prison Discipline
 Part 8 Parole
 Part 8, Division 1 Parole Board
 Part 8, Division 2 Eligibility for parole
+Part 8, Division 3 Miscellaneous
 Part 9 Miscellaneous
