@@ -1,0 +1,3 @@
+Mutual Recognition (Tasmania) Act 1993
+An Act to adopt the Mutual Recognition Act 1992 of the Commonwealth (and any amendments made to it before this Act commences), and to refer power to the Parliament of the Commonwealth to amend that Act, so as to enable the enactment of legislation applying uniformly throughout Australia for the recognition of regulatory standards adopted in Australia regarding goods and occupations
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
