@@ -20,14 +20,6 @@ Part 3, Division 6 Miscellaneous provisions relating to plans
 Part 3, Division 7 Minimum and sub-minimum lots
 Part 3, Division 8 Public open space
 Part 3, Division 9 Miscellaneous matters
-Part 4 Cemeteries and Crematoria
-Part 4, Division 1 General provisions
-Part 4, Division 2 Exclusive rights of burial
-Part 4, Division 3 Maintenance and use of cemeteries
-Part 4, Division 4 Closure of cemeteries and burial grounds
-Part 4, Division 5 Taking over disused burial-grounds
-Part 4, Division 6 Exhumation and reburial
-Part 4, Division 7 Parks and gardens
 Part 6 Water supply
 Part 6, Division 1 Water districts
 Part 6, Division 3 Cost of extension of water mains
