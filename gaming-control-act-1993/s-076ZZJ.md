@@ -5,4 +5,3 @@
 (i) any conditions to which its conduct and playing are subject under this Act; and
 (ii) the rules of the game.
 (2) The lawful conduct and playing of an authorised game is not a public or private nuisance.
-(3) Section 9(1)(a) of the Police Offences Act 1935 does not apply to implements or articles used or intended to be used in the conduct and playing of an authorised game lawfully conducted under a minor gaming permit.
