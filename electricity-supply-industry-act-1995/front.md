@@ -1,0 +1,3 @@
+Electricity Supply Industry Act 1995
+An Act to promote efficiency and competition in the electricity supply industry, to provide for a safe and efficient system of electricity generation, transmission, distribution and supply, to provide for the safety of electrical installations, equipment and appliances, to enforce proper standards in the performance of electrical work, to protect the interests of consumers of electricity and for related purposes
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
