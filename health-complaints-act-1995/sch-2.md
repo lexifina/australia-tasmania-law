@@ -7,7 +7,7 @@ Medical Council of Tasmania
 Nursing Board of Tasmania
 Optometrists Registration Board
 Pharmacy Board of Tasmania
-Physiotherapists' Registration Board
+Physiotherapists Registration Board of Tasmania
 Podiatrists Registration Board
 Psychologists Registration Board
 Radiographers Registration Board
