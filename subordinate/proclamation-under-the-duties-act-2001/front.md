@@ -7,7 +7,7 @@ I, the Governor in and over the State of Tasmania and its Dependencies in the Co
 (iv) Tasmania Development and Resources Board;
 (v) Tasmanian Ambulance Service;
 (vi) Tasmanian Library Advisory Board;
-(vii) Tasmanian Secondary Assessment Board;
+(vii) Tasmanian Qualifications Authority;
 (viii) Tasmanian State Training Authority;
 (ix) Botanical Gardens Board;
 (x) the Trustees of the Tasmanian Museum and Art Gallery;
