@@ -7,6 +7,7 @@ Eubalaena australis Desmoulins | Southern Right Whale
 Megaptera novaengliae Borowski | Humpback Whale
 Birds |
 Diomedea exulans exulans Linnaeus | Wandering Albatross
+Lathamus discolor Shaw | Swift Parrot
 Neophema chrysogaster Latham | Orange-bellied Parrot
 Pardalotus quadragintus Gould | Forty-spotted Pardalote
 Sterna albifrons sinensis Gmelin | Little Tern
@@ -14,6 +15,7 @@ Sterna vittata bethunei Buller | Antarctic Tern
 Reptiles |
 Caretta caretta Linnaeus | Loggerhead Turtle
 Fish |
+Brachionichthys hirsutus Lacepede 1804 | Spotted Handfish
 Galaxias fontanus Fulton | Swan Galaxias
 Galaxias johnstoni Scott | Clarence Galaxias
 Galaxias pedderensis Frankenberg | Pedder Galaxias
@@ -81,6 +83,7 @@ Rutaceae |
 Phebalium daviesii Hook.f. | Davies' Wax-flower
 Scrophulariaceae |
 Euphrasia gibbsiae ssp. psilanthera (F. Muell.) W. R. Barker |
+Euphrasia sp. “fabula” W. C. Potts and W. R. Barker | Masked Eyebright
 Euphrasia scabra R.Br. | Yellow Eyebright
 Solanaceae |
 Solanum opacum A.Br. & Bouche | Green-berry Nightshade

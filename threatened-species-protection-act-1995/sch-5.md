@@ -11,7 +11,7 @@ Phoebetria fusca Hilsenberg | Sooty Albatross
 Podiceps cristatus Linne | Great Crested Grebe
 Sterna nereis Gould | Fairy Tern
 Sterna striata Gmelin | White-fronted Tern
-Freshwater Fish |
+Fish |
 Galaxias auratus Johnston | Golden Galaxias
 Galaxias parvus Frankenburg | Swamp Galaxias
 Galaxiella pusilla Mack | Dwarf Galaxias
@@ -546,3 +546,7 @@ LICHENS |
 Parmeliaceae |
 Parmotrema crinitum (Ach.) M. Choisy. |
 Xanthoparmelia vicaria Elix and J. Johnst. |
+ALGAE |
+Phaeophyta |
+Cystoseiraceae |
+Cystoseira trinodis (Forsskal) C. Agardh |
