@@ -3,7 +3,6 @@ Sections 3, 11 and 116
 Civil Construction Services Corporation
 Hydro-Electric Corporation
 HEC Enterprises Corporation
-Metropolitan Transport Trust
 Motor Accidents Insurance Board
 Port Arthur Historic Site Management Authority
 Printing Authority of Tasmania
