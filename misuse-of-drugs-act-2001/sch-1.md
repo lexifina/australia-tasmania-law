@@ -79,6 +79,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 72.  | 4-cyano-2-dimethylamino-4,4-diphenylbutane |
 73.  | 4-cyano-1-methyl-4-phenylpiperidine (otherwise known as pethidine intermediate A) |
 74.  | Cyclobarbitone |
+74H.  | Darbepoetin alfa |
 75.  | Desomorphine |
 76.  | Dexamphetamine | 25g
 77.  | Dextromoramide | 10g
@@ -120,8 +121,9 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 109.  | Drostanolone |
 110.  | Drotebanol |
 111.  | Ecgonine |
-112.  | Ephidrine (S4) | 200g
+112.  | Ephedrine (S4) | 200g
 113.  | Erythropoietin |
+113D.  | Erythropoietins |
 114.  | Ethinamate |
 115.  | N-ethyl-α-methyl-3,4-(methylenedioxy) phenethylamine (otherwise known as N-ethyl MDA) |
 116.  | Ethylamphetamine | 25g
@@ -268,7 +270,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 245.  | Proheptazine |
 246.  | Properidine |
 247.  | Propiram |
-248.  | Pseudoephidrine (S4) |
+248.  | Pseudoephedrine (S4) |
 249.  | Psilocybine |
 250.  | Quinalbarbitone |
 251.  | Racemethorphan |
@@ -276,6 +278,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 253.  | Racemorphan |
 254.  | Remifentanil |
 255.  | Rolicyclidine (otherwise known as 1-(1- phenylcyclohexyl)pyrrolidine or PHP or PCPY) |
+255M.  | Salvinorin A |
 256.  | Secbutobarbitone |
 257.  | Somatropin (human growth hormone) |
 258.  | Stanolone (otherwise known as dihydrotestosterone) |
@@ -316,6 +319,7 @@ Column 1Item | Column 2Controlled plant | Column 3Trafficable quantity
 6.  | Poppy capsules (being seed pods, with or without seeds, of poppy plants) | 500 capsules
 7.  | Poppy plant material (being any processed or partly processed part of a poppy plant other than its seed) | 100g
 8.  | Poppy plants (Papaver bracteatum or Papaver somniferum) | 500 plants
+9.  | Salvia divinorum |
 Column 1Item | Column 2Controlled precursor | Column 3Trafficable quantity
 1.  | Acetic anhydrine | 2.5kg
 2.  | Ephedrine | 200g
