@@ -17,12 +17,16 @@ Part 6, Division 6 Special licences
 Part 7 Wells and dams
 Part 7, Division 1 Wells
 Part 7, Division 2 Information relating to wells
-Part 7, Division 3 Dangerous dams
 Part 8 Construction of dams
 Part 8, Division 1 Application of this Part
 Part 8, Division 2 Constitution of the Assessment Committee
 Part 8, Division 3 Functions of the Assessment Committee
 Part 8, Division 4 Permits for dam works
+Part 8A Safety of dams
+Part 8A, Division 1 Interpretation
+Part 8A, Division 2 Functions of Minister
+Part 8A, Division 3 Control of dams
+Part 8A, Division 4 Miscellaneous and supplemental
 Part 9 Water Districts
 Part 9, Division 1 Creation of water districts
 Part 9, Division 2 Administration of water districts
