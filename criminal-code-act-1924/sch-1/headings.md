@@ -53,7 +53,6 @@ Schedule 1, Part IX, Chapter XLI Verdict: Judgment
 Schedule 1, Part IX, Chapter XLII Crown Cases Reserved
 Schedule 1, Part IX, Chapter XLIIA Procedure on Continuing Nuisances
 Schedule 1, Part IX, Chapter XLIII Punishments
-Schedule 1, Part IX, Chapter XLIV Dangerous Criminals
 Schedule 1, Part IX, Chapter XLV Execution of Sentence: Pardons
 Schedule 1, Part IX, Chapter XLVI Appeals
 Schedule 1, Part IX, Chapter XLVII Private Prosecutions: Ex Officio Indictments: Trial at Bar

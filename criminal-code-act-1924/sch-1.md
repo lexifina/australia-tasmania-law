@@ -7,8 +7,7 @@ Piracy and offences deemed to be piracy.
 Rioting.
 Opposing the making of a riot proclamation.
 Escape.
-Rescue.
-Unnatural carnal knowledge.
+Unnatural sexual intercourse.
 Murder.
 Manslaughter.
 Threatening to murder.
@@ -17,17 +16,19 @@ Disabling with intent to facilitate the commission of an offence [or flight of a
 Administering a drug with intent to facilitate the commission of an offence [or flight of an offender].
 Committing an unlawful act intended to cause bodily harm.
 Preventing escape from a wreck.
+Wounding or causing grievous bodily harm.
 Intentionally endangering persons on a railway.
 Wantonly endangering persons on a railway.
 Causing injury by poison.
 Rape.
+Aggravated sexual assault.
 Forcible abduction.
 Stealing, other than stealing under sections 228 to 231 or under section 233.
 Killing an animal with intent to steal.
 Severing with intent to steal.
-Robbery with violence.
-Robbery.
-Assault with intent to rob.
+Aggravated Robbery.
+Armed Robbery.
+Aggravated Armed Robbery.
 Demanding property with menaces with intent to steal.
 Any crime under Chapter XXVII.
 Receiving stolen property.
