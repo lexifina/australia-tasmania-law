@@ -1,5 +1,7 @@
 Part 1 Preliminary
-Part 2 Salmon and Freshwater Fisheries
+Part 2 Director and Council
+Part 2, Division 1 Director of Inland Fisheries
+Part 2, Division 2 Inland Fisheries Advisory Council
 Part 3 Licences
 Part 3, Division 1 Commercial licences
 Part 3, Division 2 Recreational licences

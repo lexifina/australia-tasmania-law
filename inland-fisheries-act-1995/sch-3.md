@@ -1,2 +1,2 @@
-# Schedule 3 Membership of Commission
-Section 12(4)
+# Schedule 3 Membership and Meetings of Council
+Section 20A(3)
