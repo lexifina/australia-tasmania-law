@@ -15,4 +15,5 @@ Part 7 Assessment of Damages for Personal Injury or Death
 Part 8 Mental Harm
 Part 9 Liability of Public and Other Authorities
 Part 10 Volunteers
+Part 10A Accommodation provider
 Part 11 Miscellaneous
