@@ -5,7 +5,6 @@ Part 4 Application of Competition Codes to Crown
 Part 5 National administration and enforcement of Competition Codes
 Part 5, Division 1 Preliminary
 Part 5, Division 2 Conferral of functions
-Part 5, Division 3 Jurisdiction of courts
 Part 5, Division 4 Offences
 Part 5, Division 5 Administrative law
 Part 6 Miscellaneous
