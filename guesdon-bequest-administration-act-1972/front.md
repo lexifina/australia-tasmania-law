@@ -1,0 +1,7 @@
+Guesdon Bequest (Administration) Act 1972
+An Act to authorize the substitution of certain beneficiaries under the Guesdon bequest in favour of certain institutions and for other purposes incidental to the administration of the trust
+Whereas by his will William Andrew Guesdon late of Denmark Lodge, The Grove, Clapham Common in the County of Surrey in England, Gentleman, deceased, devised to his executors a sum of money and the residue of his estate on trust to be applied for such philanthropic and charitable purposes in England, Wales, Scotland, and Tasmania as they should consider most deserving of support:
+And whereas by Order dated 16th June 1898 in the High Court of Justice a scheme for the appropriation of a specified sum from that sum of money and residue to be applied in this State was ordered to be adopted:
+And whereas there was specified in that scheme a number of charitable institutions which have ceased or will cease to exist and it is expedient to enable the trustees to apply sums of money set aside for certain charitable institutions for the benefit of other institutions having similar objects in accordance with the intentions of the testator:
+And whereas for the better administration of the trust it is expedient to empower the trustees in certain cases to substitute beneficiaries under the bequest and to enlarge their authority to invest trust funds:
+Be it therefore enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
