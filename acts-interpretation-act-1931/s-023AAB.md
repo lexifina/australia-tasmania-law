@@ -1,0 +1,2 @@
+# 23AAB. Power to delegate includes power to authorise
+If in an Act a power to delegate a function or power is conferred on a person, the power to delegate the function or power includes a power to authorise another person to perform the function or exercise the power on behalf of the person giving the authorisation and sections 23AA and 23A apply in respect of the authorisation as if it were a delegation.
