@@ -1,0 +1,4 @@
+Presbyterian Church of Australia Act 1901
+An Act to enable certain arrangements entered into between the Presbyterian Churches of Tasmania, New South Wales, Victoria, Queensland, South Australia, and Western Australia for constituting one Presbyterian Church of Australia to be carried into effect
+Whereas the Presbyterian Church of Tasmania, the Presbyterian Church of New South Wales, the Presbyterian Church of Victoria, the Presbyterian Church of Queensland, the Presbyterian Church of South Australia, and the Presbyterian Church of Western Australia have resolved to unite and form one Presbyterian Church, to be called The Presbyterian Church of Australia, and the terms of such union comprising the Basis of Union and the Articles of Agreement are set forth in the schedule:
+Be it therefore enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
