@@ -6,9 +6,9 @@ I, the Governor in and over the State of Tasmania and its Dependencies in the Co
 (iii) State Fire Commission;
 (iv) Tasmania Development and Resources Board;
 (v) Tasmanian Ambulance Service;
+(va) Tasmanian Learning and Skills Authority;
 (vi) Tasmanian Library Advisory Board;
 (vii) Tasmanian Qualifications Authority;
-(viii) Tasmanian State Training Authority;
 (ix) Botanical Gardens Board;
 (x) the Trustees of the Tasmanian Museum and Art Gallery;
 (b) declare that this proclamation takes effect on the day on which its making is notified in the Gazette.
