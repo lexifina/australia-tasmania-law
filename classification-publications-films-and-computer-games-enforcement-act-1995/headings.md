@@ -1,7 +1,5 @@
 Part 1 Preliminary
 Part 2 Publications
-Part 2, Division 1 Administration
-Part 2, Division 2 Classification of publications
 Part 2, Division 3 Category 1 and 2 restricted publications
 Part 2, Division 4 Other publications and offences
 Part 3 Films
