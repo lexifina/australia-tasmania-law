@@ -1,5 +1,4 @@
 # Schedule 7 National parks
-[Not yet in force. Commences: 30 April 1999]
 Sections 13 and 14
 | Column 1 | Column 2 | Column 3
 | Name of national park | Approx. Area (ha) | Plan No.
@@ -26,4 +25,3 @@ Sections 13 and 14
 21.  | Southwest National Park | 1 254 | 4271
 22.  | Southwest National Park | 334 | 4262
 23.  | Tasman National Park | 8 275 | 4125
-[End of text not yet in force]

@@ -1,5 +1,4 @@
 # Schedule 8 State reserves
-[Not yet in force. Commences: 30 April 1999]
 Sections 13, 15 and 16
 | Column 1 | Column 2 | Column 3
 | Name of State reserve | Approx. Area (ha) | Plan No.
@@ -19,4 +18,3 @@ Sections 13, 15 and 16
 | Column 1 | Column 2 | Column 3
 | Name of State reserve | Approx. Area (ha) | Plan No.
 1.  | St Marys Pass State Reserve | 273 | 4648
-[End of text not yet in force]

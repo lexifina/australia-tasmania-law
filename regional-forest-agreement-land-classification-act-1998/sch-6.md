@@ -1,5 +1,4 @@
 # Schedule 6 Cessation of certain land as conservation area
-[Not yet in force. Commences: 30 April 1999]
 Section 11
 | Column 1 | Column 2 | Column 3
 | General description of land | Approx. Area (ha) | Plan No.
@@ -18,4 +17,3 @@ Section 11
 13.  | Southwest Conservation Area (part) | 10 312 | 4655
 14.  | Southwest Conservation Area (part) | 1 030 | 4655
 15.  | Tooms Lake Conservation Area | 18 599 | 4524
-[End of text not yet in force]

@@ -1,5 +1,4 @@
 # Schedule 13 Historic sites
-[Not yet in force. Commences: 30 April 1999]
 Section 22
 | Column 1 | Column 2 | Column 3 | Column 4
 | Previous State reserves | Name of historic site | Approx. Area | Plan No.
@@ -13,4 +12,3 @@ Section 22
 8.  | Toll House | Toll House Historic Site | 658m2 | 4722
 9.  | Waubadebars Grave | Waubadebars Grave Historic Site | 5.1m2 | 4723
 10.  | Yorktown | Yorktown Historic Site | 8.2ha | 4647
-[End of text not yet in force]

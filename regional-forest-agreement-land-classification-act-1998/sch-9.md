@@ -1,5 +1,4 @@
 # Schedule 9 Conservation areas
-[Not yet in force. Commences: 30 April 1999]
 Sections 13, 17 and 25
 | Column 1 | Column 2 | Column 3 | Column 4
 | Previous name of reserve | Name of conservation area | Approx. Area (ha) | Plan No.
@@ -62,4 +61,3 @@ Sections 13, 17 and 25
 8.  | Great Western Tiers Conservation Area | 4275 | 4577
 9.  | Heazlewood Hill Conservation Area | 259 | 4310
 10.  | Little Boobyalla River Conservation Area | 480 | 4357
-[End of text not yet in force]

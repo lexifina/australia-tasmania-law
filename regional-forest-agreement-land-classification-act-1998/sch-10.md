@@ -1,5 +1,4 @@
 # Schedule 10 Nature recreation areas
-[Not yet in force. Commences: 30 April 1999]
 Section 19
 | Column 1 | Column 2 | Column 3 | Column 4
 | Previous name of reserve | Name of nature recreation area | Approx. Area (ha) | Plan No.
@@ -17,4 +16,3 @@ Section 19
 12.  | Rosny Hill State Recreation Area | Rosny Hill Nature Recreation Area | 21.4 | 4691
 13.  | Snug Falls State Recreation Area | Snug Falls Nature Recreation Area | 91 | 4741
 14.  | South Arm State Recreation Area (part) | South Arm Nature Recreation Area | 67.5 | 4658
-[End of text not yet in force]
