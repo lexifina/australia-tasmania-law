@@ -12,7 +12,6 @@ Part IV Industrial Agreements and Private Arbitration
 Part IVA Enterprise Agreements
 Part IVA, Division 1 Enterprise agreements
 Part IVA, Division 2 Employee committees
-Part IVA, Division 3 Enterprise Commissioner
 Part IVA, Division 4 Miscellaneous
 Part V Registration of Organizations
 Part VI Appeals
