@@ -64,8 +64,6 @@ Mining Act 1929 |
 Exploration licence | 120 days from the day on which an application under section 15B(2) of the Mining Act 1929 is received by the Director of Mines.
 Retention licence | 180 days from the day on which an application under section 15BA(6) of the Mining Act 1929 is received by the Director of Mines.
 Mining lease | 180 days from the day on which an application under section 32 of the Mining Act 1929 is received by the Director of Mines.
-Pharmacy Act 1908 |
-Registration as a pharmaceutical chemist under section 14 of the Pharmacy Act 1908 | 60 days from the day on which an application is received by the Pharmacy Board of Tasmania.
 Poisons Act 1971 |
 Licence to carry on business as a manufacturing or wholesale chemist | 60 days from the day on which an application under section 16(1) of the Poisons Act 1971 is received by the responsible Minister.
 Licence to grow or cultivate a prohibited plant | 60 days from the day on which an application under Part V of the Poisons Act 1971 is received by the responsible Minister.
