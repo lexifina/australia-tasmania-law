@@ -1,6 +1,6 @@
 # Schedule 2 Bridges to be maintained or renewed by the State
 Clause 4
-Municipal Area | Name of Bridge | Bridge Ref No. (Department of Transport and Works) | Locality
+Municipal Area | Name of Bridge | Bridge Ref No. (Department of Transport) | Locality
 Break O'Day | South Esk River | 5 | Mathinna Road, Fingal
 Central Coast | Alma (Wilmot River) | 252 | Wilmot Road
 Central Coast | Leven (Leven River) | 65 | Hobbs Parade, Ulverstone
@@ -16,9 +16,7 @@ Kentish | Mersey River | 7 | Railton Road, Kimberley
 Kingborough | Vincents Rivulet | 51 | Proctors Road near Kingston
 Launceston | Charles Street (North Esk River) | 2139 | Charles Street, Launceston
 Launceston | Cimitiere Street Underpass | 5576 | Wellington Street, Launceston
-Launceston | Clarks Ford (North Esk River) | 85 | Station Road, St Leondards
-Launceston | Flood Opening | 86 | Station Road, St Leonards
-Launceston | Flood Opening | 87 | Station Road, St Leonards
+Launceston | Clarks Ford (North Esk River/Jinglers Creek) | 85 | Johnston Road, Norwood/St Leonards
 Launceston | Henry Street (North Esk River) | 607 | Henry Street, Ravenswood
 Launceston | Kings (South Esk River) | 927 | Bridge Street, Launceston
 Launceston | Paterson Street Overpass | 5541 | Bathurst Street, Launceston
