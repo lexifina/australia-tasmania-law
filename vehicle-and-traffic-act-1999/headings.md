@@ -13,4 +13,5 @@ Part 5 Motor Tax
 Part 6 Regulations
 Part 7 Compliance and Enforcement
 Part 7A Management of public streets
+Part 7B Photographic detection devices
 Part 8 Miscellaneous
