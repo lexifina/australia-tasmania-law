@@ -30,8 +30,8 @@ Section 13(2)
 1.  | Amelora acontistica | Turner, Lepidoptera | Chevron Looper Moth
 2.  | Astacopsis gouldi | Clark, Decapoda | Giant Freshwater Crayfish
 2A.  | Austrochloritis victoriae | (Cox), Sigmurethra | Southern Hairy Red Snail
-3.  | Beddomeia krybetes | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Great Lake)
-4.  | Beddomeia tumida | Petterd, Mesogastropoda | Hydrobiid Snail (St. Pauls River)
+3.  | Beddomeia krybetes | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (St. Pauls River)
+4.  | Beddomeia tumida | Petterd, Mesogastropoda | Hydrobiid Snail (Great Lake)
 5.  | Dasybela achroa | Lower, Lepidoptera | Saltmarsh Looper Moth
 5A.  | "Discocharopa" vigens | Legrand, Mesogastropoda | Land Snail
 5B.  | Engaeus martigener | Horwitz, Decapoda | Furneaux Burrowing Crayfish
@@ -55,6 +55,7 @@ Section 13(2)
 9.  | Epacris exserta | R.Br., Epacridaceae | South Esk heath
 10.  | Epacris grandis | Crowden, Epacridaceae | Great heath
 11.  | Epacris virgata | Hook.f., Epacridaceae | Pretty heath
+11A.  | Epacris aff. exserta 'Union Bridge' | (D.Keith & M.Ilowski HO320131), Epacridaceae | Union Bridge heath
 12.  | Eryngium ovinum | A.Cunn., Apiaceae | Blue devil
 13.  | Euphrasia phragmostoma | W.R.Barker, Scrophulariaceae | Hairy cliff eyebright
 14.  | Glycine latrobeana | (Messin.) Benth., Fabaceae | Clover glycine
@@ -62,7 +63,7 @@ Section 13(2)
 16.  | Gratiola pubescens | R.Br., Scrophulariaceae | Hairy brooklime
 17.  | Hakea ulicina | R.Br., Proteaceae | Furze hakea
 18.  | Haloragis aspera | Lindley, Haloragaceae | Rough raspwort
-19.  | Hibbertia calycina | (DC.) Wakef., Dilleniaceae | Lesser guinea flower
+19.  | Hibbertia calycina | (DC.) N.A.Wakef., Dilleniaceae | Lesser guinea flower
 20.  | Hydrocotyle laxiflora | DC., Apiaceae | Stinking pennywort
 21.  | Isopogon ceratophyllus | R.Br., Proteaceae | Horny cone bush
 22.  | Lasiopetalum micranthum | Hook.f., Sterculiaceae | Tasmanian velvet bush
@@ -75,27 +76,27 @@ Section 13(2)
 28.  | Persicaria decipiens | (R.Br.) K.L. Wilson, Polygonaceae | Slender knotweed
 29.  | Phyllangium divergens | (Hook.f.) Dunlop, Loganiaceae | Wiry mitrewort
 30.  | Plantago gaudichaudii | Barneoud, Plantaginaceae | Narrow plantain
-31.  | Polyscias aff. sambucifolia | (Sieber ex DC.) Harms, Araliaceae | Elderberry panax
+31.  | Polyscias aff. sambucifolia | (R.Schahinger HO500267), Araliaceae | Elderberry panax
 32.  | Pomaderris elachophylla | F.Muell., Rhamnaceae | Small leaf pomaderris
 33.  | Prostanthera rotundifolia | R.Br., Lamiaceae | Roundleaf mint bush
 34.  | Pultenaea hibbertioides | Hook.f., Fabaceae | Guinea flower bush pea
 35.  | Pultenaea humilis | Benth. ex Hook.f., Fabaceae | Dwarf bush pea
 36.  | Pultenaea paleacea var. sericea | Benth., Fabaceae | Chaffy bush pea
 37.  | Pultenaea prostrata | Benth. ex Hook.f., Fabaceae | Prostrate bush pea
-38.  | Pultenaea selaginoides | Hook.f., Fabaceae | Clubmoss bush pea
 39.  | Scleranthus diander | R.Br., Caryophyllaceae | Tufted knawel
 40.  | Scleranthus fasciculatus | (R.Br.) Hook.f., Caryophyllaceae | Spreading knawel
 41.  | Spyridium lawrencei | (Hook.f.) Benth., Rhamnaceae | Small leaf spyridium
 42.  | Spyridium obcordatum | (Hook.f.) W.M.Curtis, Rhamnaceae | Creeping spyridium
 43.  | Stenanthemum pimeleoides | (Hook.f.) Benth., Rhamnaceae | Spreading stenanthemum
+43A.  | Stonesiella selaginoides | (Hook.f.) Crisp & P.H.Weston, Fabaceae | Clubmoss bush pea
 44.  | Triptilodiscus pygmaeus | Turcz., Asteraceae | Common sunray
 45.  | Velleia paradoxa | R.Br., Goodeniaceae | Spur velleia
 46.  | Veronica novae-hollandiae | Poiret, Scrophulariaceae | New Holland speedwell
-47.  | Veronica scutellata | L., Scrophulariaceae | Scaly speedwell
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Caladenia dienema | D.L.Jones, Orchidaceae | Windswept spider orchid
-2.  | Caladenia patersonii | R.Br., Orchidaceae | Paterson's spider orchid
+1.  | Arachnorchis dienema | (D.L.Jones) D.L.Jones & M.A.Clem., Orchidaceae | Windswept spider orchid
+2.  | Arachnorchis patersonii | (R.Br.) D.L.Jones & M.A.Clem., Orchidaceae | Paterson's spider orchid
+2A.  | Chorizandra enodis | Nees, Cyperaceae | Black bristle-rush
 3.  | Prasophyllum secutum | D.L.Jones, Orchidaceae | Northern leek orchid
 4.  | Tricoryne elatior | R.Br., Liliaceae | Yellow rush lily
 5.  | Xanthorrhoea arenaria | Bedford, Xanthorrhoeaceae | Sand grass tree
@@ -103,12 +104,12 @@ Section 13(2)
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Callitris oblonga ssp. oblonga | Rich., Cupressaceae | South Esk pine
-2.  | Microstrobos niphophilus | J.Garden & L.Johnson, Podocarpaceae | Mount Mawson pine
+2.  | Microstrobos niphophilus | J.Garden & L.A.S.Johnson, Podocarpaceae | Mount Mawson pine
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Asplenium hookerianum | Colenso, Aspleniaceae | Hooker's spleenwort
 2.  | Blechnum cartilagineum | Swartz, Blechnaceae | Gristle fern
-3.  | Cyathea X marcescens | Wakef., Cyatheaceae | Skirted treefern
+3.  | Cyathea X marcescens | N.A.Wakef., Cyatheaceae | Skirted treefern
 4.  | Doodia caudata | (Cav.) R.Br., Blechnaceae | Small rasp fern
 5.  | Hypolepis distans | Hook., Dennstaedtiaceae | Scrambling ground fern
 6.  | Pneumatopteris pennigera | (Forst.f.) Holtt., Thelypteridaceae | Lime fern

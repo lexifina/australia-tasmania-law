@@ -75,6 +75,7 @@ Flora – Dicotyledoneae
 10.  | Epacris stuartii | Stapf, Epacridaceae | Stuart's heath
 10A.  | Eucalyptus gunnii ssp. divaricata | (McAulay & Brett) B. M. Potts (in press), Myrtaceae | Miena cider gum
 11.  | Eucalyptus morrisbyi | Brett, Myrtaceae | Morrisby's gum
+11A.  | Euphrasia collina ssp. tetragona | (R.Br.) W.R.Barker, Scrophulariaceae | North Coast eyebright
 12.  | Euphrasia fragosa | W.R.Barker, Scrophulariaceae | Shy eyebright
 13.  | Euphrasia gibbsiae ssp. psilantherea | (F.Muell.) W.R.Barker, Scrophulariaceae | Swamp eyebright
 14.  | Euphrasia scabra | R.Br., Scrophulariaceae | Yellow eyebright
@@ -90,17 +91,17 @@ Flora – Dicotyledoneae
 24.  | Leucochrysum albicans ssp. albicans var. tricolor | (DC.) Paul G.Wilson, Asteraceae | Grassland paper daisy
 25.  | Lomatia tasmanica | W.M.Curtis, Proteaceae | King's lomatia
 26.  | Lycopus australis | R.Br., Lamiaceae | Native gipsywort
-27.  | Ozothamnus selaginoides | Sonder & F.Muell. ex Sonder, Asteraceae | Clubmoss everlasting
+27.  | Ozothamnus selaginoides | Sonder & F.Muell., Asteraceae | Clubmoss everlasting
 28.  | Persicaria subsessilis | (R.Br.) K.L. Wilson, Polygonaceae | Bristly knotweed
 29.  | Phebalium daviesii | Hook.f., Rutaceae | Davies' wax flower
 29A.  | Philotheca freyciana | Rozefelds, Rutaceae | Freycinet wax flower
 30.  | Pimelea axiflora ssp. axiflora | F.Muell. ex Meisn., Thymelaeaceae | Bootlace bush
 31.  | Ranunculus prasinus | Menadue, Ranunculaceae | Tunbridge buttercup
-32.  | Rhytidosporum alpinum | McGillivray, Pittosporaceae | Alpine appleberry
+32.  | Rhytidosporum inconspicuum | L.Cayzer, Crisp & I.Telford, Pittosporaceae | Alpine appleberry
 33.  | Sagina diemensis | L.G.Adams, Caryophyllaceae | Pearlwort
 34.  | Scaevola aemula | R.Br., Goodeniaceae | Fairy fanflower
 35.  | Solanum opacum | A.Br. & Bouche, Solanaceae | Green berry nightshade
-36.  | Spyridium eriocephalum | Fenzl, Rhamnaceae | Heath spyridium
+36.  | Spyridium eriocephalum var. eriocephalum | Fenzl, Rhamnaceae | Heath spyridium
 37.  | Stackhousia gunnii | Hook.f., Stackhousiaceae | Gunn's mignonette
 38.  | Stenopetalum lineare | R.Br. ex DC., Brassicaceae | Threadcress
 39.  | Tetratheca gunnii | Hook.f., Tremandraceae | Shy susan
@@ -110,31 +111,29 @@ Flora – Monocotyledoneae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Amphibromus macrorhinus | S.W.L.Jacobs & L.Lapinpuro, Poaceae | Long-nosed swamp wallaby grass
+1A.  | Anzybas fordhamii | (Rupp) D.L.Jones & M.A.Clem., Orchidaceae | Banded helmet orchid
+1B.  | Arachnorchis anthracina | (D.L.Jones) D.L.Jones & M.A.Clem., Orchidaceae | Black-tipped spider orchid
+1C.  | Arachnorchis australis | (G.W.Carr) D.L.Jones & M.A.Clem., Orchidaceae | Southern spider orchid
+1D.  | Arachnorchis brachyscapa | (G.W.Carr) D.L.Jones & M.A.Clem., Orchidaceae | Short spider orchid
+1E.  | Arachnorchis lindleyana | (Rchb.f.) D.L.Jones & M.A.Clem., Orchidaceae | Lindley's spider orchid
+1F.  | Arachnorchis pallida | (Lindley) D.L.Jones & M.A.Clem., Orchidaceae | Rosy spider orchid
+1G.  | Arachnorchis saggicola | (D.L.Jones) D.L.Jones & M.A.Clem., Orchidaceae | Sagg spider orchid
 2.  | Aristida benthamii | Henrard, Poaceae | Three-awned spear grass
-3.  | Arthrochilus huntianus ssp. huntianus | (F.Muell.) Blaxell, Orchidaceae | Elbow orchid
-4.  | Arthrochilus huntianus ssp. nothofagicola | D.L.Jones, Orchidaceae | Myrtle elbow orchid
 5.  | Austrodanthonia popinensis | (D.I.Morris) H.P.Linder, Poaceae | Roadside wallaby grass
-6.  | Caladenia anthracina | D.L.Jones, Orchidaceae | Black-tipped spider orchid
-7.  | Caladenia aurantiaca | (R.S.Rogers) Rupp, Orchidaceae | Orange-tip caladenia
-8.  | Caladenia australis | G.W.Carr, Orchidaceae | Southern spider orchid
-9.  | Caladenia brachyscapa | G.W.Carr, Orchidaceae | Short spider orchid
-10.  | Caladenia campbellii | D.L.Jones, Orchidaceae | Thick-stem caladenia
-11.  | Caladenia congesta | R.Br., Orchidaceae | Black-tongue caladenia
-12.  | Caladenia lindleyana | (Reichb.f.) M.A.Clem. & D.L.Jones, Orchidaceae | Lindley's spider orchid
-13.  | Caladenia pallida | Lindley, Orchidaceae | Rosy spider orchid
-14.  | Caladenia saggicola | D.L.Jones, Orchidaceae | Sagg spider orchid
-15.  | Caladenia sylvicola | D.L.Jones, Orchidaceae | Forest fingers
-16.  | Caladenia tonellii | D.L.Jones, Orchidaceae | Robust fingers
 17.  | Calochilus campestris | R.Br., Orchidaceae | Copper beard orchid
 18.  | Centrolepis pedderensis | W.M.Curtis, Centrolepidaceae | Pedder centrolepis
 19.  | Chiloglottis trapeziformis | Fitzg., Orchidaceae | Broad-lip bird orchid
-20.  | Corybas fordhamii | (Rupp) Rupp, Orchidaceae | Banded helmet orchid
+20.  | Corunastylis brachystachya | (Lindley) D.L.Jones & M.A.Clem., Orchidaceae | Short-spiked midge orchid
+20A.  | Corunastylis firthii | (L.Cady) D.L.Jones & M.A.Clem., Orchidaceae | Firth's midge orchid
+20B.  | Corunastylis morrisii | (Nicholls) D.L.Jones & M.A.Clem., Orchidaceae | Bearded midge orchid
 21.  | Cryptostylis leptochila | F.Muell. ex Benth., Orchidaceae | Small tongue orchid
 22.  | Diuris lanceolata | Lindley, Orchidaceae | Large golden moths
 23.  | Diuris palustris | Lindley, Orchidaceae | Swamp diuris
-24.  | Genoplesium brachystachyum | (Lindley) D.L.Jones & M.A.Clem., Orchidaceae | Short-spiked midge orchid
-25.  | Genoplesium firthii | (L.Cady) D.L.Jones, Orchidaceae | Firth's midge orchid
-26.  | Genoplesium morrisii | (Nicholls) D.L.Jones & M.A.Clem., Orchidaceae | Bearded midge orchid
+24.  | Petalochilus aurantiacus | (R.S.Rogers) D.L.Jones & M.A.Clem., Orchidaceae | Orange-tip caladenia
+25.  | Petalochilus campbellii | (D.L.Jones) D.L.Jones & M.A.Clem., Orchidaceae | Thick-stem caladenia
+26.  | Petalochilus prolatus | (D.L.Jones) D.L.Jones & M.A.Clem., Orchidaceae | Long-leaved caladenia
+26A.  | Petalochilus sylvicola | (D.L.Jones) D.L.Jones & M.A.Clem., Orchidaceae | Forest fingers
+26B.  | Petalochilus tonellii | (D.L.Jones) D.L.Jones & M.A.Clem., Orchidaceae | Robust fingers
 27.  | Prasophyllum amoenum | D.L.Jones, Orchidaceae | Dainty leek orchid
 28.  | Prasophyllum apoxychilum | D.L.Jones, Orchidaceae | Tapered leek orchid
 29.  | Prasophyllum castaneum | D.L.Jones, Orchidaceae | Chestnut leek orchid
@@ -157,9 +156,12 @@ Flora – Monocotyledoneae
 46.  | Pterostylis tunstallii | D.L.Jones & M.A. Clem., Orchidaceae | Tunstall's greenhood
 47.  | Pterostylis wapstrarum | D.L.Jones, Orchidaceae | Fleshy greenhood
 48.  | Schoenus latelaminatus | Kuk., cyperaceae | Medusa bog sedge
+48A.  | Stegostyla congesta | (R.Br.) D.L.Jones & M.A. Clem., Orchidaceae | Black-tongue caladenia
 49.  | Thelymitra antennifera | (Gunn ex Lindley) Hook.f., Orchidaceae | Rabbit-ears
-50.  | Thelymitra azurea | R.Rogers, Orchidaceae | Azure sun orchid
+50.  | Thelymitra jonesii | Jeanes, Orchidaceae | Sky-blue sun orchid
 51.  | Thelymitra malvina | M.A.Clem, D.L.Jones & Molloy, Orchidaceae | Mauve-tufted sun orchid
+52.  | Thynninorchis huntiana | (F.Muell.) D.L.Jones & M.A. Clem., Orchidaceae | Elbow orchid
+53.  | Thynninorchis nothofagicola | (D.L.Jones) D.L.Jones & M.A. Clem., Orchidaceae | Myrtle elbow orchid
 Flora – Pteridophyta
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
@@ -168,8 +170,9 @@ Flora – Lichens
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Neofuscelia subloxodella | Elix & Kantvilas, Parmeliaceae |
-1A.  | Xanthoparmelia amphixantha | (Müll.Arg.) Hale, Parmeliaceae |
-1B.  | Xanthoparmelia molliuscula | (Ach.) Hale, Parmeliaceae |
+1A.  | Parmelina pallida | Elix & Kantvilas, Parmeliaceae |
+1B.  | Xanthoparmelia amphixantha | (Müll.Arg.) Hale, Parmeliaceae |
+1C.  | Xanthoparmelia molliuscula | (Ach.) Hale, Parmeliaceae |
 2.  | Xanthoparmelia willisii | (Kurok. & Filson) Elix & J.Johnst., Parmeliaceae |
 Fauna – Vertebrates
 | Column 1 | Column 2 | Column 3
@@ -196,9 +199,9 @@ Flora – Dicotyledoneae
 3.  | Banksia integrifolia | L.f., Proteaceae | Coast banksia
 4.  | Brachyscome tenuiscapa var. pubescens | (Benth.) G.Davis, Asteraceae | Hairy mountain daisy
 5.  | Chenopodium erosum | R.Br., Chenopodiaceae | Papery gooseneck
+5A.  | Coopernookia barbata | (R.Br.) Carolin, Goodeniaceae | Purple goodenia
 6.  | Goodenia amplexans | F.Muell., Goodeniaceae | Clasping goodenia
-7.  | Goodenia barbata | R.Br., Goodeniaceae | Purple goodenia
-8.  | Hibbertia rufa | Wakef., Dilleniaceae | Brown guinea flower
+8.  | Hibbertia rufa | N.A.Wakef., Dilleniaceae | Brown guinea flower
 9.  | Levenhookia dubia | Sonder, Stylidiaceae | Hairy stylewort
 10.  | Myosurus minimus | L., Ranunculaceae | Mouse tail
 11.  | Myriophyllum glomeratum | Schindler, Haloragaceae | Clustered water milfoil
@@ -211,10 +214,9 @@ Flora – Dicotyledoneae
 Flora – Monocotyledoneae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-2.  | Caladenia cardiochila | Tate, Orchidaceae | Heart-lip spider orchid
-3.  | Chorizandra enodis | Nees, Cyperaceae | Black bristle-rush
-4.  | Deyeuxia lawrencei | Vick., Poaceae | Lawrence's bent grass
-5.  | Genoplesium nudiscapum | (Hook.f.) D.L.Jones & M.A.Clem., Orchidaceae | Dense midge orchid
+2.  | Arachnorchis cardiochila | (Tate) D.L.Jones & M.A.Clem., Orchidaceae | Heart-lip spider orchid
+3.  | Corunastylis nudiscapa | (Hook.f.) D.L.Jones & M.A.Clem., Orchidaceae | Dense midge orchid
+4.  | Deyeuxia lawrencei | Vickery, Poaceae | Lawrence's bent grass
 6.  | Lepilaena australis | Drumm. ex Harvey, Zannichelliaceae | Austral water mat
 Flora – Pteridophyta
 | Column 1 | Column 2 | Column 3
