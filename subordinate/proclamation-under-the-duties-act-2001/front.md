@@ -9,7 +9,7 @@ I, the Governor in and over the State of Tasmania and its Dependencies in the Co
 (vi) Tasmanian Library Advisory Board;
 (vii) Tasmanian Secondary Assessment Board;
 (viii) Tasmanian State Training Authority;
-(ix) the Trustees of the Tasmanian Botanical Gardens;
+(ix) Botanical Gardens Board;
 (x) the Trustees of the Tasmanian Museum and Art Gallery;
 (b) declare that this proclamation takes effect on the day on which its making is notified in the Gazette.
 25 June 2001
