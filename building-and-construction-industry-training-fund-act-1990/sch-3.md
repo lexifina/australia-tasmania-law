@@ -1,10 +1,11 @@
-# Schedule 3 Organizations Represented on the Board
+# Schedule 3 Organisations Represented on the Board
 Section 5(1)(d), (2), (3) and (4)
 the Master Builders Association of Tasmania
 the Building Industry Specialist Contractors Organisation (Tasmania)
 the Housing Industry Association Victoria/Tasmanian Division
 the Civil Contractors Federation (Tasmanian Branch)
 the Master Plumbers Association of Tasmania
+the Association of Wall and Ceiling Contractors of Tasmania
 the Master Painters, Decorators and Signwriters Association of Tasmania
 the Construction Forestry Mining and Energy Union (Construction Division) (Tasmanian Branch)
 the Australian Workers Union (Building Construction and Joinery Branch)
