@@ -1,15 +1,4 @@
 Part 1 Preliminary
-Part 2 Building and Plumbing
-Part 2, Division 1 General provisions
-Part 2, Division 2 Building and Plumbing Regulations Board
-Part 2, Division 3 Regulations
-Part 2, Division 4 Qualified persons
-Part 2, Division 5 Existing buildings
-Part 2, Division 6 Restrictions on buildings
-Part 2, Division 7 Building work and plumbing work
-Part 2, Division 8 Building control
-Part 2, Division 9 Application to Crown, marine boards and councils
-Part 2, Division 10 Building appeals
 Part 3 Subdivisions
 Part 3, Division 1 Interpretation
 Part 3, Division 2 Plans of subdivision
