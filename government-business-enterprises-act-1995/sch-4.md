@@ -5,7 +5,6 @@ Egg Marketing Board
 Forestry corporation established by the Forestry Act 1920 (other than that Division of the Forestry corporation known as the Forest Practices Board)
 Hydro-Electric Corporation
 HEC Enterprises Corporation
-Metropolitan Transport Trust
 Motor Accidents Insurance Board
 North West Regional Water Authority
 Printing Authority of Tasmania
