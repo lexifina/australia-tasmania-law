@@ -17,7 +17,6 @@ Division 2
 Tasmanian Audit Office | Auditor-General
 Column 1 | Column 2
 Agency | Head of Agency
-Egg Marketing Board | Chairperson of the Egg Marketing Board
 Port Arthur Historic Site Management Authority | Chief executive officer
 Retirement Benefits Fund Board | President of the Retirement Benefits Fund Board
 Rivers and Water Supply Commission | Chairperson of the Rivers and Water Supply Commission
