@@ -7,10 +7,10 @@ Port Arthur Historic Site Management Authority
 Printing Authority of Tasmania
 Public Trustee
 Rivers and Water Supply Commission
+Southern Regional Cemetery Trust
 Stanley Cool Stores Board
 Tasmanian Grain Elevators Board
 Tasmanian International Velodrome Management Authority
 Tasmanian Public Finance Corporation
 Egg Marketing Board
 Forestry corporation established by the Forestry Act 1920 (other than that Division of the Forestry corporation known as the Forest Practices Board)
-Southern Regional Cemetery Trust
