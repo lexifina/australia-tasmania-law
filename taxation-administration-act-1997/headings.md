@@ -18,6 +18,7 @@ Part 10 Objections, reviews and appeals
 Part 10, Division 1 Objections
 Part 10, Division 2 Reviews and appeals
 Part 10, Division 3 Refunds following successful objection, review or appeal
+Part 10, Division 4 Other cases
 Part 11 Miscellaneous
 Part 11, Division 1 Payment
 Part 11, Division 2 Evidentiary matters
