@@ -7,13 +7,14 @@ Part II, Division IV Consumption of liquor
 Part II, Division VII Offences against public authority
 Part III Injuries to the Person
 Part IV Injuries to Property
-Part IVA Motor Vehicle Stealing
+Part IVA Offences Involving Vehicles
 Part V Offences Involving Dishonesty
 Part VA Offences Relating to Computers
 Part VI Miscellaneous Offences
 Part VI, Division I Bogus advertisements and false notices
 Part VI, Division IIA Setting of traps
 Part VI, Division III Motor-vehicle races and reliability trials
+Part VI, Division IIIAA Activities on public streets
 Part VI, Division IIIA Public entertainments
 Part VII Powers of Police Officers and Other Persons
 Part VII, Division I Arrest
