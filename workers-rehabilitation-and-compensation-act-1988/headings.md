@@ -1,10 +1,15 @@
 Part I Preliminary
 Part II Administration
-Part II, Division 1 Workplace Safety Board of Tasmania
+Part II, Division 1 WorkCover Tasmania Board
 Part II, Division 2 Workers Rehabilitation and Compensation Tribunal
 Part III Entitlement to compensation
 Part IV Claims for compensation
-Part V Reference of claims for compensation to Tribunal
+Part V Dispute Resolution
+Part V, Division 1 Reference of claims to Tribunal
+Part V, Division 2 Conciliation process
+Part V, Division 3 Arbitration
+Part V, Division 4 Medical panels
+Part V, Division 5 Miscellaneous
 Part VI Amount of compensation
 Part VI, Division 1 Basic compensation payable
 Part VI, Division 2 Medical and Other Services
@@ -21,6 +26,9 @@ Part IX, Division 2 Licensed insurers and self-insurers
 Part IX, Division 3 Returns by licensed insurers and self-insurers
 Part IX, Division 5 Nominal Insurer
 Part X Concurrent rights to compensation and damages
+Part X, Division 1 Rights to compensation and damages
+Part X, Division 2 Restrictions on awards of damages
 Part XI Rehabilitation
 Part XII Workers Rehabilitation and Compensation Fund
+Part 12A Infringement notices
 Part XIII Miscellaneous

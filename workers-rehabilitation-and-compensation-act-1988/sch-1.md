@@ -1,2 +1,2 @@
-# Schedule 1 Provisions with respect to membership of Workplace Safety Board of Tasmania
+# Schedule 1 Provisions with respect to membership of Board
 Section 9
