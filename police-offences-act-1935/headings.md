@@ -8,6 +8,12 @@ Part II, Division VII Offences against public authority
 Part III Injuries to the Person
 Part IV Injuries to Property
 Part IVA Offences Involving Vehicles
+Part IVA, Division 1 Motor vehicle stealing, &c.
+Part IVA, Division 2 Confiscation of vehicles for certain offences
+Part IVA, Division 2, Subdivision 1 Preliminary
+Part IVA, Division 2, Subdivision 2 Confiscation of vehicles
+Part IVA, Division 2, Subdivision 3 Forfeiture orders
+Part IVA, Division 2, Subdivision 4 Recovery and return of vehicles
 Part V Offences Involving Dishonesty
 Part VA Offences Relating to Computers
 Part VI Miscellaneous Offences
