@@ -1,2 +1,2 @@
-# Schedule 5 Office of councillors and Members of Local Committees
+# Schedule 5 Office of Councillors
 Sections 25(5), 29(2)
