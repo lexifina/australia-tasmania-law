@@ -3,15 +3,16 @@ Sections 3(1), 12, 29 and 30
 Column 1 | Column 2
 Agency | Head of Agency
 Division 1
-Department of Health and Human Services | Secretary
+Department of Economic Development | Secretary
 Department of Education | Secretary
-Department of Primary Industries, Water and Environment | Secretary
+Department of Health and Human Services | Secretary
+Department of Infrastructure, Energy and Resources | Secretary
 Department of Justice and Industrial Relations | Secretary
 Department of Police and Public Safety | Secretary
 Department of Premier and Cabinet | Secretary
+Department of Primary Industries, Water and Environment | Secretary
+Department of Tourism, Parks, Heritage and the Arts | Secretary
 Department of Treasury and Finance | Secretary
-Department of Infrastructure, Energy and Resources | Secretary
-Department of State Development | Secretary
 Division 2
 Tasmanian Audit Office | Auditor-General
 Column 1 | Column 2
