@@ -18,18 +18,7 @@ Chapter 3, Part 2, Division 1 Land-rich private corporations
 Chapter 3, Part 2, Division 2 Acquisitions of interests in private corporations
 Chapter 3, Part 2, Division 3 Charging of duty
 Chapter 3, Part 2, Division 4 General and supplemental
-Chapter 3, Part 3 Entitlements arising from capital reductions or rights alterations
 Chapter 3, Part 4 Acquisition of land use entitlements by allotment of shares or issue of units
-Chapter 3, Part 5 Allotment of shares by direction
-Chapter 4 Lease instruments
-Chapter 4, Part 1 Introduction and overview
-Chapter 4, Part 2 Rates of duty
-Chapter 4, Part 3 Unascertainable lease costs
-Chapter 4, Part 4 Miscellaneous
-Chapter 5 Hire of goods
-Chapter 5, Part 1 Introduction and overview
-Chapter 5, Part 2 What arrangements apply to persons who are in the business of hiring out goods (commercial hire businesses)?
-Chapter 5, Part 3 What arrangements apply to other persons?
 Chapter 6 Mortgages
 Chapter 6, Part 1 Introduction and overview
 Chapter 6, Part 2 Calculating the amount secured by a mortgage
