@@ -1,0 +1,4 @@
+# Schedule 1 Areas of land
+All those areas of land in the Land District of Pembroke, Parishes of Triabunna and Cruttenden, comprising about 125 hectares and 159 hectares, shown as Lot 1 and Lot 2 and bounded by heavy black lines on Plan 5096 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 1 of Schedule 2 to this order.
+All that area of land in the Land District of Wellington, Parish of Riengeena, comprising about 310 hectares, shown bounded by a heavy black line on Plan 5095 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 2 of Schedule 2 to this order.
+All that area of land in the Land District of Russell, vicinity of Lake Pieman, comprising about 1055 hectares, shown bounded by a heavy black line on Plan 5094 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 3 of Schedule 2 to this order.
