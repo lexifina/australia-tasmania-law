@@ -2,6 +2,7 @@ Part 1 Preliminary
 Part 2 Administration
 Part 2, Division 1 Administrative bodies
 Part 2, Division 2 Access to information
+Part 2A Environmental duties
 Part 3 Environmental Management
 Part 3, Division 1 Assessment of environmental impacts
 Part 3, Division 2 Environmental agreements
@@ -20,7 +21,12 @@ Part 5 Environmental Impact Assessments
 Part 6 Ozone Protection
 Part 6, Division 1 Preliminary
 Part 6, Division 2 Restricted and prohibited activities
-Part 6, Division 3 Authorizations
+Part 6, Division 3 Individual Authorizations
+Part 6, Division 4 General authorizations
 Part 7 Miscellaneous and Supplemental
 Part 7, Division 1 Powers of authorized officers and council officers
+Part 7, Division 1A Environment protection policies
+Part 7, Division 1A, Subdivision 1 Environment Protection Policy Review Panel
+Part 7, Division 1A, Subdivision 2 Contents and effect of environment protection policy
+Part 7, Division 1A, Subdivision 3 Making of environment protection policy
 Part 7, Division 2 Miscellaneous provisions
