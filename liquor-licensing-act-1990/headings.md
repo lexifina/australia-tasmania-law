@@ -17,16 +17,6 @@ Part 3, Division 6 Offences
 Part 3, Division 7 Administration of tourist accommodation
 Part 3, Division 8 Licence fees – accommodation licences
 Part 3, Division 9 Miscellaneous
-Part 4 Appellation wine
-Part 4, Division 1 Authority to produce appellation wine
-Part 4, Division 2 Wine producers licences
-Part 4, Division 3 Assessment and certification of wines
-Part 4, Division 4 Approved labels
-Part 4, Division 5 Restrictions and controls on production of appellation wine
-Part 4, Division 6 Obligations of licensees
-Part 4, Division 7 Offences
-Part 4, Division 8 Administration of wine appellation system
-Part 4, Division 9 Licence fees – wine producers licence
 Part 5 Administration
 Part 5, Division 1 Administrative structure
 Part 5, Division 2 Appeals and hearings
