@@ -1,0 +1,4 @@
+# Schedule 1 Dedication of Crown land as Highways
+Name | Description | Length in kilometres
+(a) Bass Highway | From the Bass Highway at a point 530 metres east of the centre of the Hagley Station Lane overpass to the Bass Highway at the centre of the Beresfords Lane overpass including the Meander Valley Secondary Road Interchange ramps and the Birralee Main Road Interchange ramps, the boundaries of which are shown by heavy black lines on Plans 6520, 6521, 6522, 6523, 6524 and 6525 in the Central Plan Register. | 12.68
+(b)  | From the Bass Highway at the centre of the Ironcliffe Road overpass to the Bass Highway at the centre of the Chasm Creek Bridge including the Penguin Interchange ramps and the Pine Main Road Interchange ramps, the boundaries of which are shown by heavy black lines on Plans 6526, 6527, 6528, 6529, 6530 and 6531 in the Central Plan Register. | 11.63
