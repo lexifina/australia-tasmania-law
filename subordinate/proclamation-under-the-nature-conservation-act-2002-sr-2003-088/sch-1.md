@@ -1,0 +1,5 @@
+# Schedule 1 Revocations
+All that area of land comprising about 663 square metres shown as Lot 1 and bounded by a heavy black line on Plan 6190 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 2 of Schedule 2 to this proclamation.
+All that area of land comprising about 832 square metres shown as Lot 1 and bounded by a heavy black line on Plan 6192 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 4 of Schedule 2 to this proclamation.
+All that area of land comprising about 4.88 hectares shown as Lot 1 and bounded by a heavy black line on Plan 6194 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 6 of Schedule 2 to this proclamation.
+All that area of land comprising about 1 142 square metres shown as Lot 1 and bounded by a heavy black line on Plan 6196 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 8 of Schedule 2 to this proclamation.
