@@ -13,3 +13,4 @@ COLUMN 1Item No. | COLUMN 2 General description of land | COLUMN 3 Registered pl
 10 | Great (Big) Dog Island | 3474
 11 | Risdon Cove | 3466
 12 | Cape Barren Island (part) | 3486
+13 | Wybalenna | 4807
