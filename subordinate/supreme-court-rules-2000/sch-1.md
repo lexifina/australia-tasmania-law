@@ -96,17 +96,17 @@ Refresher fee to counsel for each day after the first | $450.00 | $550.00
 Fee for a service | As in Part 1 | As in Part 1
 ITEM | FEES (Claim exceeding $20 000)
 1. Costs of writ for service within the jurisdiction – |
-(a) in a town case; or | $309
-(b) in an agency case. | $326
+(a) in a town case | $334
+(b) in an agency case | $353
 2. Costs of writ for service outside the jurisdiction – |
-(a) in a town case; or | $401
-(b) in an agency case. | $415
+(a) in a town case | $433
+(b) in an agency case | $448
 3. Costs of signing judgment – |
-(a) in a town case; or | $45
-(b) in an agency case. | $50
+(a) in a town case | $49
+(b) in an agency case | $54
 Rules 912 and 921
 Judgment creditor's costs |
-In respect of a debt exceeding $5000 | $131.00
-In respect of a debt not exceeding $5000 | $91.00
+In respect of a debt exceeding $20 000 | $141
+In respect of a debt not exceeding $20 000 | $95
 Rule 601
-Costs of the summons | $400
+Costs of the summons | $432
