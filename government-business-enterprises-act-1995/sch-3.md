@@ -13,4 +13,3 @@ Southern Regional Cemetery Trust
 Stanley Cool Stores Board
 Tasmanian Grain Elevators Board
 Tasmanian International Velodrome Authority
-Totalizator Agency Board

@@ -14,4 +14,3 @@ Stanley Cool Stores Board
 Tasmanian Grain Elevators Board
 Tasmanian International Velodrome Authority
 Tasmanian Public Finance Corporation
-Totalizator Agency Board
