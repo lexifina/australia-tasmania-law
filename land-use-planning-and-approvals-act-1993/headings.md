@@ -1,11 +1,12 @@
 Part 1 Preliminary
-Part 2 Land Use Planning Review Panel
-Part 2, Division 1 Establishment and constitution of Panel
-Part 2, Division 2 Hearings conducted by Panel
+Part 2 Functions of Commission under this Act
 Part 3 Planning Schemes
 Part 3, Division 1 Preparation of planning schemes
 Part 3, Division 2 Amendment of planning scheme
+Part 3, Division 2A Combined permit and amendment process
+Part 3, Division 2B Amendments to model framework for planning schemes
 Part 3, Division 3 Reviews of planning schemes
+Part 3, Division 3A Abolition of, or change of boundaries of, municipal districts
 Part 3, Division 4 Provisions relating to existing interim orders
 Part 3, Division 5 Special planning orders
 Part 4 Enforcement of Planning Control
