@@ -7,4 +7,3 @@ Part 2, Division 4 Objections and inquiries by Redistribution Tribunal
 Part 2, Division 5 Determination by Redistribution Tribunal
 Part 2, Division 6 Publication of notices
 Part 3 Miscellaneous and Supplemental
-Part 4 Consequential Amendments
