@@ -8,6 +8,7 @@ Part 3, Division 4 Suspended sentences
 Part 4 Community service orders
 Part 5 Probation orders
 Part 6 Fines
+Part 6A Rehabilitation programs
 Part 7 Driving disqualification orders
 Part 8 Adjournments, discharges and dismissals
 Part 9 Orders in addition to sentence

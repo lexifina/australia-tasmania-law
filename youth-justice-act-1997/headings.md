@@ -21,6 +21,7 @@ Part 4, Division 11 Detention orders
 Part 4, Division 12 Suspended detention orders
 Part 4, Division 13 Restitution
 Part 4, Division 14 Compensation
+Part 4, Division 14A Failure to undertake rehabilitation program
 Part 4, Division 15 Miscellaneous
 Part 5 Supervised release orders
 Part 6 Detention centres
