@@ -27,6 +27,7 @@ Part 4B, Division 4 Duties of minor gaming operators
 Part 5 Control of Gaming
 Part 5, Division 1 Gaming control relating to approved venues
 Part 5, Division 2 Gaming control relating to casinos
+Part 5, Division 3 Exclusion from gaming
 Part 5, Division 4 Sale of lottery tickets
 Part 5, Division 5 Gaming control generally
 Part 5, Division 6 Disciplinary action
