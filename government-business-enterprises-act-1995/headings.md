@@ -5,7 +5,7 @@ Part 4 Staff of Government Business Enterprise
 Part 4, Division 1 Chief executive officer
 Part 4, Division 2 Other staff
 Part 4, Division 3 Miscellaneous matters relating to staff
-Part 5 Duties of, offences by and indemnification of directors and staff
+Part 5 Powers and duties of, offences by and indemnification of directors and staff
 Part 6 Charters and plans
 Part 6, Division 1 Ministerial charter
 Part 6, Division 2 Plans of a Government Business Enterprise
