@@ -3,6 +3,7 @@ Part 2 Establishment and Membership of the National Environment Protection Counc
 Part 3 Functions and Powers of the Council
 Part 3, Division 1 Functions and powers
 Part 3, Division 2 Making of national environment protection measures
+Part 3, Division 2A Minor variation of national environment protection measures
 Part 3, Division 3 Assessment and reporting on implementation and effectiveness of measures
 Part 4 Meetings of the Council and Establishment and Meetings of its Committees
 Part 4, Division 1 Meetings of Council
