@@ -34,7 +34,7 @@ Part 8, Division 1 Information
 Part 8, Division 2 Articles and substances
 Part 8, Division 3 Costs and compensation
 Part 8, Division 4 Offences
-Part 8, Division 5 Appeals
+Part 8, Division 5 Reviews and Appeals
 Part 8, Division 6 Infringement notices
 Part 8, Division 7 Regulations and guidelines
 Part 8, Division 8 Miscellaneous matters

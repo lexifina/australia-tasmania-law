@@ -24,5 +24,5 @@ Part 7, Division 2 Sale and possession
 Part 7, Division 3 Miscellaneous
 Part 8 Firearms Prohibition Orders
 Part 9 Powers of Police
-Part 10 Appeals
+Part 10 Reviews
 Part 11 Miscellaneous
