@@ -1,0 +1,332 @@
+# Schedule 1 Controlled substances and trafficable quantities
+Sections 3 and 40
+Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
+1.  | Acetorphine |
+2.  | Acetyl-alpha-methylfentanyl |
+3.  | N-acetylanthranilic acid |
+4.  | Acetyldihydrocodeine |
+5.  | Acetylmethadol |
+6.  | Acetylmorphines |
+7.  | Alfentanil |
+8.  | Alkoxyamphetamines and substituted alkoxyamphetamines except when separately specified in this Schedule | 25g
+9.  | Alkoxyphenylethylamines and substituted alkoxyphenylethylamines except when separately specified in this Schedule |
+10.  | Alkylthioamphetamines and substituted alkylthioamphetamines except when separately specified in this Schedule | 25g
+11.  | Allylprodine |
+12.  | Alphacetylmethadol |
+13.  | Alphameprodine |
+14.  | Alphamethadol |
+15.  | Alpha-methylfentanyl |
+16.  | Alpha-methylthiofentanyl |
+17.  | Alphaprodine |
+18.  | Alprazolam |
+19.  | 2-amino-1-chloro-1-phenylpropane |
+20.  | 2-amino-1-(2,5-dimethoxy-4-methyl)phenylpropane (otherwise known as 2,5-dimethoxy-4-methylamphetamine or 2,5-dimethoxy-4-α-dimethylphenethylamine or STP or DOM) |
+21.  | 5-(2-aminopropyl)indan and substituted 5-(2-aminopropyl)indans except when separately specified in this Schedule |
+22.  | Amphetamine |
+(a)  | in individual packages | 20 packages
+(b)  | in any other form | 25g
+23.  | Amylobarbitone |
+24.  | Anabolic and androgenic steroidal agents (including those separately specified in S4) |
+25.  | Androisoxazole |
+26.  | Anileridine |
+27.  | Benactyzine and other substances structurally derived from diphenylmethane with ataractic properties |
+28.  | Benzethidine |
+29.  | Benzodiazepine derivatives not elsewhere specified in this Schedule |
+30.  | Benzylmorphine |
+31.  | Betacetylmethadol |
+32.  | Beta-hydroxyfentanyl |
+33.  | Beta-hydroxy-3-methylfentanyl |
+34.  | Betameprodine |
+35.  | Betamethadol |
+36.  | Betaprodine |
+37.  | Bezitramide |
+38.  | Boldenone (otherwise known as dehydrotestosterone) |
+39.  | Bromazepam |
+40.  | Bromides (S4) |
+41.  | 4-bromo-3,5-dimethoxyamphetamine (otherwise known as BDMA) |
+42.  | 4-bromo-2,5-dimethoxyphenethylamine (otherwise known as BDMPEA) | 25g
+43.  | 3-bromo-4-methoxyamphetamine |
+44.  | 4-bromo-3-methoxyamphetamine | 25g
+45.  | 2-bromo-1-phenylpropane | 25g
+46.  | Bromvaletone |
+47.  | Bufotenine |
+48.  | Buprenorphine | 5g
+49.  | Butobarbitone |
+50.  | Butorphanol |
+51.  | Captodiame |
+52.  | Carfentanyl |
+53.  | Cathine |
+54.  | Cathinone |
+55.  | Chloral hydrate (S4) |
+56.  | Chlorbutol (S4) |
+57.  | Chlordiazepoxide |
+58.  | Chlormethiazole |
+59.  | Chlormezanone |
+60.  | 2-chloro-1-phenylpropane (otherwise known as 1-phenyl-2-chloropropane) |
+61.  | 1-chlorophenyl-2-methylaminopropane (otherwise known as 2-(N-methylamino)-1-chloro-1-propane) |
+62.  | Clobazam |
+63.  | Clonazepam |
+64.  | Clonitazene |
+65.  | Clorazepate |
+66.  | Clostebol (otherwise known as 4-chloro-testosterone) |
+67.  | Cocaine |
+(a)  | in individual packages | 20 packages
+(b)  | in any other form | 25g
+68.  | Coca leaf |
+69.  | Codeine | 25g
+70.  | Codeine-N-oxide |
+71.  | Codoxime |
+72.  | 4-cyano-2-dimethylamino-4,4-diphenylbutane |
+73.  | 4-cyano-1-methyl-4-phenylpiperidine (otherwise known as pethidine intermediate A) |
+74.  | Cyclobarbitone |
+75.  | Desomorphine |
+76.  | Dexamphetamine | 25g
+77.  | Dextromoramide | 10g
+78.  | Dextropropoxyphene (S4) |
+79.  | Diacetylmorphine (otherwise known as heroin) |
+(a)  | in individual packages | 20 packages
+(b)  | in any other form | 25g
+80.  | Diampromide |
+81.  | Diazepam |
+82.  | Diethylpropion |
+83.  | Diethylthiambutene |
+84.  | N,N-diethyltryptamine (otherwise known as DET) |
+85.  | Difenoxin |
+86.  | Dihydrocodeine |
+87.  | Dihydromorphine |
+88.  | Dimenoxadol |
+89.  | Dimepheptanol |
+90.  | 2,4-dimethoxyamphetamine |
+91.  | 3,4-dimethoxyamphetamine |
+92.  | 2,5-dimethoxyamphetamine (otherwise known as 2,5-dimethoxy-α-methylphenyl-ethylamine or DMA) |
+(a)  | in individual packages | 20 packages
+(b)  | in any other form | 25g
+93.  | 2,5-dimethoxy-4-bromoamphetamine (otherwise known as DOB) | 25g
+94.  | 3,4-dimethoxy-5-ethoxyamphetamine | 25g
+95.  | 2,5-dimethoxy-4-ethoxyamphetamine | 25g
+96.  | 4,5-dimethoxy-2-ethoxyamphetamine | 25g
+97.  | 2,5-dimethoxy-4-ethyl-α-amphetamine (otherwise known as 2,5-dimethoxy-4-ethyl-α-methylphenylethylamine or DOET) | 25g
+98.  | 2,3-dimethoxy-4,5-methylenedioxyamphetamine | 25g
+99.  | 2,5-dimethoxy-3,4-methylenedioxyamphetamine | 25g
+100.  | 3,4-dimethoxyphenylethylamine |
+101.  | 3-(2-dimethylaminoethyl)-4-hydroxyindole (otherwise known as psilocine or psilotsin) |
+102.  | Dimethylthiambutene |
+103.  | 3-(1,2-dimethylheptyl)-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran (otherwise known as DMHP) |
+104.  | N,N-dimethyltryptamine (otherwise known as DMT) |
+105.  | Dioxaphetyl butyrate |
+106.  | Diphenoxylate (S8) |
+107.  | Dipipanone |
+108.  | Dronabinol (also known as delta-9-tetrahydrocannabinol or delta-9-THC) when packed and prepared for therapeutic use |
+109.  | Drostanolone |
+110.  | Drotebanol |
+111.  | Ecgonine |
+112.  | Ephidrine (S4) | 200g
+113.  | Erythropoietin |
+114.  | Ethinamate |
+115.  | N-ethyl-α-methyl-3,4-(methylenedioxy) phenethylamine (otherwise known as N-ethyl MDA) |
+116.  | Ethylamphetamine | 25g
+117.  | 4,5-ethylenedioxy-3-methoxyamphetamine | 25g
+118.  | Ethylmethylthiambutene |
+119.  | Ethylmorphine |
+120.  | Ethyloestronol |
+121.  | Eticyclidine (otherwise known as N-ethyl-1-phenylcyclohexylamine or PCE) |
+122.  | Etonitazene |
+123.  | Etorphine |
+124.  | Etoxeridine |
+125.  | Fenetylline |
+126.  | Fentanyl | 200mg
+127.  | Flunitrazepam | 500mg
+128.  | Fluoxymesterone |
+129.  | Flurazepam |
+130.  | Furethidine |
+131.  | Glutethimide |
+132.  | Harmala alkaloids except in herbs, or preparations, for therapeutic use – |
+(a)  | containing 0.1% or less of harmala alkaloids; or |
+(b)  | in divided preparations containing 2mg or less of harmala alkaloids per recommended daily dose |
+133.  | 3-hexyl-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran (otherwise known as parahexyl) |
+134.  | Hydrocodone |
+135.  | Hydromorphinol |
+136.  | Hydromorphone |
+137.  | 4-hydroxybutanoic acid and its salts |
+138.  | Hydroxypethidine |
+139.  | 2-iodo-1-phenylpropane |
+140.  | Isomethadone |
+141.  | Ketamine |
+142.  | Ketobemidone |
+143.  | Levamphetamine | 25g
+144.  | Levomethamphetamine | 25g
+145.  | Levomethorphan |
+146.  | Levomoramide |
+147.  | Levophenacylmorphan |
+148.  | Levorphanol |
+149.  | Lorazepam |
+150.  | Lysergic acid |
+151.  | Lysergide (otherwise known as lysergic acid diethylamide or LSD or LSD-25) | 2mg or 20 tickets
+152.  | Mecloqualone |
+153.  | Medazepam |
+154.  | Mestanolone |
+155.  | Mesterolone (otherwise known as methyldihydrotestosterone) |
+156.  | Metazocine |
+157.  | Methadone |
+158.  | Methandienone (otherwise known as methandrostenolone) |
+159.  | Methandriol |
+160.  | Methaqualone |
+161.  | Methcathinone |
+162.  | Methenolone |
+163.  | 2-methoxy-3,4-methylenedioxyamphetamine | 25g
+164.  | 2-methoxy-4,5-methylenedioxyamphetamine | 25g
+165.  | 4-methoxy-2,3-methylenedioxyamphetamine | 25g
+166.  | 5-methoxy-3,4-methylenedioxyamphetamine (otherwise known as 5-methoxy-3,4-methylenedioxy-α-methylphenylethylamine or MMDA) | 25g
+167.  | 2-methoxy-3,4-methylenedioxyphenylethylamine |
+168.  | 3-methoxy-4,5-methylenedioxyphenylethylamine |
+169.  | 4-methoxy-α-methylphenylethylamine (otherwise known as PMA) |
+170.  | 4-methoxyphenylethylamine |
+171.  | 4-methylaminorex (otherwise known as 2-amino-4-methyl-5-phenyl-2-oxazoline or 4,5-dihydro-4-methyl-5-phenyl-2-oxazolamine or ICE or Euphoria) |
+172.  | Methylamphetamine (otherwise known as methamphetamine or 1-phenyl-2-methylaminopropane) |
+(a)  | in individual packages | 20 packages
+(b)  | in any other form | 25g
+173.  | Methyldesorphine |
+174.  | Methyldihydromorphine |
+175.  | 2,3-methylenedioxyamphetamine (otherwise known as 2,3-MDA) |
+(a)  | in individual packages | 20 packages
+(b)  | in any other form | 25g
+176.  | 3,4-methylenedioxyamphetamine (otherwise known as MDA) |
+(a)  | in individual packages | 20 packages
+(b)  | in any other form | 25g
+177.  | 3,4-methylenedioxy-N,a-dimethylphenylethylamine (otherwise known as MDMA) |
+(a)  | in individual packages | 20 packages
+(b)  | in any other form | 25g
+178.  | 2,3-methylenedioxymethamphetamine (otherwise known as 2,3-methylenedioxy-N,a-dimethylphenethylamine or 2,3-MDMA) |
+(a)  | in individual packages | 20 packages
+(b)  | in any other form | 25g
+179.  | 3,4-methylenedioxyphenyl-2-propanone |
+180.  | 3-methylfentanyl |
+181.  | N-[α-methyl-3,4-(methylenedioxy)phenethyl] hydroxylamine (otherwise known as N-hydroxy MDA) |
+182.  | N-methyl-1-(3,4-methylenedioxyphenyl)-2-butanamine (otherwise known as MBDB) |
+183.  | 2-methyl-3-morpholino-1,1-diphenylpropane carboxylic acid (moramide intermediate) |
+184.  | Methylpentynol and other substituted alkynes for internal use |
+185.  | Methylphenidate | 25g
+186.  | 1-methyl-4-phenylpiperidine-4-carboxylic acid (otherwise known as pethidine intermediate C) |
+187.  | 1-methyl-4-phenyl-4-piperidinol propionate (otherwise known as 1-methyl-4-phenyl-4-propionoxypiperidine or MPPP) |
+188.  | Methyltestosterone |
+189.  | 4-methylthioamphetamine | 25g
+190.  | 3-methylthiofentanyl |
+191.  | Methyprylone |
+192.  | Metopon |
+193.  | Mibolerone |
+194.  | Midazolam |
+195.  | Morpheridine |
+196.  | Morphine | 25g
+197.  | Morphine methobromide | 25g
+198.  | Morphine-N-oxide |
+199.  | Muscimol |
+200.  | Myrophine |
+201.  | Nabilone |
+202.  | Nalbuphine |
+203.  | Nandrolone (otherwise known as nortestosterone) |
+204.  | Nicocodine |
+205.  | Nicodicodine |
+206.  | Nicomorphine | 25g
+207.  | Nitrazepam |
+208.  | Nitrophenylpropene (otherwise known as 2-nitro-1-phenyl-1-propene or 1-phenyl-2-nitropropene) |
+209.  | Noracymethadol |
+210.  | Norcodeine |
+211.  | Norethandrolone |
+212.  | Norlevorphanol |
+213.  | Normethadone |
+214.  | Normorphine |
+215.  | Norpipanone |
+216.  | Opium (except the alkaloids noscapine and papaverine) |
+217.  | Oxandrolone |
+218.  | Oxazepam |
+219.  | Oxycodone | 10g
+220.  | Oxymesterone (otherwise known as hydroxymethyltestosterone) |
+221.  | Oxymetholone |
+222.  | Oxymorphone |
+223.  | Para-fluorofentanyl |
+224.  | Paraldehyde |
+225.  | Pentazocine |
+226.  | Pentobarbitone |
+227.  | Pethidine | 10g
+228.  | Phenadoxone |
+229.  | Phenampromide |
+230.  | Phenazocine |
+231.  | Phencyclidine (otherwise known as 1-(1-phenylcyclohexyl)piperidine or PCP) |
+232.  | Phendimetrazine |
+233.  | 1-phenethyl-4-phenyl-4-piperidinol acetate (otherwise known as 1-phenylethyl-4-phenyl-4-acetoxypiperidine or PEPAP) |
+234.  | Phenmetrazine |
+235.  | Phenomorphan |
+236.  | Phenoperidine |
+237.  | Phentermine |
+238.  | 4-phenylpiperidine-4-carboxylic acid ethyl ester (otherwise known as pethidine intermediate B) |
+239.  | Phenyl-2-propanone |
+240.  | Pholcodine |
+241.  | Piminodine |
+242.  | Piritramide |
+243.  | Poppy straw concentrate (being the material arising when poppy straw has entered into a process for concentration of its alkaloids) |
+244.  | Prazepam |
+245.  | Proheptazine |
+246.  | Properidine |
+247.  | Propiram |
+248.  | Pseudoephidrine (S4) |
+249.  | Psilocybine |
+250.  | Quinalbarbitone |
+251.  | Racemethorphan |
+252.  | Racemoramide |
+253.  | Racemorphan |
+254.  | Remifentanil |
+255.  | Rolicyclidine (otherwise known as 1-(1- phenylcyclohexyl)pyrrolidine or PHP or PCPY) |
+256.  | Secbutobarbitone |
+257.  | Somatropin (human growth hormone) |
+258.  | Stanolone (otherwise known as dihydrotestosterone) |
+259.  | Stanozolol |
+260.  | Sufentanil |
+261.  | Temazepam |
+262.  | Tenocyclidine (otherwise known as 1-[1-(2-thienyl)cyclohexyl]-piperidine or TCP) |
+263.  | Testosterone (S4) |
+264.  | Tetrahydrocannabinols (otherwise known as THC), and their alkyl homologues, except – |
+(a)  | when separately specified in this Schedule; or |
+(b)  | when included in Schedule 8 of the Poisons List; or |
+(c)  | in hemp seed oil, containing 50mg/kg or less of tetrahydrocannabinols, when labelled "Not for internal use" or "Not to be taken"; or |
+(d)  | in products for purposes other than internal human use containing 50mg/kg or less of tetrahydrocannabinols |
+265.  | 2,3,4,5-tetramethoxyamphetamine | 25g
+266.  | Thebacon |
+267.  | Thebaine |
+268.  | Thiofentanyl |
+269.  | Tilidine |
+270.  | Trenbolone (S4) |
+271.  | Triazolam |
+272.  | Triclofos |
+273.  | Trimeperidine |
+274.  | 2,3,4-trimethoxyamphetamine | 25g
+275.  | 2,3,5-trimethoxyamphetamine | 25g
+276.  | 2,3,6-trimethoxyamphetamine | 25g
+277.  | 2,4,5-trimethoxyamphetamine | 25g
+278.  | 2,4,6-trimethoxyamphetamine | 25g
+279.  | 3,4,5-trimethoxy-a-methylphenylethylamine (otherwise known as TMA) |
+280.  | 3,4,5-trimethoxyphenethylamine (otherwise known as mescaline) and other substances structurally derived from methoxyphenylethylamine and not separately specified in this Schedule except methoxyphenamine |
+281.  | 1-(3,4,5-trimethoxyphenyl)-2-aminobutane |
+282.  | 2,4,5-trimethoxyphenylethylamine |
+Column 1Item | Column 2Controlled plant | Column 3Trafficable quantity
+1.  | Cannabis (other than as separated resin, oil or individual plants) | 1kg
+2.  | Cannabis (as individual plants) | 20 plants
+3.  | Cannabis (in individual packages) | 20 packages
+4.  | Cannabis oil | 25g
+5.  | Cannabis resin | 25g
+6.  | Poppy capsules (being seed pods, with or without seeds, of poppy plants) | 500 capsules
+7.  | Poppy plant material (being any processed or partly processed part of a poppy plant other than its seed) | 100g
+8.  | Poppy plants (Papaver bracteatum or Papaver somniferum) | 500 plants
+Column 1Item | Column 2Controlled precursor | Column 3Trafficable quantity
+1.  | Acetic anhydrine | 2.5kg
+2.  | Ephedrine | 200g
+3.  | Ergometrine | 200mg
+4.  | Ergotamine | 280mg
+5.  | Isosafrole | 300g
+6.  | Lysergic acid | 100mg
+7.  | 3,4,methylene-dioxyphenylacetic acid | 330g
+8.  | 3,4-methylenedioxyphenylpropan-2-one | 165g
+9.  | 1-phenyl-2-propanone | 300g
+10.  | Phenylacetic acid | 600g
+11.  | Piperonal | 360g
+12.  | Pseudoephedrine | 200g
+13.  | Safrole | 300g
