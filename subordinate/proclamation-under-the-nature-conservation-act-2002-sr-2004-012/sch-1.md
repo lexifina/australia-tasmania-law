@@ -1,0 +1,2 @@
+# Schedule 1 Reedy Lagoon Private Nature Reserve
+All that area of land comprising approximately 99.45 hectares shown shaded and bounded by a heavy black line, including the area identified as a human habitation zone of approximately 1.96 hectares shown hatched and bounded by a heavy black line, on Plan 5774 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Schedule 2 to this proclamation.
