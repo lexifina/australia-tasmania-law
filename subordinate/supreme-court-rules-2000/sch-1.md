@@ -94,7 +94,7 @@ For every item (except counsel's fees and service fees) the percentage of scale 
 Counsel's fee on brief | Not exceeding $700.00 | Not exceeding $850.00
 Refresher fee to counsel for each day after the first | $450.00 | $550.00
 Fee for a service | As in Part 1 | As in Part 1
-ITEM | FEES (Claim exceeding $2000)
+ITEM | FEES (Claim exceeding $20 000)
 1. Costs of writ for service within the jurisdiction – |
 (a) in a town case; or | $309
 (b) in an agency case. | $326

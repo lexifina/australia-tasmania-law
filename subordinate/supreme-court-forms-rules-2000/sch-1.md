@@ -104,8 +104,7 @@ Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 8 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
-9 Rules of the Supreme Court (Forms) 2000
-[Picture in the source, not reproduced]
+9 [Picture in the source, not reproduced]
 10 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 11 Rules of the Supreme Court (Forms) 2000
