@@ -12,7 +12,6 @@ Part IV New Drugs
 Part V Special Provisions Relating to Narcotics, Prohibited Plants, and Prohibited Substances
 Part V, Division 1 Interpretation
 Part V, Division 2 Restrictions on the importation, making, refining, preparation, sale, supply, possession, cultivation, and use of narcotics and prohibited plants
-Part V, Division 3 Smoking, &c., of opium
 Part V, Division 4 Prohibited substances
 Part V, Division 5 General
 Part VI Miscellaneous
