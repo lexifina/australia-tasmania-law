@@ -57,6 +57,11 @@ Form 54 | Judgment in default of claim
 Form 55 | Judgment of forfeiture where claim filed but no defence filed
 Form 56 | Judgment of forfeiture where trial had
 Form 57 | Judgment for claimant
+Form 57A | Notice of intention to appear upon return of application
+Form 57B | Notice of submission to order upon return of application
+Form 57C | Notice of intention to apply for admission by interstate practitioner
+Form 57D | Certificate of compliance with Commonwealth Act
+Form 57E | Oath or affirmation and form of roll where interstate practitioner or barrister elects not to appear in person
 Form 58 | Final judgment in default of appearance or defence
 Form 59 | Interlocutory judgment in default of appearance or defence
 Form 60 | Judgment after trial with jury
@@ -240,6 +245,14 @@ Rules of the Supreme Court (Forms) 2000
 56 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 57 Rules of the Supreme Court (Forms) 2000
+[Picture in the source, not reproduced]
+57A [Picture in the source, not reproduced]
+57B [Picture in the source, not reproduced]
+57C [Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+57D [Picture in the source, not reproduced]
+57E [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 58 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
