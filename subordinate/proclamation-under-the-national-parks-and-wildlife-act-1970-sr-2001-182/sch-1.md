@@ -1,0 +1,5 @@
+# Schedule 1 Areas of land
+All that area of land comprising about 65 hectares shown bounded by a heavy black line on Plan Number 5598 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 1 of Schedule 2 to this proclamation.
+All that area of land comprising about 14.4 hectares shown bounded by a heavy black line on Plan Number 5596 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 2 of Schedule 2 to this proclamation.
+All that area of land comprising about 317.7 hectares shown bounded by a heavy black line on Plan Number 5599 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 3 of Schedule 2 to this proclamation.
+All that area of land comprising about 113 hectares shown bounded by a heavy black line on Plan Number 5597 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 4 of Schedule 2 to this proclamation.
