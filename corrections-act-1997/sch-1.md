@@ -1,37 +1,39 @@
-# Schedule 1 prison offences
+# Schedule 1 Prison offences
 Section 3
 1.  | Mutiny.
 2.  | Open incitement to mutiny.
-3.  | Assaulting a police officer or a member of the public with whom the prisoner or detainee comes into contact.
-4.  | Stealing, unlawfully receiving or embezzling any article or thing.
-5.  | Making a complaint against a correctional officer, knowing the complaint to be false.
-6.  | Engaging in riotous behaviour.
-7.  | Instigating or encouraging another prisoner or detainee to riot.
-8.  | Assaulting a correctional officer.
-9.  | Treating disrespectfully a correctional officer, a person who visits or is employed in a prison or any other person with whom the prisoner or detainee comes into contact.
-10.  | Assaulting another prisoner or detainee.
-11.  | Committing a breach of the regulations or failing to obey an order lawfully given by a person having authority in a prison.
-12.  | Leaving or attempting to leave without permission the place at which the prisoner or detainee is directed or authorised to be.
-13.  | Refusing to comply with a direction of the Director under section 33.
-14.  | Being idle or negligent at work.
-15.  | Mismanaging any work.
-16.  | Damaging or destroying any prison property.
-17.  | Setting alight to any inflammable article without authority.
-18.  | Having in the prisoner's or detainee's cell or possession an article or thing not furnished by the prison authorities or allowed to be in his or her possession.
-19.  | Trafficking with another prisoner or detainee or any other person.
-20.  | Disfiguring the walls or other part of a prison in any way or defacing, destroying or pulling down a paper or notice hung up by the prison authorities in or about any part of a prison.
-21.  | Behaving indecently.
-22.  | Using insulting or threatening language.
-23.  | Cursing or swearing profanely.
-24.  | Being in possession of, or consuming, alcohol or a drug that the Director has not authorised to be brought into the prison.
+3.  | Assaulting a correctional officer.
+4.  | Assaulting a person other than a correctional officer.
+5.  | Engaging in riotous behaviour.
+6.  | Instigating or encouraging another prisoner or detainee to engage in riotous behaviour.
+7.  | Resisting or obstructing a correctional officer, or any other person who has authority in a prison, in the execution of his or her duties.
+8.  | Committing a nuisance or engaging in disorderly conduct.
+9.  | Instigating or encouraging another prisoner or detainee to commit a nuisance or engage in disorderly conduct.
+10.  | Maiming, injuring or tattooing himself or herself or any other prisoner or detainee.
+11.  | Intentionally endangering the health of another person.
+12.  | Committing any act contrary to the good order or maintenance of prison discipline or security.
+13.  | Damaging, defacing or destroying any prison property.
+14.  | Setting anything alight if not authorised.
+15.  | Stealing, unlawfully receiving or embezzling anything.
+16.  | Trafficking with another prisoner or detainee or any other person.
+17.  | Giving or lending to, or borrowing from, another prisoner or detainee anything if not authorised.
+18.  | Having in the prisoner's possession anything that is not authorised.
+19.  | Sending a letter that is threatening or harassing.
+20.  | Sending an article of mail containing an item or substance that is not authorised.
+21.  | Using a telephone in any way or for any purpose that is not authorised.
+22.  | Refusing or failing to allow a sample to be taken under section 28 for the purpose of substance testing.
+23.  | Adulterating, substituting, or otherwise tampering or interfering with a sample taken under section 28.
+24.  | Being in possession of, or consuming, alcohol or a drug if not authorised.
 25.  | Being drunk or under the influence of an illegal drug.
-26.  | Behaving irreverently at or during a religious service.
-27.  | Committing a nuisance.
-28.  | Making a frivolous complaint.
-29.  | Making or attempting to make a wound or sore on himself or herself.
-30.  | Maiming, injuring or tattooing himself or herself or any other prisoner or detainee.
-31.  | Feigning illness.
-32.  | Giving or lending to, or borrowing from, another prisoner or detainee any food or other article or thing without leave.
-33.  | Engaging in disorderly conduct.
-34.  | Instigating or encouraging another prisoner or detainee to engage in disorderly conduct.
-35.  | Committing any act contrary to the good order or maintenance of prison discipline or security.
+26.  | Refusing to comply with a direction under section 33.
+27.  | Being idle or negligent at work, or mismanaging any work.
+28.  | Feigning illness.
+29.  | Knowingly making a false or frivolous complaint.
+30.  | Behaving disruptively or disrespectfully at or during a religious service or any other authorised meeting, gathering or event.
+31.  | Failing to comply with any condition or restriction of leave under section 42.
+32.  | Leaving or attempting to leave the place where the prisoner or detainee has been directed or authorised to be, or being in a place if not authorised.
+33.  | Failing to obey an order lawfully given by a person having authority in the prison.
+34.  | Cursing or swearing.
+35.  | Using language or behaving in a manner that is indecent, insulting, insolent or threatening.
+36.  | Breaching the regulations.
+37.  | Attempting to commit a prison offence.
