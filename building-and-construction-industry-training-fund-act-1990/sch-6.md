@@ -1,2 +1,2 @@
-# Schedule 6 Management Committee
-Section 9(1)
+# Schedule 6 Savings and Transitional
+Section 43
