@@ -1,4 +1,2 @@
-# Schedule 1 FORM
+# Schedule 1 Form of oath and form of affirmation
 Section 7
-Oath or Affirmation by Commissioner
-[Picture in the source, not reproduced]
