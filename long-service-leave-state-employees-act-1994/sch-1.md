@@ -10,4 +10,3 @@ Employees employed by the Stanley Cool Stores Board |  | The Stanley Cool Stores
 Employees employed under the Tasmanian Development Act 1983 |  | Tasmania Development and Resources
 Employees employed under the Police Regulation Act 1898 |  | The Commissioner of Police
 Employees employed under the Tasmanian Government Insurance Act 1919 |  | The Tasmanian Government Insurance Board
-Employees formerly employed under the Hydro-Electric Commission Act 1944 |  | The Chief Executive Officer, Hydro-Electric Corporation
