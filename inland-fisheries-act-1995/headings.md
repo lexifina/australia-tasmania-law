@@ -22,6 +22,7 @@ Part 7 Offences
 Part 7, Division 1 Offences relating to fish
 Part 7, Division 2 General offences
 Part 7, Division 3 Control orders
+Part 7, Division 4 Penalty of imprisonment
 Part 8 Miscellaneous
 Part 8, Division 1 Controlled fish
 Part 8, Division 2 Fauna reserve
