@@ -6,5 +6,6 @@ Part 5 Practice and Procedure
 Part 5, Division 1 Rules of Court
 Part 5, Division 2 Interest on debts and judgments
 Part 5, Division 3 Judgments and appeals
+Part 5, Division 4 Minor civil claims
 Part 6 Execution
 Part 7 Miscellaneous
