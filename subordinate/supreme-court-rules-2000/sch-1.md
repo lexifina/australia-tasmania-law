@@ -96,11 +96,11 @@ Refresher fee to counsel for each day after the first | $450.00 | $550.00
 Fee for a service | As in Part 1 | As in Part 1
 ITEM | FEES (Claim exceeding $20 000)
 1. Costs of writ for service within the jurisdiction – |
-(a) in a town case | $334
-(b) in an agency case | $353
+(a) in a town case | $601
+(b) in an agency case | $620
 2. Costs of writ for service outside the jurisdiction – |
-(a) in a town case | $433
-(b) in an agency case | $448
+(a) in a town case | $700
+(b) in an agency case | $715
 3. Costs of signing judgment – |
 (a) in a town case | $49
 (b) in an agency case | $54
