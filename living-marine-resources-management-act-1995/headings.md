@@ -30,7 +30,7 @@ Part 6, Division 3 Scientific observer scheme
 Part 7 Joint Management of Certain Fisheries
 Part 7, Division 1 Joint Authorities
 Part 7, Division 2 Arrangements with Commonwealth
-Part 7, Division 3 Agreements with other States
+Part 7, Division 3 Agreements with Commonwealth and other States
 Part 7, Division 4 General
 Part 8 Fisheries Officers
 Part 8, Division 1 Appointment of fisheries officers and assistant fisheries officers
