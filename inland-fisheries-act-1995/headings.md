@@ -3,13 +3,12 @@ Part 2 Director and Council
 Part 2, Division 1 Director of Inland Fisheries
 Part 2, Division 2 Inland Fisheries Advisory Council
 Part 3 Licences
-Part 3, Division 1 Commercial licences
+Part 3, Division 1 Commercial freshwater fishing licence
 Part 3, Division 2 Recreational licences
 Part 3, Division 3 Fish farm licences
 Part 3, Division 4 General provisions
 Part 4 Registration Provisions
 Part 4, Division 1 Dealing with freshwater fish
-Part 4, Division 2 Fish importers
 Part 4, Division 3 Private fisheries
 Part 4, Division 4 General provisions
 Part 5 Powers of Officers
