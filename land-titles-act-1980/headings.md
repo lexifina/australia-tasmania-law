@@ -20,11 +20,20 @@ Part VI, Division 8 Covenants running with the land
 Part VI, Division 9 Easements and profits à prendre
 Part VI, Division 10 Recording of highways
 Part VI, Division 11 Estates tail
-Part VI, Division 12 Acquisition by possession, statute, &c.
 Part VI, Division 13 Compulsory acquisition
 Part VII Settled Land
 Part VIII Trusts
 Part IX Caveats
+Part IX, Division 1 Caveats against dealings
+Part IX, Division 2 Compensation for lodging caveat without sufficient cause
+Part IXA Orders to vest land
+Part IXB Possessory Title
+Part IXB, Division 1 Preliminary
+Part IXB, Division 2 Right to acquire easements
+Part IXB, Division 3 Procedure for vesting of easements
+Part IXB, Division 4 Caveat by owner
+Part IXB, Division 5 Title by possession
+Part IXB, Division 6 Caveats against easements and title by possession
 Part X Amendment of the Register
 Part XA Approval of Plans
 Part XI Civil Rights and Remedies
