@@ -10,5 +10,9 @@ Part 7 Indictable offences
 Part 8 Suspended Sentences
 Part 9 Warrants
 Part 9A Victim Impact Statements
+Part 9B Practice and procedures under Family Violence Act 2004
+Part 9B, Division 1 Interpretation
+Part 9B, Division 2 Applications
+Part 9B, Division 3 Miscellaneous
 Part 10 Appeals
 Part 11 Miscellaneous
