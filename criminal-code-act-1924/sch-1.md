@@ -26,6 +26,7 @@ Forcible abduction.
 Stealing, other than stealing under sections 228 to 231 or under section 233.
 Killing an animal with intent to steal.
 Severing with intent to steal.
+Robbery.
 Aggravated Robbery.
 Armed Robbery.
 Aggravated Armed Robbery.
