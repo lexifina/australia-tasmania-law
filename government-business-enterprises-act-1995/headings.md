@@ -14,7 +14,9 @@ Part 8 Accounting records, financial statements and reports of Government Busine
 Part 9 Community service obligations
 Part 10 Tax equivalents payable by Government Business Enterprise and subsidiary
 Part 10, Division 1 Preliminary
-Part 10, Division 2 Income tax equivalents
+Part 10, Division 2 Liability to pay income tax equivalent
+Part 10, Division 3 Payment, &c., of income tax equivalents by prescribed Government Business Enterprises and prescribed subsidiaries
+Part 10, Division 3A Payment, &c., of income tax equivalents by non-prescribed Government Business Enterprises and non-prescribed subsidiaries
 Part 10, Division 4 Miscellaneous
 Part 11 Guarantee fees and dividends payable by Government Business Enterprise
 Part 11, Division 1 Guarantee fees

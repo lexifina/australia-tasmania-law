@@ -5,7 +5,6 @@ Egg Marketing Board
 Forestry corporation established by the Forestry Act 1920 (other than that Division of the Forestry Corporation known as the Forest Practices Board)
 Hydro-Electric Corporation
 Motor Accidents Insurance Board
-North West Regional Water Authority
 Printing Authority of Tasmania
 Public Trustee
 Rivers and Water Supply Commission
