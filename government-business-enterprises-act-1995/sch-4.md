@@ -11,7 +11,6 @@ Public Trustee
 Rivers and Water Supply Commission
 Southern Regional Cemetery Trust
 Stanley Cool Stores Board
-Tasmanian Dairy Industry Authority
 Tasmanian Grain Elevators Board
 Tasmanian International Velodrome Authority
 Tasmanian Public Finance Corporation
