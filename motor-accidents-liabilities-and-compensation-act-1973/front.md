@@ -1,0 +1,3 @@
+Motor Accidents (Liabilities and Compensation) Act 1973
+An Act to make provision for the discharge of liabilities in respect of deaths and bodily injuries arising from motor accidents and for the payment of compensation in respect of those deaths and bodily injuries, and to make provision in relation to the prevention of such deaths and bodily injuries and the management and treatment of such injuries, and for related purposes, and to amend the Traffic Act 1925 and certain other enactments
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
