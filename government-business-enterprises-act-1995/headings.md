@@ -15,7 +15,6 @@ Part 9 Community service obligations
 Part 10 Tax equivalents payable by Government Business Enterprise and subsidiary
 Part 10, Division 1 Preliminary
 Part 10, Division 2 Income tax equivalents
-Part 10, Division 3 Sales tax equivalents
 Part 10, Division 4 Miscellaneous
 Part 11 Guarantee fees and dividends payable by Government Business Enterprise
 Part 11, Division 1 Guarantee fees
