@@ -59,8 +59,8 @@ ITEM | $1 - $10 000 | $10 001 - $20 000 | $20 001 and above
 15 Preparing bill of costs, including attendance on assessment | $150 | $175 | $200
 Attendances
 16 Attendance for inspection (any party) | $110 | $160 | $210
-17 Attendance at listing conference, directions hearing or routine application | $40 | $60 | $80
-18 Attendance at application requiring special argument or at conciliation conference | $150 | $200 | $250
+17 Attendance at listing conference, directions hearing or routine application | $80 | $120 | $150
+18 Attendance at application requiring special argument or at conciliation conference | $160 | $240 | $300
 19 Advice on compromise or settlement for person under disability – |  |  |
 (a) if quantum only in dispute | $150 | $230 | $300
 (b) if quantum and liability in dispute | $200 | $300 | $400

@@ -18,7 +18,8 @@ Part 6 Trial
 Part 7 Judgment
 Part 8 Enforcement of judgments
 Part 8, Division 1 Enforcement process
-Part 8, Division 2 Attachment orders
+Part 8, Division 2 Attachment of debts
+Part 8, Division 2A Attachment of wages and salaries
 Part 8, Division 3 Warrants
 Part 9 Costs
 Part 9, Division 1 Costs generally
