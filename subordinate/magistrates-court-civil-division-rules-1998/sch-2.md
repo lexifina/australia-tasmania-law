@@ -5,7 +5,7 @@ Rule 104
 (b)  | Other adult person - each day | $150
 (c)  | Person under 18 years of age - each day | $50
 2  | Witness expenses |
-2  | Travel expenses (including meals, travelling and accommodation) | At the same rate and on the same terms as prescribed for equivalent allowance in the General Conditions of Service Award under the Industrial Relations Act 1984 for permanent or temporary employees under the Tasmanian State Service Act 1984
+2  | Travel expenses (including meals, travelling and accommodation) | At the same rate and on the same terms as prescribed for equivalent allowance in the General Conditions of Service Award under the Industrial Relations Act 1984 for employees, within the meaning of the State Service Act 2000
 3  | Photocopying |
 3  | each page | 50 cents
 4  | STD calls | Actual cost
