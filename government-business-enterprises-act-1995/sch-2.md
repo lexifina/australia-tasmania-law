@@ -1,14 +1,20 @@
 # Schedule 2 Government Business Enterprises liable to pay tax equivalents
 Sections 66 and 116
 Civil Construction Services Corporation
+Egg Marketing Board
 Forestry corporation established by the Forestry Act 1920 (other than that Division of the Forestry corporation known as the Forest Practices Board)
 Hydro-Electric Corporation
 HEC Enterprises Corporation
 Metropolitan Transport Trust
 Motor Accidents Insurance Board
+North West Regional Water Authority
 Printing Authority of Tasmania
 Public Trustee
+Rivers and Water Supply Commission
+Southern Regional Cemetery Trust
 Stanley Cool Stores Board
+Tasmanian Dairy Industry Authority
 Tasmanian Grain Elevators Board
+Tasmanian International Velodrome Authority
 Tasmanian Public Finance Corporation
 Totalizator Agency Board
