@@ -38,6 +38,7 @@ Schedule 1, Part VI, Chapter XXXI Arson and Other Unlawful Injuries to Property
 Schedule 1, Part VI, Chapter XXXIA Crimes Relating to Aircraft
 Schedule 1, Part VI, Chapter XXXII Forgery and Uttering
 Schedule 1, Part VI, Chapter XXXIIA Crimes Relating To List A Diseases of Animals
+Schedule 1, Part VI, Chapter XXXIIB Contamination of Goods
 Schedule 1, Part VII Frauds by Personation and Relating to Trade
 Schedule 1, Part VII, Chapter XXXIII Personation
 Schedule 1, Part VII, Chapter XXXIV Fraudulent Debtors
