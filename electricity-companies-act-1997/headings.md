@@ -1,5 +1,5 @@
 Part 1 Preliminary
-Part 2 Companies [Not yet in force. Commences: 21 April 1998]
+Part 2 Companies
 Part 2, Division 1 Formation and status of companies
 Part 2, Division 2 Financial and other provisions
 Part 3 Miscellaneous
