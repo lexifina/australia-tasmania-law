@@ -1,5 +1,7 @@
 Part 1 Preliminary
-Part 2 The Registrar
+Part 2 Administration
+Part 2, Division 1 Registrar of Motor Vehicles
+Part 2, Division 2 Commission to administer vehicle operations
 Part 3 Motor Vehicle Drivers
 Part 3, Division 1 Licensing of drivers
 Part 3, Division 2 Ancillary certificates
@@ -10,4 +12,5 @@ Part 4 Registration of Motor Vehicles and Trailers
 Part 5 Motor Tax
 Part 6 Regulations
 Part 7 Compliance and Enforcement
+Part 7A Management of public streets
 Part 8 Miscellaneous

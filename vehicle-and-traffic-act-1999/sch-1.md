@@ -24,7 +24,7 @@ Section 34
 (b) 3 axles positioned not more than 2 metres apart are to be regarded as 2 axles; and
 (c) 4 axles positioned not more than 3.2 metres apart are to be regarded as 3 axles.
 Trucks
-In this Division, mass entitlement means the maximum loaded mass of a vehicle or combination permitted under the Traffic Act 1925
+In this Division, mass entitlement means the maximum loaded mass of a vehicle or combination permitted under this Act
 | Type of Vehicle | Tax payable $
 1.  | A 2 axle truck with a GVM not exceeding 12 tonnes | 310
 2.  | A 2 axle truck with a GVM exceeding 12 tonnes | 516
@@ -67,7 +67,7 @@ special purpose vehicle means –
 (b)  | use on public streets that are under construction or repair |
 2.  | A special purpose vehicle (type t), being a special purpose vehicle (other than one referred to in item 1) that – | 207
 (a)  | has been built, or permanently modified, for use on public streets; and |
-(b)  | has no axle group loaded in excess of the mass limits prescribed under the Traffic Act 1925 |
+(b)  | has no axle group loaded in excess of the mass limits prescribed under this Act |
 3.  | A special purpose vehicle (type o), being a special purpose vehicle (other than one referred to in item 1) that – | 258 plus 258 x the number of axles in excess of 2
 (a)  | has been built, or permanently modified, primarily for use on public streets; and |
-(b)  | has at least one axle or axle group loaded in excess of the mass limits prescribed under the Traffic Act 1925 |
+(b)  | has at least one axle or axle group loaded in excess of the mass limits prescribed under this Act |
