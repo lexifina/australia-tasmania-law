@@ -25,6 +25,7 @@ Part IX, Division 1 Compulsory insurance by employers
 Part IX, Division 2 Licensed insurers and self-insurers
 Part IX, Division 3 Returns by licensed insurers and self-insurers
 Part IX, Division 5 Nominal Insurer
+Part IX, Division 6 Acts of terrorism
 Part X Concurrent rights to compensation and damages
 Part X, Division 1 Rights to compensation and damages
 Part X, Division 2 Restrictions on awards of damages
