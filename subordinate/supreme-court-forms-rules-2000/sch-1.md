@@ -24,7 +24,7 @@ Form 20 | Notice of payment into court
 Form 21 | Acceptance of sum paid into court
 Form 22 | Affidavit for entry of appearance as litigation guardian
 Form 23 | Judgment by consent
-Form 24 | Notice of discontinuance
+Form 24 | Notice of discontinuance or finalisation
 Form 25 | Judgment for defendant on discontinuance
 Form 26 | List of documents
 Form 27 | Affidavit verifying list of documents
@@ -139,8 +139,7 @@ Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 23 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
-24 Rules of the Supreme Court (Forms) 2000
-[Picture in the source, not reproduced]
+24 [Picture in the source, not reproduced]
 25 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 26 Rules of the Supreme Court (Forms) 2000
