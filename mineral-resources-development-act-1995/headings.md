@@ -33,6 +33,7 @@ Part 8, Division 4 General provisions
 Part 9 Geoscientific Investigation and Research
 Part 9, Division 1 Powers relating to investigation and research
 Part 9, Division 2 Financial provisions
+Part 9A Landslip Areas
 Part 10 Miscellaneous
 Part 10, Division 1 Matters relating to licences, leases and mining
 Part 10, Division 2 Rehabilitation of abandoned mining lands
