@@ -10,3 +10,4 @@ The following firearms are prohibited firearms:
 7. | Any firearm to which there is attached any article or device capable of muffling, reducing or stopping the noise created by firing the firearm.
 8. | A pistol that is of a reduced or an abridged size.
 9. | Any firearm or part of a firearm which has a dimension less than the prescribed minimum dimension.
+10. | A prohibited pistol.
