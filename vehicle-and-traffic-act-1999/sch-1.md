@@ -26,48 +26,48 @@ Section 34
 Trucks
 In this Division, mass entitlement means the maximum loaded mass of a vehicle or combination permitted under the Traffic Act 1925
 | Type of Vehicle | Tax payable $
-1.  | A 2 axle truck with a GVM not exceeding 12 tonnes | 300
-2.  | A 2 axle truck with a GVM exceeding 12 tonnes | 500
-3.  | A 2 axle truck nominated for use in a combination having a trailer with a laden mass exceeding 4.5 tonnes and a mass entitlement not exceeding 42.5 tonnes | 550
-4.  | A 2 axle truck nominated for use in a combination having one trailer and more than 6 axles or a mass entitlement exceeding 42.5 tonnes | 3 800
-5.  | A 3 axle truck with a GVM not exceeding 16.5 tonnes | 600
-6.  | A 3 axle truck with a GVM exceeding 16.5 tonnes | 800
-7.  | A truck with 3 or more axles and nominated for use in a combination having a trailer with a laden mass exceeding 4.5 tonnes and a mass entitlement not exceeding 42.5 tonnes | 2 000
-8.  | A 3 axle truck nominated for use in a combination having one trailer and more than 6 axles or a mass entitlement exceeding 42.5 tonnes | 3 800
-9.  | A truck with 4 or more axles and a GVM not exceeding 20 tonnes | 900
-10.  | A truck with 4 or more axles and a GVM exceeding 20 tonnes | 2 000
-11.  | A truck with 4 or more axles and nominated for use in a combination having one trailer and more than 6 axles or a mass entitlement exceeding 42.5 tonnes | 4 100
+1.  | A 2 axle truck with a GVM not exceeding 12 tonnes | 310
+2.  | A 2 axle truck with a GVM exceeding 12 tonnes | 516
+3.  | A 2 axle truck nominated for use in a combination having a trailer with a laden mass exceeding 4.5 tonnes and a mass entitlement not exceeding 42.5 tonnes | 568
+4.  | A 2 axle truck nominated for use in a combination having one trailer and more than 6 axles or a mass entitlement exceeding 42.5 tonnes | 3 925
+5.  | A 3 axle truck with a GVM not exceeding 16.5 tonnes | 620
+6.  | A 3 axle truck with a GVM exceeding 16.5 tonnes | 826
+7.  | A truck with 3 or more axles and nominated for use in a combination having a trailer with a laden mass exceeding 4.5 tonnes and a mass entitlement not exceeding 42.5 tonnes | 2 066
+8.  | A 3 axle truck nominated for use in a combination having one trailer and more than 6 axles or a mass entitlement exceeding 42.5 tonnes | 3 925
+9.  | A truck with 4 or more axles and a GVM not exceeding 20 tonnes | 930
+10.  | A truck with 4 or more axles and a GVM exceeding 20 tonnes | 2 066
+11.  | A truck with 4 or more axles and nominated for use in a combination having one trailer and more than 6 axles or a mass entitlement exceeding 42.5 tonnes | 4 235
 Prime Movers
 | Type of Vehicle | Tax payable $
-1.  | A prime mover with 2 axles | 1 300
-2.  | A prime mover with 3 axles | 3 400
-3.  | A prime mover with 4 or more axles | 4 400
-4.  | A prime mover with 2 axles and nominated for use in a combination having two semi-trailers | 4 400
-5.  | A prime mover with 3 axles and nominated for use in a combination having two semi-trailers | 5 000
-6.  | A prime mover with 4 or more axles and nominated for use in a combination having two semi-trailers | 5 500
+1.  | A prime mover with 2 axles | 1 343
+2.  | A prime mover with 3 axles | 3 512
+3.  | A prime mover with 4 or more axles | 4 545
+4.  | A prime mover with 2 axles and nominated for use in a combination having 2 semi-trailers | 4 132
+5.  | A prime mover with 3 axles and nominated for use in a combination having 2 semi-trailers | 5 165
+6.  | A prime mover with 4 or more axles and nominated for use in a combination having 2 semi-trailers | 5 681
 Buses
 | Type of Vehicle | Tax payable $
-1.  | A 2 axle rigid bus with a GVM not exceeding 12 tonnes | 300
-2.  | A 2 axle rigid bus with a GVM exceeding 12 tonnes | 500
-3.  | A rigid bus with 3 or more axles | 1 250
-4.  | An articulated bus | 500
+1.  | A 2 axle rigid bus with a GVM not exceeding 12 tonnes | 310
+2.  | A 2 axle rigid bus with a GVM exceeding 12 tonnes | 516
+3.  | A rigid bus with 3 or more axles | 1 291
+4.  | An articulated bus | 516
 Trailers
 | Type of Vehicle | Tax payable $
-1.  | A goods carrying trailer with a GVM exceeding 4.5 tonnes | 300 x the number of axles
+1.  | A goods carrying trailer with a GVM exceeding 4.5 tonnes | 310 x the number of axles
 Special Purpose Vehicles
 In this Division –
-goods for a vehicle, does not include the fuel, water, lubricants, tools and other equipment needed for the normal operation of the vehicle;
-passengers for a vehicle, does not include the driver, trainee driver or any other person needed for the normal operation of the vehicle;
+goods, for a vehicle, does not include the fuel, water, lubricants, tools and other equipment needed for the normal operation of the vehicle;
+passengers, for a vehicle, does not include the driver, trainee driver or any other person needed for the normal operation of the vehicle;
 special purpose vehicle means –
-(a) a vehicle that has been built, or permanently modified,to be used primarily for a purpose other than the carriage of passengers or goods; or
+(a) a vehicle that has been built, or permanently modified, to be used primarily for a purpose other than the carriage of passengers or goods; or
 (b) such other vehicle as is prescribed as a special purpose vehicle
 | Type of Vehicle | Tax payable $
 1.  | A special purpose vehicle (type p), being a special purpose vehicle built, or permanently modified, primarily for – | No charge
 (a)  | off-road use; or |
 (b)  | use on public streets that are under construction or repair |
-2.  | A special purpose vehicle (type t), being a special purpose vehicle (other than one referred to in item 1) that – | 200
+2.  | A special purpose vehicle (type t), being a special purpose vehicle (other than one referred to in item 1) that – | 207
 (a)  | has been built, or permanently modified, for use on public streets; and |
 (b)  | has no axle group loaded in excess of the mass limits prescribed under the Traffic Act 1925 |
-3.  | A special purpose vehicle (type o), being a special purpose vehicle (other than one referred to in item 1) that – | 250 plus 250 x the number of axles in excess of 2
+3.  | A special purpose vehicle (type o), being a special purpose vehicle (other than one referred to in item 1) that – | 258 plus 258 x the number of axles in excess of 2
 (a)  | has been built, or permanently modified, primarily for use on public streets; and |
-(a)  | has at least one axle or axle group loaded in excess of the mass limits prescribed under the Traffic Act 1925 |
+(b)  | has at least one axle or axle group loaded in excess of the mass limits prescribed under the Traffic Act 1925 |
