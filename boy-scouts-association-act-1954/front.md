@@ -1,0 +1,8 @@
+Boy Scouts Association Act 1954
+An Act to incorporate the governing body of the Tasmanian Branch of the Boy Scouts Association, to confer certain powers and impose certain duties upon that body, to make provision for the vesting in that body of the property of the Association in this State, and for matters incidental thereto
+Whereas the Boy Scouts Association (in this Act referred to as the Association) was incorporated in the United Kingdom by Royal Charter granted on 4th January 1912:
+And whereas the Association has power under that Charter to form local branches and committees in all parts of Her Majesty's dominions and to apply for and exercise any powers obtained under any supplementary Charter or Act of Parliament, whether Imperial or Colonial and whether Federal or Provincial, that may be deemed expedient for any of the purposes of the Association:
+And whereas for providing and maintaining an efficient organization for promoting the objects of the Association, a local branch has been formed in this State by the name of the Boys Scouts Association, Tasmanian Branch:
+And whereas the Tasmanian Branch of the Association is governed by a State Council through an Executive Committee:
+And whereas it is expedient to provide for the incorporation of the State Council and for conferring and imposing on it certain powers and duties, and for the vesting in it of the property of the Association in this State:
+Be it therefore enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
