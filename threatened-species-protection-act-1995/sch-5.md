@@ -12,6 +12,8 @@ Section 13(3)
 (e)  | Sterna nereis nereis | Gould | Fairy Tern
 2A.  | Reptiles |  |
 (a)  | Pseudemoia rawlinsoni | Hutchinson & Donnellan | Glossy Grass Skink
+2B.  | Amphibians |  |
+(a)  | Limnodynastes peroni | Dumeril & Bibron | Striped Marsh Frog
 3.  | Fish |  |
 (a)  | Galaxias parvus | Frankenburg | Swamp Galaxias
 (b)  | Galaxiella pusilla | Mack | Dwarf Galaxias
@@ -20,7 +22,6 @@ Section 13(3)
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Order | Common name
 1.  | Allanaspides hickmani | Swain, Wilson & Ong, Syncarida | Hickman's Pigmy Mountain Shrimp
-2.  | Austrochloritis victoriae | Cox, Sigmurethra | Southern Hairy Red Snail
 3.  | Beddomeia angulata | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Rabid River)
 4.  | Beddomeia averni | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (West Gawler)
 5.  | Beddomeia bellii | Petterd, Mesogastropoda | Hydrobiid Snail (Heazlewood River)
@@ -337,7 +338,6 @@ Section 13(3)
 58.  | Lepidosperma forsythii | A.A.Hamilton, Cyperaceae | Stout rapier sedge
 59.  | Lepidosperma tortuosum | F.Muell., Cyperaceae | Twisting rapier sedge
 60.  | Lepidosperma viscidum | R.Br., Cyperaceae | Sticky sword sedge
-61.  | Lepilaena australis | Drumm. ex Harvey, Zannichelliaceae | Austral water mat
 62.  | Lepilaena marina | E.Robertson, Zannichelliaceae | Sea water mat
 63.  | Lepilaena patentifolia | E.Robertson, Zannichelliaceae | Spreading water mat
 64.  | Lepilaena preissii | (Lehm.) F.Muell., Zannichelliaceae | Slender water mat
@@ -366,7 +366,6 @@ Section 13(3)
 87.  | Sowerbaea juncea | Andrews, Liliaceae | Rush lily
 88.  | Sporobolus virginicus | (L.) Kunth, Poaceae | Salt couch
 89.  | Thelymitra holmesii | Nicholls, Orchidaceae | Holmes' sun orchid
-90.  | Thelymitra malvina | M.A.Clem., D.L.Jones & Molloy, Orchidaceae | Mauve-tufted sun orchid
 91.  | Thelymitra mucida | Fitzg., Orchidaceae | Plum orchid
 92.  | Thismia rodwayi | F.Muell., Burmanniaceae | Fairy lanterns
 93.  | Tricostularia pauciflora | (F.Muell.) Benth., Cyperaceae | Needle bog sedge
@@ -392,8 +391,10 @@ Section 13(3)
 1.  | Cystoseira trinodis | (Forsskal) C.Agardh, Cystoseiraceae | Brown alga
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Hypotrachyna immaculata | (Kurok.) Hale, Parmeliaceae |
+1.  | Certraria islandica ssp. antarctica | Kärnefelt, Parmeliaceae |
+1A.  | Hypotrachyna immaculata | (Kurok.) Hale, Parmeliaceae |
 2.  | Neofuscelia graniticola | Elix & Kantvilas, Parmeliaceae |
-2A.  | Parmeliopsis ambigua | (Wulf) Nye, Parmeliaceae |
+2A.  | Parmelina whinrayi | (Elix) Kantvilas & Elix, Parmeliaceae |
+2B.  | Parmeliopsis ambigua | (Wulf.) Nyl., Parmeliaceae |
 3.  | Parmotrema crinitum | (Ach.) M.Choisy, Parmeliaceae |
 4.  | Xanthoparmelia vicaria | Elix & J.Johnst., Parmeliaceae |

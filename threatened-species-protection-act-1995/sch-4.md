@@ -9,6 +9,7 @@ Section 13(2)
 (b)  | Leucocarbo atriceps purpurescens | Brant | Macquarie Island Shag
 (c)  | Macronectes giganteus | Gmelin | Southern Giant Petrel
 (d)  | Phoebetria palpebrata | Forster | Light-mantled Sooty Albatross
+(da)  | Platycercus caledonicus brownii | (Kuhl) | King Island Green Rosella
 (e)  | Pterodroma lessonii | Garnot | White-headed Petrel
 (f)  | Sterna striata | Gmelin | White-fronted Tern
 (g)  | Thalassarche cauta | Gould | Shy Albatross
@@ -28,6 +29,7 @@ Section 13(2)
 | Species | Authority, Order | Common name
 1.  | Amelora acontistica | Turner, Lepidoptera | Chevron Looper Moth
 2.  | Astacopsis gouldi | Clark, Decapoda | Giant Freshwater Crayfish
+2A.  | Austrochloritis victoriae | (Cox), Sigmurethra | Southern Hairy Red Snail
 3.  | Beddomeia krybetes | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Great Lake)
 4.  | Beddomeia tumida | Petterd, Mesogastropoda | Hydrobiid Snail (St. Pauls River)
 5.  | Dasybela achroa | Lower, Lepidoptera | Saltmarsh Looper Moth
@@ -113,4 +115,6 @@ Section 13(2)
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Hypotrachyna laevigata | (Sm.) Hale, Parmeliaceae |
+1A.  | Melanelia piliferella | (Essl.) Essl., Parmeliaceae |
 2.  | Xanthoparmelia jarmaniae | Elix & Kantvilas, Parmeliaceae |
+3.  | Xanthoparmelia mannumensis | (Elix) Elix & J.Johnst., Parmeliaceae |

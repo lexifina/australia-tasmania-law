@@ -14,6 +14,7 @@ Fauna – Vertebrates
 (a)  | Acanthiza pusilla archibaldi | Mathews | Brown Thornbill (King Island)
 (ab)  | Acanthornis magnus greenianus | Schodde & Mason | Scrubtit (King Island)
 (ac)  | Accipiter novaehollandiae | Gmelin | Grey Goshawk
+(ad)  | Alcedo azurea diemenensis | (Gould) | Azure Kingfisher
 (b)  | Aquila audax fleayi | Latham | Wedge-tailed Eagle
 (c)  | Diomedea exulans | Linnaeus | Wandering Albatross
 (d)  | Lathamus discolor | Shaw | Swift Parrot
@@ -27,6 +28,7 @@ Fauna – Vertebrates
 (j)  | Sterna vittata bethunei | Buller | Antarctic Tern
 (k)  | Thalassarche chrysostoma | Forster | Grey-headed Albatross
 (l)  | Thalassarche melanophris | Temminck | Black-browed Albatross
+(m)  | Tyto novaehollandiae castanops | (Gould) | Masked Owl
 3.  | Reptiles |  |
 (a)  | Caretta caretta | Linnaeus | Loggerhead Turtle
 (b)  | Niveoscincus palfreymani | Rawlinson | Pedra Branca Skink
@@ -38,6 +40,7 @@ Fauna – Vertebrates
 (d)  | Galaxias pedderensis | Frankenberg | Pedder Galaxias
 (e)  | Galaxias tanycephalus | Fulton | Saddled Galaxias
 (f)  | Paragalaxias mesotes | McDowall and Fulton | Arthurs Paragalaxias
+(g)  | Raja sp. | (Last & Stevens, 1994) | Port Davey Skate
 Fauna – Invertebrates
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Order | Common name
@@ -156,6 +159,7 @@ Flora – Monocotyledoneae
 48.  | Schoenus latelaminatus | Kuk., cyperaceae | Medusa bog sedge
 49.  | Thelymitra antennifera | (Gunn ex Lindley) Hook.f., Orchidaceae | Rabbit-ears
 50.  | Thelymitra azurea | R.Rogers, Orchidaceae | Azure sun orchid
+51.  | Thelymitra malvina | M.A.Clem, D.L.Jones & Molloy, Orchidaceae | Mauve-tufted sun orchid
 Flora – Pteridophyta
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
@@ -164,7 +168,8 @@ Flora – Lichens
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Neofuscelia subloxodella | Elix & Kantvilas, Parmeliaceae |
-1A.  | Xanthoparmelia molliuscula | (Ach.) Hale, Parmeliaceae |
+1A.  | Xanthoparmelia amphixantha | (Müll.Arg.) Hale, Parmeliaceae |
+1B.  | Xanthoparmelia molliuscula | (Ach.) Hale, Parmeliaceae |
 2.  | Xanthoparmelia willisii | (Kurok. & Filson) Elix & J.Johnst., Parmeliaceae |
 Fauna – Vertebrates
 | Column 1 | Column 2 | Column 3
@@ -206,11 +211,11 @@ Flora – Dicotyledoneae
 Flora – Monocotyledoneae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Bromus japonicus var. vestitus | (Schrad.) Halacsy, Poaceae | Sand brome
 2.  | Caladenia cardiochila | Tate, Orchidaceae | Heart-lip spider orchid
 3.  | Chorizandra enodis | Nees, Cyperaceae | Black bristle-rush
 4.  | Deyeuxia lawrencei | Vick., Poaceae | Lawrence's bent grass
 5.  | Genoplesium nudiscapum | (Hook.f.) D.L.Jones & M.A.Clem., Orchidaceae | Dense midge orchid
+6.  | Lepilaena australis | Drumm. ex Harvey, Zannichelliaceae | Austral water mat
 Flora – Pteridophyta
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
