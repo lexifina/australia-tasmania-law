@@ -1,0 +1,3 @@
+Legislation Publication Act 1996
+An Act to establish a database as the source of the authorised version of legislation in force in this State, to provide for the production and distribution of authorised copies of legislation on the database, to give evidentiary status to those copies, to provide for the making of editorial changes to legislation and for the reprinting of legislation, to repeal the Acts Custody Act 1858 and the Acts Reprinting Act 1979 and to amend certain other Acts
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
