@@ -60,13 +60,12 @@ Part 14, Division 4 Mutual rights of owners and occupiers
 Part 15 Council Elections
 Part 15, Division 1 Preliminary
 Part 15, Division 2 Electors
-Part 15, Division 3 Polling places and electoral officials
+Part 15, Division 3 Issuing places and electoral officials
 Part 15, Division 4 Notices of elections and nominations
 Part 15, Division 5 Advertising in respect of elections
-Part 15, Division 6 Conduct of polls
-Part 15, Division 7 Postal voting
+Part 15, Division 6 Postal voting
 Part 15, Division 8 Determination of result of elections
-Part 15, Division 9 Vacancies and by-elections
+Part 15, Division 9 Casual vacancies
 Part 15, Division 10 Offences relating to elections
 Part 15, Division 11 Miscellaneous
 Part 16 Miscellaneous
