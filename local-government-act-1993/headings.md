@@ -6,9 +6,8 @@ Part 3 Local Government
 Part 3, Division 1 Municipal areas and electoral districts
 Part 3, Division 2 Councils
 Part 3, Division 3 Councillors
-Part 3, Division 4 Local committees
-Part 3, Division 5 Controlling and joint authorities
-Part 3A Payments by Joint Authorities
+Part 3, Division 4 Authorities
+Part 3A Payments by Single and Joint Authorities
 Part 4 Elections
 Part 4, Division 1 Mayors and deputy mayors
 Part 4, Division 2 Councillors
