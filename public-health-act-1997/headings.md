@@ -12,7 +12,7 @@ Part 3, Division 2 Immunisation
 Part 3, Division 3 Confidentiality
 Part 4 Tobacco products
 Part 4, Division 1 Under-age smoking
-Part 4, Division 1A Smoking prohibited in certain areas
+Part 4, Division 1A Smoke-free areas
 Part 4, Division 2 Display, advertising and packaging
 Part 4, Division 3 Tobacco seller's licence
 Part 5 Premises
