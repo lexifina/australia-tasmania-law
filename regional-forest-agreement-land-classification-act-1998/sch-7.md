@@ -24,4 +24,4 @@ Sections 13 and 14
 20.  | Southwest National Park | 3 715 | 4270
 21.  | Southwest National Park | 1 254 | 4271
 22.  | Southwest National Park | 334 | 4262
-23.  | Tasman National Park | 8 275 | 4125
+23.  | Tasman National Park | 8 275 | 4215
