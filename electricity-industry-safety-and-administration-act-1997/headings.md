@@ -23,7 +23,7 @@ Part 5, Division 3 Powers to ensure safety
 Part 5, Division 4 Emergency powers
 Part 5, Division 5 Cathodic protection systems
 Part 6 Accidents
-Part 7 Appeals
+Part 7 Reviews
 Part 8 Electrical safety management schemes
 Part 9 Legal proceedings
 Part 10 Financial provisions

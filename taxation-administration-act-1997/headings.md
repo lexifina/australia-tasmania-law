@@ -13,10 +13,10 @@ Part 8 Record keeping
 Part 9 Investigations and secrecy
 Part 9, Division 1 Investigations
 Part 9, Division 2 Secrecy
-Part 10 Objections and appeals
+Part 10 Objections, reviews and appeals
 Part 10, Division 1 Objections
-Part 10, Division 2 Appeals
-Part 10, Division 3 Refunds following successful objection or appeal
+Part 10, Division 2 Reviews and appeals
+Part 10, Division 3 Refunds following successful objection, review or appeal
 Part 11 Miscellaneous
 Part 11, Division 1 Payment
 Part 11, Division 2 Evidentiary matters
