@@ -20,8 +20,7 @@ Registration as a bee-keeper | 60 days from the day on which an application unde
 Apple and Pear Industry (Crop Insurance) Act 1982 |
 Fruit crop insurance policy | 60 days from the day on which an application under section 7(2) of the Apple and Pear Industry (Crop Insurance) Act 1982 is received by the Tasmanian Government Insurance Board.
 Child Welfare Act 1960 |
-Approval of a children's home hostel, school or other institution | 60 days from the day on which an application under section 10 (1) of the Child Welfare Act 1960 is received by the responsible Minister.
-Grant or renewal of a licence for a children's boarding home or a day nursery | 60 days from the day on which an application under section 54(1) of the Child Welfare Act 1960 is received by the Director for Community Welfare.
+Grant or renewal of a licence for a children's boarding home or a day nursery | 60 days from the day on which an application under section 54(1) of the Child Welfare Act 1960 is received by the Secretary, within the meaning of that Act.
 Crown Lands Act 1976 |
 Reservation of Crown land for public purposes under section 8 of the Crown Lands Act 1976 | 180 days from the day on which an application in a form approved by the responsible Minister is received by that Minister.
 Sale of Crown land under section 13 of the Crown Lands Act 1976 | 180 days from the day on which an application in a form approved by the responsible Minister is received by that Minister.
