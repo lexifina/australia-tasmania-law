@@ -1,12 +1,9 @@
 Part 1 Preliminary
 Part 2 Public Land Use Commission
 Part 2, Division 1 Preliminary
-Part 2, Division 2 Establishment, functions and powers of Commission
-Part 2, Division 3 Constitution of Commission
+Part 2, Division 2 Functions of Commission under this Act
 Part 2, Division 4 References to Commission
 Part 2, Division 5 Reference procedure to be followed by Commission
-Part 2, Division 6 Administration
-Part 2, Division 7 Offences
 Part 2, Division 8 Miscellaneous
 Part 3 Amendments of Forestry Act
 Part 3, Division 1 Preliminary
