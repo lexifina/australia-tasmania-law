@@ -21,6 +21,8 @@ Part 3, Division 5 Restrictions on re-supply
 Part 3, Division 6 Disputes
 Part 3, Division 7 Compliance obligations
 Part 3, Division 8 Regulator's powers to take control of operations
+Part 3, Division 9 Tasmanian Electricity Code
+Part 3, Division 10 Miscellaneous
 Part 4 Land Acquisition and use for Electricity Infrastructure
 Part 4, Division 1 Surveys and assessments
 Part 4, Division 2 Land acquisition
@@ -44,7 +46,7 @@ Part 10 Miscellaneous
 Part 10, Division 1 Exempting power
 Part 10, Division 2 Warrants
 Part 10, Division 3 Offences
-Part 10, Division 4 Evidentiary provisions
+Part 10, Division 4 Evidentiary provisions and provisions relating to proceedings in a court
 Part 10, Division 5 Damage caused by officers in exercising statutory powers
 Part 10, Division 6 Immunity from liability
 Part 10, Division 7 Regulations
