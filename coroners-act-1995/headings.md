@@ -5,4 +5,5 @@ Part 4 Reporting of deaths
 Part 5 Investigation of deaths
 Part 6 Investigation of Fires and Explosions
 Part 7 Conduct of Inquests
+Part 7A Review
 Part 8 Miscellaneous
