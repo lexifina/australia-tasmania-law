@@ -122,6 +122,8 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 110.  | Drotebanol |
 111.  | Ecgonine |
 112.  | Ephedrine (S4) | 200g
+112M.  | Epoetin alfa |
+112N.  | Epoetin beta |
 113.  | Erythropoietin |
 113D.  | Erythropoietins |
 114.  | Ethinamate |
@@ -278,7 +280,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 253.  | Racemorphan |
 254.  | Remifentanil |
 255.  | Rolicyclidine (otherwise known as 1-(1- phenylcyclohexyl)pyrrolidine or PHP or PCPY) |
-255M.  | Salvinorin A |
+255M.  | Salvinorin A (otherwise known as Methyl (2S, 4aR, 6aR, 7R, 9S, 10aS, 10bR)-9-Acetoxy-6a,10b-Dimethyl-4,10-Dioxo-Dodecahydro-2-(3-Furyl)-2H-Naphtho[2,1-c]Pyran-7-Carboxylate) |
 256.  | Secbutobarbitone |
 257.  | Somatropin (human growth hormone) |
 258.  | Stanolone (otherwise known as dihydrotestosterone) |
