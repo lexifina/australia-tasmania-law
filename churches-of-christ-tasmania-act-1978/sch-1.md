@@ -1,0 +1,28 @@
+# Schedule 1
+| Column 1 | Column 2
+Church of Christ at— | Name of building and where land situated | Short description of lands
+Caveside | Church of Christ, Western Creek Road | All that piece of land situated in the Parish of Woodbridge Land District of Westmorland containing 1 012 m2 more or less being all the land comprised and described in Certificate of Title Volume 3170 Folio 74.
+Devonport | Church of Christ, Cnr William and Steele Streets, Devonport | Firstly All that piece of land situate in the town of Devonport containing 1 062 m2 more or less being all the land comprised and described in Certificate of Title Volume 2392 Folio 45.
+|  | Secondly All that piece of land situate in the town of Devonport containing 1 072 m2 more or less being all the land comprised and described in Certificate of Title Volume 2390 Folio 89.
+| Church of Christ Manse, 110 Steele Street, Devonport | Thirdly All that piece of land situate in the town of Devonport containing 1 115 m2 more or less being all the land comprised and described in Certificate of Title Volume 2419 Folio 55.
+| 114 Steele Street, Devonport | Fourthly All that piece of land situate in the town of Devonport containing 2 023 m2 more or less being all the land comprised and described in Certificate of Title Volume 2743 Folio 80.
+Dover | Church of Christ, Main Road, Dover | Firstly All that piece of land situate in the Parish of Thanet Land District of Kent containing 220 m2 more or less being all of the land described in Conveyance No. 14/2426.
+|  | Secondly All that piece of land situate in the Parish of Thanet Land District of Kent containing 202 m2 more or less being the land described in Certificate of Title Volume 3678 Folio 73.
+Geeveston | Christians Chapel, Brownell Street, Geeveston | Firstly All that piece of land situate in the town of Geeveston containing 664 m2 more or less being all the land comprised and described in Certificate of Title Volume 3222 Folio 52.
+| Church of Christ, Cemetry, Geeveston | Secondly All that piece of land situate in the Parish of Price Land District of Kent containing 4 047 m2 more or less and being all the land described in Conveyance No. 20/3368.
+Highcroft | Church Hall, Tunnel Bay Road, Tasman Peninsula | All that piece of land situate in the Parish of Nubeena Land District of Pembroke containing 4 029 m2 more or less being all the land comprised and described in Certificate of Title Volume 2384 Folio 4.
+Hobart | Christians Chapel, 180–184 Collins Street, Hobart | Firstly All that piece of land situate in the city of Hobart containing 278 m2 more or less and being all the land described in Conveyance No. 7/5017.
+|  | Secondly All that piece of land situate in the city of Hobart containing 142 m2 more or less being all the land firstly described in Conveyance No. 14/1974.
+|  | Thirdly All that piece of land situate in the city of Hobart containing 170 m2 more or less being all the land secondly described in Conveyance No. 14/1974.
+| Church of Christ Manse, 2 Westwind Road, West Hobart | Fourthly All that piece of land situate in the city of Hobart containing 476 m2 more or less being all the land comprised and described in Certificate of Title Volume 3356 Folio 90.
+| 347 Rokeby Road, Howrah | Fifthly All that piece of land situate in the town of Howrah containing 2·023 ha more or less being all the land comprised and described in Certificate of Title Volume 2083 Folio 8.
+Launceston | Church of Christ, 265 Invermay Road, Launceston | Firstly All that piece of land situate in the city of Launceston containing 2 028 m2 more or less being all the land described in Conveyance No. 16/2435.
+| Church of Christ, 76 Margaret Street, Launceston | Secondly All that piece of land situate in the city of Launceston containing 956 m2 more or less being all the land described in Conveyance No. 13/3175.
+| 80 Margaret Street, Launceston | Thirdly All that piece of land situate in the city of Launceston containing 422 m2 more or less being all the land described in Conveyance No. 33/7455.
+| Church of Christ Manse, 5 Alice Place, Launceston | Fourthly All that piece of land situate in the city of Launceston containing 602 m2 more or less being all the land comprised and described in Certificate of Title Volume 2831 Folio 70.
+Mole Creek | Church of Christ, Main Road, Mole Creek | All that piece of land situate in the Parish of Alphington Land District of Devon containing 239 m2 more or less being all the land described in Conveyance No. 13/9767.
+Nubeena | Church of Christ, Cnr Koonya and Premaydena Roads | Firstly All that piece of land situate in the Parish of Koonya Land District of Pembroke containing 2 944 m2 more or less being all the land comprised and described in Certificate of Title Volume 3439 Folio 24.
+| Road from Koonya to Wedge Bay | Secondly All that piece of land situate in the Parish of Koonya Land District of Pembroke containing 1 031 m2 more or less being all the land comprised and described in Certificate of Title Volume 3150 Folio 47.
+Ulverstone | Church of Christ, Cnr Queen Street and South Road, Ulverstone | Firstly All that piece of land situate in the town of Ulverstone containing 344 m2 more or less being all the land comprised and described in Certificate of Title Volume 3231 Folio 88.
+|  | Secondly All that piece of land situate in the town of Ulverstone containing 402 m2 more or less being all the land comprised and described in Certificate of Title Volume 3169 Folio 4.
+| Church of Christ Manse, 21 Queen Street, Ulverstone | Thirdly All that piece of land situate in the town of Ulverstone containing 632 m2 more or less being all the land comprised and described in Certificate of Title Volume 2760 Folio 50.
