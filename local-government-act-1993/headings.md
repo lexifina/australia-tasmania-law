@@ -1,7 +1,8 @@
 Part 1 Preliminary
 Part 2 Local Government Board and Review
 Part 2, Division 1 Local Government Board
-Part 2, Division 2 Reviews
+Part 2, Division 2 Reviews of Councils
+Part 2, Division 3 Reviews of single and joint authorities
 Part 3 Local Government
 Part 3, Division 1 Municipal areas and electoral districts
 Part 3, Division 2 Councils
