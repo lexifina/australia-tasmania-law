@@ -9,7 +9,6 @@ Part III, Division 2 Provisions relating to specific matters
 Part III, Division 3 Special provisions with respect to cities, towns, and other urban areas
 Part IV Acquisition of, and Other Dealings in Relation to, Land
 Part V Construction of Unmade Streets in Cities, Towns, and Other Urban Areas
-Part VI Carriage of Timber, Firewood, and Minerals
 Part VII Controlled Parking
 Part VIII Miscellaneous and Supplemental
 Part VIII, Division 1 Miscellaneous
