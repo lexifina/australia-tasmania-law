@@ -1,0 +1,3 @@
+Industrial Relations Act 1984
+An Act to provide for the establishment of a Tasmanian Industrial Commission having a jurisdiction to hear and determine matters and things arising from, or relating to, industrial matters in both the public and private sectors of employment, including the making of industrial awards and the conduct of hearings, and the summoning of conferences, for settling disputes, to provide for the registration of employer and employee organizations, and to provide for related and other matters
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
