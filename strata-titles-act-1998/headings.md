@@ -19,6 +19,7 @@ Part 3, Division 5 Progressive development of land subject to scheme
 Part 3, Division 6 Variation of scheme
 Part 3, Division 7 Enforcement of scheme
 Part 3, Division 8 Transfer of title to land subject to registered scheme
+Part 3, Division 9 Miscellaneous
 Part 4 Community development schemes
 Part 4, Division 1 Nature of community development scheme
 Part 4, Division 2 Approval of scheme in principle
