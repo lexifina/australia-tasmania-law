@@ -1,0 +1,17 @@
+Plomley Trusts Act 1984
+An Act to revoke certain trusts created by Norman James Brian Plomley for the purposes of preserving documents and other materials relating to, and encouraging research into, the Tasmanian Aborigines and to make other provision in place of those trusts
+Whereas –
+(I) Norman James Brian Plomley, Retired University Lecturer (in this Preamble referred to as the Settlor), has made a settlement of property for the purpose of developing a definitive collection of documentary and associated materials relating to the Tasmanian Aborigines, supporting research into, and publishing materials on, the Tasmanian Aborigines and for certain other purposes:
+(II) The trusts to which that settlement of property are subject are, firstly, the trusts specified in a deed dated 16th January 1979 between the Settlor and Perpetual Trustees and National Executors of Tasmania Limited (which deed is in this Preamble referred to as the Income Trust) and, secondly, the trusts specified in a deed dated 30th March 1979 between the Settlor of the one part and George Deas Brown, Solicitor, Peter Eldon Cripps, Architect, Rodney Kay Crook, Professor, Peter Faye Murray, Doctor of Anthropology, and Alma Lily Stackhouse, Married Woman of the other part (all of whom are in this Preamble referred to as the Research Trustees and which deed is in this Preamble referred to as the Research Trust):
+(III) The Income Trust provides for the payment of the income arising from certain property to the State of Tasmania until 16th January 1992 and then for the vesting of that property in Ann Cripps, Married Woman, the daughter of the Settlor for her own use and benefit absolutely with a substitutionary gift to her children and for certain other matters:
+(IV) The Research Trust provides for further gifts of money and certain property to constitute the Tasmanian Aboriginal Research Fund and the Tasmanian Aboriginal Collection:
+(V) The terms of the Research Trust relating to the appointment of new trustees have been varied by a further deed between the Settlor and the Research Trustees dated 20th June 1980:
+(VI) The Settlor has incurred expenses amounting to $12 365 in and about research undertaken for purposes similar to the purposes of the trusts mentioned in this Preamble:
+(VII) The Settlor and the corporation of the City of Launceston have made an agreement dated 27th January 1984 providing for continuing research into matters relating to the Tasmanian Aborigines in the event of the trusts arising from the Income Trust and the Research Trust being revoked:
+(VIII) A copy of the agreement referred to in paragraph (vii) of this Preamble is set out in Schedule 1 to this Act:
+(IX) On 12th November 1984 –
+(a) the only person continuing in office as a trustee pursuant to the trusts arising from the Research Trust was Alma Lily Stackhouse, referred to in paragraph (ii) of this Preamble;
+(b) the property to which the Income Trust relates was the property specified in Schedule 2 to this Act; and
+(c) the property to which the Research Trust relates was the property specified in Schedule 3 to this Act: and
+(X) It is expedient to revoke the trusts arising from the Income Trust and the Research Trust and to make other provision for the settlement and distribution of the property respectively specified in Schedules 2 and 3 to this Act:
+Be it therefore enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
