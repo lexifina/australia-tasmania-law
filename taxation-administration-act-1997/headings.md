@@ -13,6 +13,7 @@ Part 8 Record keeping
 Part 9 Investigations and secrecy
 Part 9, Division 1 Investigations
 Part 9, Division 2 Secrecy
+Part 9A Reciprocal Arrangements
 Part 10 Objections, reviews and appeals
 Part 10, Division 1 Objections
 Part 10, Division 2 Reviews and appeals
