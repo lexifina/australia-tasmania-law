@@ -1,0 +1,3 @@
+Children, Young Persons and Their Families (Transitional and Savings Provisions) Act 1998
+An Act to provide for matters of a transitional and savings nature arising from the repeal of the Child Protection Act 1974 and certain provisions of the Child Welfare Act 1960 and the enactment of the Children, Young Persons and Their Families Act 1997, the Youth Justice Act 1997 and the Magistrates Court (Children's Division) Act 1998
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
