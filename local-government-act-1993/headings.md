@@ -33,7 +33,6 @@ Part 9, Division 8 Farm rating relief
 Part 9, Division 9 Liability and payment of rates
 Part 9, Division 10 Recovery
 Part 9, Division 11 Sale of land
-Part 10 Contributions to Administration
 Part 11 By-laws
 Part 11, Division 1 General provisions
 Part 11, Division 2 Procedural provisions
