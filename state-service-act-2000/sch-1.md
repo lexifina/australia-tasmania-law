@@ -7,7 +7,7 @@ Department of Economic Development | Secretary
 Department of Education | Secretary
 Department of Health and Human Services | Secretary
 Department of Infrastructure, Energy and Resources | Secretary
-Department of Justice and Industrial Relations | Secretary
+Department of Justice | Secretary
 Department of Police and Public Safety | Secretary
 Department of Premier and Cabinet | Secretary
 Department of Primary Industries, Water and Environment | Secretary
