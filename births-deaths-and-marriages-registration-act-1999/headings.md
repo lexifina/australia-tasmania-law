@@ -9,6 +9,7 @@ Part 3, Division 2 Registration of births
 Part 3, Division 3 Court order for registration of birth
 Part 3, Division 4 Child's name
 Part 4 Change of name
+Part 4A Registration of change of sex
 Part 5 Registration of marriages
 Part 6 Registration of deaths
 Part 6, Division 1 Cases where registration of death is required or authorised
