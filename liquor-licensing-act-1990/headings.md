@@ -7,7 +7,6 @@ Part 2, Division 4 Restrictions and controls on sale of liquor
 Part 2, Division 5 Obligations of licensees
 Part 2, Division 6 Offences
 Part 2, Division 7 Administration of licensed and special permit premises
-Part 2, Division 8 Licence fees
 Part 3 Provision of tourist accommodation
 Part 3, Division 1 Authority to provide tourist accommodation
 Part 3, Division 2 Accommodation licences
