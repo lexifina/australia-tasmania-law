@@ -1,0 +1,6 @@
+Commonwealth and State Statistical Agreement Act 1924
+An Act to ratify and confirm an agreement entered into between the Commonwealth and the State with respect to the establishment by the Commonwealth of a statistical bureau in the State
+Whereas the Commonwealth is about to establish in the State a statistical bureau:
+And whereas the Commonwealth and the State have entered into an agreement with respect to certain matters relating to the establishment and operations of such statistical bureau, and the transfer of certain of the officers of the Statistical Department of the Public Service of the State to the Public Service of the Commonwealth:
+And whereas it is desirable to ratify and confirm the said agreement, and to make provision for compensating certain of the officers to be so transferred, in respect of such transfer and of their liability to be retired from the Public Service of the Commonwealth at an earlier age than is provided by the law of the State in respect of the retirement of officers of the Public Service of the State:
+Be it therefore enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
