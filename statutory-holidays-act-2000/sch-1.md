@@ -11,6 +11,7 @@ Section 5
 7.  | Thursday preceding fourth Saturday in October | Royal Hobart Show | All that part of Tasmania south of and including Oatlands and Swansea, also Bronte Park, Strathgordon, Tarraleah and Wayatinah, excluding the West Coast
 8.  | First Monday in November | Recreation Day | All parts of Tasmania in which a statutory holiday is not observed for the Royal Hobart Regatta
 9.  | Friday nearest last day in November, but not later than first day in December | Devonport Show | Municipal areas of Devonport, Kentish and Latrobe
+10.  | Friday following the first Thursday in May | Agfest | Municipal Area of Circular Head
 | Column 1 | Column 2 | Column 3
 | Day | Occasion | Area of State
 1.  | Second Wednesday in January | Devonport Cup | Municipal area of Devonport
