@@ -7,17 +7,24 @@ Pseudomys novaehollandiae Waterhouse | New Holland Mouse
 Birds |
 Accipiter novaehollandiae Gmelin | Grey Goshawk
 Oceanites oceanicus Kuhl | Wilson's Storm Petrel
+Phoebetria fusca Hilsenberg | Sooty Albatross
 Podiceps cristatus Linne | Great Crested Grebe
 Sterna nereis Gould | Fairy Tern
 Sterna striata Gmelin | White-fronted Tern
-Fish |
+Freshwater Fish |
+Galaxias auratus Johnston | Golden Galaxias
+Galaxias parvus Frankenburg | Swamp Galaxias
 Galaxiella pusilla Mack | Dwarf Galaxias
+Paragalaxias julianus McDowall and Fulton | Western Paragalaxias
+Paragalaxias mesotes McDowall and Fulton | Arthurs Paragalaxias
 INVERTEBRATES
 Amphipoda |
 Tasniphargus tyleri Williams & Barnard |
 Araneae |
-Migas plomleyi Raven & Churchill |
-Oglania excavata Hickman |
+Migas plomleyi Raven and Churchill |
+Olgania excavata Hickman |
+Asterinidae |
+Smilasterias tasmaniae O’Loughlin and O’Hara |
 Coleoptera |
 Catadromus lacordairei Boisduval |
 Idacarabus cordicollis Moore |
@@ -86,8 +93,12 @@ Parvotettix rangaensis Richards | Cave Cricket
 Pseudoscorpionida |
 Pseudotyrannochthonius typhlus Dartnall |
 Sigmurethra |
-Pasmaditta juggermanniae Petterd |
+Austrochloritis victoriae Cox | Southern Hairy Red Snail
+Charopidae “Skemps” | Skemps Snail
+Helicarion rubicundus Dartnall and Kershaw | Burgundy Snail
+Pasmaditta jungermanniae Petterd |
 Roblinella agnewi Legrand |
+Tasmaphena lamproides Cox | Keeled Snail
 Syncarida |
 Allanaspides hickmani Swain, Wilson & Ong | Hickman's Pigmy Mountain Shrimp
 Trichoptera |
@@ -195,6 +206,7 @@ Epacris curtisiae Jarman | Curtis' heath
 Epacris petrophila Hook.f. | Rock heath
 Leucopogon esquamatus R.Br. | Swamp Beard-heath
 Leucopogon lanceolatus (Smith) R.Br. | Lance Beard-heath
+Leucopogon virgatus var. brevifolius Benth. |
 Monotoca submutica (Benth.) Jarman var. autumnalis Jarman |
 Pentachondra ericaefolia Hook.f. |
 Sprengelia distichophylla (Rodway) W.M.Curtis |
@@ -209,6 +221,7 @@ Glycine microphylla (Benth.) Tind. | Small-leaved Glycine
 Hovea corrickiae J.Ross | Corrick's Hovea, Glossy Hovea
 Hovea montana (Hook.f.) J.Ross | Mountain Hovea
 Lotus australis Andrews | Austral Trefoil
+Mirbelia oxylobioides F. Muell. | Mountain Mirbelia
 Psoralea adscendens F.Muell. | Mountain Psoralea, Dusky Scurf-pea
 Frankeniaceae |
 Frankenia pauciflora DC. | Sea Heath
@@ -357,7 +370,6 @@ Centrolepidaceae |
 Aphelia gracilis Sonder | Slender Aphelia
 Aphelia pumilio F.Muell. ex Sonder | Dwarf Aphelia
 Centrolepis muscoides (Hook.f.) Hieron. |
-Centrolepis paludicola W.M.Curtis |
 Centrolepis pulvinata (R.Br.) Roemer & Schultes |
 Gaimardia amblyphylla W.M.Curtis |
 Cyperaceae |
@@ -530,3 +542,7 @@ Sinopteridaceae |
 Pellaea calidirupium Brownsey |
 Tmesipteridaceae |
 Tmesipteris parva Wakef. | Small Fork-fern
+LICHENS |
+Parmeliaceae |
+Parmotrema crinitum (Ach.) M. Choisy. |
+Xanthoparmelia vicaria Elix and J. Johnst. |

@@ -20,16 +20,22 @@ Chelonia mydas Linnaeus | Green Turtle
 Dermochelys coriacea Linnaeus | Leathery Turtle
 Eretmochelys imbricata Linnaeus | Hawksbill Turtle
 Niveoscincus palfreymani Rawlinson | Pedra Branca Skink
+Notechis ater serventyi Worrell | Chappell Island Tiger Snake
 Amphibians |
 Litoria raniformis Keferstein | Green and Gold Frog
-Fish |
+Freshwater Fish |
 Galaxias tanycephalus Fulton | Saddled Galaxias
+Paragalaxias dissimilis Regan | Shannon Paragalaxias
+Paragalaxias eleotroides McDowall and Fulton | Great Lake Paragalaxias
 Prototroctes maraena Gunther | Australian Grayling
+Marine Fish |
+Carcharodon carcharias Linnaeus | Great White Shark
 INVERTEBRATES
 Coleoptera |
 Goedetrechus mendumae Moore |
 Goedetrechus parallelus Moore |
 Hoplogonus simsoni Parry | Simson's Stag Beetle
+Hoplogonus vanderschoori Bartoluzzi | Vanderschoor’s Stag Beetle
 Lissotes menalcas Westwood | Mt. Mangana Stag Beetle
 Tasmanotrechus cockerilli Moore |
 Cyclophyllideae |
@@ -147,3 +153,6 @@ Dennstaedtiaceae |
 Hypolepis distans Hook. |
 Thelypteridaceae |
 Pneumatopteris pennigera (Forst.f.) Holtt. | Lime fern
+LICHENS |
+Parmeliaceae |
+Hypotrachyna laevigata (SM.) Hale. |

@@ -20,14 +20,19 @@ Galaxias pedderensis Frankenberg | Pedder Galaxias
 INVERTEBRATES
 Annelida |
 Diporochaeta pedderensis Jamieson | Lake Pedder Earthworm
+Asterinidae |
+Patiriella vivipara Dartnall | Viviparous Seastar
 Coleoptera |
 Lissotes latidens Westwood | Broad-toothed Stag Beetle
+Hoplogonus bornemisszai Bartoluzzi | Bornemissza’s Stag Beetle
 Lepidoptera |
 Antipodia chaostola Meyrick | Chaostola Skipper
 Onychophora |
 Tasmanipatus anophthalmus Ruhberg | Blind Velvet Worm
 Orthoptera |
 Schayera baiulus Erichson | Schayer's Grasshopper
+Poraniidae |
+Marginaster littoralis Dartnall |
 Trichoptera |
 Taskiria mccubbini Neboiss |
 Taskiropsyche lacustris Neboiss |
@@ -75,6 +80,7 @@ Discaria pubescens (Brongn.) | Druce Thornbush
 Rutaceae |
 Phebalium daviesii Hook.f. | Davies' Wax-flower
 Scrophulariaceae |
+Euphrasia gibbsiae ssp. psilanthera (F. Muell.) W. R. Barker |
 Euphrasia scabra R.Br. | Yellow Eyebright
 Solanaceae |
 Solanum opacum A.Br. & Bouche | Green-berry Nightshade
@@ -100,7 +106,7 @@ Thylacinus cynocephalus Harris | Thylacine
 Birds |
 Cyanoramphus novaezelandiae erythrotis Wagler | Macquarie Island Parakeet
 Dromaius minor Spencer | King Island Emu
-Dromaius novaehollandiae diemenesis Le Souef | Tasmanian Emu
+Dromaius novaehollandiae diemenensis Le Souef | Tasmanian Emu
 Gallirallus philippensis macquariensis Hutton | Macquarie Island Rail
 INVERTEBRATES
 Araneae |
@@ -110,8 +116,6 @@ Coleoptera |
 Stigmodera insculpta Carter | Jewel Beetle
 Lepidoptera |
 Chrysolarentia decisaria Walker |
-Sigmurethra |
-Austrochloritis victoriae Cox |
 Trichoptera |
 Costora iena Mosely |
 Diplectrona castanea Kimmins |
@@ -167,3 +171,6 @@ Deyeuxia lawrencei Vick. | Lawrence's Bent-grass
 PTERIDOPHYTA |
 Ophioglossaceae |
 Botrychium australe R.Br. | Austral moonwort, Parsley fern
+LICHENES |
+Parmeliaceae |
+Punctelia subflava (Taylor) elix and J. Johnst. |
