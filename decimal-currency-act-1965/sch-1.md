@@ -1,0 +1,3 @@
+# Schedule 1 Amendment of Acts
+Section 3(1)
+The amendments effected by this Schedule have been incorporated into the authorised version of the appropriate Acts.
