@@ -15,6 +15,7 @@ Part 4, Division 3 Fish processing licences
 Part 4, Division 4 Handling licences
 Part 4, Division 5 General provisions relating to licences
 Part 4, Division 6 Allocation arrangements
+Part 4, Division 6A Rock lobster quota
 Part 4, Division 7 Specified agreements
 Part 5 Protection of Marine Areas and Habitats
 Part 5, Division 1 Rules relating to certain areas and habitats
