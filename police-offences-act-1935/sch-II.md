@@ -2,9 +2,6 @@
 VII General Warrant
 Section 60
 [Picture in the source, not reproduced]
-VIII Tanner's Licence
-Section 52
-[Picture in the source, not reproduced]
 IX Certificate of Dismissal
 Section 61(5)
 Certificate of Dismissal

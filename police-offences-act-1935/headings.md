@@ -12,11 +12,9 @@ Part V Offences Involving Dishonesty
 Part VA Offences Relating to Computers
 Part VI Miscellaneous Offences
 Part VI, Division I Bogus advertisements and false notices
-Part VI, Division II Homing pigeons
 Part VI, Division IIA Setting of traps
 Part VI, Division III Motor-vehicle races and reliability trials
 Part VI, Division IIIA Public entertainments
-Part VI, Division IV Tanners
 Part VII Powers of Police Officers and Other Persons
 Part VII, Division I Arrest
 Part VII, Division II Entry and search
