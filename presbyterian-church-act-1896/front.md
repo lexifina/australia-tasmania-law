@@ -1,0 +1,5 @@
+Presbyterian Church Act 1896
+An Act to consolidate and amend the law relating to the Presbyterian Church of Tasmania
+Whereas by the Act of Parliament 42 Victoriæ No. 7, intituled An Act to regulate the Affairs of the Presbyterian Church of Tasmania, and hereinafter called the said Act, it was provided that it should be lawful for any body or section of the Presbyterian denomination in the Colony of Tasmania to be admitted into union with the Presbyterian Church of Tasmania:
+And whereas the section of the Presbyterian denomination in Tasmania which was theretofore called The Free Church of Scotland in Tasmania, has been admitted in pursuance of the provisions in that behalf contained in the said Act into union with the Presbyterian Church of Tasmania, hereinafter called the said Church, and it has therefore become desirable and expedient to consolidate and amend the law relating to the said Church:
+Be it therefore enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
