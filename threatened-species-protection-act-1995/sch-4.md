@@ -54,7 +54,6 @@ Mesogastropoda |
 Beddomeia krybetes Ponder & Clark |
 Beddomeia tumida Petterd |
 Sigmurethra |
-Anoglypta launcestonensis Reeve | Northeast Forest Snail
 Miselaoma weldi Tenison-Woods |
 FLORA
 The nomenclature for flora and post-nominal authorities is in accordance with the International Code of Botanical Nomenclature |
