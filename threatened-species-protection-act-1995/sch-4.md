@@ -5,7 +5,8 @@ Section 13(2)
 1.  | Mammals |  |
 1.  | Balaenoptera physalus | Linnaeus | Fin Whale
 2.  | Birds |  |
-(a)  | Halobaena caerulea | Gmelin | Blue Petrel
+(a)  | Haliaeetus leucogaster | Gmelin | White-bellied Sea-Eagle
+(aa)  | Halobaena caerulea | Gmelin | Blue Petrel
 (b)  | Leucocarbo atriceps purpurescens | Brant | Macquarie Island Shag
 (c)  | Macronectes giganteus | Gmelin | Southern Giant Petrel
 (d)  | Phoebetria palpebrata | Forster | Light-mantled Sooty Albatross
@@ -47,7 +48,7 @@ Section 13(2)
 1.  | Acacia axillaris | Benth., Mimosaceae | Midlands wattle
 2.  | Acrotriche cordata | (Labill.) R.Br., Epacridaceae | Coast ground berry
 3.  | Atriplex suberecta | I.Verd., Chenopodiaceae | Sprawling saltbush
-4.  | Bertya rosmarinifolia | Planchon, Euphorbiaceae | Rosemary bertya
+4.  | Bertya tasmanica ssp. tasmanica | (Sond. & F.Muell.) Müll.Arg., Euphorbiaceae | Tasmanian bertya
 5.  | Brachyscome rigidula | (DC.) G.Davis, Asteraceae | Hairy cutleaf daisy
 6.  | Brunonia australis | Smith ex R.Br., Brunoniaceae | Blue pincushion
 7.  | Conospermum hookeri | (Meisn.) E.M.Bennett, Proteaceae | Variable smoke bush
@@ -56,9 +57,10 @@ Section 13(2)
 10.  | Epacris grandis | Crowden, Epacridaceae | Great heath
 11.  | Epacris virgata | Hook.f., Epacridaceae | Pretty heath
 11A.  | Epacris aff. exserta 'Union Bridge' | (D.Keith & M.Ilowski HO320131), Epacridaceae | Union Bridge heath
+11B.  | Epacris aff. virgata 'graniticola' | (D.Keith HO322110), Epacridaceae | Mt Cameron heath
 12.  | Eryngium ovinum | A.Cunn., Apiaceae | Blue devil
 13.  | Euphrasia phragmostoma | W.R.Barker, Scrophulariaceae | Hairy cliff eyebright
-14.  | Glycine latrobeana | (Messin.) Benth., Fabaceae | Clover glycine
+14.  | Glycine latrobeana | (Meisn.) Benth., Fabaceae | Clover glycine
 15.  | Glycine microphylla | (Benth.) Tind., Fabaceae | Small-leaf glycine
 16.  | Gratiola pubescens | R.Br., Scrophulariaceae | Hairy brooklime
 17.  | Hakea ulicina | R.Br., Proteaceae | Furze hakea
@@ -73,16 +75,17 @@ Section 13(2)
 25A.  | Mirabelia oxylobioides | F.Muell., Fabaceae | Mountain mirbelia
 26.  | Myoporum parvifolium | R.Br., Myoporaceae | Creeping myoporum
 27.  | Myriophyllum integrifolium | (Hook.f.) Hook.f., Haloragaceae | Tiny water milfoil
+27A.  | Ozothamnus reflexifolius | K.Leeson & Rozefelds, Asteraceae | Reflexed everlasting
 28.  | Persicaria decipiens | (R.Br.) K.L. Wilson, Polygonaceae | Slender knotweed
 29.  | Phyllangium divergens | (Hook.f.) Dunlop, Loganiaceae | Wiry mitrewort
 30.  | Plantago gaudichaudii | Barneoud, Plantaginaceae | Narrow plantain
 31.  | Polyscias aff. sambucifolia | (R.Schahinger HO500267), Araliaceae | Elderberry panax
 32.  | Pomaderris elachophylla | F.Muell., Rhamnaceae | Small leaf pomaderris
 33.  | Prostanthera rotundifolia | R.Br., Lamiaceae | Roundleaf mint bush
-34.  | Pultenaea hibbertioides | Hook.f., Fabaceae | Guinea flower bush pea
 35.  | Pultenaea humilis | Benth. ex Hook.f., Fabaceae | Dwarf bush pea
-36.  | Pultenaea paleacea var. sericea | Benth., Fabaceae | Chaffy bush pea
+36.  | Pultenaea mollis | Lindl., Fabaceae | Guinea flower bush pea
 37.  | Pultenaea prostrata | Benth. ex Hook.f., Fabaceae | Prostrate bush pea
+38.  | Pultenaea sericea | (Benth.) Corrick, Fabaceae | Chaffy bush pea
 39.  | Scleranthus diander | R.Br., Caryophyllaceae | Tufted knawel
 40.  | Scleranthus fasciculatus | (R.Br.) Hook.f., Caryophyllaceae | Spreading knawel
 41.  | Spyridium lawrencei | (Hook.f.) Benth., Rhamnaceae | Small leaf spyridium

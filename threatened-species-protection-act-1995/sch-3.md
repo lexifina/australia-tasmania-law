@@ -27,7 +27,7 @@ Fauna – Vertebrates
 (i)  | Sterna albifrons sinensis | Gmelin | Little Tern
 (j)  | Sterna vittata bethunei | Buller | Antarctic Tern
 (k)  | Thalassarche chrysostoma | Forster | Grey-headed Albatross
-(l)  | Thalassarche melanophris | Temminck | Black-browed Albatross
+(l)  | Thalassarche melanophrys | Temminck | Black-browed Albatross
 (m)  | Tyto novaehollandiae castanops | (Gould) | Masked Owl
 3.  | Reptiles |  |
 (a)  | Caretta caretta | Linnaeus | Loggerhead Turtle
@@ -40,7 +40,7 @@ Fauna – Vertebrates
 (d)  | Galaxias pedderensis | Frankenberg | Pedder Galaxias
 (e)  | Galaxias tanycephalus | Fulton | Saddled Galaxias
 (f)  | Paragalaxias mesotes | McDowall and Fulton | Arthurs Paragalaxias
-(g)  | Raja sp. | (Last & Stevens, 1994) | Port Davey Skate
+(g)  | Raja sp. L | (Last & Stevens, 1994) | Port Davey Skate
 Fauna – Invertebrates
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Order | Common name
@@ -59,13 +59,13 @@ Fauna – Invertebrates
 12.  | Taskiria mccubbini | Neboiss, Trichoptera | Caddis Fly (Lake Pedder)
 13.  | Taskiropsyche lacustris | Neboiss, Trichoptera | Caddis Fly (Lake Pedder)
 14.  | Tasmanipatus anophthalmus | Ruhberg, Onychophora | Blind Velvet Worm
-Flora – Dicotyledoneae
+Flora – Dicotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Alternanthera denticulata | R.Br., Amaranthaceae | Lesser joyweed
 2.  | Argentipallium spiceri | (F.Muell.) Paul G.Wilson, Asteraceae | Spicer's everlasting
 3.  | Barbarea australis | Hook.f., Brassicaceae | Native wintercress
-3A.  | Calystegia sepium | (L.) R.Br., Convolvulaceae | Great bindweed
+3A.  | Craspedia preminghana | Rozefelds, Asteraceae | Preminghana billy button
 4.  | Cryptandra amara | Smith, Rhamnaceae | Bitter cryptandra
 5.  | Discaria pubescens | (Brongn.) Druce, Rhamnaceae | Hairy anchor plant
 6.  | Epacris apsleyensis | Crowden, Epacridaceae | Apsley heath
@@ -73,7 +73,7 @@ Flora – Dicotyledoneae
 8.  | Epacris glabella | Jarman, Epacridaceae | Funnel heath
 9.  | Epacris limbata | K.J.Williams & F.Duncan, Epacridaceae | Border heath
 10.  | Epacris stuartii | Stapf, Epacridaceae | Stuart's heath
-10A.  | Eucalyptus gunnii ssp. divaricata | (McAulay & Brett) B. M. Potts (in press), Myrtaceae | Miena cider gum
+10A.  | Eucalyptus gunnii ssp. divaricate | (McAulay & Brett) B.M.Potts, Myrtaceae | Miena cider gum
 11.  | Eucalyptus morrisbyi | Brett, Myrtaceae | Morrisby's gum
 11A.  | Euphrasia collina ssp. tetragona | (R.Br.) W.R.Barker, Scrophulariaceae | North Coast eyebright
 12.  | Euphrasia fragosa | W.R.Barker, Scrophulariaceae | Shy eyebright
@@ -91,7 +91,6 @@ Flora – Dicotyledoneae
 24.  | Leucochrysum albicans ssp. albicans var. tricolor | (DC.) Paul G.Wilson, Asteraceae | Grassland paper daisy
 25.  | Lomatia tasmanica | W.M.Curtis, Proteaceae | King's lomatia
 26.  | Lycopus australis | R.Br., Lamiaceae | Native gipsywort
-27.  | Ozothamnus selaginoides | Sonder & F.Muell., Asteraceae | Clubmoss everlasting
 28.  | Persicaria subsessilis | (R.Br.) K.L. Wilson, Polygonaceae | Bristly knotweed
 29.  | Phebalium daviesii | Hook.f., Rutaceae | Davies' wax flower
 29A.  | Philotheca freyciana | Rozefelds, Rutaceae | Freycinet wax flower
@@ -107,7 +106,7 @@ Flora – Dicotyledoneae
 39.  | Tetratheca gunnii | Hook.f., Tremandraceae | Shy susan
 40.  | Viminaria juncea | (Schrad. & J.Wendl.) Hoffsgg., Fabaceae | Golden spray
 41.  | Vittadinia australasica var. oricola | N.Burb.,Asteraceae | Coast New Holland daisy
-Flora – Monocotyledoneae
+Flora – Monocotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Amphibromus macrorhinus | S.W.L.Jacobs & L.Lapinpuro, Poaceae | Long-nosed swamp wallaby grass
@@ -166,14 +165,18 @@ Flora – Pteridophyta
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Cheilanthes distans | (R.Br.) Mett., Adiantaceae | Bristly cloak fern
+2.  | Cyathea cunninghamii | Hook.f., Cyatheaceae | Slender treefern
 Flora – Lichens
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Neofuscelia subloxodella | Elix & Kantvilas, Parmeliaceae |
-1A.  | Parmelina pallida | Elix & Kantvilas, Parmeliaceae |
-1B.  | Xanthoparmelia amphixantha | (Müll.Arg.) Hale, Parmeliaceae |
-1C.  | Xanthoparmelia molliuscula | (Ach.) Hale, Parmeliaceae |
-2.  | Xanthoparmelia willisii | (Kurok. & Filson) Elix & J.Johnst., Parmeliaceae |
+1.  | Erioderma sorediatum | D.J.Galloway & P.M.Jørg., Pannariaceae |
+2.  | Menegazzia minuta | P.James & Kantvilas, Parmeliaceae |
+3.  | Neofuscelia subloxodella | Elix & Kantvilas, Parmeliaceae |
+4.  | Parmelina pallida | Elix & Kantvilas, Parmeliaceae |
+5.  | Roccellinastrum neglectum | Henssen & Vobis, Roccellinastraceae |
+6.  | Xanthoparmelia amphixantha | (Müll.Arg.), Parmeliaceae |
+7.  | Xanthoparmelia molliuscula | (Ach.) Hale, Parmeliaceae |
+8.  | Xanthoparmelia willisii | (Kurok. & Filson) Elix & J.Johnst., Parmeliaceae |
 Fauna – Vertebrates
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
@@ -191,27 +194,27 @@ Fauna – Invertebrates
 2.  | Costora iena | Mosely, Trichoptera | Caddis Fly (Great Lakes)
 3.  | Diplectrona castanea | Kimmins, Trichoptera | Caddis Fly (Mt. Field)
 4.  | Hadronyche pulvinator | Hickman, Araneae | Cascade Funnel-web Spider
-Flora – Dicotyledoneae
+Flora – Dicotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Asperula charophyton | Airy Shaw & Turrill, Rubiaceae | Strapleaf woodruff
 2.  | Ballantinia antipoda | (F.Muell.) E.Shaw, Brassicaceae | Southern ballantine
 3.  | Banksia integrifolia | L.f., Proteaceae | Coast banksia
-4.  | Brachyscome tenuiscapa var. pubescens | (Benth.) G.Davis, Asteraceae | Hairy mountain daisy
 5.  | Chenopodium erosum | R.Br., Chenopodiaceae | Papery gooseneck
 5A.  | Coopernookia barbata | (R.Br.) Carolin, Goodeniaceae | Purple goodenia
-6.  | Goodenia amplexans | F.Muell., Goodeniaceae | Clasping goodenia
 8.  | Hibbertia rufa | N.A.Wakef., Dilleniaceae | Brown guinea flower
 9.  | Levenhookia dubia | Sonder, Stylidiaceae | Hairy stylewort
+9A.  | Mentha australis | R.Br., Lamiaceae | River mint
 10.  | Myosurus minimus | L., Ranunculaceae | Mouse tail
 11.  | Myriophyllum glomeratum | Schindler, Haloragaceae | Clustered water milfoil
+11A.  | Ozothamnus selaginoides | Sonder & F.Muell., Asteraceae | Clubmoss everlasting
 12.  | Podotheca angustifolia | (Labill.) Less., Asteraceae | Sticky longheads
 13.  | Prostanthera cuneata | Benth., Lamiaceae | Alpine mint bush
 14.  | Senecio macrocarpus | Belcher, Asteraceae | Fluffy groundsel
 15.  | Thesium australe | R.Br., Santalaceae | Austral toadflax
 16.  | Veronica notabilis | F.Muell. ex Benth., Scrophulariaceae | Forest speedwell
 18.  | Vittadinia megacephala | (F.Muell. ex Benth.) J.Black, Asteraceae | Giant New Holland daisy
-Flora – Monocotyledoneae
+Flora – Monocotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 2.  | Arachnorchis cardiochila | (Tate) D.L.Jones & M.A.Clem., Orchidaceae | Heart-lip spider orchid
@@ -225,4 +228,4 @@ Flora – Pteridophyta
 Flora – Lichens
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Punctelia subflaua | (Taylor) Elix & J.Johnst., Parmeliaceae | Parsley fern
+1.  | Punctelia subflava | (Taylor) Elix & J.Johnst., Parmeliaceae |
