@@ -31,19 +31,11 @@ Part 5 Electricity Officers
 Part 5, Division 1 Appointment of electricity officers
 Part 5, Division 2 General powers of electricity officers
 Part 6 Emergency Restriction of Electricity Use
-Part 7 Safety and Technical Issues
-Part 7, Division 1 Requirements for electrical installations
-Part 7, Division 2 Power to require rectification of deficiencies
-Part 7, Division 3 Reporting of accidents
-Part 7, Division 4 Electrical workers
 Part 8 Enforcement
 Part 8, Division 1 Authorised officers
 Part 8, Division 2 Power of entry
 Part 8, Division 3 General investigative powers
 Part 8, Division 4 Power to disconnect electricity supply
-Part 8, Division 5 Cathodic protection systems
-Part 8, Division 6 Power to make electrical installation safe
-Part 8, Division 7 Power to prohibit the sale of equipment, &c.
 Part 8, Division 8 Power to require information
 Part 9 Administrative Review and Appeal
 Part 9, Division 1 Administrative review
