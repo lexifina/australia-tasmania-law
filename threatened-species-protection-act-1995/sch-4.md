@@ -31,6 +31,8 @@ Section 13(2)
 3.  | Beddomeia krybetes | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Great Lake)
 4.  | Beddomeia tumida | Petterd, Mesogastropoda | Hydrobiid Snail (St. Pauls River)
 5.  | Dasybela achroa | Lower, Lepidoptera | Saltmarsh Looper Moth
+5A.  | "Discocharopa" vigens | Legrand, Mesogastropoda | Land Snail
+5B.  | Engaeus martigener | Horwitz, Decapoda | Furneaux Burrowing Crayfish
 6.  | Engaeus orramakunna | Horwitz, Decapoda | Mt. Arthur Burrowing Crayfish
 7.  | Engaeus yabbimunna | Horwitz, Decapoda | Burrowing Crayfish (Burnie)
 8.  | Goedetrechus parallelus | Moore, Coleoptera | Cave Beetle (Junee-Florentine)
@@ -65,6 +67,7 @@ Section 13(2)
 23.  | Lobelia pratioides | Benth., Campanulaceae | Poison lobelia
 24.  | Lythrum salicaria | L., Lythraceae | Purple loosestrife
 25.  | Micrantheum serpentinum | Orch., Euphorbiaceae | Serpentine micrantheum
+25A.  | Mirabelia oxylobioides | F.Muell., Fabaceae | Mountain mirbelia
 26.  | Myoporum parvifolium | R.Br., Myoporaceae | Creeping myoporum
 27.  | Myriophyllum integrifolium | (Hook.f.) Hook.f., Haloragaceae | Tiny water milfoil
 28.  | Persicaria decipiens | (R.Br.) K.L. Wilson, Polygonaceae | Slender knotweed
@@ -98,7 +101,7 @@ Section 13(2)
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Callitris oblonga ssp. oblonga | Rich., Cupressaceae | South Esk pine
-2.  | Microstrobos niphophilus | J.Garden & L.Johnson, Podocarpaceae | Creeping pine
+2.  | Microstrobos niphophilus | J.Garden & L.Johnson, Podocarpaceae | Mount Mawson pine
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Asplenium hookerianum | Colenso, Aspleniaceae | Hooker's spleenwort
@@ -110,3 +113,4 @@ Section 13(2)
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Hypotrachyna laevigata | (Sm.) Hale, Parmeliaceae |
+2.  | Xanthoparmelia jarmaniae | Elix & Kantvilas, Parmeliaceae |

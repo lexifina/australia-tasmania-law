@@ -11,13 +11,17 @@ Fauna – Vertebrates
 (e)  | Mirounga leonina | Gray | Southern Elephant Seal
 (f)  | Pseudomys novaehollandiae | Waterhouse | New Holland Mouse
 2.  | Birds |  |
-(a)  | Accipiter novaehollandiae | Gmelin | Grey Goshawk
+(a)  | Acanthiza pusilla archibaldi | Mathews | Brown Thornbill (King Island)
+(ab)  | Acanthornis magnus greenianus | Schodde & Mason | Scrubtit (King Island)
+(ac)  | Accipiter novaehollandiae | Gmelin | Grey Goshawk
 (b)  | Aquila audax fleayi | Latham | Wedge-tailed Eagle
 (c)  | Diomedea exulans | Linnaeus | Wandering Albatross
 (d)  | Lathamus discolor | Shaw | Swift Parrot
 (e)  | Neophema chrysogaster | Latham | Orange-bellied Parrot
+(ea)  | Numenius madagascariensis | Linnaeus | Eastern Curlew
 (f)  | Pachyptila turtur subantarctica | Kuhl | Fairy Prion (southern subspecies)
 (g)  | Pardalotus quadragintus | Gould | Forty-spotted Pardalote
+(ga)  | Procellaria cinerea | Gmelin | Grey Petrel
 (h)  | Pterodroma mollis | Gould | Soft-plumaged Petrel
 (i)  | Sterna albifrons sinensis | Gmelin | Little Tern
 (j)  | Sterna vittata bethunei | Buller | Antarctic Tern
@@ -26,6 +30,7 @@ Fauna – Vertebrates
 3.  | Reptiles |  |
 (a)  | Caretta caretta | Linnaeus | Loggerhead Turtle
 (b)  | Niveoscincus palfreymani | Rawlinson | Pedra Branca Skink
+(c)  | Pseudemoia pagenstecheri | Lindholm | Tussock Skink
 4.  | Fish |  |
 (a)  | Brachionichthys hirsutus | Lacepede | Spotted Handfish
 (b)  | Galaxias fontanus | Fulton | Swan Galaxias
@@ -44,6 +49,7 @@ Fauna – Invertebrates
 6.  | Lissotes latidens | Westwood, Coleoptera | Broad-toothed Stag Beetle
 7.  | Marginaster littoralis | Dartnell, Asterinidae | Seastar
 8.  | Miselaoma weldi | Tenison-Woods, Sigmurethra | Stanley Snail
+8A.  | Oreisplanus munionga larana | Olliff, Lepidoptera | Marrawah Skipper
 9.  | Patiriella vivipara | Dartnall, Asterinidae | Live-bearing Seastar
 10.  | Plesiothele fentoni | Hickman, Araneae | Lake Fenton Trapdoor Spider
 11.  | Schayera baiulus | Erichson, Orthoptera | Schayer's Grasshopper
@@ -56,6 +62,7 @@ Flora – Dicotyledoneae
 1.  | Alternanthera denticulata | R.Br., Amaranthaceae | Lesser joyweed
 2.  | Argentipallium spiceri | (F.Muell.) Paul G.Wilson, Asteraceae | Spicer's everlasting
 3.  | Barbarea australis | Hook.f., Brassicaceae | Native wintercress
+3A.  | Calystegia sepium | (L.) R.Br., Convolvulaceae | Great bindweed
 4.  | Cryptandra amara | Smith, Rhamnaceae | Bitter cryptandra
 5.  | Discaria pubescens | (Brongn.) Druce, Rhamnaceae | Hairy anchor plant
 6.  | Epacris apsleyensis | Crowden, Epacridaceae | Apsley heath
@@ -63,6 +70,7 @@ Flora – Dicotyledoneae
 8.  | Epacris glabella | Jarman, Epacridaceae | Funnel heath
 9.  | Epacris limbata | K.J.Williams & F.Duncan, Epacridaceae | Border heath
 10.  | Epacris stuartii | Stapf, Epacridaceae | Stuart's heath
+10A.  | Eucalyptus gunnii ssp. divaricata | (McAulay & Brett) B. M. Potts (in press), Myrtaceae | Miena cider gum
 11.  | Eucalyptus morrisbyi | Brett, Myrtaceae | Morrisby's gum
 12.  | Euphrasia fragosa | W.R.Barker, Scrophulariaceae | Shy eyebright
 13.  | Euphrasia gibbsiae ssp. psilantherea | (F.Muell.) W.R.Barker, Scrophulariaceae | Swamp eyebright
@@ -82,6 +90,7 @@ Flora – Dicotyledoneae
 27.  | Ozothamnus selaginoides | Sonder & F.Muell. ex Sonder, Asteraceae | Clubmoss everlasting
 28.  | Persicaria subsessilis | (R.Br.) K.L. Wilson, Polygonaceae | Bristly knotweed
 29.  | Phebalium daviesii | Hook.f., Rutaceae | Davies' wax flower
+29A.  | Philotheca freyciana | Rozefelds, Rutaceae | Freycinet wax flower
 30.  | Pimelea axiflora ssp. axiflora | F.Muell. ex Meisn., Thymelaeaceae | Bootlace bush
 31.  | Ranunculus prasinus | Menadue, Ranunculaceae | Tunbridge buttercup
 32.  | Rhytidosporum alpinum | McGillivray, Pittosporaceae | Alpine appleberry
@@ -93,6 +102,7 @@ Flora – Dicotyledoneae
 38.  | Stenopetalum lineare | R.Br. ex DC., Brassicaceae | Threadcress
 39.  | Tetratheca gunnii | Hook.f., Tremandraceae | Shy susan
 40.  | Viminaria juncea | (Schrad. & J.Wendl.) Hoffsgg., Fabaceae | Golden spray
+41.  | Vittadinia australasica var. oricola | N.Burb.,Asteraceae | Coast New Holland daisy
 Flora – Monocotyledoneae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
@@ -153,7 +163,8 @@ Flora – Pteridophyta
 Flora – Lichens
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Xanthoparmelia molliuscula | (Ach.) Hale, Parmeliaceae |
+1.  | Neofuscelia subloxodella | Elix & Kantvilas, Parmeliaceae |
+1A.  | Xanthoparmelia molliuscula | (Ach.) Hale, Parmeliaceae |
 2.  | Xanthoparmelia willisii | (Kurok. & Filson) Elix & J.Johnst., Parmeliaceae |
 Fauna – Vertebrates
 | Column 1 | Column 2 | Column 3
@@ -179,7 +190,7 @@ Flora – Dicotyledoneae
 2.  | Ballantinia antipoda | (F.Muell.) E.Shaw, Brassicaceae | Southern ballantine
 3.  | Banksia integrifolia | L.f., Proteaceae | Coast banksia
 4.  | Brachyscome tenuiscapa var. pubescens | (Benth.) G.Davis, Asteraceae | Hairy mountain daisy
-5.  | Calystegia sepium | (L.) R.Br., Convolvulaceae | Great bindweed
+5.  | Chenopodium erosum | R.Br., Chenopodiaceae | Papery gooseneck
 6.  | Goodenia amplexans | F.Muell., Goodeniaceae | Clasping goodenia
 7.  | Goodenia barbata | R.Br., Goodeniaceae | Purple goodenia
 8.  | Hibbertia rufa | Wakef., Dilleniaceae | Brown guinea flower
@@ -191,7 +202,6 @@ Flora – Dicotyledoneae
 14.  | Senecio macrocarpus | Belcher, Asteraceae | Fluffy groundsel
 15.  | Thesium australe | R.Br., Santalaceae | Austral toadflax
 16.  | Veronica notabilis | F.Muell. ex Benth., Scrophulariaceae | Forest speedwell
-17.  | Vittadinia australasica var. oricola | N.Burb., Asteraceae | Sticky New Holland daisy
 18.  | Vittadinia megacephala | (F.Muell. ex Benth.) J.Black, Asteraceae | Giant New Holland daisy
 Flora – Monocotyledoneae
 | Column 1 | Column 2 | Column 3

@@ -10,6 +10,8 @@ Section 13(3)
 (c)  | Phoebetria fusca | Hilsenberg | Sooty Albatross
 (d)  | Podiceps cristatus | Linne | Great Crested Grebe
 (e)  | Sterna nereis nereis | Gould | Fairy Tern
+2A.  | Reptiles |  |
+(a)  | Pseudemoia rawlinsoni | Hutchinson & Donnellan | Glossy Grass Skink
 3.  | Fish |  |
 (a)  | Galaxias parvus | Frankenburg | Swamp Galaxias
 (b)  | Galaxiella pusilla | Mack | Dwarf Galaxias
@@ -61,6 +63,7 @@ Section 13(3)
 42.  | Diplectrona lyella | Neboiss, Trichoptera | Caddis Fly (King River)
 43.  | Echinodillo cavaticus | Green, Isopoda | Flinders Island Cave Slater
 44.  | Ecnomina vega | Neboiss, Trichoptera | Caddis Fly (Macquarie River)
+44A.  | Enchymus sp.nov. | Zimmerman, Coleoptera | Weldborough Forest Weevel
 45.  | Fraus latistria | Nielsen & Kristensen, Lepidoptera | Broad-striped Ghost Moth
 46.  | Glacidorbis pawpela | Smith, Mesogastropoda | Hydrobiid Snail (Great Lake)
 47.  | Goedetrechus mendumae | Moore, Coleoptera | Cave Beetle (Ida Bay)
@@ -92,6 +95,7 @@ Section 13(3)
 73.  | Phrantela conica | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Little Henty River)
 74.  | Phrantela marginata | Petterd, Mesogastropoda | Hydrobiid Snail (Heazlewood River)
 75.  | Phrantela pupiformis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Tyenna River)
+75A.  | Pseudalmenus chlorinda myrsilus | Couchman, Lepidoptera | Tasmanian Hairstreak (butterfly)
 76.  | Pseudotyrannochthonius typhlus | Dartnall, Pseudoscorpionida | Cave Pseudoscorpion (Mole Creek)
 77.  | Ramiheithrus kocinus | Neboiss, Trichoptera | Caddis Fly (Corinna)
 78.  | Roblinella agnewi | Legrand, Sigmurethra | Silky Snail
@@ -197,7 +201,6 @@ Section 13(3)
 90.  | Melaleuca pustulata | Hook.f., Myrtaceae | Cranbrook paperbark
 91.  | Millotia muelleri | (Sonder) P.S.Short, Asteraceae | Common bow flower
 92.  | Millotia tenuifolia | Cass., Asteraceae | Soft millotia
-93.  | Mirbelia oxylobioides | F.Muell., Fabaceae | Mountain mirbelia
 94.  | Monotoca submutica var. autumnalis | Jarman, Epacridaceae | Roundleaf broom heath
 95.  | Muehlenbeckia axillaris | (Hook.f.) Endl., Polygonaceae | Matted lignum
 96.  | Myriophyllum crispatum | Orch., Haloragaceae | Curling water milfoil
@@ -234,6 +237,7 @@ Section 13(3)
 127.  | Ranunculus pumilio | R.Br. ex DC., Ranunculaceae | Ferny buttercup
 128.  | Ranunculus sessiliflorus | R.Br. ex DC., Ranunculaceae | Annual buttercup
 129.  | Rhodanthe anthemoides | (Sprengel) Paul G.Wilson, Asteraceae | Chamomile sunray
+129A.  | Rumex bidens | R.Br., Polygonaceae | Mud dock
 130.  | Rutidosis multiflora | (Nees) Robinson, Asteraceae | Small wrinklewort
 131.  | Scaevola albida | (Smith) Druce, Goodeniaceae | Pale fanflower
 132.  | Scleranthus brockiei | P.A.Williamson, Caryophyllaceae | Brock knawel
@@ -250,7 +254,6 @@ Section 13(3)
 143.  | Stylidium despectum | R.Br., Stylidiaceae | Small trigger plant
 144.  | Stylidium inundatum | R.Br., Stylidiaceae | Swamp trigger plant
 145.  | Stylidium perpusillum | Hook.f., Stylidiaceae | Tiny trigger plant
-146.  | Suaeda maritima | (L.) Dumort., Chenopodiaceae | Annual seablite
 147.  | Taraxacum aristum | Hagl. & Markl., Asteraceae | Austral dandelion
 148.  | Tetratheca ciliata | Lindley, Tremandraceae | Pink bells
 149.  | Teucrium corymbosum | R.Br., Lamiaceae | Forest germander
@@ -391,5 +394,6 @@ Section 13(3)
 | Species | Authority, Family | Common name
 1.  | Hypotrachyna immaculata | (Kurok.) Hale, Parmeliaceae |
 2.  | Neofuscelia graniticola | Elix & Kantvilas, Parmeliaceae |
+2A.  | Parmeliopsis ambigua | (Wulf) Nye, Parmeliaceae |
 3.  | Parmotrema crinitum | (Ach.) M.Choisy, Parmeliaceae |
 4.  | Xanthoparmelia vicaria | Elix & J.Johnst., Parmeliaceae |
