@@ -1,0 +1,3 @@
+Penalty Units and Other Penalties Act 1987
+An Act to provide generally for the introduction of a penalty units system with respect to offences against Acts and subordinate instruments in place of the existing system providing for penalties in monetary terms, to amend certain Acts for the purpose of introducing that system, to increase certain penalties for offences against the Police Offences Act 1935, the Alcohol and Drug Dependency Act 1968, and the Road Safety (Alcohol and Drugs) Act 1970, and to amend the Acts Interpretation Act 1931 and the Acts Interpretation Amendment Act 1981.
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
