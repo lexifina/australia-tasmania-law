@@ -1,3 +1,3 @@
 Gaming Control Act 1993
-An Act to establish a system for the licensing, supervision and control of casinos and to regulate their use and operation, to establish a system for the supervision and control of gaming machines and keno and to regulate their use and operation and to provide for other matters
+An Act to make provision generally in respect of gaming and wagering, to provide for the supervision and control of casinos, gaming machines, keno, lotteries, lucky envelopes, gaming by telephone and other electronic means and other gaming and to provide for related matters
 Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
