@@ -7,6 +7,18 @@ Part 4, Division 2 Licensed premises gaming licence
 Part 4, Division 3 Special employee's licence
 Part 4, Division 4 Technician's licence
 Part 4, Division 5 Manufacturers and suppliers of gaming equipment
+Part 4A Gaming and wagering under Tasmanian gaming licence
+Part 4A, Division 1 Lawful and unlawful activities
+Part 4A, Division 2 Application for, and determination of, Tasmanian gaming licence
+Part 4A, Division 3 Application for, and determination of, new gaming endorsement
+Part 4A, Division 4 Tasmanian gaming licence
+Part 4A, Division 5 Disciplinary action
+Part 4A, Division 6 End of Tasmanian gaming licence
+Part 4A, Division 7 Player protection
+Part 4A, Division 8 Duties in respect of player's funds
+Part 4A, Division 9 Duties and powers in respect of prizes
+Part 4A, Division 10 General duties of licensed providers
+Part 4A, Division 11 Miscellaneous
 Part 5 Control of Gaming
 Part 5, Division 1 Gaming control relating to approved venues
 Part 5, Division 2 Gaming control relating to casinos
@@ -16,4 +28,6 @@ Part 8 Inspectors
 Part 9 Financial Provisions
 Part 9, Division 1 Accounts and levies
 Part 9, Division 2 Licence fees, taxation and other amounts payable
+Part 9, Division 3 Gaming and wagering guarantee
+Part 9, Division 4 Miscellaneous
 Part 10 Miscellaneous
