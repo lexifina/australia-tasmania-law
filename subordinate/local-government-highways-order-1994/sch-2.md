@@ -20,6 +20,7 @@ Launceston | Clarks Ford (North Esk River) | 85 | Station Road, St Leondards
 Launceston | Flood Opening | 86 | Station Road, St Leonards
 Launceston | Flood Opening | 87 | Station Road, St Leonards
 Launceston | Henry Street (North Esk River) | 607 | Henry Street, Ravenswood
+Launceston | Kings (South Esk River) | 927 | Bridge Street, Launceston
 Launceston | Paterson Street Overpass | 5541 | Bathurst Street, Launceston
 Launceston | Victoria (North Esk River) | 5220 | Tamar Street, Launceston
 Northern Midlands | Blackman River | 599 | Tunbridge Road, Tunbridge
