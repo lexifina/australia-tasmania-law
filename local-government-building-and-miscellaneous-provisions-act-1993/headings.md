@@ -28,16 +28,6 @@ Part 4, Division 4 Closure of cemeteries and burial grounds
 Part 4, Division 5 Taking over disused burial-grounds
 Part 4, Division 6 Exhumation and reburial
 Part 4, Division 7 Parks and gardens
-Part 5 Public Health
-Part 5, Division 1 General
-Part 5, Division 2 Appointment of officers
-Part 5, Division 3 Removal of refuse and cleansing
-Part 5, Division 4 Sanitation provisions
-Part 5, Division 5 Unhealthy buildings
-Part 5, Division 6 Nuisances
-Part 5, Division 7 Offensive trades
-Part 5, Division 8 Places of public entertainment
-Part 5, Division 9 Miscellaneous matters
 Part 6 Water supply
 Part 6, Division 1 Water districts
 Part 6, Division 3 Cost of extension of water mains
