@@ -15,7 +15,7 @@ Part XI Motions to Review, Appeals, and Similar Proceedings
 Part XI, Division 1 Motions to review to the Supreme Court and hearings de novo
 Part XI, Division 2 Appeals to, and review by, magistrates
 Part XI, Division 3 Stated case
-Part XI, Division 4 Proceeding in lieu of mandamus
+Part XI, Division 4 Rule to show cause
 Part XI, Division 5 General provisions
 Part XI, Division 6 Appeals relating to bail
 Part XII Protection of Justices in the Execution of Their Office
