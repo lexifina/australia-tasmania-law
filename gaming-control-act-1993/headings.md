@@ -1,6 +1,6 @@
 Part 1 Preliminary
 Part 1A Gaming and related activities prohibited in certain circumstances
-Part 2 Deed
+Part 2 2003 Deed
 Part 3 Licensing of Casinos and Gaming Operations
 Part 4 Licensing of Licensed Premises Operators, Employees and Technicians and Listing of Manufacturers
 Part 4, Division 1 General
@@ -33,6 +33,7 @@ Part 4C, Division 5 End of foreign games permit
 Part 4C, Division 6 Accredited representatives
 Part 5 Control of Gaming
 Part 5, Division 1 Gaming control relating to approved venues
+Part 5, Division 1A Limitations on gaming machine numbers
 Part 5, Division 2 Gaming control relating to casinos
 Part 5, Division 3 Exclusion from gaming
 Part 5, Division 5 Gaming control generally
@@ -43,6 +44,7 @@ Part 8 Inspectors
 Part 9 Financial Provisions
 Part 9, Division 1 Accounts and levies
 Part 9, Division 2 Licence fees, taxation and other amounts payable
+Part 9, Division 2A Gaming machine rental
 Part 9, Division 3 Gaming and wagering guarantee
 Part 9, Division 4 Miscellaneous
 Part 10 Miscellaneous

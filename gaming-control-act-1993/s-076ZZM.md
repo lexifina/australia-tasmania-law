@@ -1,2 +1,2 @@
-# 76ZZM. Commission to act in accordance with Deed and agreements between Crown and licence holder
-In determining a game to be an authorised game, the rules of the game and any conditions relating to the conduct and playing of the authorised game, the Commission must not act in a manner that is inconsistent with the Deed or the terms of an agreement between the Crown and a licence holder, or an agreement under section 150B, that is in effect.
+# 76ZZM. Commission to act in accordance with 2003 Deed and agreements between Crown and licence holder
+In determining a game to be an authorised game, the rules of the game and any conditions relating to the conduct and playing of the authorised game, the Commission must not act in a manner that is inconsistent with the 2003 Deed or the terms of an agreement between the Crown and a licence holder, or an agreement under section 150B, that is in effect.
