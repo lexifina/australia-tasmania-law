@@ -40,12 +40,14 @@ Forms of Indictment
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
-Oaths
-I Juror's Oath On Trial Of Indictment
+Oaths and Affirmations
+I Juror's Oath in Criminal Trials
 [Picture in the source, not reproduced]
-II Juror's Oath On Inquiry As To A Prisoner's Sanity Or Capacity To Take His Trial
+II Juror's Affirmation in Criminal Trials
 [Picture in the source, not reproduced]
 III Juror's Oath On Leaving Court
+[Picture in the source, not reproduced]
+IIIA Juror's Affirmation on leaving court
 [Picture in the source, not reproduced]
 IV Oath Of Officer Or Officers In Charge Of A Jury
 [Picture in the source, not reproduced]
