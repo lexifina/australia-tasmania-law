@@ -108,3 +108,5 @@ Rules 912 and 921
 Judgment creditor's costs |
 In respect of a debt exceeding $5000 | $131.00
 In respect of a debt not exceeding $5000 | $91.00
+Rule 601
+Costs of the summons | $400
