@@ -29,6 +29,7 @@ Part 13, Division 3 Exemptions
 Part 13, Division 4 Australian Stock Exchange Limited
 Part 13, Division 5 Companies Auditors and Liquidators Disciplinary Board
 Part 13, Division 6 Administration of this Act
+Part 13, Division 6A Functions of Commonwealth authorities and officers of the Commonwealth
 Part 13, Division 7 Amending Acts
 Part 14 Provisions affecting Corporations Law
 Part 15 Miscellaneous amendments
