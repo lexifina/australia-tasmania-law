@@ -14,3 +14,5 @@ COLUMN 1Item No. | COLUMN 2 General description of land | COLUMN 3 Registered pl
 11 | Risdon Cove | 3466
 12 | Cape Barren Island (part) | 3486
 13 | Wybalenna | 4807
+14 | Cape Barren Island | 6457
+15 | Clarke Island | 5135
