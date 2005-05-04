@@ -38,6 +38,7 @@ Section 13(2)
 5B.  | Engaeus martigener | Horwitz, Decapoda | Furneaux Burrowing Crayfish
 6.  | Engaeus orramakunna | Horwitz, Decapoda | Mt. Arthur Burrowing Crayfish
 7.  | Engaeus yabbimunna | Horwitz, Decapoda | Burrowing Crayfish (Burnie)
+7A.  | Gazameda gunnii | (Reeve), Mesogastropoda | Gunn's Screw Shell
 8.  | Goedetrechus parallelus | Moore, Coleoptera | Cave Beetle (Junee-Florentine)
 9.  | Hoplogonus simsoni | Parry, Coleoptera | Simson's Stag Beetle
 10.  | Hoplogonus vanderschoori | Bartoluzzi, Coleoptera | Vanderschoor's Stag Beetle
@@ -49,6 +50,8 @@ Section 13(2)
 2.  | Acrotriche cordata | (Labill.) R.Br., Epacridaceae | Coast ground berry
 3.  | Atriplex suberecta | I.Verd., Chenopodiaceae | Sprawling saltbush
 4.  | Bertya tasmanica ssp. tasmanica | (Sond. & F.Muell.) Müll.Arg., Euphorbiaceae | Tasmanian bertya
+4A.  | Boronia gunnii | Hook.f., Rutaceae | Gunn's boronia
+4B.  | Boronia hippopala | Duretto, Rutaceae | Velvet boronia
 5.  | Brachyscome rigidula | (DC.) G.Davis, Asteraceae | Hairy cutleaf daisy
 6.  | Brunonia australis | Smith ex R.Br., Brunoniaceae | Blue pincushion
 7.  | Conospermum hookeri | (Meisn.) E.M.Bennett, Proteaceae | Variable smoke bush
@@ -64,11 +67,12 @@ Section 13(2)
 15.  | Glycine microphylla | (Benth.) Tind., Fabaceae | Small-leaf glycine
 16.  | Gratiola pubescens | R.Br., Scrophulariaceae | Hairy brooklime
 17.  | Hakea ulicina | R.Br., Proteaceae | Furze hakea
-18.  | Haloragis aspera | Lindley, Haloragaceae | Rough raspwort
+18.  | Haloragis aspera | Lindl., Haloragaceae | Rough raspwort
 19.  | Hibbertia calycina | (DC.) N.A.Wakef., Dilleniaceae | Lesser guinea flower
 20.  | Hydrocotyle laxiflora | DC., Apiaceae | Stinking pennywort
 21.  | Isopogon ceratophyllus | R.Br., Proteaceae | Horny cone bush
 22.  | Lasiopetalum micranthum | Hook.f., Sterculiaceae | Tasmanian velvet bush
+22A.  | Limonium baudinii | Lincz, Plumbaginaceae | Baudin's sea lavender
 23.  | Lobelia pratioides | Benth., Campanulaceae | Poison lobelia
 24.  | Lythrum salicaria | L., Lythraceae | Purple loosestrife
 25.  | Micrantheum serpentinum | Orch., Euphorbiaceae | Serpentine micrantheum
@@ -97,8 +101,8 @@ Section 13(2)
 46.  | Veronica novae-hollandiae | Poiret, Scrophulariaceae | New Holland speedwell
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Arachnorchis dienema | (D.L.Jones) D.L.Jones & M.A.Clem., Orchidaceae | Windswept spider orchid
-2.  | Arachnorchis patersonii | (R.Br.) D.L.Jones & M.A.Clem., Orchidaceae | Paterson's spider orchid
+1.  | Caladenia dienema | D.L.Jones, Orchidaceae | Windswept spider orchid
+2.  | Caladenia patersonii | R.Br., Orchidaceae | Paterson's spider orchid
 2A.  | Chorizandra enodis | Nees, Cyperaceae | Black bristle-rush
 3.  | Prasophyllum secutum | D.L.Jones, Orchidaceae | Northern leek orchid
 4.  | Tricoryne elatior | R.Br., Liliaceae | Yellow rush lily
@@ -115,7 +119,6 @@ Section 13(2)
 3.  | Cyathea X marcescens | N.A.Wakef., Cyatheaceae | Skirted treefern
 4.  | Doodia caudata | (Cav.) R.Br., Blechnaceae | Small rasp fern
 5.  | Hypolepis distans | Hook., Dennstaedtiaceae | Scrambling ground fern
-6.  | Pneumatopteris pennigera | (Forst.f.) Holtt., Thelypteridaceae | Lime fern
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Hypotrachyna laevigata | (Sm.) Hale, Parmeliaceae |

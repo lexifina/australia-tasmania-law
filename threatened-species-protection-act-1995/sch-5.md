@@ -120,6 +120,8 @@ Section 13(3)
 5.  | Acacia ulicifolia | (Salisb.) Court, Mimosaceae | Juniper wattle
 6.  | Allocasuarina crassa | L.A.S.Johnson, Casuarinaceae | Capes she-oak
 7.  | Allocasuarina duncanii | L.A.S.Johnson & D.I.Morris, Casuarinaceae | Duncan's she-oak
+7A.  | Argyrotegium fordianum | (M.Gray) J.M.Ward & Breitw., Asteraceae | Soft cudweed
+7B.  | Argyrotegium poliochlorum | (N.G.Walsh) J.M.Ward & Breitw., Asteraceae | Grey-green cudweed
 8.  | Asperula minima | Hook.f., Rubiaceae | Grassy woodruff
 9.  | Asperula scoparia var. scoparia | Hook.f., Rubiaceae | Prickly woodruff
 10.  | Asperula subsimplex | Hook.f., Rubiaceae | Water woodruff
@@ -143,7 +145,6 @@ Section 13(3)
 28.  | Calystegia soldanella | (L.) R.Br., Convolvulaceae | Sea bindweed
 29.  | Centaurium spicatum | (L.) Fritsch ex Janch., Gentianaceae | Australian centaury
 30.  | Centipeda cunninghamii | (DC.) A.Braun & Asch., Asteraceae | Common sneezeweed
-31.  | Chamaesyce drummondii | (Boiss.) D. Hassall, Euphorbiaceae | Caustic weed
 32.  | Chionohebe ciliolata | (Hook.f.) B.G.Briggs & Ehrend., Scrophulariaceae | Ciliolate hebe
 33.  | Chrysocephalum baxteri | (A.Cunn. ex DC.) A.Anderb., Asteraceae | Fringed everlasting
 34.  | Colobanthus curtisiae | J.West, Caryophyllaceae | Curtis' colobanth
@@ -166,8 +167,6 @@ Section 13(3)
 52.  | Eucalyptus perriniana | F.Muell. ex Rodway, Myrtaceae | Spinning gum
 53.  | Eucalyptus radiata ssp. robertsonii | (Blakely) L.A.S.Johnson & Blaxell, Myrtaceae | Forth River peppermint
 54.  | Eucalyptus risdonii | Hook.f., Myrtaceae | Risdon peppermint
-55.  | Euchiton fordianus | (M.Gray) P.S.Short, Asteraceae | Soft cudweed
-56.  | Euchiton poliochlorus | N.G.Walsh, Asteraceae | Grey-green cudweed
 57.  | Euphrasia amphisysepala | W.R.Barker, Scrophulariaceae | Shiny cliff eyebright
 58.  | Euphrasia collina ssp. deflexifolia | (Gand.) W.R.Barker, Scrophulariaceae | Eastern eyebright
 59.  | Euphrasia collina ssp. gunnii | (Du Rietz) W.R.Barker, Scrophulariaceae | Gunn's purple eyebright
@@ -196,7 +195,7 @@ Section 13(3)
 82.  | Lepidium flexicaule | Kirk, Brassicaceae | Springy peppercress
 83.  | Lepidium pseudotasmanicum | Thell., Brassicaceae | Shade peppercress
 84.  | Leucopogon esquamatus | R.Br., Epacridaceae | Swamp beard heath
-85.  | Leucopogon lanceolatus | (Smith) R.Br., Epacridaceae | Lance beard heath
+85.  | Leucopogon lanceolatus var. lanceolatus | (Smith) R.Br., Epacridaceae | Lance beard heath
 86.  | Leucopogon virgatus var. brevifolius | Benth., Epacridaceae | Shortleaf beard heath
 87.  | Limonium australe | (R.Br.) Kuntze, Plumbaginaceae | Sea lavender
 88.  | Lobelia rhombifolia | Vriese, Campanulaceae | Branched lobelia
@@ -205,7 +204,6 @@ Section 13(3)
 91.  | Millotia muelleri | (Sonder) P.S.Short, Asteraceae | Common bow flower
 94.  | Monotoca submutica var. autumnalis | Jarman, Epacridaceae | Roundleaf broom heath
 95.  | Muehlenbeckia axillaris | (Hook.f.) Endl., Polygonaceae | Matted lignum
-96.  | Myriophyllum crispatum | Orch., Haloragaceae | Curling water milfoil
 97.  | Myriophyllum muelleri | Sonder, Haloragaceae | Hooded water milfoil
 98.  | Odixia achlaena | (D.I.Morris) Orch., Asteraceae | Odixia
 99.  | Olearia hookeri | (Sonder) Benth., Asteraceae | Hooker's daisy bush
@@ -229,7 +227,7 @@ Section 13(3)
 118.  | Plantago debilis | R.Br., Plantaginaceae | Shade plantain
 119.  | Plantago glacialis | B.G.Briggs, Carolin & Pulley, Plantaginaceae | Small star plantain
 120.  | Pomaderris intermedia | Sieber ex DC., Rhamnaceae | Tree pomaderris
-121.  | Pomaderris oraria | F.Muell. ex Reisseck, Rhamnaceae | Coast pomaderris
+121.  | Pomaderris oraria ssp. oraria | F.Muell. ex Reisseck, Rhamnaceae | Coast pomaderris
 122.  | Pomaderris paniculosa ssp. paralia | N.G.Walsh, Rhamnaceae | Shining pomaderris
 123.  | Pomaderris phylicifolia ssp. phylicifolia | Lodd. ex Link, Rhamnaceae | Narrow leaf pomaderris
 124.  | Ranunculus acaulis | Banks & Soland. ex DC., Ranunculaceae | Dune buttercup
@@ -256,11 +254,12 @@ Section 13(3)
 144.  | Stylidium inundatum | R.Br., Stylidiaceae | Swamp trigger plant
 145.  | Stylidium perpusillum | Hook.f., Stylidiaceae | Tiny trigger plant
 147.  | Taraxacum aristum | Hagl. & Markl., Asteraceae | Austral dandelion
-148.  | Tetratheca ciliata | Lindley, Tremandraceae | Pink bells
+148.  | Tetratheca ciliata | Lindl., Tremandraceae | Pink bells
 149.  | Teucrium corymbosum | R.Br., Lamiaceae | Forest germander
 150.  | Thryptomene micrantha | Hook.f., Myrtaceae | Ribbed thryptomene
 151.  | Utricularia australis | R.Br., Lentibulariaceae | Yellow bladderwort
 152.  | Utricularia tenella | R.Br., Lentibulariaceae | Pink bladderwort
+152A.  | Utricularia violacea | R.Br., Lentibulariaceae | Violet bladderwort
 153.  | Veronica plebeia | R.Br., Scrophulariaceae | Trailing speedwell
 154.  | Villarsia exaltata | (Sol. ex Sims) G.Don, Menyanthaceae | Erect marsh flower
 155.  | Viola caleyana | G.Don, Violaceae | Swamp violet
@@ -273,19 +272,18 @@ Section 13(3)
 162.  | Westringia brevifolia var. raleighii | (B.Boivin) W.M.Curtis, Lamiaceae | Native rosemary
 163.  | Wilsonia humilis | R.Br., Convolvulaceae | Silky wilsonia
 164.  | Wilsonia rotundifolia | Hook., Convolvulaceae | Roundleaf wilsonia
-164A.  | Xerochrysum bicolor | (Lindley) R.J.Bayer, Asteraceae | White alpine everlasting
+164A.  | Xerochrysum bicolor | (Lindl.) R.J.Bayer, Asteraceae | White alpine everlasting
 165.  | Zieria littoralis | J.A.Armstrong, Rutaceae | Dwarf zieria
 166.  | Zieria veronicea ssp. veronicea | (F.Muell.) Benth., Rutaceae | Pink zieria
 167.  | Zygophyllum billardierei | DC., Zygophyllaceae | Coast twin leaf
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-4.  | Agrostis aff. australiensis | Mez, Poaceae | Flat-leaf southern bent
 6.  | Agrostis australiensis | Mez, Poaceae | Southern bent
+6A.  | Agrostis diemenica | D.I.Morris, Poaceae | Flat-leaf southern bent
 7.  | Agrostis propinqua | S.W.L.Jacobs, Poaceae | Alpine winter bent
 10.  | Amphibromus neesii | Steudel, Poaceae | Swamp wallaby grass
 11.  | Aphelia gracilis | Sonder, Centrolepidaceae | Slender aphelia
 12.  | Aphelia pumilio | F.Muell. ex Sonder, Centrolepidaceae | Dwarf aphelia
-12A.  | Arachnorchis caudata | (Nicholls) D.L.Jones & M.A.Clem., Orchidaceae | Tailed spider orchid
 12B.  | Arthropodium strictum | R.Br., Liliaceae | Chocolate lily
 13.  | Australopyrum velutinum | (Nees) B.Simon, Poaceae | Mountain wheat grass
 13A.  | Austrodanthonia procera | (Vickery) S.W.L.Jacobs, Poaceae | Tall wallaby grass
@@ -299,7 +297,9 @@ Section 13(3)
 21.  | Bolboschoenus caldwellii | (V.Cook) Sojak, Cyperaceae | Sea club-rush
 22.  | Bolboschoenus medianus | (V.Cook) Sojak, Cyperaceae | Marsh club-rush
 23.  | Caesia calliantha | R.Henderson, Liliaceae | Blue grass lily
-25.  | Calonemorchis filamentosa | (R.Br.) Szlachetko, Orchidaceae | Daddy long-legs
+24.  | Caladenia caudata | Nicholls, Orchidaceae | Tailed spider orchid
+25.  | Caladenia filamentosa | R.Br., Orchidaceae | Daddy long-legs
+26.  | Caladenia pusilla | W.M.Curtis, Orchidaceae | Tiny caladenia
 27.  | Carex capillacea | Boott, Cyperaceae | Yellow-leaf sedge
 28.  | Carex cephalotes | F.Muell., Cyperaceae | Mt Eliza sedge
 29.  | Carex gunniana | Boott, Cyperaceae | Mountain sedge
@@ -341,11 +341,10 @@ Section 13(3)
 63.  | Lepilaena patentifolia | E.Robertson, Zannichelliaceae | Spreading water mat
 64.  | Lepilaena preissii | (Lehm.) F.Muell., Zannichelliaceae | Slender water mat
 65.  | Luzula atrata | Edgar, Juncaceae | Dark woodrush
-66.  | Microtidium atratum | (Lindley) D.L.Jones & M.A.Clem., Orchidaceae | Yellow onion orchid
+66.  | Microtidium atratum | (Lindl.) D.L.Jones & M.A.Clem., Orchidaceae | Yellow onion orchid
 68.  | Milligania johnstonii | F.Muell. ex Benth., Liliaceae | Johnston's milligania
 69.  | Milligania longifolia | Hook.f., Liliaceae | Pendant milligania
 70.  | Orthoceras strictum | R.Br., Orchidaceae | Horned orchid
-70A.  | Petalochilus pusillus | (W.M.Curtis) D.L.Jones & M.A.Clem., Orchidaceae | Tiny caladenia
 71.  | Poa halmaturina | J.Black, Poaceae | Kangaroo Island grass
 72.  | Poa mollis | Vickery, Poaceae | Soft poa grass
 73.  | Poa poiformis var. ramifer | D.I.Morris, Poaceae | Island purple grass
@@ -370,7 +369,7 @@ Section 13(3)
 94.  | Triglochin minutissimum | F.Muell., Juncaginaceae | Tiny arrow grass
 95.  | Trithuria submersa | Hook.f., Hydatellaceae | Trithuria
 96.  | Uncinia elegans | (Kuk.) Hamlin, Cyperaceae | Handsome hook sedge
-97.  | Vallisneria americana | Mich., Hydrocharitaceae | Ribbon weed
+97.  | Vallisneria americana var. americana | Mich., Hydrocharitaceae | Ribbon weed
 98.  | Wurmbea latifolia | T.Macfarlane, Liliaceae | Early nancy
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
@@ -386,14 +385,16 @@ Section 13(3)
 10.  | Tmesipteris parva | N.A.Wakef., Psilotaceae | Small fork fern
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Ambuchanania leucobryoides | T.Yamaguchi, R.D.Seppelt et Z.Iwatsuki, Ambuchananiaceae | Moss
+1.  | Ambuchanania leucobryoides | (Yamaguchi, Seppelt, Iwatsuki & Buchanan) Seppelt & Crum, Ambuchananiaceae | Moss
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Cystoseira trinodis | (Forsskal) C.Agardh, Cystoseiraceae | Brown alga
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Certraria islandica ssp. antarctica | Kärnefelt, Parmeliaceae |
-1A.  | Hypotrachyna immaculata | (Kurok.) Hale, Parmeliaceae |
+1.  | Calycidium cuneatum | Stirt., Calycidiaceae |
+1A.  | Calycidium polycarpum | (Colenso) Wedin, Calycidiaceae |
+1B.  | Cetraria islandica ssp. antarctica | Kärnefelt, Parmeliaceae |
+1C.  | Hypotrachyna immaculata | (Kurok.) Hale, Parmeliaceae |
 2.  | Neofuscelia graniticola | Elix & Kantvilas, Parmeliaceae |
 2A.  | Parmelina whinrayi | (Elix) Kantvilas & Elix, Parmeliaceae |
 2B.  | Parmeliopsis ambigua | (Wulf.) Nyl., Parmeliaceae |
