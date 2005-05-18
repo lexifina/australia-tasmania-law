@@ -121,7 +121,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 109.  | Drostanolone |
 110.  | Drotebanol |
 111.  | Ecgonine |
-112.  | Ephedrine (S4) | 200g
+112.  | Ephedrine | 30g
 112M.  | Epoetin alfa |
 112N.  | Epoetin beta |
 113.  | Erythropoietin |
@@ -197,12 +197,8 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 176.  | 3,4-methylenedioxyamphetamine (otherwise known as MDA) |
 (a)  | in individual packages | 20 packages
 (b)  | in any other form | 25g
-177.  | 3,4-methylenedioxy-N,a-dimethylphenylethylamine (otherwise known as MDMA) |
-(a)  | in individual packages | 20 packages
-(b)  | in any other form | 25g
-178.  | 2,3-methylenedioxymethamphetamine (otherwise known as 2,3-methylenedioxy-N,a-dimethylphenethylamine or 2,3-MDMA) |
-(a)  | in individual packages | 20 packages
-(b)  | in any other form | 25g
+177.  | N,α-dimethyl-3,4-(methylenedioxy) phenylethylamine (otherwise known as MDMA) | 10g
+178.  | N,α-dimethyl-2,3-(methylenedioxy) phenylethylamine (otherwise known as 2,3-MDMA) | 10g
 179.  | 3,4-methylenedioxyphenyl-2-propanone |
 180.  | 3-methylfentanyl |
 181.  | N-[α-methyl-3,4-(methylenedioxy)phenethyl] hydroxylamine (otherwise known as N-hydroxy MDA) |
@@ -272,7 +268,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 245.  | Proheptazine |
 246.  | Properidine |
 247.  | Propiram |
-248.  | Pseudoephedrine (S4) |
+248.  | Pseudoephedrine in a quantity greater than 6g | 30g
 249.  | Psilocybine |
 250.  | Quinalbarbitone |
 251.  | Racemethorphan |
@@ -318,6 +314,7 @@ Column 1Item | Column 2Controlled plant | Column 3Trafficable quantity
 3.  | Cannabis (in individual packages) | 20 packages
 4.  | Cannabis oil | 25g
 5.  | Cannabis resin | 25g
+5A.  | Mitragyna speciosa |
 6.  | Poppy capsules (being seed pods, with or without seeds, of poppy plants) | 500 capsules
 7.  | Poppy plant material (being any processed or partly processed part of a poppy plant other than its seed) | 100g
 8.  | Poppy plants (Papaver bracteatum or Papaver somniferum) | 500 plants
