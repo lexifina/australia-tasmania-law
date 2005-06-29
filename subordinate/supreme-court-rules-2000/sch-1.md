@@ -109,4 +109,4 @@ Judgment creditor's costs |
 In respect of a debt exceeding $20 000 | $141
 In respect of a debt not exceeding $20 000 | $95
 Rule 601
-Costs of the summons | $432
+Costs of the summons | $700
