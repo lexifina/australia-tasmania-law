@@ -44,6 +44,7 @@ Clause 3(b)
 (f)  | Debits Tax Act 1990
 (g)  | Duties Act 2001
 (h)  | Taxation Administration Act 2001
+(i)  | Community Ambulance Cover Act 2003
 5.  | South Australia –
 (a)  | Stamp Duties Act 1923
 (b)  | Pay-roll Tax Act 1971
@@ -68,9 +69,14 @@ Clause 3(b)
 (k)  | Taxation Administration Act 1997
 7.  | Western Australia –
 (a)  | Stamp Act 1921
-(b)  | Pay-roll Tax Assessment Act 1971
-(c)  | Land Tax Assessment Act 1976
+(b)  | Pay-roll Tax Assessment Act 2002
+(c)  | Land Tax Assessment Act 2002
 (d)  | Financial Institutions Duty Act 1983
-(e)  | Debits Tax Assessment Act 1990
+(e)  | Debits Tax Assessment Act 2002
 (f)  | Tobacco Sellers Licensing Act 1975
-(g)  | Taxation (Reciprocal Powers) Act 1989
+(g)  | Taxation Administration Act 2003
+(h)  | Taxation Administration (Consequential Provisions) Act 2002
+(i)  | Taxation Administration (Consequential Provisions) (Taxing) Act 2002
+(j)  | Debits Tax Act 2002
+(k)  | Land Tax Act 2002
+(l)  | Pay-roll Tax Act 2002
