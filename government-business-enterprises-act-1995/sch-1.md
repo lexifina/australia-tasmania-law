@@ -12,4 +12,4 @@ Stanley Cool Stores Board
 Tasmanian Grain Elevators Board
 Tasmanian International Velodrome Management Authority
 Tasmanian Public Finance Corporation
-Forestry corporation established by the Forestry Act 1920 (other than that Division of the Forestry corporation known as the Forest Practices Board)
+Forestry corporation established by the Forestry Act 1920
