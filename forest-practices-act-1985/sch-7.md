@@ -6,6 +6,7 @@ The objective of the State's forest practices system is to achieve sustainable m
 (c) delegated and decentralized approvals for forest practices plans and other forest practices matters; and
 (d) a forest practices code which provides practical standards for forest management, timber harvesting and other forest operations; and
 (e) an emphasis on consultation and education; and
+(ea) an emphasis on research, review and continuing improvement; and
 (f) provision for the rehabilitation of land in cases where the forest practices code is contravened; and
 (g) an independent appeal process; and
 (h) through the declaration of private timber reserves – a means by which private land holders are able to ensure the security of their forest resources.

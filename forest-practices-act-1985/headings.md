@@ -1,6 +1,6 @@
 Part I Preliminary
-Part 1A Forest Practices Board
-Part 1B Finances of Board
+Part 1A Forest Practices Authority
+Part 1B Finances of Authority
 Part 1C Accounting records, financial statements and reports
 Part II Private timber reserves
 Part III Plans
