@@ -1,2 +1,2 @@
-# Schedule 5 Universal succession of River Clyde Trust
+# Schedule 5 River Clyde Trust and River Clyde Irrigation District
 Section 308(2)
