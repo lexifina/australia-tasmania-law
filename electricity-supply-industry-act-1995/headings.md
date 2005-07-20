@@ -13,7 +13,7 @@ Part 3, Division 1, Subdivision 1 Issue of licences
 Part 3, Division 1, Subdivision 2 Terms and conditions of licence
 Part 3, Division 1, Subdivision 3 Special licence obligations
 Part 3, Division 1, Subdivision 4 Miscellaneous
-Part 3, Division 3 Wholesale trading in electricity [Not yet in force. Commences: 20 July 2005]
+Part 3, Division 3 Special provisions relating to Hydro-Electric Corporation
 Part 3, Division 4 Retailing of electricity
 Part 3, Division 4, Subdivision 1 Electricity pricing
 Part 3, Division 4, Subdivision 2 Disconnection for non-payment
