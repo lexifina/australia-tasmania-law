@@ -1,0 +1,4 @@
+# Schedule 1 Private Nature Reserves
+All that area of land comprising about 38.083 hectares and shown as Area 1 and Area 4, shaded and bounded by heavy black lines on Plan 5915 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 1 of Schedule 2 to this proclamation.
+All that area of land comprising about 51.143 hectares and shown as Area 1 to Area 6 inclusive, shaded and bounded by heavy black lines on Plan 5896 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 2 of Schedule 2 to this proclamation.
+All that area of land comprising about 299.39 hectares and shown as Lot 1 to Lot 3 inclusive, shaded and bounded by heavy black lines on Plan 5795 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 3 of Schedule 2 to this proclamation.
