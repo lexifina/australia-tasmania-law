@@ -21,6 +21,7 @@ Part 3, Division 5 Restrictions on re-supply
 Part 3, Division 6 Disputes
 Part 3, Division 7 Effect of non-compliance with Act
 Part 3, Division 8 Regulator's powers to take control of operations
+Part 3, Division 8A Retailer of last resort
 Part 3, Division 9 Tasmanian Electricity Code
 Part 3, Division 10 Miscellaneous
 Part 4 Land Acquisition and use for Electricity Infrastructure
