@@ -85,6 +85,7 @@ Part 26, Division 4 Procedendo and quo warranto
 Part 26, Division 5 Habeas corpus
 Part 27 Appeals
 Part 27, Division 1 Appeals from judge to Full Court
+Part 27, Division 1A Appeal from Master
 Part 27, Division 2 Appeals from and cases stated by inferior courts
 Part 27, Division 3 Stated case
 Part 27, Division 4 Appeal from and case stated by statutory tribunals other than courts
