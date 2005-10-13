@@ -1,0 +1,3 @@
+Tasmanian Ports Corporation Act 2005
+An Act to provide for the control of, and other matters relating to, the Tasmanian Ports Corporation Pty. Ltd., for the transfer to that Corporation or the Crown of the assets and liabilities of the four port companies formed under the Port Companies Act 1997, for the repeal of the Port Companies Act 1997 and rescission of the Port Companies Regulations 1999 and for related matters
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
