@@ -1,12 +1,17 @@
 # 76ZZAA. Trading accounts
-(1) In this section,
+(1) In this section –
 trading account
-means an account established with a licensed provider holding a Tasmanian gaming licence endorsed with a sports betting endorsement or a fixed odds wagering endorsement, or both, by a player or other person, being an account that may be operated so as to have credit and debit balances.
+means an account that –
+(a) a player or other person establishes with the holder of a Tasmanian gaming licence endorsed with one or more of the following:
+(i) a betting exchange endorsement;
+(ii) a fixed odds wagering endorsement;
+(iii) a sports betting endorsement; and
+(b) may be operated so as to have credit and debit balances.
 (2) A licensed provider may apply to the Commission for an authority to operate trading accounts.
 (3) An application is to be in a form that is approved by the Commission.
 (4) On receipt of an application, the Commission may grant or refuse to grant an authority to operate trading accounts.
 (5) An authority to operate trading accounts is subject to the conditions determined by the Commission and specified in the authority.
-(6) Despite any other provision of this Act, a licensed provider who holds a Tasmanian gaming licence endorsed with a sports betting endorsement or a fixed odds wagering endorsement, or both, may operate a trading account in respect of a player or other person if the provider –
+(6) Despite any other provision of this Act, a licensed provider who holds a Tasmanian gaming licence endorsed with a betting exchange endorsement, fixed odds wagering endorsement or sports betting endorsement (or any combination of those endorsements) may operate a trading account in respect of a player or other person if the provider –
 (a) is the holder of an authority to operate trading accounts; and
 (b) considers that –
 (i) the player or other person is suitable to have access to a trading account; and

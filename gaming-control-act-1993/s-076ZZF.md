@@ -17,4 +17,3 @@ includes a major lottery, pools and a game that is prescribed for the purposes o
 (a) revoke its approval of a game; or
 (b) amend the approved rules of an approved game; or
 (c) revoke the approved rules of an approved game and substitute new approved rules.
-(8) If the Commission approves a game and its rules, revokes its approval of a game or amends or substitutes the approved rules of an approved game, it must give to each licensed provider who has, had or will have authority under a Tasmanian gaming licence to conduct that game written notice of the approval, revocation, amendment or substitution.

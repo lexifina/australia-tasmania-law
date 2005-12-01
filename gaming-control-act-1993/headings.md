@@ -13,6 +13,12 @@ Part 4A, Division 1 Lawful and unlawful activities
 Part 4A, Division 2 Application for, and determination of, Tasmanian gaming licence
 Part 4A, Division 3 Application for, and determination of, new gaming endorsement
 Part 4A, Division 4 Tasmanian gaming licence
+Part 4A, Division 5 Betting exchange operations
+Part 4A, Division 5, Subdivision 1 Introductory
+Part 4A, Division 5, Subdivision 2 Licensing provisions
+Part 4A, Division 5, Subdivision 3 Licensing of employees
+Part 4A, Division 5, Subdivision 4 Miscellaneous
+Part 4A, Division 5, Subdivision 5 Offences
 Part 4A, Division 6 End of Tasmanian gaming licence
 Part 4A, Division 7 Player protection
 Part 4A, Division 8 Duties in respect of player's funds
