@@ -6,7 +6,7 @@ Part 2, Division 3 Delegation
 Part 2, Division 4 Regulator's power of direction
 Part 2, Division 5 Power to obtain information
 Part 2, Division 6 Confidential information
-Part 2, Division 7 Conferral of Regulator's functions and powers on Australian Competition and Consumer Commission
+Part 2, Division 7 Conferral of Regulator's functions and powers on AER
 Part 3 The Electricity Supply Industry
 Part 3, Division 1 Licensing of electricity entities
 Part 3, Division 1, Subdivision 1 Issue of licences
