@@ -22,6 +22,7 @@ Part 5 Appeals
 Part 6 Offences
 Part 6, Division 1 Public and professional safeguards
 Part 6, Division 2 General offences
+Part 6A Registration of pharmacy business premises
 Part 7 Miscellaneous
 Part 7, Division 1 Obligations to provide information
 Part 7, Division 2 Administrative and legal
