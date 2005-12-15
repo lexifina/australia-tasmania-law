@@ -13,5 +13,5 @@ Part 3, Division 5 Miscellaneous
 Part 4 Enforcement
 Part 4, Division 1 Police powers
 Part 4, Division 2 Matters relevant to proceedings
-Part 4, Division 3 Forfeiture
+Part 4, Division 3 Forfeiture and disposal
 Part 5 Miscellaneous
