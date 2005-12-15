@@ -12,7 +12,4 @@ Part 6 Emergency Powers
 Part 7 Child Care Standards
 Part 8 Review of Decisions
 Part 8, Division 1 Reviewable decisions
-Part 8, Division 2 Review procedure and determination
-Part 8, Division 3 Child Care Appeals Panel
-Part 8, Division 4 Child Care Appeals Panel Register
 Part 9 Miscellaneous
