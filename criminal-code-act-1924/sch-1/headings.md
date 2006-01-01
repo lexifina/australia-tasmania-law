@@ -24,7 +24,7 @@ Schedule 1, Part V, Chapter XVIII Crimes Endangering Life or Health
 Schedule 1, Part V, Chapter XIX Assaults
 Schedule 1, Part V, Chapter XX Rape: Abduction: Stalking
 Schedule 1, Part V, Chapter XXII Crimes Relating to Mentally Disordered Persons
-Schedule 1, Part V, Chapter XXIII Defamation
+Schedule 1, Part V, Chapter XXIII Criminal defamation
 Schedule 1, Part VI Crimes Relating to Property
 Schedule 1, Part VI, Chapter XXIV Stealing
 Schedule 1, Part VI, Chapter XXV Crimes Analogous to Stealing
