@@ -1,0 +1,14 @@
+Part 1 Preliminary
+Part 2 General principles
+Part 2, Division 1 Defamation and the general law
+Part 2, Division 2 Causes of action for defamation
+Part 2, Division 3 Choice of law
+Part 3 Resolution of civil disputes without litigation
+Part 3, Division 1 Offers to make amends
+Part 3, Division 2 Apologies
+Part 4 Litigation of civil disputes
+Part 4, Division 1 General
+Part 4, Division 2 Defences
+Part 4, Division 3 Remedies
+Part 4, Division 4 Costs
+Part 5 Miscellaneous
