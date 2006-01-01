@@ -42,25 +42,6 @@ Forms of Indictment
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
-Oaths and Affirmations
-I Juror's Oath in Criminal Trials
-[Picture in the source, not reproduced]
-II Juror's Affirmation in Criminal Trials
-[Picture in the source, not reproduced]
-III Juror's Oath On Leaving Court
-[Picture in the source, not reproduced]
-IIIA Juror's Affirmation on leaving court
-[Picture in the source, not reproduced]
-IV Oath Of Officer Or Officers In Charge Of A Jury
-[Picture in the source, not reproduced]
-V Oath Of Officers In Charge Of A Jury Sent To View
-[Picture in the source, not reproduced]
-VI Shower's Oath On A View
-[Picture in the source, not reproduced]
-VII Oath Of A Witness On A Trial
-[Picture in the source, not reproduced]
-VIII Oath Of A Witness On An Inquiry
-[Picture in the source, not reproduced]
 Form Of List Of Other Offences Charged
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
