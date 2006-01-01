@@ -1,0 +1,6 @@
+# Schedule 6 Oath or Affirmation for Jurykeepers on a View
+Section 52(3)
+You *[and each of you] swear by Almighty God that you will take the jury in this case to the place and in the manner as directed and bring the jury back into court as soon as the view has been concluded, or, if the court has adjourned, as soon as the court resumes the trial (whichever is the later), that you will not allow any of them to communicate with any other person or any other person with any of them, other than the showers, whether directly or indirectly, and that you will not communicate with any juror, other than any communication necessary in the performance of your duties.
+*Delete if inapplicable
+You *[and each of you] affirm that you will take the jury in this case to the place and in the manner as directed and bring the jury back into court as soon as the view has been concluded, or, if the court has adjourned, as soon as the court resumes the trial (whichever is the later), that you will not allow any of them to communicate with any other person or any other person with any of them, other than the showers, whether directly or indirectly, and that you will not communicate with any juror, other than any communication necessary in the performance of your duties.
+*Delete if inapplicable
