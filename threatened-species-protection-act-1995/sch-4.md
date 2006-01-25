@@ -3,7 +3,8 @@ Section 13(2)
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
 1.  | Mammals |  |
-1.  | Balaenoptera physalus | Linnaeus | Fin Whale
+(a)  | Balaenoptera physalus | Linnaeus | Fin Whale
+(b)  | Sarcophilus harrisii | (Thomas) | Tasmanian Devil
 2.  | Birds |  |
 (a)  | Haliaeetus leucogaster | Gmelin | White-bellied Sea-Eagle
 (aa)  | Halobaena caerulea | Gmelin | Blue Petrel
@@ -59,7 +60,6 @@ Section 13(2)
 9.  | Epacris exserta | R.Br., Epacridaceae | South Esk heath
 10.  | Epacris grandis | Crowden, Epacridaceae | Great heath
 11.  | Epacris virgata | Hook.f., Epacridaceae | Pretty heath
-11A.  | Epacris aff. exserta 'Union Bridge' | (D.Keith & M.Ilowski HO320131), Epacridaceae | Union Bridge heath
 11B.  | Epacris aff. virgata 'graniticola' | (D.Keith HO322110), Epacridaceae | Mt Cameron heath
 12.  | Eryngium ovinum | A.Cunn., Apiaceae | Blue devil
 13.  | Euphrasia phragmostoma | W.R.Barker, Scrophulariaceae | Hairy cliff eyebright
@@ -111,7 +111,7 @@ Section 13(2)
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Callitris oblonga ssp. oblonga | Rich., Cupressaceae | South Esk pine
-2.  | Microstrobos niphophilus | J.Garden & L.A.S.Johnson, Podocarpaceae | Mount Mawson pine
+2.  | Pherosphaera hookeriana | W.Archer bis, Podocarpaceae | Drooping pine
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Asplenium hookerianum | Colenso, Aspleniaceae | Hooker's spleenwort

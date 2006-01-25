@@ -172,7 +172,7 @@ Section 13(3)
 59.  | Euphrasia collina ssp. gunnii | (Du Rietz) W.R.Barker, Scrophulariaceae | Gunn's purple eyebright
 61.  | Euphrasia gibbsiae ssp. pulvinestris | W.R.Barker, Scrophulariaceae | Cushion plant eyebright
 62.  | Euphrasia gibbsiae ssp. wellingtonensis | W.R.Barker, Scrophulariaceae | Wellington eyebright
-63.  | Eutaxia microphylla | (R.Br.) C.H.Wright & Dewar, Fabaceae | Common eutaxia
+63.  | Eutaxia microphylla var. microphylla | (R.Br.) C.H.Wright & Dewar, Fabaceae | Spiny bushpea
 64.  | Frankenia pauciflora var. gunnii | Summerh., Frankeniaceae | Sea heath
 65.  | Geococcus pusillus | J.Drumm. ex Harvey, Brassicaceae | Earth cress
 66.  | Geum talbotianum | W.M.Curtis, Rosaceae | Mountain geum
@@ -185,6 +185,7 @@ Section 13(3)
 73.  | Haloragis heterophylla | Brongn., Haloragaceae | Variable raspwort
 74.  | Haloragis myriocarpa | Orch., Haloragaceae | Prickly raspwort
 75.  | Hedycarya angustifolia | R.Cunn., Monimiaceae | Austral mulberry
+75A.  | Hibbertia sp. 'Pontville' | (A.M.Buchanan HO527774), Dilleniaceae | Basalt guineaflower
 76.  | Hibbertia virgata | R.Br. ex DC., Dilleniaceae | Twiggy guinea flower
 77.  | Hovea corrickiae | J.H.Ross, Fabaceae | Glossy hovea
 78.  | Hovea montana | (Hook.f.) J.H.Ross, Fabaceae | Mountain hovea
@@ -265,7 +266,7 @@ Section 13(3)
 155.  | Viola caleyana | G.Don, Violaceae | Swamp violet
 156.  | Viola cunninghamii | Hook.f., Violaceae | Cunningham's violet
 157.  | Viola hederacea ssp. curtisiae | L.G.Adams, Violaceae | Curtis' violet
-158.  | Vittadinia cuneata | DC., Asteraceae | Fuzzy New Holland daisy
+158.  | Vittadinia cuneata var. cuneata | DC., Asteraceae | Fuzzy New Holland daisy
 159.  | Vittadinia gracilis | (Hook.f.) N.Burb., Asteraceae | Woolly New Holland daisy
 160.  | Vittadinia muelleri | N.Burb., Asteraceae | Narrow leaf New Holland daisy
 161.  | Westringia angustifolia | R.Br., Lamiaceae | Scabrous westringia
@@ -273,7 +274,7 @@ Section 13(3)
 163.  | Wilsonia humilis | R.Br., Convolvulaceae | Silky wilsonia
 164.  | Wilsonia rotundifolia | Hook., Convolvulaceae | Roundleaf wilsonia
 164A.  | Xerochrysum bicolor | (Lindl.) R.J.Bayer, Asteraceae | White alpine everlasting
-165.  | Zieria littoralis | J.A.Armstrong, Rutaceae | Dwarf zieria
+165.  | Zieria littoralis | J.A.Armstr., Rutaceae | Dwarf zieria
 166.  | Zieria veronicea ssp. veronicea | (F.Muell.) Benth., Rutaceae | Pink zieria
 167.  | Zygophyllum billardierei | DC., Zygophyllaceae | Coast twin leaf
 | Column 1 | Column 2 | Column 3
@@ -286,7 +287,7 @@ Section 13(3)
 12.  | Aphelia pumilio | F.Muell. ex Sonder, Centrolepidaceae | Dwarf aphelia
 12B.  | Arthropodium strictum | R.Br., Liliaceae | Chocolate lily
 13.  | Australopyrum velutinum | (Nees) B.Simon, Poaceae | Mountain wheat grass
-13A.  | Austrodanthonia procera | (Vickery) S.W.L.Jacobs, Poaceae | Tall wallaby grass
+13A.  | Austrodanthonia induta | (Vickery) H.P.Linder, Poaceae | Tall wallaby grass
 14.  | Austrodanthonia remota | (D.I.Morris) H.P.Linder, Poaceae | Remote wallaby grass
 15.  | Austrostipa bigeniculata | (Hughes) S.W.L.Jacobs & J.Everett, Poaceae | Double-jointed spear grass
 16.  | Austrostipa blackii | (C.E.Hubb.) S.W.L.Jacobs & J.Everett, Poaceae | Crested spear grass

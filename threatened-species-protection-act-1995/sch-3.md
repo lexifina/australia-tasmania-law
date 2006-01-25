@@ -108,14 +108,14 @@ Flora – Dicotyledonae
 37.  | Stackhousia gunnii | Hook.f., Stackhousiaceae | Gunn's mignonette
 38.  | Stenopetalum lineare | R.Br. ex DC., Brassicaceae | Threadcress
 39.  | Tetratheca gunnii | Hook.f., Tremandraceae | Shy susan
-40.  | Viminaria juncea | (Schrad. & J.Wendl.) Hoffsgg., Fabaceae | Golden spray
+40.  | Viminaria juncea | (Schrad. & J.Wendl.) Hoffmans., Fabaceae | Golden spray
 41.  | Vittadinia australasica var. oricola | N.Burb.,Asteraceae | Coast New Holland daisy
 Flora – Monocotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Amphibromus macrorhinus | S.W.L.Jacobs & L.Lapinpuro, Poaceae | Long-nosed swamp wallaby grass
 1A.  | Anzybas fordhamii | (Rupp) D.L.Jones & M.A.Clem., Orchidaceae | Banded helmet orchid
-2.  | Aristida benthamii | Henrard, Poaceae | Three-awned spear grass
+2.  | Aristida benthamii var. benthamii | Henrard, Poaceae | Three-awned spear grass
 5.  | Austrodanthonia popinensis | (D.I.Morris) H.P.Linder, Poaceae | Roadside wallaby grass
 6.  | Caladenia anthracina | D.L.Jones, Orchidaceae | Black-tipped spider orchid
 7.  | Caladenia aurantiaca | (R.S.Rogers) Rupp, Orchidaceae | Orange-tip caladenia
@@ -163,6 +163,7 @@ Flora – Monocotyledonae
 48.  | Schoenus latelaminatus | Kuk., cyperaceae | Medusa bog sedge
 49.  | Thelymitra antennifera | (Lindl.) Hook.f., Orchidaceae | Rabbit-ears
 49A.  | Thelymitra benthamiana | Rchb.f., Orchidaceae | Blotched sun orchid
+49B.  | Thelymitra bracteata | J.Z.Weber ex Jeanes, Orchidaceae | Leafy sun-orchid
 50.  | Thelymitra jonesii | Jeanes, Orchidaceae | Sky-blue sun orchid
 51.  | Thelymitra malvina | M.A.Clem, D.L.Jones & Molloy, Orchidaceae | Mauve-tufted sun orchid
 52.  | Thynninorchis huntiana | (F.Muell.) D.L.Jones & M.A. Clem., Orchidaceae | Elbow orchid
@@ -211,7 +212,7 @@ Flora – Dicotyledonae
 5A.  | Coopernookia barbata | (R.Br.) Carolin, Goodeniaceae | Purple goodenia
 8.  | Hibbertia rufa | N.A.Wakef., Dilleniaceae | Brown guinea flower
 9.  | Levenhookia dubia | Sonder, Stylidiaceae | Hairy stylewort
-10.  | Myosurus minimus | L., Ranunculaceae | Mouse tail
+10.  | Myosurus australis | F.Muell., Ranunculaceae | Southern mousetail
 11.  | Myriophyllum glomeratum | Schindler, Haloragaceae | Clustered water milfoil
 11A.  | Ozothamnus selaginoides | Sonder & F.Muell., Asteraceae | Clubmoss everlasting
 12.  | Podotheca angustifolia | (Labill.) Less., Asteraceae | Sticky longheads
