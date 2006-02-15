@@ -7,6 +7,7 @@ Part II, Division 4 Hearings for settling disputes
 Part III Awards
 Part III, Division 1 Power to make awards and related matters
 Part III, Division 2 Provisions in respect of industries or employment not otherwise subject to award or registered agreement
+Part III, Division 2A Minimum conditions of employment relating to all employees
 Part III, Division 3 Enforcement of awards and registered agreements
 Part IV Industrial Agreements and Private Arbitration
 Part IVA Enterprise Agreements
