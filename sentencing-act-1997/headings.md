@@ -15,7 +15,7 @@ Part 9 Orders in addition to sentence
 Part 9, Division 1 Restitution
 Part 9, Division 2 Compensation
 Part 9, Division 3 Area restriction
-Part 10 Assessment, continuing care and restriction orders
+Part 10 Assessment, continuing care, supervision and restriction orders
 Part 11 Sentencing procedure
 Part 11, Division 1 Preliminary matters
 Part 11, Division 2 Sentencing and related matters

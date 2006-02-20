@@ -9,6 +9,7 @@ Part 5 Appointment of enduring guardian
 Part 6 Consent to Medical and Dental Treatment
 Part 6, Division 1 Preliminary
 Part 6, Division 2 Medical and dental treatment
+Part 6, Division 2A Power to make guardianship order or administration order
 Part 6, Division 3 General
 Part 7 Administration Orders
 Part 7, Division 1 Objects of Part 7
