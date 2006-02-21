@@ -18,7 +18,6 @@ Tasmanian Audit Office | Auditor-General
 Column 1 | Column 2
 Agency | Head of Agency
 Port Arthur Historic Site Management Authority | Chief executive officer
-Retirement Benefits Fund Board | President of the Retirement Benefits Fund Board
 Rivers and Water Supply Commission | Chairperson of the Rivers and Water Supply Commission
 TAFE Tasmania | Chief executive officer
 Tasmanian Dairy Industry Authority | Chairperson of the Tasmanian Dairy Industry Authority
