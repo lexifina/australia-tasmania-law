@@ -1,0 +1,3 @@
+Community Protection (Offender Reporting) Act 2005
+An Act to require certain offenders who commit sexual or certain other serious offences to keep police informed of their whereabouts and other personal details for a period of time (to reduce the likelihood that they will reoffend and to facilitate the investigation of any future offences that they may commit), to enable courts to make orders specifying certain offenders to be reportable offenders, and for related purposes
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
