@@ -71,8 +71,6 @@ Public Health Act 1962 |
 Approval of places of assembly | 60 days from the day on which the materials referred to in section 57(3) of the Public Health Act 1962 are received by the responsible Minister.
 Approval of premises for the manufacture, preparation, packing or storage of food for sale | 60 days from the day on which the materials referred to in section 120A(2) of the Public Health Act 1962 are received by the responsible Minister.
 Registration of premises for the purpose of the Public Health (Skin Penetration) Regulations 1978 | 60 days from the day on which an application is received by the municipal corporation.
-Radiation Control Act 1977 |
-Licence to deal with radioactive material or electronic product | 60 days from the day on which an application under section 12(1) of the Radiation Control Act 1977 is received by the responsible Minister.
 Vermin Destruction Act 1950 |
 Permit to keep rabbits or other vermin | 60 days from the day on which an application under section 21A(2) of the Vermin Destruction Act 1950 is received by the Chief Veterinary Officer.
 Water Act 1957 |
