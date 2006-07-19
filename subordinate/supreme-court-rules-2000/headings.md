@@ -117,6 +117,8 @@ Part 35, Division 5 Attachment of debts
 Part 35, Division 6 Attachment of wages and salaries
 Part 36 Miscellaneous enforcement and penal procedures
 Part 36, Division 1 Charging orders, stop orders and notices
+Part 36, Division 1A Freezing orders
+Part 36, Division 1B Search orders
 Part 36, Division 2 Enforcement by appointment of a receiver
 Part 36, Division 3 Contempt
 Part 36, Division 4 Attachment
