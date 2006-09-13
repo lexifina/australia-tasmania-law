@@ -33,6 +33,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 28.  | Benzethidine |
 29.  | Benzodiazepine derivatives not elsewhere specified in this Schedule |
 30.  | Benzylmorphine |
+30A.  | Benzylpiperazine (otherwise known as BZP) |
 31.  | Betacetylmethadol |
 32.  | Beta-hydroxyfentanyl |
 33.  | Beta-hydroxy-3-methylfentanyl |
@@ -51,8 +52,10 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 46.  | Bromvaletone |
 47.  | Bufotenine |
 48.  | Buprenorphine | 5g
+48A.  | 1,4-butanediol when intended for human ingestion |
 49.  | Butobarbitone |
 50.  | Butorphanol |
+50A.  | 4-butyrolactone (otherwise known as gamma-butyrolactone (GBL)) when intended for human ingestion |
 51.  | Captodiame |
 52.  | Carfentanyl |
 53.  | Cathine |
@@ -107,10 +110,14 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 95.  | 2,5-dimethoxy-4-ethoxyamphetamine | 25g
 96.  | 4,5-dimethoxy-2-ethoxyamphetamine | 25g
 97.  | 2,5-dimethoxy-4-ethyl-α-amphetamine (otherwise known as 2,5-dimethoxy-4-ethyl-α-methylphenylethylamine or DOET) | 25g
+97A.  | 2,5-dimethoxy-4-ethylthiophenethylamine (otherwise known as 2C-T-2) |
+97B.  | 2,5-dimethoxy-4-iodophenethylamine (otherwise known as 2C-I) |
 98.  | 2,3-dimethoxy-4,5-methylenedioxyamphetamine | 25g
 99.  | 2,5-dimethoxy-3,4-methylenedioxyamphetamine | 25g
 100.  | 3,4-dimethoxyphenylethylamine |
+100A.  | 2,5-dimethoxy-4-(N)-propylthiophenethylamine (otherwise known as 2C-T-7) |
 101.  | 3-(2-dimethylaminoethyl)-4-hydroxyindole (otherwise known as psilocine or psilotsin) |
+101A.  | N,N-Dimethylamphetamine (Dimetamfetamine) |
 102.  | Dimethylthiambutene |
 103.  | 3-(1,2-dimethylheptyl)-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran (otherwise known as DMHP) |
 104.  | N,N-dimethyltryptamine (otherwise known as DMT) |
@@ -151,7 +158,8 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 134.  | Hydrocodone |
 135.  | Hydromorphinol |
 136.  | Hydromorphone |
-137.  | 4-hydroxybutanoic acid and its salts |
+137.  | 4-hydroxybutanoic acid (otherwise known as gamma-hydroxybutyrate or GHB), except when specified elsewhere in this Schedule |
+137A.  | 4-hydroxybutyraldehyde when intended for human ingestion |
 138.  | Hydroxypethidine |
 139.  | 2-iodo-1-phenylpropane |
 140.  | Isomethadone |
@@ -177,6 +185,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 160.  | Methaqualone |
 161.  | Methcathinone |
 162.  | Methenolone |
+162A.  | 5-methoxy-a-methyltryptamine (5-MeO-AMT) |
 163.  | 2-methoxy-3,4-methylenedioxyamphetamine | 25g
 164.  | 2-methoxy-4,5-methylenedioxyamphetamine | 25g
 165.  | 4-methoxy-2,3-methylenedioxyamphetamine | 25g
@@ -298,6 +307,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 270.  | Trenbolone (S4) |
 271.  | Triazolam |
 272.  | Triclofos |
+272A.  | 1-(3-trifluoromethylphenyl)piperazine (otherwise known as TFMPP) |
 273.  | Trimeperidine |
 274.  | 2,3,4-trimethoxyamphetamine | 25g
 275.  | 2,3,5-trimethoxyamphetamine | 25g
