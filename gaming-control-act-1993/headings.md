@@ -7,7 +7,7 @@ Part 4, Division 1 General
 Part 4, Division 2 Licensed premises gaming licence
 Part 4, Division 3 Special employee's licence
 Part 4, Division 4 Technician's licence
-Part 4, Division 5 Manufacturers and suppliers of gaming equipment
+Part 4, Division 5 Manufacturers, suppliers and testers of gaming equipment
 Part 4A Gaming and wagering under Tasmanian gaming licence
 Part 4A, Division 1 Lawful and unlawful activities
 Part 4A, Division 2 Application for, and determination of, Tasmanian gaming licence
