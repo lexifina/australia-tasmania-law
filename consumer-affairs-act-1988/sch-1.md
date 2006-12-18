@@ -1,2 +1,2 @@
-# Schedule 1 Provisions with Respect to the Membership of the Council
-Section 5 (6)
+# Schedule 1 Provisions with respect to membership and meetings of committee
+Section 5(5)
