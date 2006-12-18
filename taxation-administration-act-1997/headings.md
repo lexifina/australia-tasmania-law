@@ -23,4 +23,5 @@ Part 11 Miscellaneous
 Part 11, Division 1 Payment
 Part 11, Division 2 Evidentiary matters
 Part 11, Division 3 General offences
+Part 11, Division 3A Tax avoidance
 Part 11, Division 4 Miscellaneous matters
