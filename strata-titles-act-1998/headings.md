@@ -3,7 +3,7 @@ Part 2 Strata schemes
 Part 2, Division 1 Division of land by strata plan
 Part 2, Division 2 Requirements for registration of plan
 Part 2, Division 3 The common property
-Part 2, Division 4 Easements
+Part 2, Division 4 Easements, covenants and profits a prendre
 Part 2, Division 5 Unit entitlements
 Part 2, Division 6 Amendment of strata plan
 Part 2, Division 7 Consolidation of plans
