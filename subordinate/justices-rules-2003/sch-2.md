@@ -4,6 +4,8 @@ For the purpose of rule 27, the following offences are specified offences:
 1.  | An offence under any by-laws under the Local Government Act 1993, the University of Tasmania Act 1992 or the Local Government (Highways) Act 1982
 2.  | An offence under the Classification (Publications, Films and Computer Games) Enforcement Act 1995, except Part 8, and any regulations made under it
 3.  | An offence under section 16 of the Consumer Affairs Act 1988
+3A.  | An offence under the Dog Control Act 2000
+3B.  | An offence under the Environmental Management and Pollution Control (Miscellaneous Noise) Regulations 2004
 4.  | An offence under the Forestry Act 1920 and any regulations made under it
 5.  | An offence under the Inland Fisheries Act 1995 if the maximum penalty for the offence does not exceed 10 penalty units
 6.  | An offence under the Inland Fisheries (Recreational Fishing) Regulations 1999
@@ -13,8 +15,9 @@ For the purpose of rule 27, the following offences are specified offences:
 10.  | An offence under section 29 of the Motor Accidents (Liabilities and Compensation) Act 1973
 11.  | An offence under the National Parks and Reserved Land Regulations 1999
 12.  | An offence under the Passenger Transport Act 1997 and any regulations made under it
-13.  | An offence under sections 13, 14, 15(1), 15A, 15B, 15C, 16, 17, 19A, 20AA, 25, 34B, 37(3), 37(4), 41, 43, 55A and 57 of the Police Offences Act 1935
+13.  | An offence under section 13, 14, 15(1), 15A, 15B, 15C, 16, 17, 19A, 20AA, 25, 34B, 37(1), 37(3), 37(4), 41, 43, 55A or 57 of the Police Offences Act 1935
 14.  | An offence under the Racing and Gaming Regulations 1976 if the maximum penalty for the offence does not exceed $100
+14A.  | An offence under section 7 of the Road Safety (Alcohol and Drugs) Act 1970
 15.  | An offence under the Taxi and Luxury Hire Car Industries Act 1995 and any regulations made under it
 16.  | An offence under section 41(1) and 51(3) of the Traffic Act 1925
 17.  | An offence under the Traffic (Road Rules) Regulations 1999
