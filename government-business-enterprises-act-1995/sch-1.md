@@ -7,6 +7,5 @@ Printing Authority of Tasmania
 Public Trustee
 Rivers and Water Supply Commission
 Southern Regional Cemetery Trust
-Tasmanian International Velodrome Management Authority
 Tasmanian Public Finance Corporation
 Forestry corporation established by the Forestry Act 1920

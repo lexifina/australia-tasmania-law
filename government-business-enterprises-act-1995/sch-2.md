@@ -7,5 +7,4 @@ Printing Authority of Tasmania
 Public Trustee
 Rivers and Water Supply Commission
 Southern Regional Cemetery Trust
-Tasmanian International Velodrome Authority
 Tasmanian Public Finance Corporation
