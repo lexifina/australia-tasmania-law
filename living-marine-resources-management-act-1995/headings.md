@@ -51,7 +51,7 @@ Part 9, Division 5 Infringement notices
 Part 9, Division 6 Demerit points
 Part 9, Division 7 Control orders
 Part 9, Division 8 Miscellaneous offences
-Part 9, Division 9 Criminal offences
+Part 9, Division 9 Indictable offences
 Part 9, Division 10 Special penalties
 Part 10 Miscellaneous
 Part 10, Division 1 Disease and pests
