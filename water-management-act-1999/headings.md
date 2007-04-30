@@ -50,6 +50,7 @@ Part 13, Division 3 Civil enforcement proceedings
 Part 14 Review of decisions and appeals
 Part 14, Division 1 Review of decisions
 Part 14, Division 2 Appeals to Appeal Tribunal
+Part 14A Water supply emergencies
 Part 15 Miscellaneous and supplemental
 Part 15, Division 1 Offences
 Part 15, Division 2 Fees and charges
