@@ -27,6 +27,7 @@ Part 7, Division 15 Third and subsequent party and co-defendant procedure
 Part 7, Division 16 Interpleader
 Part 7, Division 17 Pleadings
 Part 7, Division 18 Building disputes
+Part 7, Division 18A Defamation actions
 Part 7, Division 19 Filing and delivery of pleadings
 Part 8 Payment into and out of court
 Part 9 Offer of compromise
@@ -47,6 +48,7 @@ Part 12 Discontinuance and withdrawal
 Part 13 Discovery and interrogatories
 Part 13, Division 1 Discovery and inspection of documents
 Part 13, Division 2 Admissions and production of documents
+Part 13, Division 2A Preliminary discovery
 Part 13, Division 3 Interrogatories
 Part 14 Pre-trial directions
 Part 14, Division 1 Case management
