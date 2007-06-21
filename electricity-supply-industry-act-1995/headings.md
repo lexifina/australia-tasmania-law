@@ -50,4 +50,5 @@ Part 10, Division 3 Offences
 Part 10, Division 4 Evidentiary provisions and provisions relating to proceedings in a court
 Part 10, Division 5 Damage caused by officers in exercising statutory powers
 Part 10, Division 6 Immunity from liability
+Part 10, Division 6A Charges
 Part 10, Division 7 Regulations
