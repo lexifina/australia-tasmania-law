@@ -25,11 +25,6 @@ Chapter 3, Part 5, Division 2 Assignment of rights under put and call option
 Chapter 3, Part 5, Division 3 Dutiable value of property subject to put and call option or call option assignment
 Chapter 3, Part 5, Division 4 No double duty
 Chapter 3, Part 5, Division 5 Exemptions
-Chapter 6 Mortgages
-Chapter 6, Part 1 Introduction and overview
-Chapter 6, Part 2 Calculating the amount secured by a mortgage
-Chapter 6, Part 3 Exempt instruments
-Chapter 6, Part 4 Miscellaneous
 Chapter 7 Insurance
 Chapter 7, Part 1 General Insurance
 Chapter 7, Part 2 Life Insurance
