@@ -6,7 +6,7 @@ I, the Governor in and over the State of Tasmania and its Dependencies in the Co
 (iii) State Fire Commission;
 (iv) Tasmania Development and Resources Board;
 (v) Tasmanian Ambulance Service;
-(va) Tasmanian Learning and Skills Authority;
+(va) Skills Tasmania established under the Vocational Education and Training Act 1994;
 (vi) Tasmanian Library Advisory Board;
 (vii) Tasmanian Qualifications Authority;
 (ix) Botanical Gardens Board;
