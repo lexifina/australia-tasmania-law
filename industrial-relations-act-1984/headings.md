@@ -4,6 +4,7 @@ Part II, Division 1 Constitution, &c., of the Commission
 Part II, Division 2 Jurisdiction, functions and powers of the Commission
 Part II, Division 3 Proceedings before the Commission
 Part II, Division 4 Hearings for settling disputes
+Part II, Division 5 Cooperation between State industrial tribunals
 Part III Awards
 Part III, Division 1 Power to make awards and related matters
 Part III, Division 2 Provisions in respect of industries or employment not otherwise subject to award or registered agreement
