@@ -1,0 +1,6 @@
+# Schedule 1 Conservation Areas
+All that area of land comprising approximately 3580 hectares, shown as Lot 1 and bounded by a heavy black line on Plan 5399 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 1 of Schedule 2 to this proclamation.
+All that area of land comprising approximately 13.95 hectares, shown as Lots 1 and 2 and bounded by heavy black lines on Plan 7287 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 2 of Schedule 2 to this proclamation.
+All that area of land comprising approximately 34.025 hectares, shown as Lots 1 and 2 and bounded by heavy black lines on Plan 7288 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 3 of Schedule 2 to this proclamation.
+All that area of land comprising approximately 6495 square metres, shown as Lot 1 and bounded by a heavy black line on Plan 7701 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 4 of Schedule 2 to this proclamation.
+All that area of land comprising approximately 4.72 hectares, shown as Lot 1 and bounded by a heavy black line on Plan 7702 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 5 of Schedule 2 to this proclamation.
