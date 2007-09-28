@@ -6,4 +6,5 @@ Part 2, Division 3 The Registrar
 Part 3 Restrictions and Prohibitions on Use of, or Dealing With, Chemical Products
 Part 4 Controls Over Use of Agricultural Chemical Products
 Part 5 Controls Over Contaminated Land, Stock and Agricultural Produce
+Part 5A Infringement notices
 Part 6 Miscellaneous
