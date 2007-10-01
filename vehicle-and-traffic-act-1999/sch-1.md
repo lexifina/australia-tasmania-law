@@ -1,24 +1,24 @@
 # Schedule 1 Rates of Motor Tax
 Section 34
 | Type of Vehicle | Tax payable $
-1.  | A motor vehicle propelled by a piston engine with 3 or fewer cylinders | 73
-2.  | A motor vehicle propelled by a piston engine with 4 cylinders | 85
-3.  | A motor vehicle propelled by a piston engine with 5 or 6 cylinders | 106
-4.  | A motor vehicle propelled by a piston engine with 7 or 8 cylinders | 146
-5.  | A motor vehicle propelled by a piston engine with more than 8 cylinders | 164
-6.  | A motor vehicle propelled by a rotary engine or an electric motor | 85
+1.  | A motor vehicle propelled by a piston engine with 3 or fewer cylinders | 74
+2.  | A motor vehicle propelled by a piston engine with 4 cylinders | 86
+3.  | A motor vehicle propelled by a piston engine with 5 or 6 cylinders | 108
+4.  | A motor vehicle propelled by a piston engine with 7 or 8 cylinders | 148
+5.  | A motor vehicle propelled by a piston engine with more than 8 cylinders | 166
+6.  | A motor vehicle propelled by a rotary engine or an electric motor | 86
 | Type of Vehicle | Tax payable $
 1.  | A truck with a GVM of 3.0 tonnes or more – |
-(a)  | propelled by a piston engine with 4 or fewer cylinders | 164
-(b)  | propelled by a piston engine with 5 or 6 cylinders | 191
-(c)  | propelled by a piston engine with 7 or 8 cylinders | 218
-(d)  | propelled by a piston engine with more than 8 cylinders | 246
-(e)  | propelled by a rotary engine or an electric motor | 164
-2.  | A bus with 10 adult seats including the driver's seat | 109
-3.  | A bus with more than 10 adult seats including the driver's seat | 191
+(a)  | propelled by a piston engine with 4 or fewer cylinders | 166
+(b)  | propelled by a piston engine with 5 or 6 cylinders | 193
+(c)  | propelled by a piston engine with 7 or 8 cylinders | 221
+(d)  | propelled by a piston engine with more than 8 cylinders | 249
+(e)  | propelled by a rotary engine or an electric motor | 166
+2.  | A bus with 10 adult seats including the driver's seat | 110
+3.  | A bus with more than 10 adult seats including the driver's seat | 193
 4.  | A motor cycle | 12
 5.  | A trailer with a GVM of 4.5 tonnes or less | 16
-6.  | A tractor | 82
+6.  | A tractor | 83
 1 For the purposes of this Part –
 (a) 2 axles positioned not more than 1 metre apart are to be regarded as a single axle; and
 (b) 3 axles positioned not more than 2 metres apart are to be regarded as 2 axles; and
