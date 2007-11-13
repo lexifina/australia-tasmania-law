@@ -21,6 +21,7 @@ Part 6, Division 2 Miscellaneous matters
 Part 7 Offences
 Part 7, Division 1 Mailing, delivery or transporting firearms
 Part 7, Division 2 Sale and possession
+Part 7, Division 2A Trafficking
 Part 7, Division 3 Miscellaneous
 Part 8 Firearms Prohibition Orders
 Part 9 Powers of Police
