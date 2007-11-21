@@ -3,6 +3,8 @@ Part II General Police Provisions
 Part II, Division I Drunkenness, vagrancy, indecency, and other public annoyances
 Part II, Division IA Offences relating to trespass to lands
 Part II, Division II Offences relating to good order and safety
+Part II, Division III Fortifications
+Part II, Division IIIA Prohibited behaviour
 Part II, Division IV Consumption of liquor
 Part II, Division VII Offences against public authority
 Part III Injuries to the Person
