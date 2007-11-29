@@ -5,6 +5,7 @@ Part 2, Division 2 Access to information
 Part 2A Environmental duties
 Part 3 Environmental Management
 Part 3, Division 1 Assessment of environmental impacts
+Part 3, Division 1A Assessment of activities
 Part 3, Division 2 Environmental agreements
 Part 3, Division 3 Environmental audits
 Part 3, Division 4 Notification obligations
@@ -18,11 +19,13 @@ Part 4, Division 3 Civil enforcement
 Part 4, Division 4 General offences
 Part 4, Division 5 Environmental infringement notices
 Part 5 Environmental Impact Assessments
-Part 6 Ozone Protection
-Part 6, Division 1 Preliminary
-Part 6, Division 2 Restricted and prohibited activities
-Part 6, Division 3 Individual Authorizations
-Part 6, Division 4 General authorizations
+Part 5A Contaminated Sites
+Part 5A, Division 1 Preliminary
+Part 5A, Division 2 Action on becoming aware of contaminated site
+Part 5A, Division 3 Investigation, remediation and site management notices
+Part 5A, Division 4 Compliance with notice
+Part 5A, Division 5 Action by Director if failure to comply with notice or in other circumstances
+Part 5A, Division 6 Miscellaneous
 Part 7 Miscellaneous and Supplemental
 Part 7, Division 1 Powers of authorized officers and council officers
 Part 7, Division 1A Environment protection policies
