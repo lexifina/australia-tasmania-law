@@ -12,5 +12,6 @@ Part 5, Division 2 Production orders
 Part 5, Division 3 Search powers
 Part 5, Division 4 Monitoring orders
 Part 6 Interstate Orders
+Part 6A Money laundering
 Part 7 Offences
 Part 8 Miscellaneous
