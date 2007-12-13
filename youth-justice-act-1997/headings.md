@@ -3,8 +3,7 @@ Part 2 Diverting youths from court system
 Part 2, Division 1 Preliminary
 Part 2, Division 2 Diversionary procedure by police
 Part 2, Division 3 Community conferences
-Part 2, Division 4 Instructions by Commissioner of Police
-Part 2, Division 5 Confidentiality
+Part 2, Division 4 Provisions of general application
 Part 3 Arrest and custody of suspected offenders
 Part 4 Court proceedings against a youth
 Part 4, Division 1 Commencing proceedings
