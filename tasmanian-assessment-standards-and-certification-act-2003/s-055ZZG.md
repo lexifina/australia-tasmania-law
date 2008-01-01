@@ -1,0 +1,4 @@
+# 55ZZG. Renewal of registration
+(1) A registered education (overseas students) provider may apply for the renewal of the registration not less than 6 calendar months before the registration ceases to have effect.
+(2) This Division applies in respect of an application for renewal of registration as a registered education (overseas students) provider, and that renewal, as if the application were an application for a first registration as a registered education (overseas students) provider.
+(3) A registered education (overseas students) provider must comply with the written requirement of the Authority that the registration (overseas students) certificate be surrendered to the Authority for the purpose of amending it, or replacing it, as the Authority determines appropriate on the renewal of the registration.
