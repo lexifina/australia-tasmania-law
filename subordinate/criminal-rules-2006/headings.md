@@ -1,4 +1,5 @@
 Part 1 Preliminary
+Part 1A Criminal Directions Hearings
 Part 2 Victim Impact Statements
 Part 3 Recording of Proceedings
 Part 4 Procedure on Appeal
