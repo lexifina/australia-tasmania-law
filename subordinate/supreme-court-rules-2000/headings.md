@@ -87,7 +87,7 @@ Part 26, Division 4 Procedendo and quo warranto
 Part 26, Division 5 Habeas corpus
 Part 27 Appeals
 Part 27, Division 1 Appeals from judge to Full Court
-Part 27, Division 1A Appeal from Master
+Part 27, Division 1A Appeal from Associate Judge
 Part 27, Division 2 Appeals from and cases stated by inferior courts
 Part 27, Division 3 Stated case
 Part 27, Division 4 Appeal from and case stated by statutory tribunals other than courts
@@ -126,7 +126,7 @@ Part 36, Division 3 Contempt
 Part 36, Division 4 Attachment
 Part 36, Division 5 Sequestration
 Part 36, Division 6 Proceedings under a judgment
-Part 37 The Master
+Part 37 The Associate Judge
 Part 38 Service of foreign process
 Part 39 Obtaining evidence for external court or tribunal
 Part 40 Miscellaneous
