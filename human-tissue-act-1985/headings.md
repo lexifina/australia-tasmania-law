@@ -4,7 +4,8 @@ Part II, Division 1 Exclusion of certain tissue
 Part II, Division 2 Donations by adults
 Part II, Division 3 Donations by children
 Part II, Division 4 Effect of consents
-Part II, Division 5 Blood transfusions, &c.
+Part II, Division 5 Donations of blood
+Part II, Division 5A Blood transfusions
 Part II, Division 6 Revocation of consent
 Part III Donations of Tissue After Death
 Part IIIA Non-coronial autopsies and medical examinations
