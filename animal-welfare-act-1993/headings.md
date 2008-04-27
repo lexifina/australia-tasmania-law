@@ -5,4 +5,5 @@ Part 4 Animal research
 Part 5 Inspectors
 Part 6 Animal Welfare Advisory Committee
 Part 7 Offences
+Part 7A Infringement notices
 Part 8 Miscellaneous
