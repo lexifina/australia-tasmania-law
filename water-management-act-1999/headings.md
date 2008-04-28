@@ -44,7 +44,7 @@ Part 12, Division 2 Powers of authorised officers
 Part 12, Division 3 Powers to prevent unlawful taking of water
 Part 12, Division 4 Supplemental
 Part 13 Enforcement
-Part 13, Division 1 Water infringement notices
+Part 13, Division 1 Infringement notices
 Part 13, Division 2 Demerit points
 Part 13, Division 3 Civil enforcement proceedings
 Part 14 Review of decisions and appeals
