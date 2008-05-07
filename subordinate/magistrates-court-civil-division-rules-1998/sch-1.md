@@ -67,7 +67,7 @@ Rules 25, 117, 127(3), 129G(4), 130, 138 and 139
 (b)  | each subsequent day | $768 | $1 024 | $1 280
 21.  | Attendance as counsel for judgment | $64 | $64 | $64
 | Item |  | Amount | claimed | in action |
-|  | Not exceeding $1 000 | Exceeding $1 000 and not exceeding $3 000 | Exceeding $3 000 and not exceeding $5 000 | Exceeding $5 000 and not exceeding $10 000 | Exceeding $10 000 and not exceeding $20 000
+|  | Not exceeding $1 000 | Exceeding $1 000 and not exceeding $3 000 | Exceeding $3 000 and not exceeding $5 000 | Exceeding $5 000 and not exceeding $10 000 | Exceeding $10 000
 1.  | Preparing and filing liquidated claim | $76.80 | $153.60 | $230.40 | $307.20 | $384
 2.  | Entering default judgment | $38.40 | $38.40 | $38.40 | $38.40 | $38.40
 3.  | Assessing damages under rule 119 | $64 | $76.80 | $89.60 | $102.40 | $153.60
