@@ -1,127 +1,146 @@
 # Schedule 4 Taxa of native flora and fauna which are vulnerable
 Section 13(2)
+Vertebrates
+Mammals
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
-1.  | Mammals |  |
-(a)  | Balaenoptera physalus | Linnaeus | Fin Whale
-(b)  | Sarcophilus harrisii | (Thomas) | Tasmanian Devil
-2.  | Birds |  |
-(a)  | Haliaeetus leucogaster | Gmelin | White-bellied Sea-Eagle
-(aa)  | Halobaena caerulea | Gmelin | Blue Petrel
-(b)  | Leucocarbo atriceps purpurescens | Brant | Macquarie Island Shag
-(c)  | Macronectes giganteus | Gmelin | Southern Giant Petrel
-(d)  | Phoebetria palpebrata | Forster | Light-mantled Sooty Albatross
-(da)  | Platycercus caledonicus brownii | (Kuhl) | King Island Green Rosella
-(e)  | Pterodroma lessonii | Garnot | White-headed Petrel
-(f)  | Sterna striata | Gmelin | White-fronted Tern
-(g)  | Thalassarche cauta | Gould | Shy Albatross
-3.  | Reptiles |  |
-(a)  | Chelonia mydas | Linnaeus | Green Turtle
-(b)  | Dermochelys coriacea | Linnaeus | Leathery Turtle
-(c)  | Eretmochelys imbricata | Linnaeus | Hawksbill Turtle
-(d)  | Notechis ater serventyi | Worrell | Chappell Island Tiger Snake
-4.  | Amphibians |  |
-4.  | Litoria raniformis | Keferstein | Green and Golden Frog
-5.  | Fish |  |
-(a)  | Paragalaxias dissimilis | Regan | Shannon Paragalaxias
-(b)  | Paragalaxias eleotroides | McDowall and Fulton | Great Lake Paragalaxias
-(c)  | Prototroctes maraena | Gunther | Australian Grayling
-(d)  | Carcharodon carcharias | Linnaeus | Great White Shark
+1.  | Balaenoptera physalus | Linnaeus | Fin Whale
+Birds
+| Column 1 | Column 2 | Column 3
+| Species | Authority | Common name
+1.  | Haliaeetus leucogaster | Gmelin | White-bellied Sea-Eagle
+2.  | Halobaena caerulea | Gmelin | Blue Petrel
+3.  | Leucocarbo atriceps purpurescens | Brant | Macquarie Island Shag
+4.  | Macronectes giganteus | Gmelin | Southern Giant Petrel
+5.  | Phoebetria palpebrata | Forster | Light-mantled Sooty Albatross
+6.  | Platycercus caledonicus brownii | (Kuhl) | King Island Green Rosella
+7.  | Podiceps cristatus | Linne | Great Crested Grebe
+8.  | Pterodroma lessonii | Garnot | White-headed Petrel
+9.  | Sterna nereis nereis | Gould | Fairy Tern
+10.  | Sterna striata | Gmelin | White-fronted Tern
+11.  | Thalassarche cauta | Gould | Shy Albatross
+Reptiles
+| Column 1 | Column 2 | Column 3
+| Species | Authority | Common name
+1.  | Chelonia mydas | Linnaeus | Green Turtle
+2.  | Dermochelys coriacea | Linnaeus | Leathery Turtle
+3.  | Eretmochelys imbricata | Linnaeus | Hawksbill Turtle
+4.  | Pseudemoia pagenstecheri | Lindholm | Tussock Skink
+Amphibians
+| Column 1 | Column 2 | Column 3
+| Species | Authority | Common name
+1.  | Litoria raniformis | Keferstein | Green and Golden Frog
+Fish
+| Column 1 | Column 2 | Column 3
+| Species | Authority | Common name
+1.  | Carcharodon carcharias | Linnaeus | Great White Shark
+2.  | Galaxias parvus | Frankenburg | Swamp Galaxias
+3.  | Galaxias tanycephalus | Fulton | Saddled Galaxias
+4.  | Galaxiella pusilla | Mack | Dwarf Galaxias
+5.  | Paragalaxias dissimilis | Regan | Shannon Paragalaxias
+6.  | Paragalaxias eleotroides | McDowall and Fulton | Great Lake Paragalaxias
+7.  | Prototroctes maraena | Gunther | Australian Grayling
+Invertebrates
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Order | Common name
 1.  | Amelora acontistica | Turner, Lepidoptera | Chevron Looper Moth
 2.  | Astacopsis gouldi | Clark, Decapoda | Giant Freshwater Crayfish
-2A.  | Austrochloritis victoriae | (Cox), Sigmurethra | Southern Hairy Red Snail
-3.  | Beddomeia krybetes | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (St. Pauls River)
-4.  | Beddomeia tumida | Petterd, Mesogastropoda | Hydrobiid Snail (Great Lake)
-5.  | Dasybela achroa | Lower, Lepidoptera | Saltmarsh Looper Moth
-5A.  | "Discocharopa" vigens | Legrand, Mesogastropoda | Land Snail
-5B.  | Engaeus martigener | Horwitz, Decapoda | Furneaux Burrowing Crayfish
-6.  | Engaeus orramakunna | Horwitz, Decapoda | Mt. Arthur Burrowing Crayfish
-7.  | Engaeus yabbimunna | Horwitz, Decapoda | Burrowing Crayfish (Burnie)
-7A.  | Gazameda gunnii | (Reeve), Mesogastropoda | Gunn's Screw Shell
-8.  | Goedetrechus parallelus | Moore, Coleoptera | Cave Beetle (Junee-Florentine)
-9.  | Hoplogonus simsoni | Parry, Coleoptera | Simson's Stag Beetle
-10.  | Hoplogonus vanderschoori | Bartoluzzi, Coleoptera | Vanderschoor's Stag Beetle
-11.  | Lissotes menalcas | Westwood, Coleoptera | Mt. Mangana Stag Beetle
-12.  | Oreixenica ptunarra | Couchman, Lepidoptera | Ptunarra Brown Butterfly
+3.  | Austrochloritis victoriae | (Cox), Sigmurethra | Southern Hairy Red Snail
+4.  | Beddomeia krybetes | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (St. Pauls River)
+5.  | Beddomeia lodderae | Petterd, Mesogastropoda | Hydrobiid Snail (Upper Castra Rivulet)
+6.  | Beddomeia wiseae | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Blizzards Creek)
+7.  | Catadromus lacordairei | Boisduval, Coleoptera | Catadromus Carabid Beetle
+8.  | Dasybela achroa | Lower, Lepidoptera | Saltmarsh Looper Moth
+9.  | "Discocharopa" vigens | Legrand, Mesogastropoda | Land Snail
+10.  | Engaeus martigener | Horwitz, Decapoda | Furneaux Burrowing Crayfish
+11.  | Engaeus orramakunna | Horwitz, Decapoda | Mt. Arthur Burrowing Crayfish
+12.  | Engaeus yabbimunna | Horwitz, Decapoda | Burrowing Crayfish (Burnie)
+13.  | Gazameda gunnii | (Reeve), Mesogastropoda | Gunn's Screw Shell
+14.  | Goedetrechus mendumae | Moore, Coleoptera | Cave Beetle (Ida Bay)
+15.  | Goedetrechus parallelus | Moore, Coleoptera | Cave Beetle (Junee-Florentine)
+16.  | Hoplogonus simsoni | Parry, Coleoptera | Simson's Stag Beetle
+17.  | Hoplogonus vanderschoori | Bartoluzzi, Coleoptera | Vanderschoor's Stag Beetle
+18.  | Lissotes menalcas | Westwood, Coleoptera | Mt. Mangana Stag Beetle
+19.  | Oreixenica ptunarra | Couchman, Lepidoptera | Ptunarra Brown Butterfly
+20.  | Pasmaditta jungermanniae | Petterd, Sigmurethra | Snail (Cataract Gorge)
+21.  | Patiriella vivipara | Dartnall, Asterinidae | Live-bearing Seastar
+Dicotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Acacia axillaris | Benth., Mimosaceae | Midlands wattle
-2.  | Acrotriche cordata | (Labill.) R.Br., Epacridaceae | Coast ground berry
-3.  | Atriplex suberecta | I.Verd., Chenopodiaceae | Sprawling saltbush
-4.  | Bertya tasmanica ssp. tasmanica | (Sond. & F.Muell.) Müll.Arg., Euphorbiaceae | Tasmanian bertya
-4A.  | Boronia gunnii | Hook.f., Rutaceae | Gunn's boronia
-4B.  | Boronia hippopala | Duretto, Rutaceae | Velvet boronia
-5.  | Brachyscome rigidula | (DC.) G.Davis, Asteraceae | Hairy cutleaf daisy
-6.  | Brunonia australis | Smith ex R.Br., Brunoniaceae | Blue pincushion
-7.  | Conospermum hookeri | (Meisn.) E.M.Bennett, Proteaceae | Variable smoke bush
-8.  | Desmodium gunnii | Benth. ex Hook.f., Fabaceae | Slender tick trefoil
-9.  | Epacris exserta | R.Br., Epacridaceae | South Esk heath
-10.  | Epacris grandis | Crowden, Epacridaceae | Great heath
-11.  | Epacris virgata | Hook.f., Epacridaceae | Pretty heath
-11B.  | Epacris aff. virgata 'graniticola' | (D.Keith HO322110), Epacridaceae | Mt Cameron heath
-12.  | Eryngium ovinum | A.Cunn., Apiaceae | Blue devil
-13.  | Euphrasia phragmostoma | W.R.Barker, Scrophulariaceae | Hairy cliff eyebright
-14.  | Glycine latrobeana | (Meisn.) Benth., Fabaceae | Clover glycine
-15.  | Glycine microphylla | (Benth.) Tind., Fabaceae | Small-leaf glycine
-16.  | Gratiola pubescens | R.Br., Scrophulariaceae | Hairy brooklime
-17.  | Hakea ulicina | R.Br., Proteaceae | Furze hakea
-18.  | Haloragis aspera | Lindl., Haloragaceae | Rough raspwort
-19.  | Hibbertia calycina | (DC.) N.A.Wakef., Dilleniaceae | Lesser guinea flower
-20.  | Hydrocotyle laxiflora | DC., Apiaceae | Stinking pennywort
-21.  | Isopogon ceratophyllus | R.Br., Proteaceae | Horny cone bush
-22.  | Lasiopetalum micranthum | Hook.f., Sterculiaceae | Tasmanian velvet bush
-22A.  | Limonium baudinii | Lincz, Plumbaginaceae | Baudin's sea lavender
-23.  | Lobelia pratioides | Benth., Campanulaceae | Poison lobelia
-24.  | Lythrum salicaria | L., Lythraceae | Purple loosestrife
-25.  | Micrantheum serpentinum | Orch., Euphorbiaceae | Serpentine micrantheum
-25A.  | Mirabelia oxylobioides | F.Muell., Fabaceae | Mountain mirbelia
-26.  | Myoporum parvifolium | R.Br., Myoporaceae | Creeping myoporum
-27.  | Myriophyllum integrifolium | (Hook.f.) Hook.f., Haloragaceae | Tiny water milfoil
-27A.  | Ozothamnus reflexifolius | K.Leeson & Rozefelds, Asteraceae | Reflexed everlasting
-28.  | Persicaria decipiens | (R.Br.) K.L. Wilson, Polygonaceae | Slender knotweed
-29.  | Phyllangium divergens | (Hook.f.) Dunlop, Loganiaceae | Wiry mitrewort
-30.  | Plantago gaudichaudii | Barneoud, Plantaginaceae | Narrow plantain
-31.  | Polyscias aff. sambucifolia | (R.Schahinger HO500267), Araliaceae | Elderberry panax
-32.  | Pomaderris elachophylla | F.Muell., Rhamnaceae | Small leaf pomaderris
-33.  | Prostanthera rotundifolia | R.Br., Lamiaceae | Roundleaf mint bush
-35.  | Pultenaea humilis | Benth. ex Hook.f., Fabaceae | Dwarf bush pea
-36.  | Pultenaea mollis | Lindl., Fabaceae | Guinea flower bush pea
-37.  | Pultenaea prostrata | Benth. ex Hook.f., Fabaceae | Prostrate bush pea
-38.  | Pultenaea sericea | (Benth.) Corrick, Fabaceae | Chaffy bush pea
-39.  | Scleranthus diander | R.Br., Caryophyllaceae | Tufted knawel
-40.  | Scleranthus fasciculatus | (R.Br.) Hook.f., Caryophyllaceae | Spreading knawel
-41.  | Spyridium lawrencei | (Hook.f.) Benth., Rhamnaceae | Small leaf spyridium
-42.  | Spyridium obcordatum | (Hook.f.) W.M.Curtis, Rhamnaceae | Creeping spyridium
-43.  | Stenanthemum pimeleoides | (Hook.f.) Benth., Rhamnaceae | Spreading stenanthemum
-43A.  | Stonesiella selaginoides | (Hook.f.) Crisp & P.H.Weston, Fabaceae | Clubmoss bush pea
-44.  | Triptilodiscus pygmaeus | Turcz., Asteraceae | Common sunray
-45.  | Velleia paradoxa | R.Br., Goodeniaceae | Spur velleia
-46.  | Veronica novae-hollandiae | Poiret, Scrophulariaceae | New Holland speedwell
+1.  | Acacia axillaris | Benth., Mimosaceae | midlands wattle
+2.  | Acrotriche cordata | (Labill.) R.Br., Epacridaceae | coast groundberry
+3.  | Atriplex suberecta | I.Verd., Chenopodiaceae | sprawling saltbush
+4.  | Bedfordia arborescens | Hochr., Asteraceae | tree blanketleaf
+5.  | Boronia gunnii | Hook.f., Rutaceae | river boronia
+6.  | Boronia hippopala | Duretto, Rutaceae | velvet boronia
+7.  | Brachyscome rigidula | (DC.) G.L.R.Davis, Asteraceae | cutleaf daisy
+8.  | Chionohebe ciliolata | (Hook.f) B.G.Briggs & Ehrend., Scrophulariaceae | ben lomond cushionplant
+9.  | Conospermum hookeri | (Meisn.) E.M.Benn., Proteaceae | tasmanian smokebush
+10.  | Desmodium gunnii | Benth. ex Hook.f., Fabaceae | slender ticktrefoil
+11.  | Epacris exserta | R.Br., Epacridaceae | south esk heath
+12.  | Epacris graniticola | Crowden, Epacridaceae | granite heath
+13.  | Epacris virgata | Hook.f., Epacridaceae | pretty heath
+14.  | Eryngium ovinum | A.Cunn., Apiaceae | blue devil
+15.  | Euphrasia phragmostoma | W.R.Barker, Scrophulariaceae | hairy cliff-eyebright
+16.  | Glycine latrobeana | (Meisn.) Benth., Fabaceae | clover glycine
+17.  | Glycine microphylla | (Benth.) Tindale, Fabaceae | small-leaf glycine
+18.  | Gratiola pubescens | R.Br., Scrophulariaceae | hairy brooklime
+19.  | Hakea ulicina | R.Br., Proteaceae | furze needlebush
+20.  | Haloragis aspera | Lindl., Haloragaceae | rough raspwort
+21.  | Hibbertia calycina | (DC.) N.A.Wakef., Dilleniaceae | lesser guineaflower
+22.  | Hydrocotyle laxiflora | DC., Apiaceae | stinking pennywort
+23.  | Isopogon ceratophyllus | R.Br., Proteaceae | horny conebush
+24.  | Limonium baudinii | Lincz., Plumbaginaceae | tasmanian sea-lavender
+25.  | Lobelia pratioides | Benth., Campanulaceae | poison lobelia
+26.  | Lythrum salicaria | L., Lythraceae | purple loosestrife
+27.  | Mirbelia oxylobioides | F.Muell., Fabaceae | sandstone bushpea
+28.  | Myoporum parvifolium | R.Br., Myoporaceae | creeping boobialla
+29.  | Myriophyllum integrifolium | (Hook.f.) Hook.f., Haloragaceae | tiny watermilfoil
+30.  | Oreoporanthera petalifera | Orchard & J.Davies, Euphorbiaceae | mountain poranthera
+31.  | Ozothamnus reflexifolius | K.Leeson & Rozefelds, Asteraceae | reflexed everlastingbush
+32.  | Persicaria decipiens | (R.Br.) K.L.Wilson, Polygonaceae | slender waterpepper
+33.  | Phyllangium divergens | (Hook.f.) Dunlop, Loganiaceae | wiry mitrewort
+34.  | Plantago gaudichaudii | Barneoud, Plantaginaceae | narrow plantain
+35.  | Pomaderris elachophylla | F.Muell., Rhamnaceae | small-leaf dogwood
+36.  | Prostanthera rotundifolia | R.Br., Lamiaceae | roundleaf mintbush
+37.  | Pultenaea humilis | Benth. ex Hook.f., Fabaceae | dwarf bushpea
+38.  | Pultenaea mollis | Lindl., Fabaceae | soft bushpea
+39.  | Pultenaea prostrata | Benth. ex Hook.f., Fabaceae | silky bushpea
+40.  | Pultenaea sericea | (Benth.) Corrick, Fabaceae | chaffy bushpea
+41.  | Scleranthus diander | R.Br., Caryophyllaceae | tufted knawel
+42.  | Scleranthus fasciculatus | (R.Br.) Hook.f., Caryophyllaceae | spreading knawel
+43.  | Spyridium lawrencei | (Hook.f.) Benth., Rhamnaceae | small-leaf dustymiller
+44.  | Spyridium obcordatum | (Hook.f.) W.M.Curtis, Rhamnaceae | creeping dustymiller
+45.  | Stenanthemum pimeleoides | (Hook.f.) Benth., Rhamnaceae | propeller plant
+46.  | Thryptomene micrantha | Hook.f., Myrtaceae | ribbed heathmyrtle
+47.  | Triptilodiscus pygmaeus | Turcz., Asteraceae | dwarf sunray
+48.  | Velleia paradoxa | R.Br., Goodeniaceae | spur velleia
+49.  | Veronica novae-hollandiae | Poir., Scrophulariaceae | coast speedwell
+Monocotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Caladenia dienema | D.L.Jones, Orchidaceae | Windswept spider orchid
-2.  | Caladenia patersonii | R.Br., Orchidaceae | Paterson's spider orchid
-2A.  | Chorizandra enodis | Nees, Cyperaceae | Black bristle-rush
-3.  | Prasophyllum secutum | D.L.Jones, Orchidaceae | Northern leek orchid
-4.  | Tricoryne elatior | R.Br., Liliaceae | Yellow rush lily
-5.  | Xanthorrhoea arenaria | Bedford, Xanthorrhoeaceae | Sand grass tree
-6.  | Xanthorrhoea bracteata | R.Br., Xanthorrhoeaceae | Shiny grass tree
+1.  | Caladenia caudata | Nicholls, Orchidaceae | tailed spider-orchid
+2.  | Caladenia patersonii | R.Br., Orchidaceae | patersons spider-orchid
+3.  | Pterostylis pratensis | D.L.Jones, Orchidaceae | liawenee greenhood
+4.  | Pterostylis ziegeleri | D.L.Jones, Orchidaceae | grassland greenhood
+5.  | Tricoryne elatior | R.Br., Liliaceae | yellow rushlily
+6.  | Xanthorrhoea arenaria | D.J.Bedford, Xanthorrhoeaceae | sand grasstree
+7.  | Xanthorrhoea bracteata | R.Br., Xanthorrhoeaceae | shiny grasstree
+Gymnospermae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Callitris oblonga ssp. oblonga | Rich., Cupressaceae | South Esk pine
-2.  | Pherosphaera hookeriana | W.Archer bis, Podocarpaceae | Drooping pine
+1.  | Callitris oblonga subsp. oblonga | Rich., Cupressaceae | south esk pine
+2.  | Pherosphaera hookeriana | W.Archer bis, Podocarpaceae | drooping pine
+Pteridophyta
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Asplenium hookerianum | Colenso, Aspleniaceae | Hooker's spleenwort
-2.  | Blechnum cartilagineum | Swartz, Blechnaceae | Gristle fern
-3.  | Cyathea X marcescens | N.A.Wakef., Cyatheaceae | Skirted treefern
-4.  | Doodia caudata | (Cav.) R.Br., Blechnaceae | Small rasp fern
-5.  | Hypolepis distans | Hook., Dennstaedtiaceae | Scrambling ground fern
+1.  | Anogramma leptophylla | (L.) Link, Adiantaceae | annual fern
+2.  | Blechnum cartilagineum | Sw., Blechnaceae | gristle fern
+3.  | Tmesipteris parva | N.A.Wakef., Psilotaceae | small forkfern
+Lichens
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Hypotrachyna laevigata | (Sm.) Hale, Parmeliaceae |
-1A.  | Melanelia piliferella | (Essl.) Essl., Parmeliaceae |
-2.  | Xanthoparmelia jarmaniae | Elix & Kantvilas, Parmeliaceae |
-3.  | Xanthoparmelia mannumensis | (Elix) Elix & J.Johnst., Parmeliaceae |
+1.  | Hypotrachyna laevigata | (Sm.) Hale, Parmeliaceae | –
+2.  | Melanelia piliferella | (Essl.) Essl., Parmeliaceae | –
+3.  | Xanthoparmelia jarmaniae | Elix & Kantvilas, Parmeliaceae | –
+4.  | Xanthoparmelia mannumensis | (Elix) Elix & J.Johnst., Parmeliaceae | –
