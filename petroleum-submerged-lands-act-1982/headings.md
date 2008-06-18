@@ -12,4 +12,10 @@ Part III, Division 5 Registration of instruments
 Part III, Division 6 General
 Part III, Division 6A Powers of authorized persons
 Part III, Division 7 Fees and royalties
+Part IIIA Occupational health and safety
+Part IIIA, Division 1 Preliminary
+Part IIIA, Division 2 Functions and powers of Safety Authority
+Part IIIA, Division 3 Safety Authority Board
+Part IIIA, Division 4 Chief Executive Officer and staff of Safety Authority
+Part IIIA, Division 5 Other Safety Authority provisions
 Part IV Miscellaneous
