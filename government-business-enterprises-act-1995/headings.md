@@ -1,5 +1,6 @@
 Part 1 Preliminary
 Part 2 Legal entity, objectives, functions and powers of Government Business Enterprise
+Part 2A Notice of Transfer
 Part 3 Board of Directors of Government Business Enterprise
 Part 4 Staff of Government Business Enterprise
 Part 4, Division 1 Chief executive officer
