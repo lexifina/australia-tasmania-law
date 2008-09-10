@@ -5,5 +5,4 @@ Hydro-Electric Corporation
 Motor Accidents Insurance Board
 Public Trustee
 Rivers and Water Supply Commission
-Southern Regional Cemetery Trust
 Tasmanian Public Finance Corporation
