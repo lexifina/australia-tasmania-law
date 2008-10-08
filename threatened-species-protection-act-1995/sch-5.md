@@ -28,7 +28,6 @@ Invertebrates
 2.  | Beddomeia angulata | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Rabid River)
 3.  | Beddomeia bellii | Petterd, Mesogastropoda | Hydrobiid Snail (Heazlewood River)
 4.  | Beddomeia bowryensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Bowry Creek)
-5.  | Beddomeia briansmithi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Fern Creek)
 6.  | Beddomeia fallax | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Heathcote Creek)
 7.  | Beddomeia forthensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Wilmot River)
 8.  | Beddomeia franklandensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Frankland River)
@@ -37,7 +36,6 @@ Invertebrates
 11.  | Beddomeia inflata | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Heathcote Creek)
 12.  | Beddomeia mesibovi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Arthur River)
 13.  | Beddomeia minima | Petterd, Mesogastropoda | Hydrobiid Snail (Scottsdale)
-14.  | Beddomeia phasianella | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Keddies Creek)
 15.  | Beddomeia protuberata | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Emu River)
 16.  | Beddomeia salmonis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Salmon River)
 17.  | Beddomeia tasmanica | Tenison-Woods, Mesogastropoda | Hydrobiid Snail (Terrys Creek)
@@ -130,6 +128,7 @@ Dicotyledonae
 37.  | Crassula moschata | G.Forst, Crassulaceae | musky stonecrop
 38.  | Cullen microcephalum | (Rchb. ex Kunze) J.W.Grimes, Fabaceae | dusky scurfpea
 39.  | Cuscuta tasmanica | Engelm., Cuscutaceae | golden dodder
+39A.  | Cyathodes platystoma | C.M.Weiller, Epacridaceae | tall cheeseberry
 40.  | Cynoglossum australe | R.Br., Boraginaceae | coast houndstongue
 41.  | Cyphanthera tasmanica | Miers, Solanaceae | tasmanian rayflower
 42.  | Drosera glanduligera | Lehm., Droseraceae | scarlet sundew
@@ -355,7 +354,7 @@ Pteridophyta
 Bryophytes
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Ambuchanania leucobryoides | (Yamaguchi, Seppelt, Iwatsuki & Buchanan) Seppelt & Crum, Ambuchananiaceae | moss
+1.  | Ambuchanania leucobryoides | (Yamaguchi, Seppelt, Iwatsuki & Buchanan) Seppelt & Crum, Ambuchananiaceae | daisy pan moss
 Algae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name

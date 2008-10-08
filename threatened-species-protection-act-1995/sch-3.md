@@ -173,16 +173,19 @@ Monocotyledonae
 26.  | Diuris lanceolata | Lindl., Orchidaceae | large golden moths
 27.  | Diuris palustris | Lindl., Orchidaceae | swamp doubletail
 28.  | Prasophyllum aff. montanum | (Cameron QVM), Orchidaceae | mountain leek-orchid
+28A.  | Prasophyllum aff. pyriforme | (J.Whinray HO524739), Orchidaceae | graceful leek-orchid
 29.  | Prasophyllum amoenum | D.L.Jones, Orchidaceae | dainty leek-orchid
 30.  | Prasophyllum apoxychilum | D.L.Jones, Orchidaceae | tapered leek-orchid
+30A.  | Prasophyllum atratum | D.L.Jones, Orchidaceae | three hummock leek-orchid
 31.  | Prasophyllum castaneum | D.L.Jones, Orchidaceae | chestnut leek-orchid
+31A.  | Prasophyllum crebriflorum | D.L.Jones, Orchidaceae | crowded leek-orchid
 32.  | Prasophyllum favonium | D.L.Jones, Orchidaceae | western leek-orchid
 33.  | Prasophyllum incorrectum | D.L.Jones, Orchidaceae | golfers leek-orchid
+33A.  | Prasophyllum limnetes | D.L.Jones, Orchidaceae | marsh leek-orchid
 34.  | Prasophyllum milfordense | D.L.Jones, Orchidaceae | milford leek-orchid
 35.  | Prasophyllum olidum | D.L.Jones, Orchidaceae | pungent leek-orchid
 36.  | Prasophyllum perangustum | D.L.Jones, Orchidaceae | knocklofty leek-orchid
 37.  | Prasophyllum pulchellum | D.L.Jones, Orchidaceae | pretty leek-orchid
-38.  | Prasophyllum pyriforme | E.Coleman, Orchidaceae | graceful leek-orchid
 39.  | Prasophyllum robustum | (Nicholls) M.A. Clem. & D.L.Jones, Orchidaceae | robust leek-orchid
 40.  | Prasophyllum secutum | D.L.Jones, Orchidaceae | northern leek-orchid
 41.  | Prasophyllum stellatum | D.L.Jones, Orchidaceae | ben lomond leek-orchid
@@ -201,6 +204,7 @@ Monocotyledonae
 54.  | Thelymitra jonesii | Jeanes, Orchidaceae | skyblue sun-orchid
 55.  | Thelymitra malvina | M.A.Clem, D.L.Jones & Molloy, Orchidaceae | mauvetuft sun-orchid
 56.  | Thynninorchis nothofagicola | (D.L.Jones) D.L.Jones & M.A. Clem., Orchidaceae | myrtle elbow-orchid
+56A.  | Triglochin mucronatum | R.Br., Juncaginaceae | prickly arrowgrass
 Pteridophyta
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name

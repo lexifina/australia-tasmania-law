@@ -46,8 +46,10 @@ Invertebrates
 1.  | Amelora acontistica | Turner, Lepidoptera | Chevron Looper Moth
 2.  | Astacopsis gouldi | Clark, Decapoda | Giant Freshwater Crayfish
 3.  | Austrochloritis victoriae | (Cox), Sigmurethra | Southern Hairy Red Snail
+3A.  | Beddomeia briansmithi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Fern Creek)
 4.  | Beddomeia krybetes | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (St. Pauls River)
 5.  | Beddomeia lodderae | Petterd, Mesogastropoda | Hydrobiid Snail (Upper Castra Rivulet)
+5A.  | Beddomeia phasianella | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Keddies Creek)
 6.  | Beddomeia wiseae | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Blizzards Creek)
 7.  | Catadromus lacordairei | Boisduval, Coleoptera | Catadromus Carabid Beetle
 8.  | Dasybela achroa | Lower, Lepidoptera | Saltmarsh Looper Moth
@@ -62,8 +64,8 @@ Invertebrates
 17.  | Hoplogonus vanderschoori | Bartoluzzi, Coleoptera | Vanderschoor's Stag Beetle
 18.  | Lissotes menalcas | Westwood, Coleoptera | Mt. Mangana Stag Beetle
 19.  | Oreixenica ptunarra | Couchman, Lepidoptera | Ptunarra Brown Butterfly
+19A.  | Parvulastra vivipara | (Dartnall), Asterinidae | Live-bearing Seastar
 20.  | Pasmaditta jungermanniae | Petterd, Sigmurethra | Snail (Cataract Gorge)
-21.  | Patiriella vivipara | Dartnall, Asterinidae | Live-bearing Seastar
 Dicotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
