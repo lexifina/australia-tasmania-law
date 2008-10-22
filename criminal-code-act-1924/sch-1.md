@@ -42,6 +42,37 @@ Forms of Indictment
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
+Serious Crimes
+1. | Criminal Code Act 1924 |
+| Section 124 | Sexual intercourse with young person under the age of 17 years
+| Section 125A | Maintaining sexual relationship with young person under the age of 17 years
+| Section 125C(2) | Procuring unlawful sexual intercourse with person under the age of 17 years
+| Section 126 | Sexual intercourse with person with mental impairment
+| Section 127A | Aggravated sexual assault
+| Section 130 | Involving person under age of 18 years in production of child exploitation material
+| Section 130A | Producing child exploitation material
+| Section 130B | Distributing child exploitation material
+| Section 133 | Incest
+| Section 158 | Murder
+| Section 159 | Manslaughter
+| Section 161 | Being accessory after the fact to murder
+| Section 165 | Causing death of child before birth
+| Section 170 | Committing an unlawful act intended to cause grievous bodily harm
+| Section 172 | Wounding or causing grievous bodily harm
+| Section 178A | Performing female genital mutilation
+| Section 179 | Setting man-traps &c., or allowing man-traps &c. to remain set
+| Section 185 | Rape
+| Section 191A | Kidnapping
+| Section 240(3) | Armed robbery
+| Section 240(4) | Aggravated armed robbery
+| Section 245 | Aggravated burglary
+| Section 268 | Arson
+| Section 268A | Unlawfully setting fire to vegetation
+2. | Sex Industry Offences Act 2005 |
+| Section 9(1) | Procuring or otherwise causing or permitting a child to provide sexual services in a sexual services business
+| Section 9(2) | Receiving a fee or reward that a person knows &c. is derived, directly or indirectly, from sexual services provided by a child in a sexual services business
+3. | Misuse of Drugs Act 2001 |
+|  | A crime under Part 2 of the Misuse of Drugs Act 2001 being a crime that relates to a trafficable quantity of a controlled substance
 Form Of List Of Other Offences Charged
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
