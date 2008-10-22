@@ -13,6 +13,8 @@ Part 6, Division 6 Professional negligence
 Part 6, Division 7 Contributory negligence
 Part 7 Assessment of Damages for Personal Injury or Death
 Part 8 Mental Harm
+Part 8A Good Samaritans
+Part 8B Food Donors
 Part 9 Liability of Public and Other Authorities
 Part 9A Proportionate Liability
 Part 10 Volunteers
