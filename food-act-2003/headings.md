@@ -12,6 +12,9 @@ Part 6 Taking and analysis of samples
 Part 6, Division 1 Taking of samples
 Part 6, Division 2 Procedures relating to analyses
 Part 6, Division 3 Approval of laboratories
+Part 6A Auditing
+Part 6A, Division 1 Approval of food safety auditors
+Part 6A, Division 2 Auditing and reporting requirements
 Part 7 Notification and registration of food businesses
 Part 8 Administration
 Part 8, Division 1 Director of Public Health
