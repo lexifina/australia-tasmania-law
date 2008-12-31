@@ -100,6 +100,7 @@ Part 32 Proceedings under particular statutes
 Part 32, Division 1 Proceedings under the Commercial Arbitration Act 1986
 Part 32, Division 1A Proceedings under the Judicial Review Act 2000
 Part 32, Division 2 Proceedings under the Jurisdiction of Courts (Cross-vesting) Act 1987
+Part 32, Division 2AA Proceedings under the Legal Profession Act 2007
 Part 32, Division 2A Proceedings under the Mutual Recognition (Tasmania) Act 1993 and the Trans-Tasman Mutual Recognition Act 1997 of the Commonwealth
 Part 32, Division 3 Proceedings under the Settled Land Act 1884 and the Settled Land Act 1911
 Part 32, Division 4 Proceedings under the Trustee Act 1898
