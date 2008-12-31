@@ -1,7 +1,7 @@
-Chapter 1 Introduction [Not yet in force. Commences: 31 December 2008]
+Chapter 1 Introduction
 Chapter 1, Part 1.1 Preliminary
 Chapter 1, Part 1.2 Interpretation
-Chapter 2 General requirements for engaging in legal practice [Not yet in force. Commences: 31 December 2008]
+Chapter 2 General requirements for engaging in legal practice
 Chapter 2, Part 2.1 Reservation of Legal Work and Legal Titles
 Chapter 2, Part 2.1, Division 1 Preliminary
 Chapter 2, Part 2.1, Division 2 General prohibitions on unqualified practice
@@ -47,7 +47,7 @@ Chapter 2, Part 2.6, Division 9 Conditions on registration
 Chapter 2, Part 2.6, Division 10 Interstate-registered foreign lawyers
 Chapter 2, Part 2.6, Division 11 Miscellaneous
 Chapter 2, Part 2.7 Community Legal Centres
-Chapter 3 Conduct of legal practice [Not yet in force. Commences: 31 December 2008]
+Chapter 3 Conduct of legal practice
 Chapter 3, Part 3.1 Legal Profession Rules
 Chapter 3, Part 3.1, Division 1 Preliminary
 Chapter 3, Part 3.1, Division 2 Rules for Australian legal practitioners and Australian-registered foreign lawyers
@@ -85,7 +85,7 @@ Chapter 3, Part 3.5, Division 10 Defaults involving interstate elements
 Chapter 3, Part 3.5, Division 11 Inter-jurisdictional provisions
 Chapter 3, Part 3.5, Division 12 Miscellaneous
 Chapter 3, Part 3.6 Mortgage Investment Schemes
-Chapter 4 Complaints and discipline [Not yet in force. Commences: 31 December 2008]
+Chapter 4 Complaints and discipline
 Chapter 4, Part 4.1 Complaints and Discipline – Introduction and Application
 Chapter 4, Part 4.1, Division 1 Preliminary
 Chapter 4, Part 4.1, Division 2 Application of Chapter
@@ -105,20 +105,20 @@ Chapter 4, Part 4.9 Compensation
 Chapter 4, Part 4.10 Publicising Disciplinary Action
 Chapter 4, Part 4.11 Inter-jurisdictional Provisions
 Chapter 4, Part 4.12 Complaints and Discipline – Miscellaneous
-Chapter 5 External intervention [Not yet in force. Commences: 31 December 2008]
+Chapter 5 External intervention
 Chapter 5, Part 5.1 External Intervention – Preliminary
 Chapter 5, Part 5.2 Initiation of External Intervention
 Chapter 5, Part 5.3 Supervisors of Trust Money
 Chapter 5, Part 5.4 Managers
 Chapter 5, Part 5.5 Receivers
 Chapter 5, Part 5.6 External Intervention – General
-Chapter 6 Investigatory Powers [Not yet in force. Commences: 31 December 2008]
+Chapter 6 Investigatory Powers
 Chapter 6, Part 6.1 Preliminary
 Chapter 6, Part 6.2 Requirements Relating to Documents, Information and Other Assistance
 Chapter 6, Part 6.3 Entry and Search of Premises
 Chapter 6, Part 6.4 Additional Investigatory Powers in Relation to Incorporated Legal Practices
 Chapter 6, Part 6.5 Investigations – Miscellaneous
-Chapter 7 Regulatory authorities [Not yet in force. Commences: 31 December 2008]
+Chapter 7 Regulatory authorities
 Chapter 7, Part 7.1 Legal Profession Board of Tasmania
 Chapter 7, Part 7.1, Division 1 The Board
 Chapter 7, Part 7.1, Division 2 Functions and powers of Board
@@ -131,5 +131,5 @@ Chapter 7, Part 7.4 The Law Society of Tasmania
 Chapter 7, Part 7.5 The Council of the Law Society
 Chapter 7, Part 7.6 Solicitors' Trust
 Chapter 8 Miscellaneous
-Chapter 8, Part 8.1 Notices and Evidentiary Matters [Not yet in force. Commences: 31 December 2008]
+Chapter 8, Part 8.1 Notices and Evidentiary Matters
 Chapter 8, Part 8.2 General
