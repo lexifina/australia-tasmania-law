@@ -57,6 +57,13 @@ Form 56 | Judgment of forfeiture where trial had
 Form 57 | Judgment for claimant
 Form 57A | Notice of intention to appear upon return of application
 Form 57B | Notice of submission to order upon return of application
+Form 57BA | Notice of intention to apply for admission
+Form 57BB | Affidavit in support of application for admission (Local Applicants or Qualified Overseas Applicants)
+Form 57BC | Affidavit as to character
+Form 57BD | Affidavit in support of application for admission (Overseas Practitioner)
+Form 57BE | Affidavit in support of application for declaration of suitability
+Form 57BF | Affidavit of service on Legal Profession Board and Law Society
+Form 57BG | Oath for barristers and members of legal profession
 Form 57C | Notice of intention to apply for admission by interstate practitioner
 Form 57D | Certificate of compliance with Commonwealth Act
 Form 57E | Oath or affirmation and form of roll where interstate practitioner or barrister elects not to appear in person
@@ -232,12 +239,25 @@ Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 57A [Picture in the source, not reproduced]
 57B [Picture in the source, not reproduced]
-57C [Picture in the source, not reproduced]
+57BA Rule 783AC
 [Picture in the source, not reproduced]
+57BB Rule 783AE(1)(a) and 783AE(2)(a)
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+57BC [Picture in the source, not reproduced]
+57BD Rule 783AE(3)(a)
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+57BE Rule 783AF(3)(a)
+[Picture in the source, not reproduced]
+57BF Rule 783AH
+[Picture in the source, not reproduced]
+57BG Rule 783AJ
+[Picture in the source, not reproduced]
+57C [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 57D [Picture in the source, not reproduced]
 57E [Picture in the source, not reproduced]
-[Picture in the source, not reproduced]
 58 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 59 Rules of the Supreme Court (Forms) 2000
