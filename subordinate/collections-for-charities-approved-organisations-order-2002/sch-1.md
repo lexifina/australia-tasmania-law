@@ -154,5 +154,5 @@ Clause 3
 (zm)  | The Launceston Preparatory School
 (zn)  | Tingletree Kindergarten
 (zo)  | Trinity College
-13.  | TAFE, as defined by section 5 of the TAFE Tasmania Act 1997
+13.  | The Tasmanian Academy established by the Education and Training (Tasmanian Academy) Act 2008, the Tasmanian Polytechnic established by the Education and Training (Tasmanian Polytechnic) Act 2008 and the Tasmanian Skills Institute established by the Education and Training (Tasmanian Skills Institute) Act 2008
 14.  | The University of Tasmania
