@@ -1,0 +1,3 @@
+Occupational Licensing Act 2005
+An Act to ensure that contractors, practitioners and other persons engaged in certain occupations, trades or callings are appropriately qualified, licensed and regulated to perform their work safely and in accordance with established benchmarks, to promote safety, to provide for the investigation of incidents in those activities, to amend the Building Act 2000 and the Electricity Industry Safety and Administration Act 1997 and to repeal the Plumbers and Gas-fitters Registration Act 1951
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
