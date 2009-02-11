@@ -14,9 +14,12 @@ Part 6, Division 3 Restrictions in case of inadequate water
 Part 6, Division 4 Transfer of licences and water allocations
 Part 6, Division 5 Breach of licence
 Part 6, Division 6 Special licences
+Part 6A Authority to convey water via watercourse
 Part 7 Wells
 Part 7, Division 1 Wells
 Part 7, Division 2 Information relating to wells
+Part 7, Division 3 Well works
+Part 7, Division 4 Well driller's licences
 Part 8 Construction of dams
 Part 8, Division 1 Application of this Part
 Part 8, Division 2 Constitution of the Assessment Committee
