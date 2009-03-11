@@ -79,7 +79,6 @@ Dicotyledonae
 8.  | Chionohebe ciliolata | (Hook.f) B.G.Briggs & Ehrend., Scrophulariaceae | ben lomond cushionplant
 9.  | Conospermum hookeri | (Meisn.) E.M.Benn., Proteaceae | tasmanian smokebush
 10.  | Desmodium gunnii | Benth. ex Hook.f., Fabaceae | slender ticktrefoil
-11.  | Epacris exserta | R.Br., Epacridaceae | south esk heath
 12.  | Epacris graniticola | Crowden, Epacridaceae | granite heath
 13.  | Epacris virgata | Hook.f., Epacridaceae | pretty heath
 14.  | Eryngium ovinum | A.Cunn., Apiaceae | blue devil
@@ -113,6 +112,7 @@ Dicotyledonae
 42.  | Scleranthus fasciculatus | (R.Br.) Hook.f., Caryophyllaceae | spreading knawel
 43.  | Spyridium lawrencei | (Hook.f.) Benth., Rhamnaceae | small-leaf dustymiller
 44.  | Spyridium obcordatum | (Hook.f.) W.M.Curtis, Rhamnaceae | creeping dustymiller
+44A.  | Stackhousia pulvinaris | F.Muell., Stackhousiaceae | alpine candles
 45.  | Stenanthemum pimeleoides | (Hook.f.) Benth., Rhamnaceae | propeller plant
 46.  | Thryptomene micrantha | Hook.f., Myrtaceae | ribbed heathmyrtle
 47.  | Triptilodiscus pygmaeus | Turcz., Asteraceae | dwarf sunray

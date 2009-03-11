@@ -101,6 +101,7 @@ Dicotyledonae
 9.  | Discaria pubescens | (Brongn.) Druce, Rhamnaceae | spiky anchorplant
 10.  | Epacris apsleyensis | Crowden, Epacridaceae | apsley heath
 11.  | Epacris barbata | Melville, Epacridaceae | bearded heath
+11A.  | Epacris exserta | R.Br., Epacridaceae | south esk heath
 12.  | Epacris glabella | Jarman, Epacridaceae | smooth heath
 13.  | Epacris grandis | Crowden, Epacridaceae | tall heath
 14.  | Epacris limbata | K.J.Williams & F.Duncan, Epacridaceae | bordered heath
@@ -124,6 +125,7 @@ Dicotyledonae
 32.  | Lomatia tasmanica | W.M.Curtis, Proteaceae | kings lomatia
 33.  | Lycopus australis | R.Br., Lamiaceae | australian gipsywort
 34.  | Mentha australis | R.Br., Lamiaceae | river mint
+34A.  | Myosurus australis | F.Muell., Ranunculaceae | southern mousetail
 35.  | Persicaria subsessilis | (R.Br.) K.L. Wilson, Polygonaceae | bristly waterpepper
 36.  | Phebalium daviesii | Hook.f., Rutaceae | davies waxflower
 37.  | Philotheca freyciana | Rozefelds, Rutaceae | freycinet waxflower
@@ -146,7 +148,6 @@ Monocotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Amphibromus macrorhinus | S.W.L.Jacobs & L.Lapinpuro, Poaceae | longnose swampgrass
-2.  | Aristida benthamii var. benthamii | Henrard, Poaceae | three-awned speargrass
 3.  | Austrodanthonia popinensis | (D.I.Morris) H.P.Linder, Poaceae | blue wallabygrass
 4.  | Caladenia anthracina | D.L.Jones, Orchidaceae | blacktipped spider-orchid
 5.  | Caladenia aurantiaca | (R.S.Rogers) Rupp, Orchidaceae | orangetip fingers
@@ -168,6 +169,7 @@ Monocotyledonae
 21.  | Corunastylis brachystachya | (Lindl.) D.L.Jones & M.A.Clem., Orchidaceae | shortspike midge-orchid
 22.  | Corunastylis firthii | (L.Cady) D.L.Jones & M.A.Clem., Orchidaceae | firths midge-orchid
 23.  | Corunastylis morrisii | (Nicholls) D.L.Jones & M.A.Clem., Orchidaceae | bearded midge-orchid
+23A.  | Corunastylis nudiscapa | (Hook.f.) D.L.Jones & M.A.Clem., Orchidaceae | bare midge-orchid
 24.  | Corybas fordhamii | (Rupp) Rupp, Orchidaceae | swamp pelican-orchid
 25.  | Cryptostylis leptochila | F.Muell. ex Benth., Orchidaceae | small tongue-orchid
 26.  | Diuris lanceolata | Lindl., Orchidaceae | large golden moths
@@ -199,6 +201,7 @@ Monocotyledonae
 49.  | Pterostylis wapstrarum | D.L.Jones, Orchidaceae | fleshy greenhood
 50.  | Schoenus latelaminatus | Kük., Cyperaceae | medusa bog sedge
 51.  | Thelymitra antennifera | (Lindl.) Hook.f., Orchidaceae | rabbit ears
+51A.  | Thelymitra atronitida | Jeanes, Orchidaceae | blackhood sun-orchid
 52.  | Thelymitra benthamiana | Rchb.f., Orchidaceae | blotched sun-orchid
 53.  | Thelymitra bracteata | J.Z.Weber ex Jeanes, Orchidaceae | leafy sun-orchid
 54.  | Thelymitra jonesii | Jeanes, Orchidaceae | skyblue sun-orchid
@@ -256,7 +259,6 @@ Dicotyledonae
 5.  | Hibbertia obtusifolia | DC., Dilleniaceae | grey guineaflower
 6.  | Hibbertia rufa | N.A.Wakef., Dilleniaceae | brown guineaflower
 7.  | Levenhookia dubia | Sond., Stylidiaceae | hairy stylewort
-8.  | Myosurus australis | F.Muell., Ranunculaceae | southern mousetail
 9.  | Myriophyllum glomeratum | Schindl., Haloragaceae | clustered watermilfoil
 10.  | Ozothamnus selaginoides | Sond.& F.Muell., Asteraceae | table mountain everlastingbush
 11.  | Podotheca angustifolia | (Labill.) Less., Asteraceae | sticky longheads
@@ -269,7 +271,6 @@ Monocotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Caladenia cardiochila | Tate, Orchidaceae | heartlip spider-orchid
-2.  | Corunastylis nudiscapa | (Hook.f.) D.L.Jones & M.A.Clem., Orchidaceae | dense midge-orchid
 3.  | Deyeuxia lawrencei | Vickery, Poaceae | lawrences bentgrass
 4.  | Lepilaena australis | J.Drumm. ex Harv., Zannichelliaceae | southern watermat
 5.  | Thynninorchis huntiana | (F.Muell.) D.L.Jones & M.A.Clem., Orchidaceae | elbow-orchid

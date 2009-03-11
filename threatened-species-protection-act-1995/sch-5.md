@@ -135,6 +135,7 @@ Dicotyledonae
 43.  | Elaeocarpus reticulatus | Sm., Elaeocarpaceae | blueberry ash
 44.  | Epacris acuminata | Benth., Epacridaceae | claspleaf heath
 45.  | Epacris curtisiae | Jarman, Epacridaceae | northwest heath
+45A.  | Epacris moscaliana | Crowden, Epacridaceae | seepage heath
 46.  | Epilobium pallidiflorum | Sol. ex A.Cunn., Onagraceae | showy willowherb
 47.  | Epilobium willisii | Raven & Engelhorn, Onagraceae | carpet willowherb
 48.  | Eucalyptus barberi | L.A.S.Johnson & Blaxell, Myrtaceae | barbers gum
@@ -222,7 +223,6 @@ Dicotyledonae
 130.  | Spyridium parvifolium var. molle | (Hook.f.) Benth., Rhamnaceae | soft dustymiller
 131.  | Spyridium parvifolium var. parvifolium | (Hook.) F.Muell., Rhamnaceae | coast dustymiller
 132.  | Spyridium vexilliferum var. vexilliferum | (Hook.) Reissek, Rhamnaceae | helicopter bush
-133.  | Stackhousia pulvinaris | F.Muell., Stackhousiaceae | alpine candles
 134.  | Stellaria multiflora | Hook., Caryophyllaceae | rayless starwort
 135.  | Stylidium despectum | R.Br., Stylidiaceae | small triggerplant
 136.  | Stylidium inundatum | R.Br., Stylidiaceae | swamp triggerplant
