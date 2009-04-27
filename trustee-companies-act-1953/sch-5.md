@@ -1,2 +1,2 @@
-# Schedule 5 Special Provisions Relating to the Holding, Controlling and Disposal of Shares in Trustee Companies
+# Schedule 5 Provisions Relating to Holding, &c., of Shares in Trustee Companies and Trustee Holding Companies
 Section 39AA
