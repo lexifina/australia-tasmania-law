@@ -14,8 +14,8 @@ Part 3, Division 4 Alcohol and drugs
 Part 4 Reviews
 Part 4, Division 1 Police Review Board
 Part 4, Division 2 Reviews relating to promotions
-Part 4, Division 3 Reviews relating to terminations and demotions
-Part 4, Division 4 Reviews relating to other matters
-Part 4, Division 5 General provisions
+Part 4, Division 3 Reviews relating to disciplinary matters, &c.
+Part 4, Division 4 General provisions
 Part 5 Offences
+Part 5A Detector dogs
 Part 6 Miscellaneous
