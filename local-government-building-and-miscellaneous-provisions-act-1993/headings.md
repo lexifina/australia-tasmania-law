@@ -9,15 +9,12 @@ Part 3, Division 6 Miscellaneous provisions relating to plans
 Part 3, Division 7 Minimum and sub-minimum lots
 Part 3, Division 8 Public open space
 Part 3, Division 9 Miscellaneous matters
-Part 6 Water supply
-Part 6, Division 1 Water districts
-Part 6, Division 3 Cost of extension of water mains
-Part 6, Division 4 Cities of Hobart and Launceston
 Part 7 Long Service Leave and Employees Assurance Scheme
 Part 7, Division 1 Long Service Leave
 Part 8 Miscellaneous matters
 Part 8, Division 1 Preservation orders
 Part 8, Division 2 Advertising hoardings
-Part 8, Division 3 Building over sewers
-Part 8, Division 4 Sewers and Drains
+Part 8, Division 3 Building over drains
+Part 8, Division 4 Drains
+Part 8, Division 5 Irrigation undertakings
 Part 9 Amendments to other Acts in relation to Building Provisions

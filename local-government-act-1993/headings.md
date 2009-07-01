@@ -33,10 +33,6 @@ Part 9, Division 8 Farm rating relief
 Part 9, Division 9 Liability and payment of rates
 Part 9, Division 10 Recovery
 Part 9, Division 11 Sale of land
-Part 9A Water Meters
-Part 9A, Division 1 Installation, reading and testing of water meters
-Part 9A, Division 2 General powers of authorised persons
-Part 9A, Division 3 Offences
 Part 11 By-laws
 Part 11, Division 1 General provisions
 Part 11, Division 2 Procedural provisions
