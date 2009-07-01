@@ -4,14 +4,15 @@ trading account
 means an account that –
 (a) a player or other person establishes with the holder of a Tasmanian gaming licence endorsed with one or more of the following:
 (i) a betting exchange endorsement;
-(ii) a fixed odds wagering endorsement;
-(iii) a sports betting endorsement; and
+(ii) a race wagering endorsement;
+(iii) a sports betting endorsement;
+(iv) a totalizator endorsement; and
 (b) may be operated so as to have credit and debit balances.
 (2) A licensed provider may apply to the Commission for an authority to operate trading accounts.
 (3) An application is to be in a form that is approved by the Commission.
 (4) On receipt of an application, the Commission may grant or refuse to grant an authority to operate trading accounts.
 (5) An authority to operate trading accounts is subject to the conditions determined by the Commission and specified in the authority.
-(6) Despite any other provision of this Act, a licensed provider who holds a Tasmanian gaming licence endorsed with a betting exchange endorsement, fixed odds wagering endorsement or sports betting endorsement (or any combination of those endorsements) may operate a trading account in respect of a player or other person if the provider –
+(6) Despite any other provision of this Act, a licensed provider who holds a Tasmanian gaming licence endorsed with a betting exchange endorsement, race wagering endorsement, sports betting endorsement or totalizator endorsement (or any combination of those endorsements) may operate a trading account in respect of a player or other person if the provider –
 (a) is the holder of an authority to operate trading accounts; and
 (b) considers that –
 (i) the player or other person is suitable to have access to a trading account; and

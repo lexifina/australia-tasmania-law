@@ -19,8 +19,15 @@ Part 4A, Division 5, Subdivision 2 Licensing provisions
 Part 4A, Division 5, Subdivision 3 Licensing of employees
 Part 4A, Division 5, Subdivision 4 Miscellaneous
 Part 4A, Division 5, Subdivision 5 Offences
+Part 4A, Division 5A Totalizator operations
+Part 4A, Division 5A, Subdivision 1 Introductory
+Part 4A, Division 5A, Subdivision 2 Licensing arrangements
+Part 4A, Division 5A, Subdivision 3 Licensing of employees
+Part 4A, Division 5A, Subdivision 4 Totalizator gaming equipment and control systems
 Part 4A, Division 6 End of Tasmanian gaming licence
 Part 4A, Division 7 Player protection
+Part 4A, Division 7, Subdivision 1 General protection
+Part 4A, Division 7, Subdivision 2 Exclusion
 Part 4A, Division 8 Duties in respect of player's funds
 Part 4A, Division 9 Duties and powers in respect of prizes
 Part 4A, Division 10 General duties and powers of licensed providers
