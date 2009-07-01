@@ -28,15 +28,6 @@ Lease of Crown land under section 29 of the Crown Lands Act 1976 | 180 days from
 Temporary licence under section 42 of the Crown Lands Act 1976 | 180 days from the day on which an application in a form approved by the responsible Minister is received by that Minister.
 Dairy Industry Act 1994 |
 Dairy farmer's licence, processor's licence, manufacturer's licence, vendor's licence | 60 days from the day on which an application under section 18 of the Dairy Industry Act 1994 is received by the Tasmanian Dairy Industry Authority.
-Dangerous Goods Act 1976 |
-Licence to manufacture dangerous goods | 21 days from the day on which an application under section 7(2) of the Dangerous Goods Act 1976 is received by the Chief Inspector of Explosives.
-Approval to alter premises for the manufacture of dangerous goods | 21 days from the day on which an application under section 7(5) of the Dangerous Goods Act 1976 is received by the Chief Inspector of Explosives.
-Licence to import or export dangerous goods | 21 days from the day on which an application under regulation 14 of the Dangerous Goods Regulations 1992 is received by the Chief Inspector of Explosives.
-Licence to convey explosives | 21 days from the day on which an application under regulation 29 of the Dangerous Goods Regulations 1992 is received by the Chief Inspector of Explosives.
-Licence in respect of depot for keeping dangerous goods | 21 days from the day on which an application under regulation 38 of the Dangerous Goods Regulations 1992 is received by the Chief Inspector of Explosives.
-Licence to sell dangerous goods | 21 days from the day on which an application under regulation 90(3) of the Dangerous Goods Regulations 1992 is received by the Chief Inspector of Explosives.
-Permit to import or export a shipment of explosives | 21 days from the day on which an application under regulation 15(1) of the Dangerous Goods Regulations 1992 is received by the Chief Inspector of Explosives.
-Gas supplier's licence | 21 days from the day on which an application under regulation 77(1) of the Dangerous Goods Regulations 1992 is received by the Chief Inspector of Explosives.
 Fisheries Act 1959 |
 Fishing-boat licence | 60 days from the day on which an application under regulation 5 of the Sea Fisheries Regulations 1962 is received by the Director of Sea Fisheries.
 Fisherman's licence | 60 days from the day on which an application under regulation 9 of the Sea Fisheries Regulations 1962 is received by the Director of Sea Fisheries.
