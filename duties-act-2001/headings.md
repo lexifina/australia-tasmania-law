@@ -6,6 +6,10 @@ Chapter 2, Part 1 Introduction and overview
 Chapter 2, Part 2 Dutiable value
 Chapter 2, Part 3 Rates of duty
 Chapter 2, Part 4 Special provisions
+Chapter 2, Part 4A Transactions Treated as Subsales of Land
+Chapter 2, Part 4A, Division 1 Introduction
+Chapter 2, Part 4A, Division 2 Transfers involving additional consideration
+Chapter 2, Part 4A, Division 3 Miscellaneous
 Chapter 2, Part 5 Concessional rates of duty
 Chapter 2, Part 5, Division 1 Trusts
 Chapter 2, Part 5, Division 2 Superannuation
