@@ -10,4 +10,5 @@ Part 4, Division 1 Termination
 Part 4, Division 2 Notice to vacate
 Part 4, Division 3 Abandonment of premises and goods
 Part 4A Boarding Premises
+Part 4B Rental Deposit Authority
 Part 5 Miscellaneous
