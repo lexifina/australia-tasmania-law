@@ -8,8 +8,6 @@ means a facility that enables persons to –
 (b) place with the betting exchange operator wagers that, on acceptance, are matched with opposing wagers placed with and accepted by the operator (so as to offset all risk to the operator);
 betting exchange commission
 means commission that, under section 76ZDD, a betting exchange operator is entitled to in respect of brokered wagering;
-betting exchange exclusion order
-means an order made by the Commission under section 76ZDI(3)(a);
 betting exchange operator
 means the holder of a Tasmanian gaming licence with a betting exchange endorsement;
 broker wagering
@@ -18,10 +16,6 @@ means, by means of a betting exchange, to broker wagering between persons –
 (b) indirectly, by matching opposing bets placed with and accepted by the betting exchange operator (as in the manner referred to in paragraph (b) of the definition of "betting exchange");
 brokered wagering event
 means a competition or event, whether of a sporting or non-sporting kind, in respect of which a betting exchange operator brokers wagering;
-excluded person
-, in relation to a betting exchange operator, means a person who is excluded from wagering through the operator's betting exchange because of –
-(a) a betting exchange self-exclusion notice; or
-(b) a betting exchange exclusion order;
 instruct
 means instruct by instrument in writing;
 lead-in period
@@ -30,7 +24,7 @@ regulatory Agency
 means –
 (a) the Commission; or
 (b) the Director of Racing appointed under section 5 of the Racing Regulation Act 2004; or
-(c) a Council within the meaning of the Racing Regulation Act 2004; or
+(c) Tasracing Pty Ltd formed under the Racing (Tasracing Pty Ltd) Act 2009; or
 (d) another person or body, nominated by the Commission, that, either in this State or elsewhere, exercises powers or performs functions in respect of the conduct of racing or gaming activities;
 Tasmanian betting exchange operations
 , of a betting exchange operator, means the brokered wagering conducted under the operator's betting exchange endorsement;
