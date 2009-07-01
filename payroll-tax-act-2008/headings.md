@@ -22,6 +22,7 @@ Part 4, Division 5 Volunteer firefighters and emergency service volunteers
 Part 4, Division 6 Local government
 Part 4, Division 7 Other government and defence
 Part 4, Division 8 Foreign government representatives and international agencies
+Part 4, Division 9 Services outside Australia
 Part 5 Grouping of Employers
 Part 5, Division 1 Interpretation
 Part 5, Division 2 Business groups
