@@ -1,16 +1,16 @@
 # Schedule 1 Agencies
+Sections 3(1), 12, 29 and 30
 Column 1 | Column 2
 Agency | Head of Agency
 Division 1
-Department of Economic Development and Tourism | Secretary
+Department of Economic Development, Tourism and the Arts | Secretary
 Department of Education | Secretary
-Department of Environment, Parks, Heritage and the Arts | Secretary
 Department of Health and Human Services | Secretary
 Department of Infrastructure, Energy and Resources | Secretary
 Department of Justice | Secretary
 Department of Police and Emergency Management | Secretary
 Department of Premier and Cabinet | Secretary
-Department of Primary Industries and Water | Secretary
+Department of Primary Industries, Parks, Water and Environment | Secretary
 Department of Treasury and Finance | Secretary
 Division 2
 Tasmanian Audit Office | Auditor-General
