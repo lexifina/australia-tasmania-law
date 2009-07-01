@@ -11,6 +11,15 @@ Part 4, Division 2, Subdivision 1 Licensing
 Part 4, Division 2, Subdivision 2 Reserve supplier
 Part 4, Division 2, Subdivision 3 Changes to operations of licence
 Part 4, Division 2, Subdivision 4 Step-in-operator
+Part 4, Division 2A Powers and obligations of regulated entities
+Part 4, Division 2A, Subdivision 1 Water and sewerage officers
+Part 4, Division 2A, Subdivision 2 Functions and powers relating to water infrastructure and sewerage infrastructure
+Part 4, Division 2A, Subdivision 3 Planning referrals
+Part 4, Division 2A, Subdivision 3A Building and Plumbing Works Certificates
+Part 4, Division 2A, Subdivision 4 Connections and serviced properties
+Part 4, Division 2A, Subdivision 5 Installation, reading and testing of meters
+Part 4, Division 2A, Subdivision 6 Functions and powers of regulated entities relating to fire protection
+Part 4, Division 2A, Subdivision 7 General
 Part 4, Division 3 Customer service code
 Part 4, Division 4 Customer contract
 Part 4, Division 5 Price regulation
