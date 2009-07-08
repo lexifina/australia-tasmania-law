@@ -105,7 +105,7 @@ Part 32, Division 2A Proceedings under the Mutual Recognition (Tasmania) Act 199
 Part 32, Division 3 Proceedings under the Settled Land Act 1884 and the Settled Land Act 1911
 Part 32, Division 4 Proceedings under the Trustee Act 1898
 Part 32, Division 5 Proceedings under the Variation of Trusts Act 1994
-Part 32, Division 6 Proceedings under the Wills Act 1992
+Part 32, Division 6 Proceedings under the Wills Act 1992 and the Wills Act 2008
 Part 33 Entry of judgment and orders
 Part 34 Fees and costs
 Part 34, Division 1 Court fees
