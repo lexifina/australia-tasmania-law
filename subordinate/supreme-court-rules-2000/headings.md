@@ -48,7 +48,7 @@ Part 12 Discontinuance and withdrawal
 Part 13 Discovery and interrogatories
 Part 13, Division 1 Discovery and inspection of documents
 Part 13, Division 2 Admissions and production of documents
-Part 13, Division 2A Preliminary discovery
+Part 13, Division 2A Preliminary discovery and discovery from non-party
 Part 13, Division 3 Interrogatories
 Part 14 Pre-trial directions
 Part 14, Division 1 Case management

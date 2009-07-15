@@ -79,20 +79,20 @@ Rule 837
 22.  | For any necessary postage, carriage or transmission of a document, in the discretion of the taxing officer |
 22.  | Default judgments – |
 23.  | Entering judgment by default without an order (including any instructions, drawing, engrossing any copy and attendance to have judgment entered) | 48.00
-| Amount involved does not exceed $10 000.00 | Amount involved exceeds $10 000.00 but does not exceed $20 000.00
+| Amount involved does not exceed $10 000.00 | Amount involved exceeds $10 000.00 but does not exceed $50 000.00
 For every item (except counsel's fees and service fees) the percentage of scale charge allowed in each particular case in Part 1 | 50% | 75%
 Counsel's fee on brief | Not exceeding $900.00 | Not exceeding $1 200.00
 Refresher fee to counsel for each day after the first | $600.00 | $800.00
 Fee for a service | As in Part 1 | As in Part 1
-| ITEM | FEES (Claim exceeding $20 000.00)
+| ITEM | FEES (Claim exceeding $50 000.00)
 1.  | Costs of writ for service within the jurisdiction | $214.00
 2.  | Costs of writ for service outside the jurisdiction | $285.00
 2.  | In addition to the fees allowed in items 1 and 2, the practitioner may claim the court fees set out in Schedule 2, and the fee, if any, prescribed under section 5(1) of the Appeal Costs Fund Act 1968 |
 3.  | Costs of signing judgment | $56.00
 Rules 912 and 921
 Judgment creditor's costs |
-In respect of a debt exceeding $20 000.00 | $162.00
-In respect of a debt not exceeding $20 000.00 | $109.00
+In respect of a debt exceeding $50 000.00 | $162.00
+In respect of a debt not exceeding $50 000.00 | $109.00
 Rule 601
 Costs of the summons | $368.00
 In addition to the above fee, the practitioner may claim the court fees set out in Schedule 2, and the fee, if any, prescribed under section 5(1) of the Appeal Costs Fund Act 1968 |
