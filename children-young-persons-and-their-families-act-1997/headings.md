@@ -8,6 +8,8 @@ Part 4, Division 3 Examination and assessment of children
 Part 5 Children in need of care and protection
 Part 5, Division 1 Family group conferences
 Part 5, Division 2 Care and protection orders
+Part 5A Information sharing
+Part 5B Community-Based Intake Service
 Part 6 Procedural matters
 Part 7 Children under guardianship or in custody of secretary
 Part 8 Interstate transfers of child protection order, &c.
