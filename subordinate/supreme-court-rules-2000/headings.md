@@ -46,7 +46,8 @@ Part 11, Division 4 Summary judgment for defendant
 Part 11, Division 5 Judgment on failure to prosecute or comply with an order
 Part 12 Discontinuance and withdrawal
 Part 13 Discovery and interrogatories
-Part 13, Division 1 Discovery and inspection of documents
+Part 13, Division 1 Interpretation
+Part 13, Division 1A Discovery and inspection of documents
 Part 13, Division 2 Admissions and production of documents
 Part 13, Division 2A Preliminary discovery and discovery from non-party
 Part 13, Division 3 Interrogatories
