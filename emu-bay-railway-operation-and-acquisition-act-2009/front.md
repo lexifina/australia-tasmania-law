@@ -1,0 +1,3 @@
+Emu Bay Railway (Operation and Acquisition) Act 2009
+An Act to authorise the operation of a rail business on the Emu Bay Railway by PN Tas (Operations) Pty Limited, to ratify the Business Sale Agreement and to ratify or approve supplementary agreements, to vest in the Crown or its nominee certain interests in the Emu Bay Railway not acquired under the Business Sale Agreement, to amend the Boundary Fences Act 1908 and the Rail Infrastructure Act 2007, to repeal certain Acts and for related purposes
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
