@@ -15,7 +15,7 @@ Part V, Division 2 Restrictions on the importation, making, refining, preparatio
 Part V, Division 4 Prohibited substances
 Part V, Division 5 General
 Part VA Notification and authorisation in relation to certain restricted substances and narcotic substances
-Part 5A Poppy Advisory and Control Board
+Part VB Poppy Advisory and Control Board
 Part VI Miscellaneous
 Part VI, Division 1 Analysis and examination of scheduled substances and scheduled plants
 Part VI, Division 2 Legal proceedings and offences
