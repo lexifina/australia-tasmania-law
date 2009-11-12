@@ -6,6 +6,7 @@ Part II, Division II Offences relating to good order and safety
 Part II, Division III Fortifications
 Part II, Division IIIA Prohibited behaviour
 Part II, Division IV Consumption of liquor
+Part II, Division V Sale or supply of liquor to youths
 Part II, Division VII Offences against public authority
 Part III Injuries to the Person
 Part IV Injuries to Property
@@ -29,4 +30,7 @@ Part VII, Division I Arrest
 Part VII, Division II Entry and search
 Part VII, Division III Search warrants
 Part VII, Division IV Liquor infringement notices
+Part VIII Declaration of Crime Scenes and Serious Incident Sites
+Part VIII, Division 1 Crime scenes
+Part VIII, Division 2 Serious incident sites
 Part IX Procedure and Supplemental Provisions
