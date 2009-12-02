@@ -20,6 +20,6 @@ For the purpose of rule 27, the following offences are specified offences:
 14A.  | An offence under section 7 of the Road Safety (Alcohol and Drugs) Act 1970
 15.  | An offence under the Taxi and Luxury Hire Car Industries Act 1995 and any regulations made under it
 16.  | An offence under section 41(1) and 51(3) of the Traffic Act 1925
-17.  | An offence under the Traffic (Road Rules) Regulations 1999
+17.  | An offence under the Road Rules
 18.  | An offence under the Vehicle and Traffic Act 1999, except sections 9, 13, 14, 15, 18, 31 and 64, and any regulations made under it
 19.  | An offence under the Wildlife Regulations 1999
