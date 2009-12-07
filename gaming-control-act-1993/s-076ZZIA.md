@@ -1,0 +1,2 @@
+# 76ZZIA. Emergency approval of modification to control system or gaming equipment
+Notwithstanding sections 76ZZG and 76ZZI, the Commission may grant an emergency approval to a modification of any control system or gaming equipment approved under those sections if it is satisfied that the modification is (or, if the modification has already been made, was) necessary to ensure the integrity of the control system or the gaming equipment.

@@ -1,2 +1,2 @@
 # 76ZZQ. Period of minor gaming permit
-A minor gaming permit has effect, unless sooner cancelled or surrendered, for the period of 12 months or less specified in it.
+Unless sooner cancelled or surrendered, a minor gaming permit has effect for such period, not exceeding 5 years, as the Commission determines and specifies in the permit.

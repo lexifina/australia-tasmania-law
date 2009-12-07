@@ -48,7 +48,8 @@ Part 5 Control of Gaming
 Part 5, Division 1 Gaming control relating to approved venues
 Part 5, Division 1A Limitations on gaming machine numbers
 Part 5, Division 2 Gaming control relating to casinos
-Part 5, Division 3 Exclusion from gaming
+Part 5, Division 3 Exclusion from gaming or wagering premises
+Part 5, Division 4 Responsible gambling
 Part 5, Division 5 Gaming control generally
 Part 5, Division 6 Disciplinary action
 Part 6 Minors

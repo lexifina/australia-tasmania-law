@@ -5,5 +5,5 @@
 (b) specify the authorised game the applicant wishes to conduct; and
 (c) specify the purposes for which the authorised game would be conducted; and
 (d) specify how the proceeds from the authorised game will be distributed; and
-(e) be accompanied by any fee determined by the Commission by written notice provided to the applicant.
+(e) be accompanied by the fee, if any, prescribed by the regulations.
 (3) On receipt of an application, the Commission may require the applicant to provide further information.
