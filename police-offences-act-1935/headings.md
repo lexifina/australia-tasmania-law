@@ -12,11 +12,13 @@ Part III Injuries to the Person
 Part IV Injuries to Property
 Part IVA Offences Involving Vehicles
 Part IVA, Division 1 Motor vehicle stealing, &c.
-Part IVA, Division 2 Confiscation of vehicles for certain offences
+Part IVA, Division 2 Confiscation and clamping of vehicles for certain offences
 Part IVA, Division 2, Subdivision 1 Preliminary
-Part IVA, Division 2, Subdivision 2 Confiscation of vehicles
+Part IVA, Division 2, Subdivision 2 Clamping and confiscation of vehicles
 Part IVA, Division 2, Subdivision 3 Forfeiture orders
-Part IVA, Division 2, Subdivision 4 Recovery and return of vehicles
+Part IVA, Division 2, Subdivision 4 Unclamping and recovery, &c., of vehicles
+Part IVA, Division 2, Subdivision 5 Disposal of vehicles, &c.
+Part IVA, Division 2, Subdivision 6 Miscellaneous
 Part V Offences Involving Dishonesty
 Part VA Offences Relating to Computers
 Part VI Miscellaneous Offences
