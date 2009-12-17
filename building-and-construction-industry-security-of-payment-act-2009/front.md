@@ -1,0 +1,3 @@
+Building and Construction Industry Security of Payment Act 2009
+An Act to provide for progress payments to be made in a timely fashion under building or construction contracts or contracts for the supply of goods and services relating to building or construction, for disputes in relation to such payments to be adjudicated in a timely and informal way, to repeal the Contractors' Debts Act 1939, and for related purposes
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
