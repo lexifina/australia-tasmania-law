@@ -10,9 +10,9 @@ Birds
 | Species | Authority | Common name
 1.  | Haliaeetus leucogaster | Gmelin | White-bellied Sea-Eagle
 2.  | Halobaena caerulea | Gmelin | Blue Petrel
-3.  | Leucocarbo atriceps purpurescens | Brant | Macquarie Island Shag
+3.  | Leucocarbo atriceps purpurascens | Brant | Macquarie Island Shag
 4.  | Macronectes giganteus | Gmelin | Southern Giant Petrel
-5.  | Phoebetria palpebrata | Forster | Light-mantled Sooty Albatross
+5.  | Phoebetria palpebrata | Forster | Light-mantled Albatross
 6.  | Platycercus caledonicus brownii | (Kuhl) | King Island Green Rosella
 7.  | Podiceps cristatus | Linne | Great Crested Grebe
 8.  | Pterodroma lessonii | Garnot | White-headed Petrel
@@ -75,7 +75,7 @@ Dicotyledonae
 4.  | Bedfordia arborescens | Hochr., Asteraceae | tree blanketleaf
 5.  | Boronia gunnii | Hook.f., Rutaceae | river boronia
 6.  | Boronia hippopala | Duretto, Rutaceae | velvet boronia
-7.  | Brachyscome rigidula | (DC.) G.L.R.Davis, Asteraceae | cutleaf daisy
+7.  | Brachyscome rigidula | (DC.) G.L.Davis, Asteraceae | cutleaf daisy
 8.  | Chionohebe ciliolata | (Hook.f) B.G.Briggs & Ehrend., Scrophulariaceae | ben lomond cushionplant
 9.  | Conospermum hookeri | (Meisn.) E.M.Benn., Proteaceae | tasmanian smokebush
 10.  | Desmodium gunnii | Benth. ex Hook.f., Fabaceae | slender ticktrefoil
@@ -97,7 +97,7 @@ Dicotyledonae
 27.  | Mirbelia oxylobioides | F.Muell., Fabaceae | sandstone bushpea
 28.  | Myoporum parvifolium | R.Br., Myoporaceae | creeping boobialla
 29.  | Myriophyllum integrifolium | (Hook.f.) Hook.f., Haloragaceae | tiny watermilfoil
-30.  | Oreoporanthera petalifera | Orchard & J.Davies, Euphorbiaceae | mountain poranthera
+30.  | Oreoporanthera petalifera | Orchard & J.B.Davies, Euphorbiaceae | mountain poranthera
 31.  | Ozothamnus reflexifolius | K.Leeson & Rozefelds, Asteraceae | reflexed everlastingbush
 32.  | Persicaria decipiens | (R.Br.) K.L.Wilson, Polygonaceae | slender waterpepper
 33.  | Phyllangium divergens | (Hook.f.) Dunlop, Loganiaceae | wiry mitrewort
@@ -123,6 +123,7 @@ Monocotyledonae
 | Species | Authority, Family | Common name
 1.  | Caladenia caudata | Nicholls, Orchidaceae | tailed spider-orchid
 2.  | Caladenia patersonii | R.Br., Orchidaceae | patersons spider-orchid
+2A.  | Nematoceras dienemum | (D.L.Jones) D.L.Jones, M.A.Clem. & Molloy, Orchidaceae | windswept helmet-orchid
 3.  | Pterostylis pratensis | D.L.Jones, Orchidaceae | liawenee greenhood
 4.  | Pterostylis ziegeleri | D.L.Jones, Orchidaceae | grassland greenhood
 5.  | Tricoryne elatior | R.Br., Liliaceae | yellow rushlily
@@ -137,6 +138,7 @@ Pteridophyta
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Anogramma leptophylla | (L.) Link, Adiantaceae | annual fern
+1A.  | Asplenium trichomanes subsp. trichomanes | L., Aspleniaceae | dolerite spleenwort
 2.  | Blechnum cartilagineum | Sw., Blechnaceae | gristle fern
 3.  | Tmesipteris parva | N.A.Wakef., Psilotaceae | small forkfern
 Lichens

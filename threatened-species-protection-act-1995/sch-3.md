@@ -16,7 +16,7 @@ Birds
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
 1.  | Acanthiza pusilla archibaldi | Mathews | Brown Thornbill (King Island)
-2.  | Acanthornis magnus greenianus | Schodde & Mason | Scrubtit (King Island)
+2.  | Acanthornis magna greeniana | Schodde & Mason | Scrubtit (King Island)
 3.  | Accipiter novaehollandiae | Gmelin | Grey Goshawk
 4.  | Alcedo azurea diemenensis | (Gould) | Azure Kingfisher
 5.  | Aquila audax fleayi | Latham | Wedge-tailed Eagle
@@ -91,7 +91,7 @@ Dicotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Alternanthera denticulata | R.Br., Amaranthaceae | lesser joyweed
-2.  | Argentipallium Xspiceri | (F.Muell.) Paul G.Wilson, Asteraceae | spicers everlasting
+2.  | Azorella macquariensis | Orchard, Apiaceae | macquarie cushions
 3.  | Barbarea australis | Hook.f., Brassicaceae | riverbed wintercress
 4.  | Bertya tasmanica subsp. tasmanica | (Sond. & F.Muell.) Müll.Arg., Euphorbiaceae | tasmanian bertya
 5.  | Boronia hemichiton | Duretto, Rutaceae | mt arthur boronia
@@ -113,7 +113,8 @@ Dicotyledonae
 20.  | Euphrasia gibbsiae subsp. psilantherea | (F.Muell.) W.R.Barker, Scrophulariaceae | swamp eyebright
 21.  | Euphrasia scabra | R.Br., Scrophulariaceae | yellow eyebright
 22.  | Euphrasia semipicta | W.R.Barker, Scrophulariaceae | peninsula eyebright
-23.  | Euphrasia sp. 'fabula' | (A.M.Buchanan HO77245), Scrophulariaceae | masked cliff-eyebright
+23.  | Euphrasia sp. Bivouac Bay | (W.R.Barker 7626 et al.) W.R.Barker, Scrophulariaceae | masked cliff-eyebright
+23A.  | Galium antarcticum | Hook.f., Rubiaceae | subantarctic bedstraw
 24.  | Gompholobium ecostatum | Kuchel, Fabaceae | dwarf wedgepea
 25.  | Hardenbergia violacea | (Schneev.) Stearn, Fabaceae | purple coralpea
 26.  | Hibbertia basaltica | A.M.Buchanan & Schah., Dilleniaceae | basalt guineaflower
@@ -130,9 +131,10 @@ Dicotyledonae
 36.  | Phebalium daviesii | Hook.f., Rutaceae | davies waxflower
 37.  | Philotheca freyciana | Rozefelds, Rutaceae | freycinet waxflower
 38.  | Pimelea axiflora subsp. axiflora | F.Muell. ex Meisn., Thymelaeaceae | bootlace bush
-39.  | Polyscias aff. sambucifolia (Douglas-Denison) | (R. Schahinger H0500267), Araliaceae | ferny panax
+39.  | Polyscias sp. Douglas-Denison | (R.B.Schahinger HO 526133) Tas. Herbarium, Araliaceae | ferny panax
+39A.  | Pomaderris pilifera subsp. talpicutica | A.M.Gray & M.Wapstra, Rhamnaceae | moleskin dogwood
 40.  | Ranunculus prasinus | Menadue, Ranunculaceae | midlands buttercup
-41.  | Rhytidosporum inconspicuum | L.Cayzer, Crisp & I.Telford, Pittosporaceae | alpine appleberry
+41.  | Rhytidosporum inconspicuum | L.W.Cayzer, Crisp & I.Telford, Pittosporaceae | alpine appleberry
 42.  | Sagina diemensis | L.G.Adams, Caryophyllaceae | tasmanian pearlwort
 43.  | Scaevola aemula | R.Br., Goodeniaceae | fairy fanflower
 44.  | Solanum opacum | A.Braun & Bouché, Solanaceae | greenberry nightshade
@@ -174,8 +176,9 @@ Monocotyledonae
 25.  | Cryptostylis leptochila | F.Muell. ex Benth., Orchidaceae | small tongue-orchid
 26.  | Diuris lanceolata | Lindl., Orchidaceae | large golden moths
 27.  | Diuris palustris | Lindl., Orchidaceae | swamp doubletail
+27A.  | Nematoceras sulcatum | (Hook.f.) D.L.Jones & M.A.Clem., Orchidaceae | grooved helmet-orchid
+27B.  | Poa cookii | (Hook.f.) Hook.f., Poaceae | cooks tussockgrass
 28.  | Prasophyllum aff. montanum | (Cameron QVM), Orchidaceae | mountain leek-orchid
-28A.  | Prasophyllum aff. pyriforme | (J.Whinray HO524739), Orchidaceae | graceful leek-orchid
 29.  | Prasophyllum amoenum | D.L.Jones, Orchidaceae | dainty leek-orchid
 30.  | Prasophyllum apoxychilum | D.L.Jones, Orchidaceae | tapered leek-orchid
 30A.  | Prasophyllum atratum | D.L.Jones, Orchidaceae | three hummock leek-orchid
@@ -218,6 +221,7 @@ Pteridophyta
 5.  | Doodia caudata | (Cav.) R.Br., Blechnaceae | small raspfern
 6.  | Hypolepis distans | Hook., Dennstaedtiaceae | scrambling groundfern
 7.  | Pneumatopteris pennigera | (G.Forst.) Holttum, Thelypteridaceae | lime fern
+8.  | Polystichum vestitum | (G.Forst.) C.Presl, Dryopteridaceae | prickly shieldfern
 Lichens
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
@@ -266,7 +270,6 @@ Dicotyledonae
 13.  | Senecio macrocarpus | Belcher, Asteraceae | largefruit fireweed
 14.  | Thesium australe | R.Br., Santalaceae | southern toadflax
 15.  | Veronica notabilis | F.Muell. ex Benth., Scrophulariaceae | forest speedwell
-16.  | Vittadinia megacephala | (F.Muell. ex Benth.) J.M.Black, Asteraceae | giant new-holland-daisy
 Monocotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name

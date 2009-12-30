@@ -118,7 +118,6 @@ Dicotyledonae
 27.  | Calocephalus lacteus | Less., Asteraceae | milky beautyheads
 28.  | Calystegia sepium | (L.) R.Br., Convolvulaceae | swamp bindweed
 29.  | Calystegia soldanella | (L.) Roem. & Schult., Convolvulaceae | sea bindweed
-30.  | Centaurium spicatum | (L.) Fritsch ex Janch., Gentianaceae | spike centaury
 31.  | Centipeda cunninghamii | (DC.) A.Braun & Asch., Asteraceae | erect sneezeweed
 32.  | Chrysocephalum baxteri | (A.Cunn. ex DC.) A.Anderb., Asteraceae | fringed everlasting
 33.  | Colobanthus curtisiae | J.G.West, Caryophyllaceae | grassland cupflower
@@ -137,11 +136,11 @@ Dicotyledonae
 45.  | Epacris curtisiae | Jarman, Epacridaceae | northwest heath
 45A.  | Epacris moscaliana | Crowden, Epacridaceae | seepage heath
 46.  | Epilobium pallidiflorum | Sol. ex A.Cunn., Onagraceae | showy willowherb
-47.  | Epilobium willisii | Raven & Engelhorn, Onagraceae | carpet willowherb
+47.  | Epilobium willisii | P.H.Raven & Engelhorn, Onagraceae | carpet willowherb
 48.  | Eucalyptus barberi | L.A.S.Johnson & Blaxell, Myrtaceae | barbers gum
 49.  | Eucalyptus globulus subsp. pseudoglobulus | (Naudin ex Maiden) J.B.Kirkp., Myrtaceae | gippsland blue gum
 50.  | Eucalyptus perriniana | F.Muell. ex Rodway, Myrtaceae | spinning gum
-51.  | Eucalyptus radiata subsp. robertsonii | (Blakely) L.A.S.Johnson & Blaxell, Myrtaceae | forth river peppermint
+51.  | Eucalyptus radiata subsp. radiata | Sieber ex DC., Myrtaceae | forth river peppermint
 52.  | Eucalyptus risdonii | Hook.f., Myrtaceae | risdon peppermint
 53.  | Euphrasia amphisysepala | W.R.Barker, Scrophulariaceae | shiny cliff-eyebright
 54.  | Euphrasia collina subsp. deflexifolia | (Gand.) W.R.Barker, Scrophulariaceae | eastern eyebright
@@ -214,6 +213,7 @@ Dicotyledonae
 121.  | Rhodanthe anthemoides | (Spreng.) Paul G.Wilson, Asteraceae | chamomile sunray
 122.  | Rumex bidens | R.Br., Polygonaceae | mud dock
 123.  | Scaevola albida | (Sm.) Druce, Goodeniaceae | pale fanflower
+123A.  | Schenkia australis | (R.Br.) G.Mans., Gentianaceae | spike centaury
 124.  | Scleranthus brockiei | P.A.Will., Caryophyllaceae | mountain knawel
 125.  | Scutellaria humilis | R.Br., Lamiaceae | dwarf scullcap
 126.  | Senecio squarrosus | A.Rich., Asteraceae | leafy fireweed
@@ -258,7 +258,7 @@ Monocotyledonae
 5.  | Aphelia gracilis | Sond., Centrolepidaceae | slender fanwort
 6.  | Aphelia pumilio | F.Muell. ex Sond., Centrolepidaceae | dwarf fanwort
 7.  | Arthropodium strictum | R.Br., Liliaceae | chocolate lily
-8.  | Australopyrum velutinum | (Nees) B.Simon, Poaceae | velvet wheatgrass
+8.  | Australopyrum velutinum | (Nees) B.K.Simon, Poaceae | velvet wheatgrass
 9.  | Austrodanthonia induta | (Vickery) H.P.Linder, Poaceae | tall wallabygrass
 10.  | Austrodanthonia remota | (D.I.Morris) H.P.Linder, Poaceae | remote wallabygrass
 11.  | Austrostipa bigeniculata | (Hughes) S.W.L.Jacobs & J.Everett, Poaceae | doublejointed speargrass
@@ -319,19 +319,19 @@ Monocotyledonae
 66.  | Poa halmaturina | J.M.Black, Poaceae | dune tussockgrass
 67.  | Poa mollis | Vickery, Poaceae | soft tussockgrass
 68.  | Poa poiformis var. ramifer | D.I.Morris, Poaceae | island purplegrass
-69.  | Potamogeton pectinatus | L., Potamogetonaceae | fennel pondweed
 70.  | Prasophyllum tadgellianum | R.S.Rogers, Orchidaceae | tadgells leek-orchid
 71.  | Pterostylis falcata | R.S.Rogers, Orchidaceae | sickle greenhood
 72.  | Pterostylis grandiflora | R.Br., Orchidaceae | superb greenhood
 73.  | Pterostylis sanguinea | D.L.Jones & M.A. Clem., Orchidaceae | banded greenhood
 74.  | Pterostylis squamata | R.Br., Orchidaceae | ruddy greenhood
-75.  | Puccinellia stricta var. perlaxa | Stapf ex N.G.Walsh, Poaceae | spreading saltmarshgrass
+75.  | Puccinellia perlaxa | (Stapf ex N.G.Walsh) N.G. Walsh & A.R.Williams, Poaceae | spreading saltmarshgrass
 76.  | Ruppia megacarpa | R.Mason, Ruppiaceae | largefruit seatassel
 77.  | Ruppia tuberosa | J.S.Davis & Toml., Ruppiaceae | tuberous seatassel
-78.  | Schoenoplectus validus | (Vahl) A. & D.Löve, Cyperaceae | river clubsedge
+78.  | Schoenoplectus tabernaemontani | (C.C.Gmel.) Palla, Cyperaceae | river clubsedge
 79.  | Schoenus brevifolius | R.Br., Cyperaceae | zigzag bogsedge
 80.  | Sowerbaea juncea | Andrews, Liliaceae | purple rushlily
 81.  | Sporobolus virginicus | (L.) Kunth, Poaceae | salt couch
+81A.  | Stuckenia pectinata | (L.) Börner, Potamogetonaceae | fennel pondweed
 82.  | Thelymitra holmesii | Nicholls, Orchidaceae | bluestar sun-orchid
 83.  | Thelymitra mucida | Fitzg., Orchidaceae | plum sun-orchid
 84.  | Thismia rodwayi | F.Muell., Burmanniaceae | fairy lanterns
@@ -339,7 +339,7 @@ Monocotyledonae
 86.  | Triglochin minutissimum | F.Muell., Juncaginaceae | tiny arrowgrass
 87.  | Trithuria submersa | Hook.f., Hydatellaceae | submerged watertuft
 88.  | Uncinia elegans | (Kük.) Hamlin, Cyperaceae | handsome hooksedge
-89.  | Vallisneria americana var. americana | Michx., Hydrocharitaceae | river ribbons
+89.  | Vallisneria australis | S.W.L.Jacobs & Les, Hydrocharitaceae | river ribbons
 Pteridophyta
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
@@ -347,7 +347,7 @@ Pteridophyta
 2.  | Isoetes drummondii subsp. drummondii | A.Braun, Isoetaceae | plain quillwort
 3.  | Isoetes elatior | F.Muell. ex A.Braun, Isoetaceae | tall quillwort
 4.  | Isoetes humilior | F.Muell. ex A.Braun, Isoetaceae | veiled quillwort
-5.  | Isoetes sp. 'Maxwell River' | (S.J.Jarman HO314082), Isoetaceae | limestone quillwort
+5.  | Isoetes sp. Maxwell River | (S.J.Jarman HO314082) Tas. Herbarium, Isoetaceae | limestone quillwort
 6.  | Pellaea calidirupium | Brownsey & Lovis, Adiantaceae | hotrock fern
 7.  | Phylloglossum drummondii | Kunze, Lycopodiaceae | pygmy clubmoss
 8.  | Pilularia novae-hollandiae | A.Braun, Marsileaceae | australian pillwort
