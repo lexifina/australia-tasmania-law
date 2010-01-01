@@ -27,7 +27,7 @@ Part 6, Division 1 Orders and notices
 Part 6, Division 2 Monitoring water quality
 Part 6, Division 3 Registration of user or supplier of private water
 Part 7 Registers
-Part 7, Division 1 Cervical Cytology Register
+Part 7, Division 1 Cervical Screening Register
 Part 7, Division 2 Information registers
 Part 8 Miscellaneous
 Part 8, Division 1 Information
