@@ -38,6 +38,7 @@ Form 34 | Commission to examine witnesses
 Form 35 | Order for letter of request to judicial authority out of Tasmania
 Form 36 | Letter of request for examination of witness
 Form 37 | Subpoena
+Form 37A | Notice and declaration
 Form 41 | Interlocutory application
 Form 42 | Certificate of readiness
 Form 43 | Notice of intention to appear
@@ -70,7 +71,7 @@ Form 57E | Oath or affirmation and form of roll where interstate practitioner or
 Form 58 | Final judgment in default of appearance or defence
 Form 59 | Interlocutory judgment in default of appearance or defence
 Form 60 | Judgment after trial with jury
-Form 61 | Judgment after trial without jury or in accordance with an order
+Form 61 | Judgment after trial without jury or pursuant to an order
 Form 62 | General form of order
 Form 63 | Writ of fieri facias
 Form 64 | Writ of veditioni exponas
@@ -168,13 +169,12 @@ Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 31 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
-32 Rules of the Supreme Court (Forms) 2000
+32 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
-33 Rules of the Supreme Court (Forms) 2000
+33 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
-Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
-Rules of the Supreme Court (Forms) 2000
+[Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 34 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
@@ -184,7 +184,7 @@ Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
-35 Rules of the Supreme Court (Forms) 2000
+35 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 36 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
@@ -195,8 +195,11 @@ Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
-41 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+37A [Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+41 [Picture in the source, not reproduced]
 42 Certificate of Readiness
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
@@ -261,12 +264,9 @@ Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 59 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
-60 Rules of the Supreme Court (Forms) 2000
-[Picture in the source, not reproduced]
-61 Rules of the Supreme Court (Forms) 2000
-[Picture in the source, not reproduced]
-62 Rules of the Supreme Court (Forms) 2000
-[Picture in the source, not reproduced]
+60 [Picture in the source, not reproduced]
+61 [Picture in the source, not reproduced]
+62 [Picture in the source, not reproduced]
 63 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 Rules of the Supreme Court (Forms) 2000
