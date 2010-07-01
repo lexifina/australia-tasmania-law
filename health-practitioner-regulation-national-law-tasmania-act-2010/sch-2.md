@@ -1,5 +1,4 @@
 # Schedule 2 Legislation rescinded
-[Not yet in force. Commences: 1 July 2010]
 Section 25
 Dental Prosthetists Registration (Fees) Regulations 2000 (No. 196 of 2000)
 Physiotherapists Registration (Fees) Regulations 2000 (No. 199 of 2000)
@@ -27,4 +26,3 @@ Chiropractors and Osteopaths Registration (Fees) Amendment Regulations 2008 (No.
 Medical Practitioners Registration (Fees) Regulations 2008 (No. 132 of 2008)
 Podiatrists Registration (Fees) Regulations 2009 (No. 17 of 2009)
 Dental Practitioners Registration (Fees) Amendment Regulations 2009 (No. 93 of 2009)
-[End of text not yet in force]
