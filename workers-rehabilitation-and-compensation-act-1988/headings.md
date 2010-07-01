@@ -19,6 +19,7 @@ Part VI, Division 2A Accreditation
 Part VI, Division 3 Special provisions relating to the payment of compensation in respect of injuries contracted by gradual process
 Part VII Payment of compensation and related matters
 Part VII, Division 1 Provisions relating to weekly payments and other benefits
+Part VII, Division 1A Medical examinations and independent medical reviews
 Part VII, Division 2 Payment of compensation money to persons entitled and to the Public Trustee
 Part VII, Division 3 Power of Tribunal to vary certain determinations relating to payment of compensation
 Part IX Insurance provisions
@@ -31,7 +32,13 @@ Part X Concurrent rights to compensation and damages
 Part X, Division 1 Rights to compensation and damages
 Part X, Division 2 Restrictions on awards of damages
 Part X, Division 3 Choice of law
-Part XI Rehabilitation
+Part XI Injury Management
+Part XI, Division 1 Application, purpose and interpretation
+Part XI, Division 2 Injury management programs
+Part XI, Division 3 Injury management and return-to-work co-ordinators and plans
+Part XI, Division 4 Medical treatment
+Part XI, Division 5 Obligations relating to return to work of injured worker
+Part XI, Division 6 Miscellaneous
 Part XII Workers Rehabilitation and Compensation Fund
 Part 12A Infringement notices
 Part XIII Miscellaneous
