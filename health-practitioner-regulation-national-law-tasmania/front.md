@@ -1,0 +1,2 @@
+Health Practitioner Regulation National Law (Tasmania)
+The Health Practitioner Regulation National Law, as in force from time to time, set out in the Schedule to the Health Practitioner National Law Act 2009 of Queensland is applied (with modifications) as a law of Tasmania by the Health Practitioner Regulation National Law (Tasmania) Act 2010 and, as so applying, may be referred to as the Health Practitioner Regulation National Law (Tasmania)
