@@ -35,7 +35,7 @@ Clause 4
 32.  | Huon River | An imaginary straight line drawn between a white post situated on the shore of the southern side of Castle Forbes Bay and another white post situated to the eastward of that post on the opposite bank of the Huon River.
 33.  | Inglis River | The downstream side of the bridge carrying the C234 road across that river.
 34.  | King River | The mouth of that river where it enters Macquarie Harbour at grid reference 364224/5327309.
-35.  | Leven River | The downstream side of the bridge carrying the A2 road across that river.
+35.  | Leven River | The downstream side of the bridge carrying the A1 road across that river.
 36.  | Little Forester River | The mouth of that river at grid reference 530029/5463632.
 37.  | Little Henty River | The mouth of that river at grid reference 351205/5351731.
 38.  | Little Pipers River | The mouth of that river at grid reference 516680/5461208.
