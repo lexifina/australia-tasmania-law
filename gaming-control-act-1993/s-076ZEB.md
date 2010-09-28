@@ -13,6 +13,4 @@ means a business agreement or arrangement in force under section 57EA, 57F or 57
 terminating event
 means a terminating event within the meaning of section 76ZED;
 totalizator changeover day
-means the day on which the Gaming Control Amendment Act 2009 commences;
-wagering rules
-means rules that a licensed provider is required to have in place pursuant to section 76ZEF(c).
+means the day on which the Gaming Control Amendment Act 2009 commences.
