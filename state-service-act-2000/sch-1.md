@@ -16,6 +16,7 @@ Division 2
 Tasmanian Audit Office | Auditor-General
 Column 1 | Column 2
 Agency | Head of Agency
+Integrity Commission | Chief executive officer
 Port Arthur Historic Site Management Authority | Chief executive officer
 Rivers and Water Supply Commission | Chairperson of the Rivers and Water Supply Commission
 Tasmanian Academy | Chief executive officer
