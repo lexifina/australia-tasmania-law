@@ -9,7 +9,7 @@ Part 3A Drug treatment orders
 Part 4 Community service orders
 Part 5 Probation orders
 Part 6 Fines
-Part 6A. Warrant of commitment for non-payment of monetary penalty
+Part 6AA Warrant of commitment for non-payment of monetary penalty
 Part 6A Rehabilitation programs
 Part 7 Driving disqualification orders
 Part 8 Adjournments, discharges and dismissals
