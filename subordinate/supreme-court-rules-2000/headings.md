@@ -130,5 +130,10 @@ Part 36, Division 5 Sequestration
 Part 36, Division 6 Proceedings under a judgment
 Part 37 The Associate Judge
 Part 38 Service of foreign process
+Part 38A Service under the Hague Convention
+Part 38A, Division 1 Preliminary
+Part 38A, Division 2 Service abroad of local judicial documents
+Part 38A, Division 3 Default judgment following service abroad of initiating process
+Part 38A, Division 4 Local service of foreign judicial documents
 Part 39 Obtaining evidence for external court or tribunal
 Part 40 Miscellaneous
