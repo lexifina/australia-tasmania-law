@@ -1,0 +1,3 @@
+Personal Property Securities (Commonwealth Powers) Act 2010
+An Act to adopt the Personal Property Securities Act 2009 of the Commonwealth as amended by the Personal Property Securities (Consequential Amendments) Act 2009 of the Commonwealth and the Personal Property Securities (Corporations and Other Amendments) Act 2010 of the Commonwealth, and to refer certain matters relating to security interests in personal property to the Parliament of the Commonwealth for the purposes of section 51(xxxvii) of the Constitution of the Commonwealth
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
