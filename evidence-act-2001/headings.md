@@ -21,14 +21,19 @@ Chapter 3, Part 4 Admissions
 Chapter 3, Part 5 Evidence of judgments and convictions
 Chapter 3, Part 6 Tendency and coincidence
 Chapter 3, Part 7 Credibility
+Chapter 3, Part 7, Division 1 Credibility evidence
+Chapter 3, Part 7, Division 2 Credibility of witnesses
+Chapter 3, Part 7, Division 3 Credibility of persons who are not witnesses
+Chapter 3, Part 7, Division 4 Persons with specialised knowledge
 Chapter 3, Part 8 Character
 Chapter 3, Part 9 Identification evidence
 Chapter 3, Part 10 Privileges
 Chapter 3, Part 10, Division 1 Client legal privilege
+Chapter 3, Part 10, Division 1A Professional confidential relationship privilege
 Chapter 3, Part 10, Division 2 Other privileges
 Chapter 3, Part 10, Division 3 Evidence excluded in the public interest
 Chapter 3, Part 10, Division 4 General
-Chapter 3, Part 11 Discretions to exclude evidence
+Chapter 3, Part 11 Discretionary and mandatory exclusions
 Chapter 4 Proof
 Chapter 4, Part 1 Standard of proof
 Chapter 4, Part 2 Judicial notice
@@ -37,7 +42,7 @@ Chapter 4, Part 3, Division 1 General
 Chapter 4, Part 3, Division 2 Matters of official record
 Chapter 4, Part 3, Division 3 Matters relating to post and communications
 Chapter 4, Part 4 Corroboration
-Chapter 4, Part 5 Warnings
+Chapter 4, Part 5 Warnings and Information
 Chapter 4, Part 6 Ancillary provisions
 Chapter 4, Part 6, Division 1 Request to produce documents or call witnesses
 Chapter 4, Part 6, Division 2 Proof of certain matters by affidavits or written statements
