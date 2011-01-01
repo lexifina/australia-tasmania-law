@@ -19,8 +19,6 @@ Agency | Head of Agency
 Integrity Commission | Chief executive officer
 Port Arthur Historic Site Management Authority | Chief executive officer
 Rivers and Water Supply Commission | Chairperson of the Rivers and Water Supply Commission
-Tasmanian Academy | Chief executive officer
 Tasmanian Dairy Industry Authority | Chairperson of the Tasmanian Dairy Industry Authority
-Tasmanian Polytechnic | Chief executive officer
 Tasmanian Skills Institute | Chief executive officer
 The Public Trustee | Chairperson of The Public Trustee
