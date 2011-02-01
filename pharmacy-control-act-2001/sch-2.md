@@ -1,2 +1,2 @@
-# Schedule 2 Provisions with respect to meetings of Board
+# Schedule 2 Provisions with respect to meetings of Authority
 Section 7(7)
