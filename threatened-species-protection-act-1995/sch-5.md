@@ -98,7 +98,7 @@ Dicotyledonae
 7.  | Argyrotegium fordianum | (M.Gray) J.M.Ward & Breitw., Asteraceae | soft cottonleaf
 8.  | Argyrotegium poliochlorum | (N.G.Walsh) J.M.Ward & Breitw., Asteraceae | greygreen cottonleaf
 9.  | Asperula minima | Hook.f., Rubiaceae | mossy woodruff
-10.  | Asperula scoparia var. scoparia | Hook.f., Rubiaceae | prickly woodruff
+10.  | Asperula scoparia subsp. scoparia | Hook.f., Rubiaceae | prickly woodruff
 11.  | Asperula subsimplex | Hook.f., Rubiaceae | water woodruff
 12.  | Australina pusilla subsp. muelleri | (Wedd.) Friis & Wilmot-Dear, Urticaceae | shade nettle
 13.  | Austrocynoglossum latifolium | (R.Br.) R.R.Mill, Boraginaceae | forest houndstongue
@@ -132,7 +132,6 @@ Dicotyledonae
 41.  | Cyphanthera tasmanica | Miers, Solanaceae | tasmanian rayflower
 42.  | Drosera glanduligera | Lehm., Droseraceae | scarlet sundew
 43.  | Elaeocarpus reticulatus | Sm., Elaeocarpaceae | blueberry ash
-44.  | Epacris acuminata | Benth., Epacridaceae | claspleaf heath
 45.  | Epacris curtisiae | Jarman, Epacridaceae | northwest heath
 45A.  | Epacris moscaliana | Crowden, Epacridaceae | seepage heath
 46.  | Epilobium pallidiflorum | Sol. ex A.Cunn., Onagraceae | showy willowherb
@@ -160,6 +159,7 @@ Dicotyledonae
 68.  | Haloragis heterophylla | Brongn., Haloragaceae | variable raspwort
 69.  | Haloragis myriocarpa | Orchard, Haloragaceae | prickly raspwort
 70.  | Hedycarya angustifolia | A.Cunn., Monimiaceae | australian mulberry
+70A.  | Hibbertia rufa | N.A.Wakef., Dilleniaceae | brown guineaflower
 71.  | Hibbertia virgata | R.Br. ex DC., Dilleniaceae | twiggy guineaflower
 72.  | Hovea corrickiae | J.H.Ross, Fabaceae | glossy purplepea
 73.  | Hovea montana | (Hook.f.) J.H.Ross, Fabaceae | mountain purplepea
@@ -204,7 +204,7 @@ Dicotyledonae
 112.  | Pomaderris intermedia | Sieber ex DC., Rhamnaceae | lemon dogwood
 113.  | Pomaderris oraria subsp. oraria | F.Muell. ex Reissek, Rhamnaceae | bassian dogwood
 114.  | Pomaderris paniculosa subsp. paralia | N.G.Walsh, Rhamnaceae | shining dogwood
-115.  | Pomaderris phylicifolia subsp. phylicifolia | Lodd. ex Link, Rhamnaceae | narrowleaf dogwood
+115.  | Pomaderris phylicifolia | Lodd. ex Link, Rhamnaceae | narrowleaf dogwood
 116.  | Ranunculus acaulis | Banks & Sol. ex DC., Ranunculaceae | dune buttercup
 117.  | Ranunculus collicola | Menadue, Ranunculaceae | lake augusta buttercup
 118.  | Ranunculus jugosus | Menadue, Ranunculaceae | twinned buttercup
@@ -224,8 +224,8 @@ Dicotyledonae
 131.  | Spyridium parvifolium var. parvifolium | (Hook.) F.Muell., Rhamnaceae | coast dustymiller
 132.  | Spyridium vexilliferum var. vexilliferum | (Hook.) Reissek, Rhamnaceae | helicopter bush
 134.  | Stellaria multiflora | Hook., Caryophyllaceae | rayless starwort
-135.  | Stylidium despectum | R.Br., Stylidiaceae | small triggerplant
-136.  | Stylidium inundatum | R.Br., Stylidiaceae | swamp triggerplant
+135.  | Stylidium beaugleholei | J.H.Willis, Stylidiaceae | blushing triggerplant
+136.  | Stylidium despectum | R.Br., Stylidiaceae | small triggerplant
 137.  | Stylidium perpusillum | Hook.f., Stylidiaceae | tiny triggerplant
 138.  | Taraxacum aristum | Hagl. & Markl., Asteraceae | mountain dandelion
 139.  | Tetratheca ciliata | Lindl., Tremandraceae | northern pinkbells
@@ -320,6 +320,7 @@ Monocotyledonae
 67.  | Poa mollis | Vickery, Poaceae | soft tussockgrass
 68.  | Poa poiformis var. ramifer | D.I.Morris, Poaceae | island purplegrass
 70.  | Prasophyllum tadgellianum | R.S.Rogers, Orchidaceae | tadgells leek-orchid
+70A.  | Pterostylis atriola | D.L.Jones, Orchidaceae | snug greenhood
 71.  | Pterostylis falcata | R.S.Rogers, Orchidaceae | sickle greenhood
 72.  | Pterostylis grandiflora | R.Br., Orchidaceae | superb greenhood
 73.  | Pterostylis sanguinea | D.L.Jones & M.A. Clem., Orchidaceae | banded greenhood
@@ -329,7 +330,6 @@ Monocotyledonae
 77.  | Ruppia tuberosa | J.S.Davis & Toml., Ruppiaceae | tuberous seatassel
 78.  | Schoenoplectus tabernaemontani | (C.C.Gmel.) Palla, Cyperaceae | river clubsedge
 79.  | Schoenus brevifolius | R.Br., Cyperaceae | zigzag bogsedge
-80.  | Sowerbaea juncea | Andrews, Liliaceae | purple rushlily
 81.  | Sporobolus virginicus | (L.) Kunth, Poaceae | salt couch
 81A.  | Stuckenia pectinata | (L.) Börner, Potamogetonaceae | fennel pondweed
 82.  | Thelymitra holmesii | Nicholls, Orchidaceae | bluestar sun-orchid

@@ -18,8 +18,8 @@ Birds
 1.  | Acanthiza pusilla archibaldi | Mathews | Brown Thornbill (King Island)
 2.  | Acanthornis magna greeniana | Schodde & Mason | Scrubtit (King Island)
 3.  | Accipiter novaehollandiae | Gmelin | Grey Goshawk
-4.  | Alcedo azurea diemenensis | (Gould) | Azure Kingfisher
 5.  | Aquila audax fleayi | Latham | Wedge-tailed Eagle
+5A.  | Ceyx azureus diemenensis | (Gould) | Tasmanian Azure Kingfisher
 6.  | Diomedea exulans | Linnaeus | Wandering Albatross
 7.  | Lathamus discolor | Shaw | Swift Parrot
 8.  | Neophema chrysogaster | Latham | Orange-bellied Parrot
@@ -54,7 +54,7 @@ Fish
 Invertebrates
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Order | Common name
-1.  | Antipodia chaostola | Meyrick, Lepidoptera | Chaostola Skipper
+1.  | Antipodia chaostola leucophaea | Couchman, Lepidoptera | Tasmanian Chaostola Skipper
 2.  | Beddomeia averni | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (West Gawler)
 3.  | Beddomeia camensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Cam River)
 4.  | Beddomeia capensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Table Cape)
@@ -70,11 +70,12 @@ Invertebrates
 14.  | Beddomeia waterhouseae | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Clayton’s Rivulet)
 15.  | Castiarina insculpta | (Carter), Coleoptera | Miena Jewel Beetle
 16.  | Chrysolarentia decisaria | Walker, Lepidoptera | Tunbridge Looper Moth
-17.  | Diporochaeta pedderensis | Jamieson, Annelida | Lake Pedder Earthworm
+17.  | Discocharopa vigens | Legrand, Eupulmonata | Ammonite Snail
 18.  | Engaeus granulatus | Horwitz, Decapoda | Central North Burrowing Crayfish
 19.  | Engaeus spinicaudatus | Horwitz, Decapoda | Scottsdale Burrowing Crayfish
 20.  | Haloniscus searlei | Chilton, Isopoda | Salt Lake Slater
 21.  | Hoplogonus bornemisszai | Bartoluzzi, Coleoptera | Bornemissza's Stag Beetle
+21A.  | Hypolimnus pedderensis | (Jamieson), Haplotaxida | Lake Pedder Earthworm
 22.  | Lissotes latidens | Westwood, Coleoptera | Broad-toothed Stag Beetle
 23.  | Marginaster littoralis | Dartnell, Asterinidae | Seastar
 24.  | Micropathus kiernani | Richards, Orthoptera | Cave Cricket
@@ -196,7 +197,6 @@ Monocotyledonae
 41.  | Prasophyllum stellatum | D.L.Jones, Orchidaceae | ben lomond leek-orchid
 42.  | Prasophyllum taphanyx | D.L.Jones, Orchidaceae | graveside leek-orchid
 43.  | Prasophyllum tunbridgense | D.L.Jones, Orchidaceae | tunbridge leek-orchid
-44.  | Pterostylis atriola | D.L.Jones, Orchidaceae | snug greenhood
 45.  | Pterostylis commutata | D.L.Jones, Orchidaceae | midlands greenhood
 46.  | Pterostylis cucullata subsp. cucullata | R.Br., Orchidaceae | leafy greenhood
 47.  | Pterostylis rubenachii | D.L.Jones, Orchidaceae | arthur river greenhood
@@ -211,6 +211,7 @@ Monocotyledonae
 55.  | Thelymitra malvina | M.A.Clem, D.L.Jones & Molloy, Orchidaceae | mauvetuft sun-orchid
 56.  | Thynninorchis nothofagicola | (D.L.Jones) D.L.Jones & M.A. Clem., Orchidaceae | myrtle elbow-orchid
 56A.  | Triglochin mucronatum | R.Br., Juncaginaceae | prickly arrowgrass
+56B.  | Wurmbea latifolia | T.D.Macfarl., Liliaceae | broadleaf early nancy
 Pteridophyta
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
@@ -261,7 +262,6 @@ Dicotyledonae
 3.  | Chenopodium erosum | R.Br., Chenopodiaceae | papery goosefoot
 4.  | Coopernookia barbata | (R.Br.) Carolin, Goodeniaceae | purple native-primrose
 5.  | Hibbertia obtusifolia | DC., Dilleniaceae | grey guineaflower
-6.  | Hibbertia rufa | N.A.Wakef., Dilleniaceae | brown guineaflower
 7.  | Levenhookia dubia | Sond., Stylidiaceae | hairy stylewort
 9.  | Myriophyllum glomeratum | Schindl., Haloragaceae | clustered watermilfoil
 10.  | Ozothamnus selaginoides | Sond.& F.Muell., Asteraceae | table mountain everlastingbush
@@ -277,7 +277,6 @@ Monocotyledonae
 3.  | Deyeuxia lawrencei | Vickery, Poaceae | lawrences bentgrass
 4.  | Lepilaena australis | J.Drumm. ex Harv., Zannichelliaceae | southern watermat
 5.  | Thynninorchis huntiana | (F.Muell.) D.L.Jones & M.A.Clem., Orchidaceae | elbow-orchid
-6.  | Wurmbea latifolia | T.D.Macfarl., Liliaceae | broadleaf early nancy
 Pteridophyta
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name

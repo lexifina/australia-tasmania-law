@@ -53,7 +53,6 @@ Invertebrates
 6.  | Beddomeia wiseae | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Blizzards Creek)
 7.  | Catadromus lacordairei | Boisduval, Coleoptera | Catadromus Carabid Beetle
 8.  | Dasybela achroa | Lower, Lepidoptera | Saltmarsh Looper Moth
-9.  | "Discocharopa" vigens | Legrand, Mesogastropoda | Land Snail
 10.  | Engaeus martigener | Horwitz, Decapoda | Furneaux Burrowing Crayfish
 11.  | Engaeus orramakunna | Horwitz, Decapoda | Mt. Arthur Burrowing Crayfish
 12.  | Engaeus yabbimunna | Horwitz, Decapoda | Burrowing Crayfish (Burnie)
@@ -126,6 +125,7 @@ Monocotyledonae
 2A.  | Nematoceras dienemum | (D.L.Jones) D.L.Jones, M.A.Clem. & Molloy, Orchidaceae | windswept helmet-orchid
 3.  | Pterostylis pratensis | D.L.Jones, Orchidaceae | liawenee greenhood
 4.  | Pterostylis ziegeleri | D.L.Jones, Orchidaceae | grassland greenhood
+4A.  | Sowerbaea juncea | Andrews, Liliaceae | purple rushlily
 5.  | Tricoryne elatior | R.Br., Liliaceae | yellow rushlily
 6.  | Xanthorrhoea arenaria | D.J.Bedford, Xanthorrhoeaceae | sand grasstree
 7.  | Xanthorrhoea bracteata | R.Br., Xanthorrhoeaceae | shiny grasstree
