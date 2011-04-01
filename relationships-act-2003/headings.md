@@ -10,4 +10,5 @@ Part 5, Division 2 Adjustment of interest in property
 Part 5, Division 3 Maintenance
 Part 5, Division 4 General
 Part 6 Agreements
+Part 6A Recognition of Relationships Under Corresponding Laws
 Part 7 Miscellaneous
