@@ -80,11 +80,11 @@ Part 25, Division 1 Summary proceedings by mortgagee for delivery of possession
 Part 25, Division 2 Administration of estates and execution of trusts
 Part 25, Division 3 Sale of land by order of Court
 Part 25, Division 4 Conveyancing counsel
-Part 26 Prerogative writs
-Part 26, Division 1 Certiorari, mandamus and prohibition
-Part 26, Division 2 Certiorari
-Part 26, Division 3 Mandamus
-Part 26, Division 4 Procedendo and quo warranto
+Part 26 Relief similar to certiorari, mandamus and prohibition and writs of habeas corpus
+Part 26, Division 1 Relief similar to certiorari, mandamus and prohibition
+Part 26, Division 2 Relief similar to certiorari
+Part 26, Division 3 Relief similar to mandamus
+Part 26, Division 4 Relief similar to procedendo and quo warranto
 Part 26, Division 5 Habeas corpus
 Part 27 Appeals
 Part 27, Division 1 Appeals from judge to Full Court
