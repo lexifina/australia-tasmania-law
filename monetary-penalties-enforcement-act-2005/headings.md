@@ -5,9 +5,9 @@ Part 3, Division 1 Infringement notices generally
 Part 3, Division 2 Withdrawal of infringement notice
 Part 3, Division 3 Variation of payment conditions
 Part 3, Division 4 Hearing of offence by court
-Part 4 Notification to Director of issue of fine
+Part 4 Notification to Director of issue of fine, payment of fine and related matters
 Part 5 Enforcement orders
-Part 5, Division 1 Issue of enforcement order
+Part 5, Division 1 Issue and service of enforcement order
 Part 5, Division 2 Enforcement orders
 Part 5, Division 3 Suspension of certain enforcement orders
 Part 6 Administrative enforcement
