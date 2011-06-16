@@ -3,9 +3,12 @@ Section 15
 Enactment | Description of offence
 Classification (Publications, Films and Computer Games) Enforcement Act 1995 |
 Section 73 | Procuring, or inviting or attempting to procure, child to be involved in making child exploitation material
-Crimes Act 1914 of the Commonwealth |
-Section 50BA | Sexual intercourse with a child under 16 years of age
-Section 50BB | Inducing child under 16 years of age to engage in sexual intercourse
+Criminal Code Act 1995 of the Commonwealth |
+Section 272.8 | Sexual intercourse with a child outside Australia
+Section 272.10 | Aggravated offence – child with mental impairment or under care, supervision or authority of defendant
+Section 272.11 | Persistent sexual abuse of child outside Australia
+Section 272.18 | Benefiting from offence against this Division
+Section 272.19 | Encouraging offence against this Division
 Criminal Code |
 Section 125C(2) | Procuring unlawful sexual intercourse with young person
 Section 125D(1) | Communicating with intent to procure a person under the age of 17 years to engage in an unlawful sexual act
