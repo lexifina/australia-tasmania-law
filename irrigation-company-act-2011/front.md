@@ -1,0 +1,3 @@
+Irrigation Company Act 2011
+An Act to provide for the control, objects and operation of Tasmanian Irrigation Pty Ltd, to provide or allow for the transfer to that company of the assets and liabilities of the Rivers and Water Supply Commission and Tasmanian Irrigation Schemes Pty Ltd and of certain assets and liabilities of the Crown and councils, to provide for the deregistration of Tasmanian Irrigation Schemes Pty Ltd, to repeal the Rivers and Water Supply Commission Act 1999 and to provide for related matters
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
