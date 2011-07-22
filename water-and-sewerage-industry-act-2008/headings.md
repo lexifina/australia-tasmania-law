@@ -27,6 +27,6 @@ Part 4, Division 6 Performance monitoring, reporting and audits
 Part 4, Division 7 Complaints and disputes
 Part 5 Administrative Review of Regulator's Decisions
 Part 6 Transition to New Regulatory Arrangements
-Part 7 Miscellaneous
-Part 7, Division 1 Authorised officers
-Part 7, Division 2 General
+Part 7 Authorised Officers
+Part 8 Enforcement
+Part 9 Miscellaneous
