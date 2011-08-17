@@ -11,4 +11,5 @@ Part 7, Division 1 Appointment, promotion, transfer and termination
 Part 7, Division 2 Secondment and redeployment
 Part 7, Division 3 Inability to perform duties
 Part 7, Division 4 Review of actions
+Part 7A Managing for Performance
 Part 8 Miscellaneous
