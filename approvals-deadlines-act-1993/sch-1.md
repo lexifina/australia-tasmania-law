@@ -41,8 +41,6 @@ Commercial diving licence | 60 days from the day on which an application under r
 Purse seine fishing licence | 60 days from the day on which an application under regulation 17CC of the Sea Fisheries Regulations 1962 is received by the Director of Sea Fisheries.
 Processing premises licence | 60 days from the day on which an application under regulation 17CI of the Sea Fisheries Regulations 1962 is received by the Director of Sea Fisheries.
 Scallop spat collection licence | 60 days from the day on which an application under regulation 30A of the Sea Fisheries Regulations 1962 is received by the Director of Sea Fisheries.
-Hospitals Act 1918 |
-Approval of alteration or addition to private medical establishments | 60 days from the day on which plans, specifications and descriptions under section 65 (1) of the Hospitals Act 1918 are received by the responsible Minister.
 Local Government Act 1962 |
 Approval of a septic tank installation | 60 days from the day on which plans and specifications under section 558(2) of the Local Government Act 1962 are received by the responsible Minister.
 Consent of a municipal corporation to an offensive trade | 60 days from the day on which plans and specifications under section 612(2)(b) of the Local Government Act 1962 are received by the municipal corporation.
