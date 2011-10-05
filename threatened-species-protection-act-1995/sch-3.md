@@ -28,8 +28,8 @@ Birds
 11.  | Pardalotus quadragintus | Gould | Forty-spotted Pardalote
 12.  | Procellaria cinerea | Gmelin | Grey Petrel
 13.  | Pterodroma mollis | Gould | Soft-plumaged Petrel
-14.  | Sterna albifrons sinensis | Gmelin | Little Tern
 15.  | Sterna vittata bethunei | Buller | Antarctic Tern
+15A.  | Sternula albifrons sinensis | Gmelin | Little Tern
 16.  | Thalassarche chrysostoma | Forster | Grey-headed Albatross
 17.  | Thalassarche melanophrys | Temminck | Black-browed Albatross
 18.  | Tyto novaehollandiae castanops | (Gould) | Masked Owl
@@ -50,7 +50,7 @@ Fish
 3.  | Galaxias johnstoni | Scott | Clarence Galaxias
 4.  | Galaxias pedderensis | Frankenberg | Pedder Galaxias
 5.  | Paragalaxias mesotes | McDowall and Fulton | Arthurs Paragalaxias
-6.  | Raja sp. L | (Last & Stevens, 1994) | Port Davey Skate
+6.  | Zearaja maugeana | Last & Gledhill | Port Davey Skate
 Invertebrates
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Order | Common name
@@ -75,7 +75,6 @@ Invertebrates
 19.  | Engaeus spinicaudatus | Horwitz, Decapoda | Scottsdale Burrowing Crayfish
 20.  | Haloniscus searlei | Chilton, Isopoda | Salt Lake Slater
 21.  | Hoplogonus bornemisszai | Bartoluzzi, Coleoptera | Bornemissza's Stag Beetle
-21A.  | Hypolimnus pedderensis | (Jamieson), Haplotaxida | Lake Pedder Earthworm
 22.  | Lissotes latidens | Westwood, Coleoptera | Broad-toothed Stag Beetle
 23.  | Marginaster littoralis | Dartnell, Asterinidae | Seastar
 24.  | Micropathus kiernani | Richards, Orthoptera | Cave Cricket
@@ -120,7 +119,7 @@ Dicotyledonae
 25.  | Hardenbergia violacea | (Schneev.) Stearn, Fabaceae | purple coralpea
 26.  | Hibbertia basaltica | A.M.Buchanan & Schah., Dilleniaceae | basalt guineaflower
 27.  | Hyalosperma demissum | (A.Gray) Paul G. Wilson, Asteraceae | moss sunray
-28.  | Isoetopsis graminifolia | Turcz., Asteraceae | grass cushion
+28.  | Hydrocotyle laxiflora | DC., Apiaceae | stinking pennywort
 29.  | Lepidium hyssopifolium | Desv., Brassicaceae | soft peppercress
 30.  | Leptorhynchos elongatus | DC., Asteraceae | lanky buttons
 31.  | Leucochrysum albicans subsp. albicans var. tricolor | (DC.) Paul G.Wilson, Asteraceae | grassland paperdaisy
@@ -138,6 +137,7 @@ Dicotyledonae
 41.  | Rhytidosporum inconspicuum | L.W.Cayzer, Crisp & I.Telford, Pittosporaceae | alpine appleberry
 42.  | Sagina diemensis | L.G.Adams, Caryophyllaceae | tasmanian pearlwort
 43.  | Scaevola aemula | R.Br., Goodeniaceae | fairy fanflower
+43A.  | Senecio psilocarpus | Belcher & Albr., Asteraceae | swamp fireweed
 44.  | Solanum opacum | A.Braun & Bouché, Solanaceae | greenberry nightshade
 45.  | Spyridium eriocephalum var. eriocephalum | Fenzl, Rhamnaceae | heath dustymiller
 46.  | Stackhousia subterranea | W.R.Barker, Stackhousiaceae | grassland candles
@@ -179,7 +179,6 @@ Monocotyledonae
 27.  | Diuris palustris | Lindl., Orchidaceae | swamp doubletail
 27A.  | Nematoceras sulcatum | (Hook.f.) D.L.Jones & M.A.Clem., Orchidaceae | grooved helmet-orchid
 27B.  | Poa cookii | (Hook.f.) Hook.f., Poaceae | cooks tussockgrass
-28.  | Prasophyllum aff. montanum | (Cameron QVM), Orchidaceae | mountain leek-orchid
 29.  | Prasophyllum amoenum | D.L.Jones, Orchidaceae | dainty leek-orchid
 30.  | Prasophyllum apoxychilum | D.L.Jones, Orchidaceae | tapered leek-orchid
 30A.  | Prasophyllum atratum | D.L.Jones, Orchidaceae | three hummock leek-orchid
@@ -194,6 +193,7 @@ Monocotyledonae
 37.  | Prasophyllum pulchellum | D.L.Jones, Orchidaceae | pretty leek-orchid
 39.  | Prasophyllum robustum | (Nicholls) M.A. Clem. & D.L.Jones, Orchidaceae | robust leek-orchid
 40.  | Prasophyllum secutum | D.L.Jones, Orchidaceae | northern leek-orchid
+40A.  | Prasophyllum sp. Arthurs Lake | (R.Smith DLJ11363) Tas Herbarium, Orchidaceae | mountain leek-orchid
 41.  | Prasophyllum stellatum | D.L.Jones, Orchidaceae | ben lomond leek-orchid
 42.  | Prasophyllum taphanyx | D.L.Jones, Orchidaceae | graveside leek-orchid
 43.  | Prasophyllum tunbridgense | D.L.Jones, Orchidaceae | tunbridge leek-orchid
@@ -211,7 +211,7 @@ Monocotyledonae
 55.  | Thelymitra malvina | M.A.Clem, D.L.Jones & Molloy, Orchidaceae | mauvetuft sun-orchid
 56.  | Thynninorchis nothofagicola | (D.L.Jones) D.L.Jones & M.A. Clem., Orchidaceae | myrtle elbow-orchid
 56A.  | Triglochin mucronatum | R.Br., Juncaginaceae | prickly arrowgrass
-56B.  | Wurmbea latifolia | T.D.Macfarl., Liliaceae | broadleaf early nancy
+56B.  | Wurmbea latifolia subsp. vanessae | R.J.Bates, Liliaceae | broadleaf early nancy
 Pteridophyta
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
@@ -253,6 +253,7 @@ Invertebrates
 | Species | Authority, Order | Common name
 1.  | Costora iena | Mosely, Trichoptera | Caddis Fly (Great Lakes)
 2.  | Hadronyche pulvinator | Hickman, Araneae | Cascade Funnel-web Spider
+3.  | Hypolimnus pedderensis | (Jamieson), Haplotaxida | Lake Pedder Earthworm
 Flora
 Dicotyledonae
 | Column 1 | Column 2 | Column 3
@@ -267,6 +268,7 @@ Dicotyledonae
 10.  | Ozothamnus selaginoides | Sond.& F.Muell., Asteraceae | table mountain everlastingbush
 11.  | Podotheca angustifolia | (Labill.) Less., Asteraceae | sticky longheads
 12.  | Prostanthera cuneata | Benth., Lamiaceae | alpine mintbush
+12A.  | Senecio georgianus | DC., Asteraceae | grey groundsel
 13.  | Senecio macrocarpus | Belcher, Asteraceae | largefruit fireweed
 14.  | Thesium australe | R.Br., Santalaceae | southern toadflax
 15.  | Veronica notabilis | F.Muell. ex Benth., Scrophulariaceae | forest speedwell

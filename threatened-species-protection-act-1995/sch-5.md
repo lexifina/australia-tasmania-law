@@ -106,10 +106,8 @@ Dicotyledonae
 15.  | Bossiaea obcordata | (Vent.) Druce, Fabaceae | spiny bossia
 16.  | Brachyglottis brunonis | (Hook.f.) B.Nord., Asteraceae | tasmanian daisytree
 17.  | Brachyloma depressum | (F.Muell.) Benth., Epacridaceae | spreading heath
-18.  | Brachyscome aff. radicans | (A.Moscal HO121890), Asteraceae | snow daisy
 19.  | Brachyscome perpusilla | (Steetz) J.M.Black, Asteraceae | tiny daisy
 20.  | Brachyscome radicata | Hook.f., Asteraceae | spreading daisy
-21.  | Brachyscome sieberi var. gunnii | DC., Asteraceae | forest daisy
 22.  | Brunonia australis | Sm. ex R.Br., Brunoniaceae | blue pincushion
 23.  | Calandrinia granulifera | Benth., Portulacaceae | pigmy purslane
 24.  | Callitriche sonderi | Hegelm., Callitrichaceae | matted waterstarwort
@@ -174,6 +172,7 @@ Dicotyledonae
 82.  | Leucopogon lanceolatus var. lanceolatus | (Sm.) R.Br., Epacridaceae | lance beardheath
 83.  | Leucopogon virgatus var. brevifolius | Benth., Epacridaceae | shortleaf beardheath
 84.  | Limonium australe | (R.Br.) Kuntze, Plumbaginaceae | yellow sea-lavender
+84A.  | Liparophyllum exaltatum | (Sol. ex Sims) Tippery & Les, Menyanthaceae | erect marshflower
 85.  | Lobelia rhombifolia | de Vriese, Campanulaceae | tufted lobelia
 86.  | Lotus australis | Andrews, Fabaceae | australian trefoil
 87.  | Melaleuca pustulata | Hook.f., Myrtaceae | warty paperbark
@@ -212,7 +211,6 @@ Dicotyledonae
 120.  | Ranunculus sessiliflorus var. sessiliflorus | R.Br. ex DC., Ranunculaceae | rockplate buttercup
 121.  | Rhodanthe anthemoides | (Spreng.) Paul G.Wilson, Asteraceae | chamomile sunray
 122.  | Rumex bidens | R.Br., Polygonaceae | mud dock
-123.  | Scaevola albida | (Sm.) Druce, Goodeniaceae | pale fanflower
 123A.  | Schenkia australis | (R.Br.) G.Mans., Gentianaceae | spike centaury
 124.  | Scleranthus brockiei | P.A.Will., Caryophyllaceae | mountain knawel
 125.  | Scutellaria humilis | R.Br., Lamiaceae | dwarf scullcap
@@ -234,7 +232,6 @@ Dicotyledonae
 142.  | Utricularia tenella | R.Br., Lentibulariaceae | pink bladderwort
 143.  | Utricularia violacea | R.Br., Lentibulariaceae | violet bladderwort
 144.  | Veronica plebeia | R.Br., Scrophulariaceae | trailing speedwell
-145.  | Villarsia exaltata | (Sol. ex Sims) G.Don, Menyanthaceae | erect marshflower
 146.  | Viola caleyana | G.Don, Violaceae | swamp violet
 147.  | Viola cunninghamii | Hook.f., Violaceae | alpine violet
 148.  | Viola hederacea subsp. curtisiae | L.G.Adams, Violaceae | montane ivyleaf
@@ -284,7 +281,6 @@ Monocotyledonae
 31.  | Damasonium minus | (R.Br.) Buchenau, Alismataceae | starfruit
 32.  | Deschampsia gracillima | Kirk, Poaceae | slender hairgrass
 33.  | Deyeuxia apsleyensis | D.I.Morris, Poaceae | apsley bentgrass
-34.  | Deyeuxia benthamiana | Vickery, Poaceae | benthams bentgrass
 35.  | Deyeuxia brachyathera | (Stapf) Vickery, Poaceae | short bentgrass
 36.  | Deyeuxia decipiens | (R.Br.) Vickery, Poaceae | trickery bentgrass
 37.  | Deyeuxia densa | Benth., Poaceae | heath bentgrass

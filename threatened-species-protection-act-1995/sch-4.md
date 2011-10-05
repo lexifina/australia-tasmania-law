@@ -16,8 +16,8 @@ Birds
 6.  | Platycercus caledonicus brownii | (Kuhl) | King Island Green Rosella
 7.  | Podiceps cristatus | Linne | Great Crested Grebe
 8.  | Pterodroma lessonii | Garnot | White-headed Petrel
-9.  | Sterna nereis nereis | Gould | Fairy Tern
 10.  | Sterna striata | Gmelin | White-fronted Tern
+10A.  | Sternula nereis nereis | Gould | Fairy Tern
 11.  | Thalassarche cauta | Gould | Shy Albatross
 Reptiles
 | Column 1 | Column 2 | Column 3
@@ -75,7 +75,6 @@ Dicotyledonae
 5.  | Boronia gunnii | Hook.f., Rutaceae | river boronia
 6.  | Boronia hippopala | Duretto, Rutaceae | velvet boronia
 7.  | Brachyscome rigidula | (DC.) G.L.Davis, Asteraceae | cutleaf daisy
-8.  | Chionohebe ciliolata | (Hook.f) B.G.Briggs & Ehrend., Scrophulariaceae | ben lomond cushionplant
 9.  | Conospermum hookeri | (Meisn.) E.M.Benn., Proteaceae | tasmanian smokebush
 10.  | Desmodium gunnii | Benth. ex Hook.f., Fabaceae | slender ticktrefoil
 12.  | Epacris graniticola | Crowden, Epacridaceae | granite heath
@@ -88,7 +87,7 @@ Dicotyledonae
 19.  | Hakea ulicina | R.Br., Proteaceae | furze needlebush
 20.  | Haloragis aspera | Lindl., Haloragaceae | rough raspwort
 21.  | Hibbertia calycina | (DC.) N.A.Wakef., Dilleniaceae | lesser guineaflower
-22.  | Hydrocotyle laxiflora | DC., Apiaceae | stinking pennywort
+22.  | Isoetopsis graminifolia | Turcz., Asteraceae | grass cushion
 23.  | Isopogon ceratophyllus | R.Br., Proteaceae | horny conebush
 24.  | Limonium baudinii | Lincz., Plumbaginaceae | tasmanian sea-lavender
 25.  | Lobelia pratioides | Benth., Campanulaceae | poison lobelia
@@ -96,17 +95,18 @@ Dicotyledonae
 27.  | Mirbelia oxylobioides | F.Muell., Fabaceae | sandstone bushpea
 28.  | Myoporum parvifolium | R.Br., Myoporaceae | creeping boobialla
 29.  | Myriophyllum integrifolium | (Hook.f.) Hook.f., Haloragaceae | tiny watermilfoil
-30.  | Oreoporanthera petalifera | Orchard & J.B.Davies, Euphorbiaceae | mountain poranthera
 31.  | Ozothamnus reflexifolius | K.Leeson & Rozefelds, Asteraceae | reflexed everlastingbush
 32.  | Persicaria decipiens | (R.Br.) K.L.Wilson, Polygonaceae | slender waterpepper
 33.  | Phyllangium divergens | (Hook.f.) Dunlop, Loganiaceae | wiry mitrewort
 34.  | Plantago gaudichaudii | Barneoud, Plantaginaceae | narrow plantain
 35.  | Pomaderris elachophylla | F.Muell., Rhamnaceae | small-leaf dogwood
+35A.  | Poranthera petalifera | (Orchard & J.B.Davies) Halford & R.J.F.Hend., Euphorbiaceae | mountain poranthera
 36.  | Prostanthera rotundifolia | R.Br., Lamiaceae | roundleaf mintbush
 37.  | Pultenaea humilis | Benth. ex Hook.f., Fabaceae | dwarf bushpea
 38.  | Pultenaea mollis | Lindl., Fabaceae | soft bushpea
 39.  | Pultenaea prostrata | Benth. ex Hook.f., Fabaceae | silky bushpea
 40.  | Pultenaea sericea | (Benth.) Corrick, Fabaceae | chaffy bushpea
+40A.  | Scaevola albida | (Sm.) Druce, Goodeniaceae | pale fanflower
 41.  | Scleranthus diander | R.Br., Caryophyllaceae | tufted knawel
 42.  | Scleranthus fasciculatus | (R.Br.) Hook.f., Caryophyllaceae | spreading knawel
 43.  | Spyridium lawrencei | (Hook.f.) Benth., Rhamnaceae | small-leaf dustymiller
@@ -116,6 +116,7 @@ Dicotyledonae
 46.  | Thryptomene micrantha | Hook.f., Myrtaceae | ribbed heathmyrtle
 47.  | Triptilodiscus pygmaeus | Turcz., Asteraceae | dwarf sunray
 48.  | Velleia paradoxa | R.Br., Goodeniaceae | spur velleia
+48A.  | Veronica ciliolata subsp. fiordensis | (Ashwin) Meudt, Scrophulariaceae | ben lomond cushionplant
 49.  | Veronica novae-hollandiae | Poir., Scrophulariaceae | coast speedwell
 Monocotyledonae
 | Column 1 | Column 2 | Column 3
