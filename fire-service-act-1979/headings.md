@@ -7,6 +7,7 @@ Part III Brigades
 Part III, Division 1 Establishment and composition of brigades, &c.
 Part III, Division 2 Miscellaneous provisions
 Part IV Preventing, controlling, and extinguishing fires
+Part IVA Accreditation
 Part V Emergency Provisions
 Part VA Charters and plans
 Part VA, Division 1 Ministerial charter
