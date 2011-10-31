@@ -19,8 +19,6 @@ Poisoning by——Beryllium or its toxic compounds. | Any work involving exposur
 —Asphyxiants—carbon monoxide, carbon dioxide, hydrogen cyanide, hydrogen sulphide, nitrogen. | Any work involving exposure to the risk concerned.
 —Nitrus fumes. | Any work involving exposure to the risk concerned.
 Pneumoconioses caused by silica dust (silicosis, anthracosilicosis) and silico-tuberculosis, provided that silicosis is an essential factor in causing the resultant incapacity or death from silico-tuberculosis. | Any work involving exposure to inhalation of silica dust.
-Asbestosis. | Any work involving exposure to inhalation of asbestos fibres.
-Primary malignant neoplasm of the mesothelium (diffuse mesothelioma) of the pleura or of the peritoneum. | Any work involving exposure to inhalation of asbestos fibres.
 Nystagmus. | Any work in or about a mine.
 Compressed air illness including avascular necrosis. | Any work involving exposure to increased or reduced atmospheric pressure from working underground or underwater or from working at high altitude.
 Disease caused by ionising radiations. | Any work involving exposure to ionisingradiation.
