@@ -28,6 +28,8 @@ Part 9, Division 3 Service rates and service charges
 Part 9, Division 4 Construction rates and charges
 Part 9, Division 5 Separate rates and charges
 Part 9, Division 6 Variation in rates
+Part 9, Division 6A Averaged area rates
+Part 9, Division 6B Re-making of rates
 Part 9, Division 7 Record of rates
 Part 9, Division 8 Farm rating relief
 Part 9, Division 9 Liability and payment of rates
