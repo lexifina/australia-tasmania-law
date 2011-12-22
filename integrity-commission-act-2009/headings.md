@@ -15,7 +15,7 @@ Part 5, Division 1 Receipt of complaints
 Part 5, Division 2 Actions on receipt of complaint
 Part 6 Investigations
 Part 6, Division 1 Conduct of investigations
-Part 6, Division 2 Procedure after investigation
+Part 6, Division 2 Reports and subsequent action
 Part 7 Inquiry by Integrity Tribunal
 Part 7, Division 1 Integrity Tribunal
 Part 7, Division 2 Conduct of inquiry
