@@ -1,0 +1,2 @@
+Education and Care Services National Law (Tasmania)
+The Education and Care Services National Law, as in force from time to time, set out in the Schedule to the Education and Care Services National Law Act 2010 of Victoria is applied (with modifications) as a law of Tasmania by the Education and Care Services National Law (Application) Act 2011 and, as so applying, may be referred to as the Education and Care Services National Law (Tasmania)
