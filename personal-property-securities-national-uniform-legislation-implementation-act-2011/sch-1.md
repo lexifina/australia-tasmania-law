@@ -1,5 +1,4 @@
 # Schedule 1 Consequential Amendments
-[Not yet in force. Commences: 30 January 2012]
 Section 20
 Building Act 2000
 1 Section 194(4) is amended by omitting bill of sale registrable under the Bills of Sale Act 1900 and substituting security interest registrable under the Personal Property Securities Act 2009 of the Commonwealth.
@@ -34,4 +33,3 @@ Tasmanian Development Act 1983
 1 Section 48(5)(c) is amended by omitting Bills of Sale Act 1900, the Stock, Wool, and Crop Mortgages Act 1930 and substituting Personal Property Securities Act 2009 of the Commonwealth.
 Vehicle and Traffic (Driver Licensing and Vehicle Registration) Regulations 2010
 1 Regulation 69(13) is amended by omitting Motor Vehicles Securities Act 1984 from the definition of security interest and substituting Personal Property Securities Act 2009 of the Commonwealth.
-[End of text not yet in force]
