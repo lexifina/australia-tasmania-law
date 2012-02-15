@@ -1,0 +1,3 @@
+Vocational Education and Training (Commonwealth Powers) Act 2011
+An Act to adopt the National Vocational Education and Training Regulator Act 2011 of the Commonwealth and the National Vocational Education and Training Regulator (Transitional Provisions) Act 2011 of the Commonwealth and to refer certain matters relating to the regulation of vocational education and training to the Parliament of the Commonwealth for the purposes of section 51(xxxvii) of the Constitution of the Commonwealth and to provide for related matters
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
