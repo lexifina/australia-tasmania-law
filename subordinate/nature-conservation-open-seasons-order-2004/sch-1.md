@@ -20,7 +20,7 @@ Clause 5(2)
 15.  | Bird Island Game Reserve
 16.  | Harbour Islets
 17.  | Petrels Game Reserve
-18.  | Ranger Rookery on Three Hummock Island State Reserve
+18.  | Ranger Point Rookery on Three Hummock Island State Reserve
 19.  | Robbins Island
 20.  | Stack Island Game Reserve
 21.  | Walkers Island
