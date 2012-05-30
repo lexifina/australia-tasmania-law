@@ -19,4 +19,5 @@ Part 9 Liability of Public and Other Authorities
 Part 9A Proportionate Liability
 Part 10 Volunteers
 Part 10A Accommodation provider
+Part 10B Rights between employer and employee
 Part 11 Miscellaneous
