@@ -14,14 +14,11 @@ Part 3, Division 1, Subdivision 2 Terms and conditions of licence
 Part 3, Division 1, Subdivision 3 Special licence obligations
 Part 3, Division 1, Subdivision 4 Miscellaneous
 Part 3, Division 3 Special provisions relating to Hydro-Electric Corporation
-Part 3, Division 4 Retailing of electricity
-Part 3, Division 4, Subdivision 1 Electricity pricing
-Part 3, Division 4, Subdivision 2 Disconnection for non-payment
+Part 3, Division 4 Retailing of electricity to certain customers
 Part 3, Division 5 Restrictions on re-supply
 Part 3, Division 6 Disputes
 Part 3, Division 7 Effect of non-compliance with Act
 Part 3, Division 8 Regulator's powers to take control of operations
-Part 3, Division 8A Retailer of last resort
 Part 3, Division 9 Tasmanian Electricity Code
 Part 3, Division 10 Miscellaneous
 Part 4 Land Acquisition and use for Electricity Infrastructure
