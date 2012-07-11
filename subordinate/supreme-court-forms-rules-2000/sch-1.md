@@ -245,8 +245,7 @@ Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 57BF Rule 783AH
 [Picture in the source, not reproduced]
-57BG Rule 783AJ
-[Picture in the source, not reproduced]
+57BG [Picture in the source, not reproduced]
 57C [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 57D [Picture in the source, not reproduced]
