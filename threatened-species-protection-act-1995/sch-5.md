@@ -25,26 +25,26 @@ Invertebrates
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Order | Common name
 1.  | Allanaspides hickmani | Swain, Wilson & Ong, Syncarida | Hickman's Pigmy Mountain Shrimp
-2.  | Beddomeia angulata | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Rabid River)
-3.  | Beddomeia bellii | Petterd, Mesogastropoda | Hydrobiid Snail (Heazlewood River)
+2.  | Beddomeia angulata | Ponder & Clark, Mesogastropoda | Rapid River Freshwater Snail
+3.  | Beddomeia bellii | Petterd, Mesogastropoda | Bells Freshwater Snail
 4.  | Beddomeia bowryensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Bowry Creek)
 6.  | Beddomeia fallax | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Heathcote Creek)
-7.  | Beddomeia forthensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Wilmot River)
+7.  | Beddomeia forthensis | Ponder & Clark, Mesogastropoda | Forth River Freshwater Snail
 8.  | Beddomeia franklandensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Frankland River)
 9.  | Beddomeia gibba | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Salmon River Road)
-10.  | Beddomeia hullii | Petterd, Mesogastropoda | Hydrobiid Snail (Heazlewood River)
-11.  | Beddomeia inflata | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Heathcote Creek)
+10.  | Beddomeia hullii | Petterd, Mesogastropoda | Hulls Freshwater Snail
+11.  | Beddomeia inflata | Ponder & Clark, Mesogastropoda | Upper Castra Freshwater Snail
 12.  | Beddomeia mesibovi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Arthur River)
 13.  | Beddomeia minima | Petterd, Mesogastropoda | Hydrobiid Snail (Scottsdale)
 15.  | Beddomeia protuberata | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Emu River)
 16.  | Beddomeia salmonis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Salmon River)
 17.  | Beddomeia tasmanica | Tenison-Woods, Mesogastropoda | Hydrobiid Snail (Terrys Creek)
 18.  | Beddomeia topsiae | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Williamson Creek)
-19.  | Beddomeia trochiformis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Bowry Creek)
+19.  | Beddomeia trochiformis | Ponder & Clark, Mesogastropoda | Savage River Mine Freshwater Snail
 20.  | Beddomeia turnerae | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Minnow River)
-21.  | Beddomeia wilmotensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Wilmot River)
-22.  | Beddomeia zeehanensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Little Henty River)
-23.  | Benthodorbis pawpela | Winston Ponder, Mesogastropoda | Hydrobiid Snail (Great Lake)
+21.  | Beddomeia wilmotensis | Ponder & Clark, Mesogastropoda | Wilmot River Freshwater Snail
+22.  | Beddomeia zeehanensis | Ponder & Clark, Mesogastropoda | Zeehan Freshwater Snail
+23.  | Benthodorbis pawpela | Winston Ponder, Mesogastropoda | Great Lake Glacidorbid Snail
 24.  | Cavernotettix craggiensis | Richards, Orthoptera | Craggy Island Cave Cricket
 25.  | Charopidae "Skemps" | Sigmurethra | Skemps Snail
 26.  | Dasyurotaenia robusta | Beddard, Cyclophyllideae | Tapeworm (Tasmanian Devil)
@@ -52,12 +52,13 @@ Invertebrates
 28.  | Ecnomina vega | Neboiss, Trichoptera | Caddis Fly (Macquarie River)
 29.  | Enchymus sp.nov. | Zimmerman, Coleoptera | Weldborough Forest Weevel
 30.  | Helicarion rubicundus | Dartnall and Kershaw, Sigmurethra | Burgundy Snail
-31.  | Hickmanoxyomma cavaticum | Hickman, Opilionida | Cave Harvestman
+31.  | Hickmanoxyomma cavaticum | Hickman, Opilionida | Ida Bay Cave Harvestman
 32.  | Hickmanoxyomma gibbergunyar | Hunt, Opilionida | Cave Harvestman
 33.  | Hydrobiosella sagitta | Neboiss, Trichoptera | Caddis Fly (St. Columba Falls)
 34.  | Hydroptila scamandra | Neboiss, Trichoptera | Caddis Fly (Upper Scamander River)
 35.  | Idacarabus cordicollis | Moore, Coleoptera | Cave Beetle (Hastings Cave)
-36.  | Idacarabus troglodytes | Lea, Coleoptera | Cave Beetle (Precipitous Bluff)
+36.  | Idacarabus troglodytes | Lea, Coleoptera | Ida Bay Cave Beetle
+36A.  | Lissotes menalcas | Westwood, Coleoptera | Mount Mangana Stag Beetle
 37.  | Mesacanthotelson setosus | Nicholls, Isopoda | Isopod (Great Lake)
 38.  | Mesacanthotelson tasmaniae | Thomson, Isopoda | Isopod (Great Lake)
 39.  | Migas plomleyi | Raven and Churchill, Araneae | Spider (Cataract Gorge)
@@ -69,10 +70,10 @@ Invertebrates
 45.  | Oxyethira mienica | Wells, Trichoptera | Caddis Fly (Ouse River)
 46.  | Parvotettix rangaensis | Richards, Orthoptera | Cave Cricket
 47.  | Parvotettix whinrayi | Richards, Orthoptera | Whinray's Cave Cricket
-48.  | Phrantela annamurrayae | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Heazlewood River)
-49.  | Phrantela conica | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Little Henty River)
-50.  | Phrantela marginata | Petterd, Mesogastropoda | Hydrobiid Snail (Heazlewood River)
-51.  | Phrantela pupiformis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Tyenna River)
+48.  | Phrantela annamurrayae | Ponder & Clark, Mesogastropoda | Warratah Road Freshwater Snail
+49.  | Phrantela conica | Ponder & Clark, Mesogastropoda | Little Henty River Freshwater Snail
+50.  | Phrantela marginata | Petterd, Mesogastropoda | Heazlewood River Freshwater Snail
+51.  | Phrantela pupiformis | Ponder & Clark, Mesogastropoda | Tyenna River Freshwater Snail
 52.  | Pseudalmenus chlorinda myrsilus | Couchman, Lepidoptera | Tasmanian Hairstreak (butterfly)
 53.  | Pseudotyrannochthonius typhlus | Dartnall, Pseudoscorpionida | Cave Pseudoscorpion (Mole Creek)
 54.  | Ramiheithrus kocinus | Neboiss, Trichoptera | Caddis Fly (Corinna)
@@ -144,14 +145,11 @@ Dicotyledonae
 55.  | Euphrasia collina subsp. gunnii | (Du Rietz) W.R.Barker, Scrophulariaceae | gunns eyebright
 56.  | Euphrasia gibbsiae subsp. pulvinestris | W.R.Barker, Scrophulariaceae | cushionplant eyebright
 57.  | Euphrasia gibbsiae subsp. wellingtonensis | W.R.Barker, Scrophulariaceae | mt wellington eyebright
-58.  | Eutaxia microphylla var. microphylla | (R.Br.) C.H.Wright & Dewar, Fabaceae | spiny bushpea
+58.  | Eutaxia microphylla | (R.Br.) C.H.Wright & Dewar, Fabaceae | spiny bushpea
 59.  | Frankenia pauciflora var. gunnii | Summerh., Frankeniaceae | southern seaheath
 60.  | Geococcus pusillus | J.Drumm. ex Harv., Brassicaceae | earth cress
 61.  | Geum talbotianum | W.M.Curtis, Rosaceae | tasmanian snowrose
 62.  | Glossostigma elatinoides | (Benth.) Benth. ex Hook.f., Scrophulariaceae | small mudmat
-63.  | Goodenia geniculata | R.Br., Goodeniaceae | bent native-primrose
-64.  | Grevillea australis var. linearifolia | Hook.f., Proteaceae | narrowleaf grevillea
-65.  | Grevillea australis var. planifolia | Hook.f., Proteaceae | flatleaf grevillea
 66.  | Gynatrix pulchella | (Willd.) Alef., Malvaceae | fragrant hempbush
 67.  | Gyrostemon thesioides | (Hook.f.) A.S.George, Gyrostemonaceae | broom wheelfruit
 68.  | Haloragis heterophylla | Brongn., Haloragaceae | variable raspwort
@@ -171,7 +169,7 @@ Dicotyledonae
 81.  | Leucopogon esquamatus | R.Br., Epacridaceae | swamp beardheath
 82.  | Leucopogon lanceolatus var. lanceolatus | (Sm.) R.Br., Epacridaceae | lance beardheath
 83.  | Leucopogon virgatus var. brevifolius | Benth., Epacridaceae | shortleaf beardheath
-84.  | Limonium australe | (R.Br.) Kuntze, Plumbaginaceae | yellow sea-lavender
+84.  | Limonium australe var. australe | (R.Br.) Kuntze, Plumbaginaceae | yellow sea-lavender
 84A.  | Liparophyllum exaltatum | (Sol. ex Sims) Tippery & Les, Menyanthaceae | erect marshflower
 85.  | Lobelia rhombifolia | de Vriese, Campanulaceae | tufted lobelia
 86.  | Lotus australis | Andrews, Fabaceae | australian trefoil
@@ -188,7 +186,6 @@ Dicotyledonae
 97.  | Pandorea pandorana | (Andrews) Steenis, Bignoniaceae | wonga vine
 98.  | Parietaria debilis | G.Forst., Urticaceae | shade pellitory
 99.  | Pentachondra ericifolia | Hook.f., Epacridaceae | fine frillyheath
-100.  | Persoonia gunnii var. oblanceolata | Orchard, Proteaceae | lanceleaf geebung
 101.  | Persoonia moscalii | Orchard, Proteaceae | creeping geebung
 102.  | Persoonia muelleri subsp. angustifolia | (Benth.) L.A.S.Johnson & P.H.Weston, Proteaceae | narrowleaf geebung
 103.  | Phyllangium distylis | (F.Muell.) Dunlop, Loganiaceae | tiny mitrewort
@@ -239,7 +236,6 @@ Dicotyledonae
 150.  | Vittadinia gracilis | (Hook.f.) N.T.Burb., Asteraceae | woolly new-holland-daisy
 151.  | Vittadinia muelleri | N.T.Burb., Asteraceae | narrowleaf new-holland-daisy
 152.  | Westringia angustifolia | R.Br., Lamiaceae | narrowleaf westringia
-153.  | Westringia brevifolia var. raleighii | (B.Boivin) W.M.Curtis, Lamiaceae | greater shortleaf westringia
 154.  | Wilsonia humilis | R.Br., Convolvulaceae | silky wilsonia
 155.  | Wilsonia rotundifolia | Hook., Convolvulaceae | roundleaf wilsonia
 156.  | Xerochrysum bicolor | (Lindl.) R.J.Bayer, Asteraceae | eastcoast everlasting
@@ -256,8 +252,6 @@ Monocotyledonae
 6.  | Aphelia pumilio | F.Muell. ex Sond., Centrolepidaceae | dwarf fanwort
 7.  | Arthropodium strictum | R.Br., Liliaceae | chocolate lily
 8.  | Australopyrum velutinum | (Nees) B.K.Simon, Poaceae | velvet wheatgrass
-9.  | Austrodanthonia induta | (Vickery) H.P.Linder, Poaceae | tall wallabygrass
-10.  | Austrodanthonia remota | (D.I.Morris) H.P.Linder, Poaceae | remote wallabygrass
 11.  | Austrostipa bigeniculata | (Hughes) S.W.L.Jacobs & J.Everett, Poaceae | doublejointed speargrass
 12.  | Austrostipa blackii | (C.E.Hubb.) S.W.L.Jacobs & J.Everett, Poaceae | crested speargrass
 13.  | Austrostipa nodosa | (S.T.Blake) S.W.L.Jacobs & J.Everett, Poaceae | knotty speargrass
@@ -324,6 +318,9 @@ Monocotyledonae
 75.  | Puccinellia perlaxa | (Stapf ex N.G.Walsh) N.G. Walsh & A.R.Williams, Poaceae | spreading saltmarshgrass
 76.  | Ruppia megacarpa | R.Mason, Ruppiaceae | largefruit seatassel
 77.  | Ruppia tuberosa | J.S.Davis & Toml., Ruppiaceae | tuberous seatassel
+77A.  | Rytidosperma indutum | (Vickery) Connor & Edgar, Poaceae | tall wallabygrass
+77B.  | Rytidosperma popinensis | (D.I.Morris) A.M.Humphreys & H.P.Linder, Poaceae | blue wallabygrass
+77C.  | Rytidosperma remotum | (D.I.Morris) A.M.Humphreys & H.P.Linder, Poaceae | remote wallabygrass
 78.  | Schoenoplectus tabernaemontani | (C.C.Gmel.) Palla, Cyperaceae | river clubsedge
 79.  | Schoenus brevifolius | R.Br., Cyperaceae | zigzag bogsedge
 81.  | Sporobolus virginicus | (L.) Kunth, Poaceae | salt couch
@@ -332,7 +329,7 @@ Monocotyledonae
 83.  | Thelymitra mucida | Fitzg., Orchidaceae | plum sun-orchid
 84.  | Thismia rodwayi | F.Muell., Burmanniaceae | fairy lanterns
 85.  | Tricostularia pauciflora | (F.Muell.) Benth., Cyperaceae | needle bogsedge
-86.  | Triglochin minutissimum | F.Muell., Juncaginaceae | tiny arrowgrass
+86.  | Triglochin minutissima | F.Muell., Juncaginaceae | tiny arrowgrass
 87.  | Trithuria submersa | Hook.f., Hydatellaceae | submerged watertuft
 88.  | Uncinia elegans | (Kük.) Hamlin, Cyperaceae | handsome hooksedge
 89.  | Vallisneria australis | S.W.L.Jacobs & Les, Hydrocharitaceae | river ribbons

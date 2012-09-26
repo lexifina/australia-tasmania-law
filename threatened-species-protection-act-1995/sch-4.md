@@ -29,7 +29,7 @@ Reptiles
 Amphibians
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
-1.  | Litoria raniformis | Keferstein | Green and Golden Frog
+1.  | Litoria raniformis | Keferstein | Green and Gold Frog
 Fish
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
@@ -48,10 +48,10 @@ Invertebrates
 3.  | Austrochloritis victoriae | (Cox), Sigmurethra | Southern Hairy Red Snail
 3A.  | Beddomeia briansmithi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Fern Creek)
 4.  | Beddomeia krybetes | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (St. Pauls River)
-5.  | Beddomeia lodderae | Petterd, Mesogastropoda | Hydrobiid Snail (Upper Castra Rivulet)
+5.  | Beddomeia lodderae | Petterd, Mesogastropoda | Castra Rivulet Freshwater Snail
 5A.  | Beddomeia phasianella | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Keddies Creek)
 6.  | Beddomeia wiseae | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Blizzards Creek)
-7.  | Catadromus lacordairei | Boisduval, Coleoptera | Catadromus Carabid Beetle
+7.  | Catadromus lacordairei | Boisduval, Coleoptera | Green-lined Ground Beetle
 8.  | Dasybela achroa | Lower, Lepidoptera | Saltmarsh Looper Moth
 10.  | Engaeus martigener | Horwitz, Decapoda | Furneaux Burrowing Crayfish
 11.  | Engaeus orramakunna | Horwitz, Decapoda | Mt. Arthur Burrowing Crayfish
@@ -59,9 +59,8 @@ Invertebrates
 13.  | Gazameda gunnii | (Reeve), Mesogastropoda | Gunn's Screw Shell
 14.  | Goedetrechus mendumae | Moore, Coleoptera | Cave Beetle (Ida Bay)
 15.  | Goedetrechus parallelus | Moore, Coleoptera | Cave Beetle (Junee-Florentine)
-16.  | Hoplogonus simsoni | Parry, Coleoptera | Simson's Stag Beetle
-17.  | Hoplogonus vanderschoori | Bartoluzzi, Coleoptera | Vanderschoor's Stag Beetle
-18.  | Lissotes menalcas | Westwood, Coleoptera | Mt. Mangana Stag Beetle
+16.  | Hoplogonus simsoni | Parry, Coleoptera | Simsons Stag Beetle
+17.  | Hoplogonus vanderschoori | Bartoluzzi, Coleoptera | Vanderschoors Stag Beetle
 19.  | Oreixenica ptunarra | Couchman, Lepidoptera | Ptunarra Brown Butterfly
 19A.  | Parvulastra vivipara | (Dartnall), Asterinidae | Live-bearing Seastar
 20.  | Pasmaditta jungermanniae | Petterd, Sigmurethra | Snail (Cataract Gorge)
@@ -76,7 +75,7 @@ Dicotyledonae
 6.  | Boronia hippopala | Duretto, Rutaceae | velvet boronia
 7.  | Brachyscome rigidula | (DC.) G.L.Davis, Asteraceae | cutleaf daisy
 9.  | Conospermum hookeri | (Meisn.) E.M.Benn., Proteaceae | tasmanian smokebush
-10.  | Desmodium gunnii | Benth. ex Hook.f., Fabaceae | slender ticktrefoil
+10.  | Desmodium gunnii | Benth. ex Hook.f., Fabaceae | southern ticktrefoil
 12.  | Epacris graniticola | Crowden, Epacridaceae | granite heath
 13.  | Epacris virgata | Hook.f., Epacridaceae | pretty heath
 14.  | Eryngium ovinum | A.Cunn., Apiaceae | blue devil
@@ -89,7 +88,7 @@ Dicotyledonae
 21.  | Hibbertia calycina | (DC.) N.A.Wakef., Dilleniaceae | lesser guineaflower
 22.  | Isoetopsis graminifolia | Turcz., Asteraceae | grass cushion
 23.  | Isopogon ceratophyllus | R.Br., Proteaceae | horny conebush
-24.  | Limonium baudinii | Lincz., Plumbaginaceae | tasmanian sea-lavender
+24.  | Limonium australe var. baudinii | (Lincz.) A.M.Gray, Plumbaginaceae | tasmanian sea-lavender
 25.  | Lobelia pratioides | Benth., Campanulaceae | poison lobelia
 26.  | Lythrum salicaria | L., Lythraceae | purple loosestrife
 27.  | Mirbelia oxylobioides | F.Muell., Fabaceae | sandstone bushpea

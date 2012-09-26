@@ -15,8 +15,8 @@ Mammals
 Birds
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
-1.  | Acanthiza pusilla archibaldi | Mathews | Brown Thornbill (King Island)
-2.  | Acanthornis magna greeniana | Schodde & Mason | Scrubtit (King Island)
+1.  | Acanthiza pusilla archibaldi | Mathews | King Island Brown Thornbill
+2.  | Acanthornis magna greeniana | Schodde & Mason | King Island Scrubtit
 3.  | Accipiter novaehollandiae | Gmelin | Grey Goshawk
 5.  | Aquila audax fleayi | Latham | Wedge-tailed Eagle
 5A.  | Ceyx azureus diemenensis | (Gould) | Tasmanian Azure Kingfisher
@@ -24,7 +24,7 @@ Birds
 7.  | Lathamus discolor | Shaw | Swift Parrot
 8.  | Neophema chrysogaster | Latham | Orange-bellied Parrot
 9.  | Numenius madagascariensis | Linnaeus | Eastern Curlew
-10.  | Pachyptila turtur subantarctica | Kuhl | Fairy Prion (southern subspecies)
+10.  | Pachyptila turtur subantarctica | Kuhl | Southern Fairy Prion
 11.  | Pardalotus quadragintus | Gould | Forty-spotted Pardalote
 12.  | Procellaria cinerea | Gmelin | Grey Petrel
 13.  | Pterodroma mollis | Gould | Soft-plumaged Petrel
@@ -50,7 +50,7 @@ Fish
 3.  | Galaxias johnstoni | Scott | Clarence Galaxias
 4.  | Galaxias pedderensis | Frankenberg | Pedder Galaxias
 5.  | Paragalaxias mesotes | McDowall and Fulton | Arthurs Paragalaxias
-6.  | Zearaja maugeana | Last & Gledhill | Port Davey Skate
+6.  | Zearaja maugeana | Last & Gledhill | Maugean Skate
 Invertebrates
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Order | Common name
@@ -64,20 +64,20 @@ Invertebrates
 8.  | Beddomeia hermansi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Viking Creek)
 9.  | Beddomeia kershawi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Macquarie River)
 10.  | Beddomeia launcestonensis | Johnston, Mesogastropoda | Hydrobiid Snail (Cataract Gorge)
-11.  | Beddomeia petterdi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Blyth River)
+11.  | Beddomeia petterdi | Ponder & Clark, Mesogastropoda | Blythe River Freshwater Snail
 12.  | Beddomeia ronaldi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (St. Patricks River)
 13.  | Beddomeia tumida | Petterd, Mesogastropoda | Hydrobiid Snail (Great Lake)
-14.  | Beddomeia waterhouseae | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Clayton’s Rivulet)
+14.  | Beddomeia waterhouseae | Ponder & Clark, Mesogastropoda | Claytons Rivulet Freshwater Snail
 15.  | Castiarina insculpta | (Carter), Coleoptera | Miena Jewel Beetle
 16.  | Chrysolarentia decisaria | Walker, Lepidoptera | Tunbridge Looper Moth
 17.  | Discocharopa vigens | Legrand, Eupulmonata | Ammonite Snail
 18.  | Engaeus granulatus | Horwitz, Decapoda | Central North Burrowing Crayfish
 19.  | Engaeus spinicaudatus | Horwitz, Decapoda | Scottsdale Burrowing Crayfish
 20.  | Haloniscus searlei | Chilton, Isopoda | Salt Lake Slater
-21.  | Hoplogonus bornemisszai | Bartoluzzi, Coleoptera | Bornemissza's Stag Beetle
+21.  | Hoplogonus bornemisszai | Bartoluzzi, Coleoptera | Bornemisszas Stag Beetle
 22.  | Lissotes latidens | Westwood, Coleoptera | Broad-toothed Stag Beetle
 23.  | Marginaster littoralis | Dartnell, Asterinidae | Seastar
-24.  | Micropathus kiernani | Richards, Orthoptera | Cave Cricket
+24.  | Micropathus kiernani | Richards, Orthoptera | Southern Sandstone Cave Cricket
 25.  | Miselaoma weldi | Tenison-Woods, Sigmurethra | Stanley Snail
 26.  | Onchotelson spatulatus | Nicholls, Isopoda | Isopod (Great Lake)
 27.  | Oreisplanus munionga larana | Olliff, Lepidoptera | Marrawah Skipper
@@ -96,8 +96,10 @@ Dicotyledonae
 4.  | Bertya tasmanica subsp. tasmanica | (Sond. & F.Muell.) Müll.Arg., Euphorbiaceae | tasmanian bertya
 5.  | Boronia hemichiton | Duretto, Rutaceae | mt arthur boronia
 6.  | Calystegia marginata | R.Br., Convolvulaceae | forest bindweed
+6A.  | Cassinia rugata | N.G.Walsh, Asteraceae | wrinkled dollybush
 7.  | Craspedia preminghana | Rozefelds, Asteraceae | preminghana billybuttons
 8.  | Cryptandra amara | Sm., Rhamnaceae | pretty pearlflower
+8A.  | Desmodium varians | (Labill.) G.Don, Fabaceae | slender ticktrefoil
 9.  | Discaria pubescens | (Brongn.) Druce, Rhamnaceae | spiky anchorplant
 10.  | Epacris apsleyensis | Crowden, Epacridaceae | apsley heath
 11.  | Epacris barbata | Melville, Epacridaceae | bearded heath
@@ -116,13 +118,14 @@ Dicotyledonae
 23.  | Euphrasia sp. Bivouac Bay | (W.R.Barker 7626 et al.) W.R.Barker, Scrophulariaceae | masked cliff-eyebright
 23A.  | Galium antarcticum | Hook.f., Rubiaceae | subantarctic bedstraw
 24.  | Gompholobium ecostatum | Kuchel, Fabaceae | dwarf wedgepea
+24A.  | Goodenia geniculata | R.Br., Goodeniaceae | bent native-primrose
 25.  | Hardenbergia violacea | (Schneev.) Stearn, Fabaceae | purple coralpea
 26.  | Hibbertia basaltica | A.M.Buchanan & Schah., Dilleniaceae | basalt guineaflower
 27.  | Hyalosperma demissum | (A.Gray) Paul G. Wilson, Asteraceae | moss sunray
 28.  | Hydrocotyle laxiflora | DC., Apiaceae | stinking pennywort
 29.  | Lepidium hyssopifolium | Desv., Brassicaceae | soft peppercress
 30.  | Leptorhynchos elongatus | DC., Asteraceae | lanky buttons
-31.  | Leucochrysum albicans subsp. albicans var. tricolor | (DC.) Paul G.Wilson, Asteraceae | grassland paperdaisy
+31.  | Leucochrysum albicans var. tricolor | (DC.) Paul G.Wilson, Asteraceae | grassland paperdaisy
 32.  | Lomatia tasmanica | W.M.Curtis, Proteaceae | kings lomatia
 33.  | Lycopus australis | R.Br., Lamiaceae | australian gipsywort
 34.  | Mentha australis | R.Br., Lamiaceae | river mint
@@ -151,7 +154,6 @@ Monocotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Amphibromus macrorhinus | S.W.L.Jacobs & L.Lapinpuro, Poaceae | longnose swampgrass
-3.  | Austrodanthonia popinensis | (D.I.Morris) H.P.Linder, Poaceae | blue wallabygrass
 4.  | Caladenia anthracina | D.L.Jones, Orchidaceae | blacktipped spider-orchid
 5.  | Caladenia aurantiaca | (R.S.Rogers) Rupp, Orchidaceae | orangetip fingers
 6.  | Caladenia australis | G.W.Carr, Orchidaceae | southern spider-orchid
@@ -210,7 +212,7 @@ Monocotyledonae
 54.  | Thelymitra jonesii | Jeanes, Orchidaceae | skyblue sun-orchid
 55.  | Thelymitra malvina | M.A.Clem, D.L.Jones & Molloy, Orchidaceae | mauvetuft sun-orchid
 56.  | Thynninorchis nothofagicola | (D.L.Jones) D.L.Jones & M.A. Clem., Orchidaceae | myrtle elbow-orchid
-56A.  | Triglochin mucronatum | R.Br., Juncaginaceae | prickly arrowgrass
+56A.  | Triglochin mucronata | R.Br., Juncaginaceae | prickly arrowgrass
 56B.  | Wurmbea latifolia subsp. vanessae | R.J.Bates, Liliaceae | broadleaf early nancy
 Pteridophyta
 | Column 1 | Column 2 | Column 3
