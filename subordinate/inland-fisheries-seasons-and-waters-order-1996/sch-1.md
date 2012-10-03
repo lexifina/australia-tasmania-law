@@ -9,7 +9,7 @@ Item | Rivers | Years
 5.  | Great Forester River | 2012, 2014
 6.  | Henty River | 2011, 2012, 2013, 2014, 2015
 7.  | Huon River | 2011, 2012, 2013, 2014, 2015
-8.  | Inglis River | 2012, 2014
+8.  | Inglis River | 2012, 2013, 2014, 2015
 9.  | Little Forester River | 2011, 2013, 2015
 10.  | Mersey River | 2012, 2014
 11.  | Montagu River | 2012, 2014
