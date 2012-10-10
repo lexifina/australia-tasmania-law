@@ -32,7 +32,11 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 27.  | Benactyzine and other substances structurally derived from diphenylmethane with ataractic properties |
 28.  | Benzethidine |
 29.  | Benzodiazepine derivatives not elsewhere specified in this Schedule |
+29AA.  | 1-(1,3-benzodioxol-5-yl)-2-(methylamino)-1-pentanone (otherwise known as pentylone) | 25g or 20 units
 29A.  | 1-(benzo[d][1,3]dioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one otherwise known as methylenedioxypyrovalerone or MDPV | 25 grams (or 20 Units)
+29B.  | 1-benzofuran-5-ylpropan-2-amine or 5-(2-aminopropyl)benzofuran (otherwise known as 5-APB) | 25g or 20 units
+29C.  | 1-benzofuran-6-ylpropan-2-amine or 6-(2-aminopropyl)benzofuran (otherwise known as 6-APB) | 25g or 20 units
+29D.  | Benzoylindoles | 5g or 20 units
 30.  | Benzylmorphine |
 30A.  | Benzylpiperazine (otherwise known as BZP) |
 31.  | Betacetylmethadol |
@@ -48,6 +52,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 40A.  | 1-(8-Bromobenzo[1,2-b;4,5-b']difuran-4-yl)-2-aminopropane otherwise known as Bromo-dragonfly | 25 grams (or 20 Units)
 41.  | 4-bromo-3,5-dimethoxyamphetamine (otherwise known as BDMA) |
 42.  | 4-bromo-2,5-dimethoxyphenethylamine (otherwise known as BDMPEA) | 25g
+42A.  | 2-(4-bromo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine (otherwise known as 25B-NBOMe) | 25g or 20 units
 43.  | 3-bromo-4-methoxyamphetamine |
 44.  | 4-bromo-3-methoxyamphetamine | 25g
 45.  | 2-bromo-1-phenylpropane | 25g
@@ -68,6 +73,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 58.  | Chlormethiazole |
 59.  | Chlormezanone |
 59A.  | 4-chloro-2,5-dimethoxyamphetamine | 25 grams (or 20 Units)
+59B.  | 2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine (otherwise known as 25C-NBOMe) | 25g or 20 units
 60.  | 2-chloro-1-phenylpropane (otherwise known as 1-phenyl-2-chloropropane) |
 61.  | 1-chlorophenyl-2-methylaminopropane (otherwise known as 2-(N-methylamino)-1-chloro-1-propane) |
 62.  | Clobazam |
@@ -85,6 +91,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 72.  | 4-cyano-2-dimethylamino-4,4-diphenylbutane |
 73.  | 4-cyano-1-methyl-4-phenylpiperidine (otherwise known as pethidine intermediate A) |
 74.  | Cyclobarbitone |
+74E.  | Cyclohexylphenols | 5g or 20 units
 74H.  | Darbepoetin alfa |
 75.  | Desomorphine |
 76.  | Dexamphetamine | 25g
@@ -93,14 +100,19 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 79.  | Diacetylmorphine (otherwise known as heroin) |
 (a)  | in individual packages | 20 packages
 (b)  | in any other form | 25g
+79A.  | N,N-Diallyl-5-Methoxytryptamine (otherwise known as 5-MeO-DALT) | 5g or 20 units
 80.  | Diampromide |
 81.  | Diazepam |
+81A.  | Dibenzopyrans | 5g or 20 units
 82.  | Diethylpropion |
 83.  | Diethylthiambutene |
 84.  | N,N-diethyltryptamine (otherwise known as DET) |
 85.  | Difenoxin |
+85A.  | 1-(2,3-dihydro-1-benzofuran-5-yl)propan-2-amine or 5-(2-aminopropyl)-2,3-dihydrobenzofuran (otherwise known as 5-APDB) | 25g or 20 units
+85B.  | 1-(2,3-dihydro-1-benzofuran-6-yl)propan-2-amine or 6-(2-aminopropyl)-2,3-dihydrobenzofuran (otherwise known as 6-APDB) | 25g or 20 units
 86.  | Dihydrocodeine |
 86A.  | 6-7-dihydro-5H-cyclopenta[f][1,3]benzodioxol-6-amine otherwise known as 5,6-Methylenedeioxy-2-aminoindane or MDAI | 25 grams (or 20 Units)
+86B.  | 2,3-dihydro-1H-inden-2-amine or 2-aminoindane (otherwise known as 2-AI) | 25g or 20 units
 87.  | Dihydromorphine |
 88.  | Dimenoxadol |
 89.  | Dimepheptanol |
@@ -175,6 +187,10 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 137B.  | 2-[(1R,3S)-3-hydroxycyclohexyl]-5-(2-methyloctan-2-yl)phenol otherwise known as CP 47,497 | 5 grams (or 20 Units)
 138.  | Hydroxypethidine |
 138A.  | 5-iodo-2,3-dihydro-1H-inden-2-amine otherwise known as 5-lodo-2-aminoindane or 5-IAI | 25 grams (or 20 Units)
+138B.  | 2-((2-(4-iodo-2,5-dimethoxyphenyl)ethylamino)methyl)phenol (otherwise known as 25I-NBOH) | 25g or 20 units
+138C.  | 2-(4-iodo-2,5-dimethoxyphenyl)-N-[(2-fluorophenyl)methyl]ethanamine (otherwise known as 25I-NBF) | 25g or 20 units
+138D.  | 2-(4-iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine (otherwise known as 25I-NBOMe) | 25g or 20 units
+138E.  | 2-(4-iodo-2,5-dimethoxyphenyl)-N-[(2, 3-methylenedioxyphenyl)methyl]ethanamine (otherwise known as 25I-NBMD) | 25g or 20 units
 139.  | 2-iodo-1-phenylpropane |
 140.  | Isomethadone |
 141.  | Ketamine |
@@ -187,7 +203,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 148.  | Levorphanol |
 149.  | Lorazepam |
 150.  | Lysergic acid |
-151.  | Lysergide (otherwise known as lysergic acid diethylamide or LSD or LSD-25) | 2mg or 20 tickets
+151.  | Lysergide (otherwise known as lysergic acid diethylamide or LSD or LSD-25) | 2mg or 20 units
 152.  | Mecloqualone |
 153.  | Medazepam |
 154.  | Mestanolone |
@@ -200,6 +216,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 161.  | Methcathinone |
 162.  | Methenolone |
 162A.  | 5-methoxy-a-methyltryptamine (5-MeO-AMT) |
+162B.  | N-(2-methoxybenzyl)-1-[(7R)-3-bromo-2,5-dimethoxybicyclo[4.2.0]octa-1,3,5-trien-7-yl]methanamine (otherwise known as 2CBCB-NBOMe) | 25g or 20 units
 163.  | 2-methoxy-3,4-methylenedioxyamphetamine | 25g
 164.  | 2-methoxy-4,5-methylenedioxyamphetamine | 25g
 165.  | 4-methoxy-2,3-methylenedioxyamphetamine | 25g
@@ -210,6 +227,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 169A.  | 5-methoxy-N,N-diallyltryptamine | 10 grams (or 20 Units)
 170.  | 4-methoxyphenylethylamine |
 170A.  | 2-(2-methoxyphenyl)-1-(1-pentylindol-3-yl)ethanone otherwise known as JWH-250 | 5 grams (or 20 Units)
+170B.  | 2-(methylamino)-1-phenylpentan-1-one (otherwise known as pentedrone) | 25g or 20 units
 171.  | 4-methylaminorex (otherwise known as 2-amino-4-methyl-5-phenyl-2-oxazoline or 4,5-dihydro-4-methyl-5-phenyl-2-oxazolamine or ICE or Euphoria) |
 172.  | Methylamphetamine (otherwise known as methamphetamine or 1-phenyl-2-methylaminopropane) |
 (a)  | in individual packages | 20 packages
@@ -228,6 +246,8 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 178A.  | 3,4-methylenedioxyethylcathinone | 25 grams (or 20 Units)
 178B.  | 3,4-methylenedioxymethcathinone | 25 grams (or 20 Units)
 179.  | 3,4-methylenedioxyphenyl-2-propanone |
+179A.  | (RS)-1-(3,4-methylenedioxyphenyl)-2-(1-pyrrolidinyl)-1-butanone or 3',4'-methylenedioxy-á-pyrrolidinobutiophenone (otherwise known as MDPBP) | 25g or 20 units
+179B.  | 4-methylethcathinone (otherwise known as 4-MEC) | 25g or 20 units
 180.  | 3-methylfentanyl |
 180A.  | 4-methylmethcathinone | 25 grams (or 20 Units)
 181.  | N-[α-methyl-3,4-(methylenedioxy)phenethyl] hydroxylamine (otherwise known as N-hydroxy MDA) |
@@ -256,6 +276,10 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 203A.  | naphthalen-1-yl-(1-butylindol-3-yl)methanone otherwise known as JWH-073 | 5 grams (or 20 Units)
 203B.  | naphthalen-1-yl-(1-pentylindol-3-yl)methanone otherwise known as JWH-018 | 5 grams (or 20 Units)
 203C.  | 1-naphthalen-2-yl-pyrrolidin-1-ylpentan-1-one otherwise known as Naphyrone O-2482 | 25 grams (or 20 Units)
+203D.  | Naphthoylindoles | 5g or 20 units
+203E.  | Naphthoylpyrroles | 5g or 20 units
+203F.  | Naphthylmethylindenes | 5g or 20 units
+203G.  | Naphthylmethylindoles | 5g or 20 units
 204.  | Nicocodine |
 205.  | Nicodicodine |
 206.  | Nicomorphine | 25g
@@ -290,6 +314,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 235.  | Phenomorphan |
 236.  | Phenoperidine |
 237.  | Phentermine |
+237A.  | Phenylacetylindoles | 5g or 20 units
 238.  | 4-phenylpiperidine-4-carboxylic acid ethyl ester (otherwise known as pethidine intermediate B) |
 239.  | Phenyl-2-propanone |
 239A.  | 1-phenyl-2-(1-pyrrolidinyl)-1-pentanone otherwise known as a-pyrrolidiniopentiophenone calpha-PVP | 25 grams (or 20 Units)
@@ -302,6 +327,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 246.  | Properidine |
 247.  | Propiram |
 248.  | Pseudoephedrine in a quantity greater than 6g | 30g
+248A.  | Psilocin (otherwise known as 4-HO-DMT) | 5g or 20 units
 249.  | Psilocybine |
 250.  | Quinalbarbitone |
 251.  | Racemethorphan |
@@ -315,6 +341,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 258.  | Stanolone (otherwise known as dihydrotestosterone) |
 259.  | Stanozolol |
 260.  | Sufentanil |
+260A.  | Synthetic cannabinomimetics | 5g or 20 units
 261.  | Temazepam |
 262.  | Tenocyclidine (otherwise known as 1-[1-(2-thienyl)cyclohexyl]-piperidine or TCP) |
 263.  | Testosterone (S4) |
@@ -326,6 +353,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 265.  | 2,3,4,5-tetramethoxyamphetamine | 25g
 266.  | Thebacon |
 267.  | Thebaine |
+267A.  | 1-(2-thienyl)-2-(methylamino)propane (otherwise known as methiopropamine or MPA) | 25g or 20 units
 268.  | Thiofentanyl |
 269.  | Tilidine |
 270.  | Trenbolone (S4) |
