@@ -5,6 +5,5 @@ Hydro-Electric Corporation
 Motor Accidents Insurance Board
 Port Arthur Historic Site Management Authority
 Public Trustee
-Rivers and Water Supply Commission
 Tasmanian Public Finance Corporation
 ………
