@@ -1,0 +1,3 @@
+Macquarie Point Development Corporation Act 2012
+An Act to establish a corporation for the purpose of undertaking the remediation of certain land at Macquarie Point, Hobart, in accordance with an Intergovernmental Agreement dated 22 June 2012 entered into by the Commonwealth of Australia and the State of Tasmania, and for the purpose of facilitating, undertaking and managing the redevelopment of that land, and for other purposes
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
