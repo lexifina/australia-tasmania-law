@@ -58,5 +58,3 @@ Approval of premises for the manufacture, preparation, packing or storage of foo
 Registration of premises for the purpose of the Public Health (Skin Penetration) Regulations 1978 | 60 days from the day on which an application is received by the municipal corporation.
 Vermin Destruction Act 1950 |
 Permit to keep rabbits or other vermin | 60 days from the day on which an application under section 21A(2) of the Vermin Destruction Act 1950 is received by the Chief Veterinary Officer.
-Workplace Health and Safety Act 1995 |
-An approval of design, specifications and construction of dams and reservoirs at mines | 42 days from the day on which the relevant application under regulations made under the Workplace Health and Safety Act 1995 is received by the Chief Inspector of Mines.
