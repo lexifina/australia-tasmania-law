@@ -15,5 +15,5 @@ SSAN
 SSE
 4 A blasting explosive within the meaning of the AE Code.
 5 A blasting explosive within the meaning of AS 2187.0 published by Standards Australia, as from time to time amended.
-6 A Type 3 firework within the meaning of Division 11 of Part 5 of the Dangerous Substances (Safe Handling) Regulations 2009.
+6 A Type 3 firework within the meaning of the regulations made under the Explosives Act 2012.
 7 A propellant within the meaning of the ADG Code in powder form and in a quantity greater than 5 kilograms.
