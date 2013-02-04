@@ -1,10 +1,8 @@
 Part 1 Preliminary
 Part 2 The State Service
 Part 3 Administrative arrangements and reorganisations
-Part 4 Powers of Minister
-Part 5 State Service Commissioner
-Part 5, Division 1 Commissioner's functions, &c.
-Part 5, Division 2 Commissioner's appointment, &c.
+Part 4 The Employer
+Part 5 Head of the State Service
 Part 6 Heads of Agencies, holders of prescribed offices and Senior Executives
 Part 7 State Service Employees
 Part 7, Division 1 Appointment, promotion, transfer and termination
