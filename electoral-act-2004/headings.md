@@ -21,7 +21,7 @@ Part 5, Division 12 Counting votes
 Part 5, Division 13 Custody of election material
 Part 5, Division 14 Compulsory voting
 Part 6 Electoral Expenditure in respect of Council Elections
-Part 6, Division 1 Candidate's expenditure
+Part 6, Division 1 Candidate's or intending candidate's expenditure
 Part 6, Division 2 Party expenditure
 Part 6, Division 3 Provisions relating to candidate's expenditure
 Part 7 Offences
