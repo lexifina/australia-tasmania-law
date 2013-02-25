@@ -20,6 +20,7 @@ Part 4, Division 2A, Subdivision 4 Connections and serviced properties
 Part 4, Division 2A, Subdivision 5 Installation, reading and testing of meters
 Part 4, Division 2A, Subdivision 6 Functions and powers of regulated entities relating to fire protection
 Part 4, Division 2A, Subdivision 7 General
+Part 4, Division 2A, Subdivision 8 Transitional matters – trade waste
 Part 4, Division 3 Customer service code
 Part 4, Division 4 Customer contract
 Part 4, Division 5 Price regulation
