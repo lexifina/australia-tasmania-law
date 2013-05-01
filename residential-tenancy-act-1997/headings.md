@@ -6,6 +6,7 @@ Part 3, Division 1A Residential management agreements
 Part 3, Division 2 Rent
 Part 3, Division 3 Security deposits and holding fees
 Part 3, Division 4 Repairs
+Part 3A Smoke Alarms
 Part 4 Termination of agreements
 Part 4, Division 1 Termination
 Part 4, Division 2 Notice to vacate
