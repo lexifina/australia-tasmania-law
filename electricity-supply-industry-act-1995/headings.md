@@ -15,6 +15,14 @@ Part 3, Division 1, Subdivision 3 Special licence obligations
 Part 3, Division 1, Subdivision 4 Miscellaneous
 Part 3, Division 3 Special provisions relating to Hydro-Electric Corporation
 Part 3, Division 4 Retailing of electricity to certain customers
+Part 3, Division 4, Subdivision 1 Retailing generally
+Part 3, Division 4, Subdivision 2 Charging for retail services
+Part 3, Division 4, Subdivision 3 Community service obligation concessions
+Part 3, Division 4A Wholesale electricity pricing and contracts
+Part 3, Division 4A, Subdivision 1 Approvals
+Part 3, Division 4A, Subdivision 2 Contracts
+Part 3, Division 4A, Subdivision 3 Price monitoring
+Part 3, Division 4A, Subdivision 4 Transitional matters
 Part 3, Division 5 Restrictions on re-supply
 Part 3, Division 6 Disputes
 Part 3, Division 7 Effect of non-compliance with Act
