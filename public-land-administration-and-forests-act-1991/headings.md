@@ -16,7 +16,7 @@ Part 5 Miscellaneous
 Part 5, Division 1 Preliminary
 Part 5, Division 2 Consequential amendments and repeals of other Acts
 Part 5, Division 3 Miscellaneous amendments of other Acts
-Part 5, Division 4 Land entered in the Register of Multiple Use Forest Land
+Part 5, Division 4 Land entered in the Register of Permanent Timber Production Zone Land
 Part 5, Division 5 Savings and transitional
 Part 6 Provisions relating to World Heritage Area and National Parks
 Part 7 Administration of Act
