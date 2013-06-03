@@ -1,4 +1,4 @@
-# Schedule 3 Land entered in Register of Multiple Use Forest Land
+# Schedule 3 Land entered in Register of Permanent Timber Production Zone Land
 Section 7
 | Column 1 | Column 2 | Column 3
 | Location | Approx. Area (ha) | Plan No.
