@@ -3,11 +3,18 @@ Part 2 Exploration Licences
 Part 2, Division 1 Applications
 Part 2, Division 2 Exploration licences
 Part 2, Division 3 Dealings with licences
-Part 2, Division 4 Special exploration licences
+Part 2A Special Exploration Licences
+Part 2A, Division 1 Applications
+Part 2A, Division 2 Special exploration licences
+Part 2A, Division 3 Dealings with special exploration licences
 Part 3 Retention Licences
 Part 3, Division 1 Applications
 Part 3, Division 2 Retention licences
 Part 3, Division 3 Dealings with licences
+Part 3A Production Licences
+Part 3A, Division 1 Applications
+Part 3A, Division 2 Production licences
+Part 3A, Division 3 Dealings with licence
 Part 4 Mining Leases
 Part 4, Division 1 Applications, marking out and objections
 Part 4, Division 2 Mining leases
@@ -15,8 +22,8 @@ Part 4, Division 3 Subleases
 Part 4, Division 4 Dealings with leases
 Part 4, Division 5 Rent and royalty
 Part 4, Division 6 Miscellaneous matters
-Part 5 Prospecting Licences and Fossicking Areas
-Part 5, Division 1 Prospecting licences
+Part 5 Prospecting Licences, Group Prospecting Licences and Fossicking Areas
+Part 5, Division 1 Prospecting and group prospecting licences
 Part 5, Division 2 Fossicking areas
 Part 6 Drill Core and Cutting
 Part 6, Division 1 Exploration and retention licences
