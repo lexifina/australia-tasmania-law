@@ -1,0 +1,3 @@
+Training and Workforce Development (Transitional Provisions) Act 2013
+An Act to provide for matters of a savings and transitional nature, and to provide for the avoidance of doubt in respect of certain matters, consequent on the enactment of the Training and Workforce Development Act 2013 and the repeal of the Vocational Education and Training Act 1994, the Education and Training (Tasmanian Polytechnic) Act 2008 and the Education and Training (Tasmanian Skills Institute) Act 2008
+Be it enacted by His Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
