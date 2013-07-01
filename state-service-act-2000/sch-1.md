@@ -23,5 +23,5 @@ Tasmanian Dairy Industry Authority | Chairperson of the Tasmanian Dairy Industry
 Tasmanian Health Organisation – North | Chief executive officer
 Tasmanian Health Organisation – South | Chief executive officer
 Tasmanian Health Organisation – North West | Chief executive officer
-Tasmanian Skills Institute | Chief executive officer
+TasTAFE | Chief executive officer
 The Public Trustee | Chairperson of The Public Trustee
