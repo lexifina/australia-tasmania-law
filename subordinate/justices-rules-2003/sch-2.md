@@ -19,14 +19,14 @@ For the purpose of rule 27, the following offences are specified offences:
 16.  | An offence under section 29 of the Motor Accidents (Liabilities and Compensation) Act 1973
 17.  | An offence under the National Parks and Reserves Management Act 2002
 18.  | An offence under the National Parks and Reserved Land Regulations 2009
-19.  | An offence under the Passenger Transport Act 1997 and any regulations made under that Act
+19.  | An offence under the Passenger Transport Services Act 2011 and any regulations made under that Act
 20.  | An offence under section 13, 14, 14B, 15(1), 15A, 15B, 15C, 16, 17, 19A, 20AA, 25, 34B, 37(1), 37(3), 37(4), 41, 43, 55A or 57 of the Police Offences Act 1935
 21.  | An offence under the Public Health Act 1997, and any regulations made under that Act, if the maximum penalty for the offence does not exceed 10 penalty units
 22.  | An offence in regulations made under the Racing Regulation Act 2004 if the maximum penalty for the offence does not exceed 10 penalty units
 23.  | An offence under the Roads and Jetties Act 1935
 24.  | An offence under the Road Rules 2009
 25.  | An offence under section 7 of the Road Safety (Alcohol and Drugs) Act 1970
-26.  | An offence under the Taxi and Luxury Hire Car Industries Act 2008 and any regulations made under that Act
+26.  | An offence under the Taxi and Hire Vehicle Industries Act 2008 and any regulations made under that Act
 27.  | An offence under section 41(1) or 51(3) of the Traffic Act 1925
 28.  | An offence under the Vehicle and Traffic Act 1999, except sections 9, 13, 14, 15, 18, 31 and 64, and any regulations made under that Act
 29.  | An offence under the Wellington Park Regulations 2009
