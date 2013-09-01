@@ -21,6 +21,7 @@ Intentionally endangering persons on a railway.
 Wantonly endangering persons on a railway.
 Causing injury by poison.
 Rape.
+Indecent assault.
 Aggravated sexual assault.
 Forcible abduction.
 Stalking.
