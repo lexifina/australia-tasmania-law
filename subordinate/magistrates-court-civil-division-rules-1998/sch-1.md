@@ -2,7 +2,7 @@
 Rules 25, 117, 127(3), 129G(4), 130, 138 and 139
 | Item | Not exceeding $10 000 | Exceeding $10 000 and not exceeding $20 000 | Exceeding $20 000
 1.  | Filing claim for sum of money (defence and counterclaim allowed only as one item) - to the nearest $10 | 4% of judgment sum | 4% of judgment sum | 4% of judgment sum, up to maximum of $1 200
-2.  | Filing claim other than for sum of money | $600 | $600 | $600
+2.  | Filing claim or originating application other than for sum of money | $512 | $512 | $512
 3.  | Routine request relating to discovery or inspection, including costs for perusal of reply | $60 | $105 | $150
 4.  | Request requiring drafting of particulars or interrogatories including costs for perusal of reply | $150 | $225 | $300
 5.  | Notice to admit facts, filed offer, payment into Court or other notice requiring particular instructions, including costs for perusal of reply | $300 | $450 | $600
@@ -35,7 +35,7 @@ Rules 25, 117, 127(3), 129G(4), 130, 138 and 139
 21.  | Attendance as counsel for judgment | $75 | $75 | $75
 | Item | Not exceeding $10 000 | Exceeding $10 000 and not exceeding $20 000 | Exceeding $20 000
 1.  | Filing claim for sum of money (defence and counterclaim allowed only as one item) - to the nearest $10 | 6% of judgment sum | 6% of judgment sum | 6% of judgment sum, up to maximum of $1 800
-2.  | Filing claim other than for sum of money | $900 | $900 | $900
+2.  | Filing claim or originating application other than for sum of money | $900 | $900 | $900
 3.  | Routine request relating to discovery or inspection, including costs for perusal of reply | $60 | $105 | $150
 4.  | Request requiring drafting of particulars or interrogatories, including costs for perusal of reply | $150 | $225 | $300
 5.  | Notice to admit facts, filed offer, payment into Court or other notice requiring particular instructions, including costs for perusal of reply | $450 | $600 | $750
