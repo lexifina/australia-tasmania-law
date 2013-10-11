@@ -108,6 +108,11 @@ Part 32, Division 3 Proceedings under the Settled Land Act 1884 and the Settled 
 Part 32, Division 4 Proceedings under the Trustee Act 1898
 Part 32, Division 5 Proceedings under the Variation of Trusts Act 1994
 Part 32, Division 6 Proceedings under the Wills Act 1992 and the Wills Act 2008
+Part 32, Division 7 Proceedings under the Trans-Tasman Proceedings Act 2010 (Commonwealth)
+Part 32, Division 7, Subdivision 1 Preliminary
+Part 32, Division 7, Subdivision 2 Commencement of proceeding under Trans-Tasman Proceedings Act
+Part 32, Division 7, Subdivision 3 Recognition and enforcement of NZ judgment
+Part 32, Division 7, Subdivision 4 Miscellaneous
 Part 33 Entry of judgment and orders
 Part 34 Fees and costs
 Part 34, Division 1 Court fees
