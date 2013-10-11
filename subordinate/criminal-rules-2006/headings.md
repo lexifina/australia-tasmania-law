@@ -6,4 +6,5 @@ Part 4 Procedure on Appeal
 Part 4, Division 1 Notices of appeal
 Part 4, Division 2 Miscellaneous appeal provisions
 Part 5 Examination of Witnesses out of State in Criminal Proceedings
+Part 5A Subpoenas under the Trans-Tasman Proceedings Act 2010
 Part 6 Miscellaneous
