@@ -23,12 +23,6 @@ Chapter 3, Part 2, Division 2 Acquisitions of interests in private corporations
 Chapter 3, Part 2, Division 3 Charging of duty
 Chapter 3, Part 2, Division 4 General and supplemental
 Chapter 3, Part 4 Acquisition of land use entitlements by allotment of shares or issue of units
-Chapter 3, Part 5 Transactions involving put and call options
-Chapter 3, Part 5, Division 1 Making of put and call option
-Chapter 3, Part 5, Division 2 Assignment of rights under put and call option
-Chapter 3, Part 5, Division 3 Dutiable value of property subject to put and call option or call option assignment
-Chapter 3, Part 5, Division 4 No double duty
-Chapter 3, Part 5, Division 5 Exemptions
 Chapter 7 Insurance
 Chapter 7, Part 1 General Insurance
 Chapter 7, Part 2 Life Insurance
