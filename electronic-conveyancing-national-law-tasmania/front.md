@@ -1,0 +1,2 @@
+Electronic Conveyancing National Law (Tasmania)
+The Electronic Conveyancing National Law, as in force from time to time, set out in the Appendix to the Electronic Conveyancing (Adoption of National Law) Act 2012 of New South Wales is applied (with modifications) as a law of Tasmania by the Electronic Conveyancing (Adoption of National Law) Act 2013 and, as so applying, may be referred to as the Electronic Conveyancing National Law (Tasmania)
