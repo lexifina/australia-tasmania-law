@@ -70,7 +70,7 @@ Section 3(1)
 (j)  |  | to provide for exploration activities and utilisation of mineral resources.
 7.  | Regional reserve | The following objectives:
 (a)  |  | to provide for mineral exploration activities and utilisation of mineral resources;
-(b)  |  | to provide for the controlled use of other natural resources;
+(b)  |  | to provide for the controlled use of other natural resources including the harvesting of special species timbers (if permitted by order made under section 19(2) of the Tasmanian Forests Agreement Act 2013);
 (c)  |  | to conserve natural biological diversity;
 (d)  |  | to conserve geological diversity;
 (e)  |  | to preserve the quality of water and protect catchments;
