@@ -8,7 +8,7 @@ For the purpose of rule 27, the following offences are specified offences:
 5.  | An offence under section 16 of the Consumer Affairs Act 1988
 6.  | An offence under the Dog Control Act 2000
 7.  | An offence under the Environmental Management and Pollution Control Act 1994, and any regulations made under that Act, if the maximum penalty for the offence does not exceed 10 penalty units
-8.  | An offence under the Forestry Act 1920 and any regulations made under that Act
+8.  | An offence under the Forest Management Act 2013 and any regulations made under that Act
 8A.  | An offence under the Heavy Vehicle National Law (Tasmania) Act 2013, except sections 30(1), 228(1), 250(1), 251(1), 254(1), 256(1), 258(1), 260(1), 533(7) and 534(5) of the Heavy Vehicle National Law (Tasmania), and any regulations that apply in Tasmania for the purposes of that Law
 9.  | An offence under the Inland Fisheries Act 1995 if the maximum penalty for the offence does not exceed 10 penalty units
 10.  | An offence under the Inland Fisheries (Recreational Fishing) Regulations 2009
