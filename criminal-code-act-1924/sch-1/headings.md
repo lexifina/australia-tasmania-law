@@ -28,6 +28,7 @@ Schedule 1, Part V, Chapter XXIII Criminal defamation
 Schedule 1, Part VI Crimes Relating to Property
 Schedule 1, Part VI, Chapter XXIV Stealing
 Schedule 1, Part VI, Chapter XXV Crimes Analogous to Stealing
+Schedule 1, Part VI, Chapter XXVA Crimes relating to firearms and firearm parts
 Schedule 1, Part VI, Chapter XXVI Robbery and Extortion
 Schedule 1, Part VI, Chapter XXVII Burglary and Like Crimes
 Schedule 1, Part VI, Chapter XXVIII False Pretences, Cheating, and Frauds Concerning Titles
