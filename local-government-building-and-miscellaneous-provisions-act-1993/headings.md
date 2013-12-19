@@ -14,7 +14,5 @@ Part 7, Division 1 Long Service Leave
 Part 8 Miscellaneous matters
 Part 8, Division 1 Preservation orders
 Part 8, Division 2 Advertising hoardings
-Part 8, Division 3 Building over drains
-Part 8, Division 4 Drains
 Part 8, Division 5 Irrigation undertakings
 Part 9 Amendments to other Acts in relation to Building Provisions
