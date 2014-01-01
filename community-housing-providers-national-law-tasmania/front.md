@@ -1,0 +1,2 @@
+Community Housing Providers National Law (Tasmania)
+The Community Housing Providers National Law, as in force from time to time, set out in the Appendix to the Community Housing Providers (Adoption of National Law) Act 2012 of New South Wales is applied (with modifications) as a law of Tasmania by the Community Housing Providers National Law (Tasmania) Act 2013 and, as so applying, may be referred to as the Community Housing Providers National Law (Tasmania)
