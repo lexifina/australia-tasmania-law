@@ -18,9 +18,10 @@ Part 5, Division 9 Exceptions relating to political belief, affiliation or activ
 Part 5, Division 10 Exceptions relating to other issues
 Part 5, Division 11 Exemptions
 Part 6 Dispute resolution
-Part 6, Division 1 Complaints
+Part 6, Division 1 Interpretation
+Part 6, Division 1A Complaints
 Part 6, Division 2 Investigation
-Part 6, Division 3 Conciliation
+Part 6, Division 3 Resolution of complaints
 Part 6, Division 4 Inquiry
 Part 6, Division 5 Miscellaneous
 Part 7 Miscellaneous
