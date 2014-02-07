@@ -21,6 +21,7 @@ Part 8 Financial Management
 Part 8, Division 1 Funds, expenditure and investments
 Part 8, Division 2 Borrowings
 Part 8, Division 3 Accounts and audit
+Part 8, Division 4 Audit panels
 Part 9 Rates and Charges
 Part 9, Division 1 General provisions
 Part 9, Division 2 General rates
