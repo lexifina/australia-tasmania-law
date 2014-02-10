@@ -9,5 +9,4 @@ Part IVB, Division 2 Traffic infringement notices
 Part IVB, Division 3 Miscellaneous
 Part V Miscellaneous and General
 Part VI General Powers and Duties of the Transport Commission
-Part VII Alternative compliance schemes and operator accreditation
 Part VIII Electronic billboards
