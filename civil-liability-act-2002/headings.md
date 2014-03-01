@@ -3,6 +3,7 @@ Part 2 Intoxication
 Part 3 Recovery by criminals
 Part 4 Apologies
 Part 5 Structured Settlements
+Part 5A Provisional Damages
 Part 6 Breach of Duty
 Part 6, Division 1 Preliminary
 Part 6, Division 2 Standard of care
