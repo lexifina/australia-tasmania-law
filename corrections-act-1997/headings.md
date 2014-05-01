@@ -4,6 +4,8 @@ Part 3 Establishment and control of prisons
 Part 3, Division 1 Establishment of prisons
 Part 3, Division 2 Access to prison
 Part 4 Custody and treatment of prisoners and detainees
+Part 4A Use of Force
+Part 4B Use of Mechanical Restraints not Requiring Force
 Part 5 Transfers, removals and temporary absences from prison of prisoners and detainees
 Part 6 Interstate leave of absence for prisoners
 Part 7 Prison Discipline
