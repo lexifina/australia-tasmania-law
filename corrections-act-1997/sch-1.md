@@ -12,7 +12,7 @@ Section 3
 10.  | Maiming, injuring or tattooing himself or herself or any other prisoner or detainee.
 11.  | Intentionally endangering the health of another person.
 12.  | Committing any act contrary to the good order or maintenance of prison discipline or security.
-13.  | Damaging, defacing or destroying any prison property.
+13.  | Damaging, defacing or destroying any prison property or recklessly or carelessly losing any prison property.
 14.  | Setting anything alight if not authorised.
 15.  | Stealing, unlawfully receiving or embezzling anything.
 16.  | Trafficking with another prisoner or detainee or any other person.
