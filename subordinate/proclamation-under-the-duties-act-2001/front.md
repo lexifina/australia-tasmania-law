@@ -5,7 +5,7 @@ I, the Governor in and over the State of Tasmania and its Dependencies in the Co
 (ii) Parliamentary Superannuation and Retiring Benefits Trust;
 (iii) State Fire Commission;
 (iv) Tasmania Development and Resources Board;
-(v) Tasmanian Ambulance Service;
+(v) Ambulance Tasmania;
 (vi) Tasmanian Library Advisory Board;
 (vii) Tasmanian Qualifications Authority;
 (ix) Botanical Gardens Board;
