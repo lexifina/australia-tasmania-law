@@ -4,6 +4,10 @@ Part 2A Planning Directives
 Part 3 Planning Schemes
 Part 3, Division 1 Preparation of planning schemes
 Part 3, Division 1A Regional land use strategies and interim planning schemes
+Part 3, Division 1A, Subdivision 1 Purposes and interpretation
+Part 3, Division 1A, Subdivision 2 Regional areas and land use strategies
+Part 3, Division 1A, Subdivision 3 Interim planning schemes
+Part 3, Division 1A, Subdivision 4 Dispensations
 Part 3, Division 2 Amendment of planning scheme
 Part 3, Division 2A Combined permit and amendment process
 Part 3, Division 3 Reviews of planning schemes
