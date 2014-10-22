@@ -48,7 +48,7 @@ Section 3(1)
 (b)  |  | to conserve geological diversity;
 (c)  |  | to preserve the quality of water and protect catchments;
 (d)  |  | to conserve sites or areas of cultural significance;
-(e)  |  | to provide for the controlled use of natural resources, including as an adjunct to utilisation of marine resources;
+(e)  |  | to provide for the controlled use of natural resources including special species timber harvesting, and including as an adjunct to utilisation of marine resources;
 (f)  |  | to provide for exploration activities and utilisation of mineral resources;
 (g)  |  | to provide for the taking, on an ecologically sustainable basis, of designated game species for commercial or private purposes, or both;
 (h)  |  | to provide for other commercial or industrial uses of coastal areas;
@@ -70,7 +70,7 @@ Section 3(1)
 (j)  |  | to provide for exploration activities and utilisation of mineral resources.
 7.  | Regional reserve | The following objectives:
 (a)  |  | to provide for mineral exploration activities and utilisation of mineral resources;
-(b)  |  | to provide for the controlled use of other natural resources including the harvesting of special species timbers (if permitted by order made under section 19(2) of the Tasmanian Forests Agreement Act 2013);
+(b)  |  | to provide for the controlled use of other natural resources including special species timber harvesting;
 (c)  |  | to conserve natural biological diversity;
 (d)  |  | to conserve geological diversity;
 (e)  |  | to preserve the quality of water and protect catchments;
