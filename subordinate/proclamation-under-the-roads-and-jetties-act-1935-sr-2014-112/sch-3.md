@@ -1,0 +1,3 @@
+# Schedule 3 New definition of King Island Main Road
+Name | Definition | Length in miles
+King Island Main Road | From the junction of Rocky Point Road and Haines Road near Egg Lagoon to Blackwood Street, Grassy, via Reekara, Main Street and Edward Street in Currie, Pegarah, and Lymwood (partly North Road and partly Grassy Road), and including the Grassy Harbour Road to the boundary of the King Island Ports Corporation property at the harbour (2.80km), and including the section of Don Kendall Drive to the junction of Morrison Avenue (1.63km), and Morrison Avenue to the boundary of the King Island Airport property (1.04km). | 44.81(72.11 kilometres)
