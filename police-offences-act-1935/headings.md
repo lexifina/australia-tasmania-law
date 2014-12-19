@@ -31,7 +31,7 @@ Part VII Powers of Police Officers and Other Persons
 Part VII, Division I Arrest
 Part VII, Division II Entry and search
 Part VII, Division III Search warrants
-Part VII, Division IV Liquor infringement notices
+Part VII, Division IV Infringement notices
 Part VIII Declaration of Crime Scenes and Serious Incident Sites
 Part VIII, Division 1 Crime scenes
 Part VIII, Division 2 Serious incident sites
