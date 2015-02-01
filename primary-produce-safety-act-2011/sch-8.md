@@ -1,5 +1,2 @@
 # Schedule 8 Legislation Further revoked
-[Not yet in force. Commences: 1 February 2015]
-Regulation 95
-Proclamation under the Meat Hygiene Act 1985 (No. 131 of 1988)
-[End of text not yet in force]
+The amendments effected by Regulation 95 and this Schedule have been incorporated into the authorised version of the Proclamation under the Meat Hygiene Act 1985.
