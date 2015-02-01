@@ -19,6 +19,8 @@ Part 4, Division 2 Development control
 Part 4, Division 2A Special permits for projects of regional significance
 Part 4, Division 3 Planning appeals
 Part 4, Division 4 Offences, remedies, &c.
+Part 4, Division 4A Enforcement by planning authorities
+Part 4, Division 4B Authorised officers
 Part 4, Division 5 Compensation and protection from liability
 Part 5 Agreements
 Part 6 Miscellaneous
