@@ -29,10 +29,7 @@ Clause 5(2)
 23.  | Barrier Creek
 24.  | Bold Head
 25.  | Boulder Point
-26.  | Cape Farewell
-27.  | Cape Wickham
 28.  | Catarique Point
-29.  | Councillor Island
 30.  | Fraser Bluff
 31.  | Grassy
 32.  | Naracoopa Beach
