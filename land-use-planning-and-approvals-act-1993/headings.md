@@ -24,3 +24,5 @@ Part 4, Division 4B Authorised officers
 Part 4, Division 5 Compensation and protection from liability
 Part 5 Agreements
 Part 6 Miscellaneous
+Part 6, Division 1 Electronic database and documents
+Part 6, Division 2 Other matters
