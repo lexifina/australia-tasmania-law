@@ -1,12 +1,12 @@
 Part 1 Preliminary
-Part 2 Tasmanian Qualifications Authority
-Part 2, Division 1 Tasmanian Qualifications Authority
-Part 2, Division 2 Duties of members of Authority
-Part 2, Division 3 Chief executive officer and other staff
+Part 2 Office of Tasmanian Assessment, Standards and Certification
+Part 2, Division 1 Office of Tasmanian Assessment, Standards and Certification
+Part 2, Division 3 Executive Officer and staff of Office
 Part 2, Division 4 Committees
 Part 2, Division 5 Financial affairs
 Part 3 Senior Secondary Education
-Part 3, Division 1 Accredited senior secondary courses
+Part 3, Division 1 Preliminary
+Part 3, Division 1A Accredited senior secondary courses
 Part 3, Division 2 Senior secondary education otherwise than by completion of accredited senior secondary course
 Part 3, Division 3 Registration of student exchange organisations
 Part 4 Higher Education
@@ -27,7 +27,7 @@ Part 4C Recognition of Other Qualifications
 Part 4D Establishing New University
 Part 4D, Division 1 Application for establishment of new university
 Part 4D, Division 2 Investigation of application
-Part 4D, Division 3 Recommendation of Authority
+Part 4D, Division 3 Recommendation of Office
 Part 5 Investigations and inspections
 Part 6 Review of Decisions
 Part 7 Registers

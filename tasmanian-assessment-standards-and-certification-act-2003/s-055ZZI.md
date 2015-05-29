@@ -1,5 +1,5 @@
 # 55ZZI. Direction to registered education (overseas students) provider
-(1) The Authority may direct a registered education (overseas students) provider to take any action the Authority considers appropriate or refrain from doing any act if the Authority is of the opinion that –
+(1) The Office may direct a registered education (overseas students) provider to take any action the Office considers appropriate or refrain from doing any act if the Office is of the opinion that –
 (a) the registered education (overseas students) provider has contravened this Act; or
 (b) the registered education (overseas students) provider has contravened a condition to which the registration is subject; or
 (c) it is appropriate to give the direction having taken into account the matters specified in section 55ZZA(2); or
