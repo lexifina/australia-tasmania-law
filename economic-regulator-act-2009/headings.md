@@ -1,7 +1,7 @@
 Part 1 Preliminary
 Part 2 Tasmanian Economic Regulator
 Part 2, Division 1 Tasmanian Economic Regulator
-Part 2, Division 2 Membership of Regulator
+Part 2, Division 2 Appointment of Regulator &c.
 Part 2, Division 3 Staff, assistance and facilities
 Part 2, Division 4 Finances of Regulator
 Part 2, Division 5 Annual report
