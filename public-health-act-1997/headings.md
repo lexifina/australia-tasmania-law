@@ -7,7 +7,8 @@ Part 2, Division 4 Councils
 Part 2, Division 5 Powers of councils and authorised officers
 Part 2, Division 6 Public Health Advisory Committee
 Part 3 Prevention and control of disease
-Part 3, Division 1 Notifiable diseases
+Part 3, Division 1 Notifiable diseases and notifiable contaminants
+Part 3, Division 1A Supply and use of needles and syringes
 Part 3, Division 2 Immunisation
 Part 3, Division 3 Confidentiality
 Part 4 Tobacco products
@@ -24,9 +25,12 @@ Part 5, Division 4 Public health risk activities
 Part 5, Division 5 Systems for air and water
 Part 5, Division 6 Miscellaneous
 Part 6 Water
-Part 6, Division 1 Orders and notices
+Part 6, Division 1 Interpretation
+Part 6, Division 1A Orders and notices
+Part 6, Division 1B Water quality management
 Part 6, Division 2 Monitoring water quality
-Part 6, Division 3 Registration of user or supplier of private water
+Part 6, Division 3 Registration of suppliers of water from private water sources
+Part 6, Division 4 Registration of water carriers
 Part 7 Registers
 Part 7, Division 1 Cervical Screening Register
 Part 7, Division 2 Information registers
