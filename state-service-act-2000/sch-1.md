@@ -19,9 +19,7 @@ Integrity Commission | Chief executive officer
 Macquarie Point Development Corporation | Chief executive officer
 Port Arthur Historic Site Management Authority | Chief executive officer
 Tasmanian Dairy Industry Authority | Chairperson of the Tasmanian Dairy Industry Authority
-Tasmanian Health Organisation – North | Chief executive officer
-Tasmanian Health Organisation – South | Chief executive officer
-Tasmanian Health Organisation – North West | Chief executive officer
+Tasmanian Health Service | Chief executive officer
 TasTAFE | Chief executive officer
 The Public Trustee | Chairperson of The Public Trustee
 Tourism Tasmania | Chief executive officer
