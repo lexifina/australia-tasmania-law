@@ -53,7 +53,7 @@ Part 5, Division 4 Responsible gambling
 Part 5, Division 5 Gaming control generally
 Part 5, Division 6 Disciplinary action
 Part 6 Minors
-Part 7 Tasmanian Gaming Commission
+Part 7 Tasmanian Liquor and Gaming Commission
 Part 8 Inspectors
 Part 9 Financial Provisions
 Part 9, Division 1 Accounts and levies
