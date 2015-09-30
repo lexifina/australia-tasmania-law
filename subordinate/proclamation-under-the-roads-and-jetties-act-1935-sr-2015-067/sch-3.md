@@ -1,0 +1,4 @@
+# Schedule 3 New developmental roads
+Name | Definition | Length in miles
+Mount William Developmental Road | From the junction of Waterhouse Developmental Road (also known as Carr Street) and Chaffey Street, Gladstone, to the southern boundary of the Musselroe Bay Conservation Area near Musselroe Bay, via Carr Street, Cape Portland Road, North Ansons Road and Musselroe Road | 13.75 (22.21 kilometres)
+Waterhouse Developmental Road | From the junction of Bridport Main Road (also known as Bridport Road) and Emily Street, Bridport, to the junction of Mount William Developmental Road (also known as Carr Street) and Chaffey Street, Gladstone, via Emily Street, Edward Street, Waterhouse Road and Carr Street, including a section of Main Street, Bridport, continuing for a distance of 460 metres west from the junction of Emily Street | 37.60 (60.51 kilometres)
