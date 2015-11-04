@@ -11,3 +11,5 @@ The following firearms are prohibited firearms:
 8. | A pistol that is of a reduced or an abridged size.
 9. | Any firearm or part of a firearm which has a dimension less than the prescribed minimum dimension.
 10. | A prohibited pistol.
+11.  | Any ex-military firearm that is a firearm in relation to which a firearm licence may not be issued.
+12.  | Any ordnance.

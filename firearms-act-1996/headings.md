@@ -18,6 +18,7 @@ Part 5 Safekeeping of Firearms
 Part 6 Firearm Dealers
 Part 6, Division 1 Records and returns
 Part 6, Division 2 Miscellaneous matters
+Part 6A Paintball
 Part 7 Offences
 Part 7, Division 1 Mailing, delivery or transporting firearms
 Part 7, Division 2 Sale and possession
