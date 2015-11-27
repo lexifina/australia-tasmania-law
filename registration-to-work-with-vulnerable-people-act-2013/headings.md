@@ -13,5 +13,7 @@ Part 6, Division 2 Registration cards
 Part 6, Division 3 Monitoring registered persons
 Part 6, Division 4 Suspending or cancelling registration
 Part 6, Division 5 Surrendering registration
+Part 6A Registrar's Powers in Relation to Compliance with, and Administration of, Act
 Part 7 Notification and Review of Decisions
+Part 7A Reportable Behaviour
 Part 8 Miscellaneous
