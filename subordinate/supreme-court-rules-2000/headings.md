@@ -99,7 +99,10 @@ Part 29 Contentious probate actions
 Part 30 Proceedings at the suit of the Crown
 Part 31 Administration of charitable trusts
 Part 32 Proceedings under particular statutes
-Part 32, Division 1 Proceedings under the Commercial Arbitration Act 2011
+Part 32, Division 1 Proceedings in arbitration
+Part 32, Division 1, Subdivision 1 Domestic proceedings under Commercial Arbitration Act 2011
+Part 32, Division 1, Subdivision 2 International proceedings under International Arbitration Act 1974
+Part 32, Division 1AA Proceedings under Crime (Confiscation of Profits) Act 1993
 Part 32, Division 1A Proceedings under the Judicial Review Act 2000
 Part 32, Division 2 Proceedings under the Jurisdiction of Courts (Cross-vesting) Act 1987
 Part 32, Division 2AA Proceedings under the Legal Profession Act 2007
