@@ -1,18 +1,36 @@
 Part 1 Preliminary
-Part 2 Functions of Commission under this Act
-Part 2A Planning Directives
-Part 3 Planning Schemes
-Part 3, Division 1 Preparation of planning schemes
-Part 3, Division 1A Regional land use strategies and interim planning schemes
-Part 3, Division 1A, Subdivision 1 Purposes and interpretation
-Part 3, Division 1A, Subdivision 2 Regional areas and land use strategies
-Part 3, Division 1A, Subdivision 3 Interim planning schemes
-Part 3, Division 2 Amendment of planning scheme
-Part 3, Division 2A Combined permit and amendment process
-Part 3, Division 3 Reviews of planning schemes
-Part 3, Division 3A Abolition of, or change of boundaries of, municipal districts
-Part 3, Division 4 Provisions relating to existing interim orders
-Part 3, Division 5 Special planning orders
+Part 2 The Tasmanian Planning Scheme
+Part 3 State Planning Provisions
+Part 3, Division 1 Making of State Planning Provisions
+Part 3, Division 1, Subdivision 1 Interpretation of Division 1
+Part 3, Division 1, Subdivision 2 Contents, criteria and explanatory documents in relation to SPPs
+Part 3, Division 1, Subdivision 3 Preparation of draft of the SPPs
+Part 3, Division 1, Subdivision 4 Public exhibition
+Part 3, Division 1, Subdivision 5 Making of State Planning Provisions
+Part 3, Division 2 Amendment of the SPPs
+Part 3, Division 2, Subdivision 1 Interpretation of Division 2
+Part 3, Division 2, Subdivision 2 Preparation of draft amendments of the SPPs
+Part 3, Division 2, Subdivision 3 Public exhibition
+Part 3, Division 2, Subdivision 4 Making of amendment of the SPPs
+Part 3, Division 3 Miscellaneous
+Part 3A Local Provisions Schedules
+Part 3A, Division 1 Interpretation
+Part 3A, Division 2 Contents of LPSs
+Part 3A, Division 3 Preparation of draft LPS
+Part 3A, Division 4 Public exhibition
+Part 3A, Division 5 Approval of Local Provisions Schedules
+Part 3A, Division 6 Review of LPSs
+Part 3A, Division 7 Special Local Provisions Schedules
+Part 3A, Division 8 Commission may take over certain responsibilities of planning authority
+Part 3B Amendments of LPSs
+Part 3B, Division 1 Interpretation
+Part 3B, Division 2 Requests for amendments of LPSs
+Part 3B, Division 3 Amendment of LPSs
+Part 3B, Division 3, Subdivision 1 Preparation of draft amendments of LPSs
+Part 3B, Division 3, Subdivision 2 Public exhibition
+Part 3B, Division 3, Subdivision 3 Approval of amendments of LPS
+Part 3B, Division 4 Combined permit and amendment process
+Part 3B, Division 5 Miscellaneous
 Part 4 Enforcement of Planning Control
 Part 4, Division 1 General
 Part 4, Division 2 Development control
