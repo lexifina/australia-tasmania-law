@@ -10,3 +10,7 @@
 4.  | For each person necessarily employed to assist with any execution or sale | Actual cost
 5.  | For service of each document in connection with the execution of civil process | 55.00
 6.  | For other necessary expenses of the Sheriff or any officer of the Sheriff in connection with the execution of civil process | Actual cost
+7.  | For a levy or seizure by the Sheriff – |
+(a)  | in respect of a debt not exceeding $20 000 | $310
+(b)  | in respect of a debt exceeding $20 000 | $620
+(c)  | in respect of a writ of execution that is otherwise than in respect of a debt | $620
