@@ -20,11 +20,21 @@ Part 7, Division 1 Wells
 Part 7, Division 2 Information relating to wells
 Part 7, Division 3 Well works
 Part 7, Division 4 Well driller's licences
-Part 8 Construction of dams
-Part 8, Division 1 Application of this Part
-Part 8, Division 2 Constitution of the Assessment Committee
-Part 8, Division 3 Functions of the Assessment Committee
-Part 8, Division 4 Permits for dam works
+Part 8 Dam Works
+Part 8, Division 1 Preliminary
+Part 8, Division 2 Offence to undertake dam works without authority of permit
+Part 8, Division 3 Division 3 permits
+Part 8, Division 3, Subdivision 1 Applications for Division 3 permits
+Part 8, Division 3, Subdivision 2 Determination of applications for Division 3 permits
+Part 8, Division 4 Division 4 permit
+Part 8, Division 5 Permits generally
+Part 8, Division 6 Amending permits
+Part 8, Division 7 Transfers of permits
+Part 8, Division 8 Registration of offsets for dam works
+Part 8, Division 9 Completion of dam works
+Part 8, Division 10 Dam operating notices
+Part 8, Division 11 Offences
+Part 8, Division 12 Miscellaneous
 Part 8A Safety of dams
 Part 8A, Division 1 Interpretation
 Part 8A, Division 2 Functions of Minister
