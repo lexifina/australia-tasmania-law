@@ -6,7 +6,7 @@ Division | 1
 Department of Education | Secretary
 Department of Health and Human Services | Secretary
 Department of Justice | Secretary
-Department of Police and Emergency Management | Secretary
+Department of Police, Fire and Emergency Management | Secretary
 Department of Premier and Cabinet | Secretary
 Department of Primary Industries, Parks, Water and Environment | Secretary
 Department of State Growth | Secretary
