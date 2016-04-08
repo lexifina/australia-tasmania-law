@@ -1,7 +1,6 @@
 Part 1 Preliminary
 Part 2 Disclosures of improper conduct and detrimental action
 Part 3 Protection
-Part 4 Disclosure made to State Service Commissioner
 Part 4A Disclosure made to Integrity Commission
 Part 5 Determination of public interest disclosures
 Part 5, Division 1 Determination by Ombudsman of public interest disclosures
