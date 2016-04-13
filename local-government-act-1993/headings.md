@@ -3,6 +3,11 @@ Part 3 Local Government
 Part 3, Division 1 Municipal areas and electoral districts
 Part 3, Division 2 Councils
 Part 3, Division 3 Councillors
+Part 3, Division 3A Code of conduct, complaints and complaint resolution
+Part 3, Division 3A, Subdivision 1 Code of Conduct Panel and Executive Officer
+Part 3, Division 3A, Subdivision 2 Code of conduct
+Part 3, Division 3A, Subdivision 3 Complaints against councillors
+Part 3, Division 3A, Subdivision 4 Reviews of Code of Conduct Panel decisions
 Part 3, Division 4 Authorities
 Part 3A Payments by Single and Joint Authorities
 Part 4 Elections
