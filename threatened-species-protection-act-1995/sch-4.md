@@ -45,13 +45,13 @@ Invertebrates
 | Species | Authority, Order | Common name
 1.  | Amelora acontistica | Turner, Lepidoptera | Chevron Looper Moth
 2.  | Astacopsis gouldi | Clark, Decapoda | Giant Freshwater Crayfish
-3.  | Austrochloritis victoriae | (Cox), Sigmurethra | Southern Hairy Red Snail
-3A.  | Beddomeia briansmithi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Fern Creek)
-4.  | Beddomeia krybetes | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (St. Pauls River)
+3.  | Beddomeia briansmithi | Ponder & Clark, Mesogastropoda | Fern Creek Freshwater Snail
+4.  | Beddomeia krybetes | Ponder & Clark, Mesogastropoda | St. Pauls River Freshwater Snail
 5.  | Beddomeia lodderae | Petterd, Mesogastropoda | Castra Rivulet Freshwater Snail
-5A.  | Beddomeia phasianella | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Keddies Creek)
-6.  | Beddomeia wiseae | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Blizzards Creek)
+5A.  | Beddomeia phasianella | Ponder & Clark, Mesogastropoda | Keddies Creek Freshwater Snail
+6.  | Beddomeia wiseae | Ponder & Clark, Mesogastropoda | Blizzards Creek Freshwater Snail
 7.  | Catadromus lacordairei | Boisduval, Coleoptera | Green-lined Ground Beetle
+7. 7A. | Chloritobadistes victoriae | (Cox), Eupulmonata | Southern Hairy Red Snail
 8.  | Dasybela achroa | Lower, Lepidoptera | Saltmarsh Looper Moth
 10.  | Engaeus martigener | Horwitz, Decapoda | Furneaux Burrowing Crayfish
 11.  | Engaeus orramakunna | Horwitz, Decapoda | Mt. Arthur Burrowing Crayfish
@@ -69,6 +69,7 @@ Dicotyledonae
 | Species | Authority, Family | Common name
 1.  | Acacia axillaris | Benth., Mimosaceae | midlands wattle
 2.  | Acrotriche cordata | (Labill.) R.Br., Epacridaceae | coast groundberry
+2A.  | Argyrotegium nitidulum | (Hook.f.) J.M.Ward & Breitw., Asteraceae | shining cottonleaf
 3.  | Atriplex suberecta | I.Verd., Chenopodiaceae | sprawling saltbush
 4.  | Bedfordia arborescens | Hochr., Asteraceae | tree blanketleaf
 5.  | Boronia gunnii | Hook.f., Rutaceae | river boronia
@@ -97,7 +98,6 @@ Dicotyledonae
 31.  | Ozothamnus reflexifolius | K.Leeson & Rozefelds, Asteraceae | reflexed everlastingbush
 32.  | Persicaria decipiens | (R.Br.) K.L.Wilson, Polygonaceae | slender waterpepper
 33.  | Phyllangium divergens | (Hook.f.) Dunlop, Loganiaceae | wiry mitrewort
-34.  | Plantago gaudichaudii | Barneoud, Plantaginaceae | narrow plantain
 35.  | Pomaderris elachophylla | F.Muell., Rhamnaceae | small-leaf dogwood
 35A.  | Poranthera petalifera | (Orchard & J.B.Davies) Halford & R.J.F.Hend., Euphorbiaceae | mountain poranthera
 36.  | Prostanthera rotundifolia | R.Br., Lamiaceae | roundleaf mintbush
@@ -105,9 +105,11 @@ Dicotyledonae
 38.  | Pultenaea mollis | Lindl., Fabaceae | soft bushpea
 39.  | Pultenaea prostrata | Benth. ex Hook.f., Fabaceae | silky bushpea
 40.  | Pultenaea sericea | (Benth.) Corrick, Fabaceae | chaffy bushpea
-40A.  | Scaevola albida | (Sm.) Druce, Goodeniaceae | pale fanflower
+40A.  | Rumex bidens | R.Br., Polygonaceae | mud dock
+40B.  | Scaevola albida | (Sm.) Druce, Goodeniaceae | pale fanflower
 41.  | Scleranthus diander | R.Br., Caryophyllaceae | tufted knawel
 42.  | Scleranthus fasciculatus | (R.Br.) Hook.f., Caryophyllaceae | spreading knawel
+42A.  | Senecio campylocarpus | I.Thomps., Asteraceae | bulging fireweed
 43.  | Spyridium lawrencei | (Hook.f.) Benth., Rhamnaceae | small-leaf dustymiller
 44.  | Spyridium obcordatum | (Hook.f.) W.M.Curtis, Rhamnaceae | creeping dustymiller
 44A.  | Stackhousia pulvinaris | F.Muell., Stackhousiaceae | alpine candles
@@ -117,12 +119,14 @@ Dicotyledonae
 48.  | Velleia paradoxa | R.Br., Goodeniaceae | spur velleia
 48A.  | Veronica ciliolata subsp. fiordensis | (Ashwin) Meudt, Scrophulariaceae | ben lomond cushionplant
 49.  | Veronica novae-hollandiae | Poir., Scrophulariaceae | coast speedwell
+50.  | Xerochrysum palustre | (Flann) R.J.Bayer, Asterceae | swamp everlasting
 Monocotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Caladenia caudata | Nicholls, Orchidaceae | tailed spider-orchid
 2.  | Caladenia patersonii | R.Br., Orchidaceae | patersons spider-orchid
 2A.  | Nematoceras dienemum | (D.L.Jones) D.L.Jones, M.A.Clem. & Molloy, Orchidaceae | windswept helmet-orchid
+2B.  | Prasophyllum amoenum | D.L.Jones, Orchidaceae | dainty leek-orchid
 3.  | Pterostylis pratensis | D.L.Jones, Orchidaceae | liawenee greenhood
 4.  | Pterostylis ziegeleri | D.L.Jones, Orchidaceae | grassland greenhood
 4A.  | Sowerbaea juncea | Andrews, Liliaceae | purple rushlily

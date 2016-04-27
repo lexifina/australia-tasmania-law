@@ -27,21 +27,21 @@ Invertebrates
 1.  | Allanaspides hickmani | Swain, Wilson & Ong, Syncarida | Hickman's Pigmy Mountain Shrimp
 2.  | Beddomeia angulata | Ponder & Clark, Mesogastropoda | Rapid River Freshwater Snail
 3.  | Beddomeia bellii | Petterd, Mesogastropoda | Bells Freshwater Snail
-4.  | Beddomeia bowryensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Bowry Creek)
-6.  | Beddomeia fallax | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Heathcote Creek)
+4.  | Beddomeia bowryensis | Ponder & Clark, Mesogastropoda | Bowry Creek Freshwater Snail
+6.  | Beddomeia fallax | Ponder & Clark, Mesogastropoda | Heathcote Creek Freshwater Snail
 7.  | Beddomeia forthensis | Ponder & Clark, Mesogastropoda | Forth River Freshwater Snail
-8.  | Beddomeia franklandensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Frankland River)
-9.  | Beddomeia gibba | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Salmon River Road)
+8.  | Beddomeia franklandensis | Ponder & Clark, Mesogastropoda | Frankland River Freshwater Snail
+9.  | Beddomeia gibba | Ponder & Clark, Mesogastropoda | Lerunna Road Freshwater Snail
 10.  | Beddomeia hullii | Petterd, Mesogastropoda | Hulls Freshwater Snail
 11.  | Beddomeia inflata | Ponder & Clark, Mesogastropoda | Upper Castra Freshwater Snail
-12.  | Beddomeia mesibovi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Arthur River)
-13.  | Beddomeia minima | Petterd, Mesogastropoda | Hydrobiid Snail (Scottsdale)
-15.  | Beddomeia protuberata | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Emu River)
-16.  | Beddomeia salmonis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Salmon River)
-17.  | Beddomeia tasmanica | Tenison-Woods, Mesogastropoda | Hydrobiid Snail (Terrys Creek)
-18.  | Beddomeia topsiae | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Williamson Creek)
+12.  | Beddomeia mesibovi | Ponder & Clark, Mesogastropoda | Arthur River Freshwater Snail
+13.  | Beddomeia minima | Petterd, Mesogastropoda | Scottsdale Freshwater Snail
+15.  | Beddomeia protuberata | Ponder & Clark, Mesogastropoda | Emu River Freshwater Snail
+16.  | Beddomeia salmonis | Ponder & Clark, Mesogastropoda | Salmon River Freshwater Snail
+17.  | Beddomeia tasmanica | Tenison-Woods, Mesogastropoda | Blue Tier Freshwater Snail
+18.  | Beddomeia topsiae | Ponder & Clark, Mesogastropoda | Williamson Creek Freshwater Snail
 19.  | Beddomeia trochiformis | Ponder & Clark, Mesogastropoda | Savage River Mine Freshwater Snail
-20.  | Beddomeia turnerae | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Minnow River)
+20.  | Beddomeia turnerae | Ponder & Clark, Mesogastropoda | Minnow River Freshwater Snail
 21.  | Beddomeia wilmotensis | Ponder & Clark, Mesogastropoda | Wilmot River Freshwater Snail
 22.  | Beddomeia zeehanensis | Ponder & Clark, Mesogastropoda | Zeehan Freshwater Snail
 23.  | Benthodorbis pawpela | Winston Ponder, Mesogastropoda | Great Lake Glacidorbid Snail
@@ -61,7 +61,6 @@ Invertebrates
 36A.  | Lissotes menalcas | Westwood, Coleoptera | Mount Mangana Stag Beetle
 37.  | Mesacanthotelson setosus | Nicholls, Isopoda | Isopod (Great Lake)
 38.  | Mesacanthotelson tasmaniae | Thomson, Isopoda | Isopod (Great Lake)
-39.  | Migas plomleyi | Raven and Churchill, Araneae | Spider (Cataract Gorge)
 40.  | Oecetis gilva | Neboiss, Trichoptera | Caddis Fly (South Esk River)
 41.  | Olgania excavata | Hickman, Araneae | Cave Spider (Bubs Hill Cave)
 42.  | Onchotelson brevicaudatus | Smith, Isopoda | Isopod (Great Lake & Shannon Lagoon)
@@ -70,7 +69,7 @@ Invertebrates
 45.  | Oxyethira mienica | Wells, Trichoptera | Caddis Fly (Ouse River)
 46.  | Parvotettix rangaensis | Richards, Orthoptera | Cave Cricket
 47.  | Parvotettix whinrayi | Richards, Orthoptera | Whinray's Cave Cricket
-48.  | Phrantela annamurrayae | Ponder & Clark, Mesogastropoda | Warratah Road Freshwater Snail
+48.  | Phrantela annamurrayae | Ponder & Clark, Mesogastropoda | Waratah Road Freshwater Snail
 49.  | Phrantela conica | Ponder & Clark, Mesogastropoda | Little Henty River Freshwater Snail
 50.  | Phrantela marginata | Petterd, Mesogastropoda | Heazlewood River Freshwater Snail
 51.  | Phrantela pupiformis | Ponder & Clark, Mesogastropoda | Tyenna River Freshwater Snail
@@ -104,7 +103,7 @@ Dicotyledonae
 12.  | Australina pusilla subsp. muelleri | (Wedd.) Friis & Wilmot-Dear, Urticaceae | shade nettle
 13.  | Austrocynoglossum latifolium | (R.Br.) R.R.Mill, Boraginaceae | forest houndstongue
 14.  | Banksia serrata | L.f., Proteaceae | saw banksia
-15.  | Bossiaea obcordata | (Vent.) Druce, Fabaceae | spiny bossia
+15.  | Bossiaea tasmanica | I.Thomps., Fabaceae | spiny bossia
 16.  | Brachyglottis brunonis | (Hook.f.) B.Nord., Asteraceae | tasmanian daisytree
 17.  | Brachyloma depressum | (F.Muell.) Benth., Epacridaceae | spreading heath
 19.  | Brachyscome perpusilla | (Steetz) J.M.Black, Asteraceae | tiny daisy
@@ -127,7 +126,6 @@ Dicotyledonae
 38.  | Cullen microcephalum | (Rchb. ex Kunze) J.W.Grimes, Fabaceae | dusky scurfpea
 39.  | Cuscuta tasmanica | Engelm., Cuscutaceae | golden dodder
 39A.  | Cyathodes platystoma | C.M.Weiller, Epacridaceae | tall cheeseberry
-40.  | Cynoglossum australe | R.Br., Boraginaceae | coast houndstongue
 41.  | Cyphanthera tasmanica | Miers, Solanaceae | tasmanian rayflower
 42.  | Drosera glanduligera | Lehm., Droseraceae | scarlet sundew
 43.  | Elaeocarpus reticulatus | Sm., Elaeocarpaceae | blueberry ash
@@ -165,9 +163,8 @@ Dicotyledonae
 77.  | Lasiopetalum discolor | Hook., Sterculiaceae | coast velvetbush
 78.  | Lasiopetalum micranthum | Hook.f., Sterculiaceae | tasmanian velvetbush
 79.  | Lepidium flexicaule | Kirk, Brassicaceae | springy peppercress
-80.  | Lepidium pseudotasmanicum | Thell., Brassicaceae | shade peppercress
+80.  | Leucopogon affinis | R.Br., Epacridaceae | lance beardheath
 81.  | Leucopogon esquamatus | R.Br., Epacridaceae | swamp beardheath
-82.  | Leucopogon lanceolatus var. lanceolatus | (Sm.) R.Br., Epacridaceae | lance beardheath
 83.  | Leucopogon virgatus var. brevifolius | Benth., Epacridaceae | shortleaf beardheath
 84.  | Limonium australe var. australe | (R.Br.) Kuntze, Plumbaginaceae | yellow sea-lavender
 84A.  | Liparophyllum exaltatum | (Sol. ex Sims) Tippery & Les, Menyanthaceae | erect marshflower
@@ -175,7 +172,6 @@ Dicotyledonae
 86.  | Lotus australis | Andrews, Fabaceae | australian trefoil
 87.  | Melaleuca pustulata | Hook.f., Myrtaceae | warty paperbark
 88.  | Micrantheum serpentinum | Orchard, Euphorbiaceae | western tridentbush
-89.  | Millotia muelleri | (Sond.) P.S.Short, Asteraceae | clustered bowflower
 90.  | Monotoca submutica var. autumnalis | Jarman, Epacridaceae | roundleaf broomheath
 91.  | Muehlenbeckia axillaris | (Hook.f.) Endl., Polygonaceae | matted lignum
 92.  | Myriophyllum muelleri | Sond., Haloragaceae | hooded watermilfoil
@@ -200,25 +196,23 @@ Dicotyledonae
 112.  | Pomaderris intermedia | Sieber ex DC., Rhamnaceae | lemon dogwood
 113.  | Pomaderris oraria subsp. oraria | F.Muell. ex Reissek, Rhamnaceae | bassian dogwood
 114.  | Pomaderris paniculosa subsp. paralia | N.G.Walsh, Rhamnaceae | shining dogwood
-115.  | Pomaderris phylicifolia | Lodd. ex Link, Rhamnaceae | narrowleaf dogwood
+115.  | Pomaderris phylicifolia subsp. ericoides | (Maiden & Betche) N.G.Walsh & Coates, Rhamnaceae | revolute narrowleaf dogwood
+115A.  | Pomaderris phylicifolia subsp. phylicifolia | Lodd. ex Link, Rhamnaceae | narrowleaf dogwood
 116.  | Ranunculus acaulis | Banks & Sol. ex DC., Ranunculaceae | dune buttercup
 117.  | Ranunculus collicola | Menadue, Ranunculaceae | lake augusta buttercup
 118.  | Ranunculus jugosus | Menadue, Ranunculaceae | twinned buttercup
 119.  | Ranunculus pumilio var. pumilio | R.Br. ex DC., Ranunculaceae | ferny buttercup
-120.  | Ranunculus sessiliflorus var. sessiliflorus | R.Br. ex DC., Ranunculaceae | rockplate buttercup
 121.  | Rhodanthe anthemoides | (Spreng.) Paul G.Wilson, Asteraceae | chamomile sunray
-122.  | Rumex bidens | R.Br., Polygonaceae | mud dock
 123A.  | Schenkia australis | (R.Br.) G.Mans., Gentianaceae | spike centaury
 124.  | Scleranthus brockiei | P.A.Will., Caryophyllaceae | mountain knawel
 125.  | Scutellaria humilis | R.Br., Lamiaceae | dwarf scullcap
 126.  | Senecio squarrosus | A.Rich., Asteraceae | leafy fireweed
-127.  | Senecio velleioides | A.Cunn. ex DC., Asteraceae | forest groundsel
 128.  | Sicyos australis | Endl., Cucurbitaceae | star cucumber
 129.  | Siloxerus multiflorus | Nees, Asteraceae | small wrinklewort
 130.  | Spyridium parvifolium var. molle | (Hook.f.) Benth., Rhamnaceae | soft dustymiller
 131.  | Spyridium parvifolium var. parvifolium | (Hook.) F.Muell., Rhamnaceae | coast dustymiller
 132.  | Spyridium vexilliferum var. vexilliferum | (Hook.) Reissek, Rhamnaceae | helicopter bush
-134.  | Stellaria multiflora | Hook., Caryophyllaceae | rayless starwort
+134.  | Stellaria multiflora subsp. nebulosa | C.H.Mill. & J.G.West, Caryophyllaceae | nebulous rayless starwort
 135.  | Stylidium beaugleholei | J.H.Willis, Stylidiaceae | blushing triggerplant
 136.  | Stylidium despectum | R.Br., Stylidiaceae | small triggerplant
 137.  | Stylidium perpusillum | Hook.f., Stylidiaceae | tiny triggerplant
@@ -232,6 +226,7 @@ Dicotyledonae
 146.  | Viola caleyana | G.Don, Violaceae | swamp violet
 147.  | Viola cunninghamii | Hook.f., Violaceae | alpine violet
 148.  | Viola hederacea subsp. curtisiae | L.G.Adams, Violaceae | montane ivyleaf
+148A.  | Vittadinia burbidgeae | A.M.Gray & Rozefelds, Asteraceae | smooth new-holland-daisy
 149.  | Vittadinia cuneata var. cuneata | DC., Asteraceae | fuzzy new-holland-daisy
 150.  | Vittadinia gracilis | (Hook.f.) N.T.Burb., Asteraceae | woolly new-holland-daisy
 151.  | Vittadinia muelleri | N.T.Burb., Asteraceae | narrowleaf new-holland-daisy
@@ -244,17 +239,14 @@ Dicotyledonae
 Monocotyledonae
 | Column 1 | Column 2 | Column3
 | Species | Authority, Family | Common name
-1.  | Agrostis aff. hiemalis | (Walt.) Britton et al., Poaceae | alpine winter bent
 2.  | Agrostis australiensis | Mez, Poaceae | southern bent
 3.  | Agrostis diemenica | D.I.Morris, Poaceae | flatleaf southern bent
 4.  | Amphibromus neesii | Steud., Poaceae | southern swampgrass
 5.  | Aphelia gracilis | Sond., Centrolepidaceae | slender fanwort
 6.  | Aphelia pumilio | F.Muell. ex Sond., Centrolepidaceae | dwarf fanwort
-7.  | Arthropodium strictum | R.Br., Liliaceae | chocolate lily
 8.  | Australopyrum velutinum | (Nees) B.K.Simon, Poaceae | velvet wheatgrass
 11.  | Austrostipa bigeniculata | (Hughes) S.W.L.Jacobs & J.Everett, Poaceae | doublejointed speargrass
 12.  | Austrostipa blackii | (C.E.Hubb.) S.W.L.Jacobs & J.Everett, Poaceae | crested speargrass
-13.  | Austrostipa nodosa | (S.T.Blake) S.W.L.Jacobs & J.Everett, Poaceae | knotty speargrass
 14.  | Austrostipa scabra | (Lindl.) S.W.L.Jacobs & J.Everett, Poaceae | rough speargrass
 15.  | Baumea articulata | (R.Br.) S.T.Blake, Cyperaceae | jointed twigsedge
 16.  | Baumea gunnii | (Hook.f.) S.T.Blake, Cyperaceae | slender twigsedge
@@ -277,13 +269,11 @@ Monocotyledonae
 33.  | Deyeuxia apsleyensis | D.I.Morris, Poaceae | apsley bentgrass
 35.  | Deyeuxia brachyathera | (Stapf) Vickery, Poaceae | short bentgrass
 36.  | Deyeuxia decipiens | (R.Br.) Vickery, Poaceae | trickery bentgrass
-37.  | Deyeuxia densa | Benth., Poaceae | heath bentgrass
 38.  | Deyeuxia minor | F.Muell. ex Benth., Poaceae | small bentgrass
 39.  | Dianella amoena | G.W.Carr & P.F.Horsfall, Liliaceae | grassland flaxlily
 40.  | Dryopoa dives | (F.Muell.) Vickery, Poaceae | giant mountaingrass
 41.  | Hierochloe rariflora | Hook.f., Poaceae | cane holygrass
 42.  | Hydrorchis orbicularis | (R.S.Rogers) D.L.Jones & M.A.Clem., Orchidaceae | swamp onion-orchid
-43.  | Hypoxis vaginata | Schltdl., Liliaceae | sheathing yellowstar
 44.  | Isolepis habra | (Edgar) Sojak, Cyperaceae | wispy clubsedge
 45.  | Isolepis stellata | (C.B.Clarke) K.L.Wilson, Cyperaceae | star clubsedge
 46.  | Juncus amabilis | Edgar, Juncaceae | gentle rush
@@ -294,7 +284,6 @@ Monocotyledonae
 51.  | Lachnagrostis punicea subsp. filifolia | (Vickery) S.W.L.Jacobs, Poaceae | narrowleaf blowngrass
 52.  | Lachnagrostis punicea subsp. punicea | (A.J.Br. & N.G.Walsh) S.W.L.Jacobs, Poaceae | bristle blowngrass
 53.  | Lachnagrostis robusta | (Vickery) S.W.L.Jacobs, Poaceae | tall blowngrass
-54.  | Lachnagrostis scabra subsp. scabra | (Beauv.) Nees ex Steud., Poaceae | rough blowngrass
 55.  | Lepidosperma forsythii | A.A.Hamilton, Cyperaceae | stout rapiersedge
 56.  | Lepidosperma tortuosum | F.Muell., Cyperaceae | twisting rapiersedge
 57.  | Lepidosperma viscidum | R.Br., Cyperaceae | sticky swordsedge
@@ -308,10 +297,8 @@ Monocotyledonae
 65.  | Orthoceras strictum | R.Br., Orchidaceae | horned orchid
 66.  | Poa halmaturina | J.M.Black, Poaceae | dune tussockgrass
 67.  | Poa mollis | Vickery, Poaceae | soft tussockgrass
-68.  | Poa poiformis var. ramifer | D.I.Morris, Poaceae | island purplegrass
 70.  | Prasophyllum tadgellianum | R.S.Rogers, Orchidaceae | tadgells leek-orchid
 70A.  | Pterostylis atriola | D.L.Jones, Orchidaceae | snug greenhood
-71.  | Pterostylis falcata | R.S.Rogers, Orchidaceae | sickle greenhood
 72.  | Pterostylis grandiflora | R.Br., Orchidaceae | superb greenhood
 73.  | Pterostylis sanguinea | D.L.Jones & M.A. Clem., Orchidaceae | banded greenhood
 74.  | Pterostylis squamata | R.Br., Orchidaceae | ruddy greenhood
@@ -319,11 +306,9 @@ Monocotyledonae
 76.  | Ruppia megacarpa | R.Mason, Ruppiaceae | largefruit seatassel
 77.  | Ruppia tuberosa | J.S.Davis & Toml., Ruppiaceae | tuberous seatassel
 77A.  | Rytidosperma indutum | (Vickery) Connor & Edgar, Poaceae | tall wallabygrass
-77B.  | Rytidosperma popinensis | (D.I.Morris) A.M.Humphreys & H.P.Linder, Poaceae | blue wallabygrass
 77C.  | Rytidosperma remotum | (D.I.Morris) A.M.Humphreys & H.P.Linder, Poaceae | remote wallabygrass
 78.  | Schoenoplectus tabernaemontani | (C.C.Gmel.) Palla, Cyperaceae | river clubsedge
 79.  | Schoenus brevifolius | R.Br., Cyperaceae | zigzag bogsedge
-81.  | Sporobolus virginicus | (L.) Kunth, Poaceae | salt couch
 81A.  | Stuckenia pectinata | (L.) Börner, Potamogetonaceae | fennel pondweed
 82.  | Thelymitra holmesii | Nicholls, Orchidaceae | bluestar sun-orchid
 83.  | Thelymitra mucida | Fitzg., Orchidaceae | plum sun-orchid

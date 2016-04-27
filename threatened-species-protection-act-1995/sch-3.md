@@ -55,18 +55,18 @@ Invertebrates
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Order | Common name
 1.  | Antipodia chaostola leucophaea | Couchman, Lepidoptera | Tasmanian Chaostola Skipper
-2.  | Beddomeia averni | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (West Gawler)
-3.  | Beddomeia camensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Cam River)
-4.  | Beddomeia capensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Table Cape)
-5.  | Beddomeia fromensis | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Frome River)
-6.  | Beddomeia fultoni | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Farnhams Creek)
-7.  | Beddomeia hallae | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Buttons Rivulet)
-8.  | Beddomeia hermansi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Viking Creek)
-9.  | Beddomeia kershawi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (Macquarie River)
-10.  | Beddomeia launcestonensis | Johnston, Mesogastropoda | Hydrobiid Snail (Cataract Gorge)
+2.  | Beddomeia averni | Ponder & Clark, Mesogastropoda | West Gawler Freshwater Snail
+3.  | Beddomeia camensis | Ponder & Clark, Mesogastropoda | Cam River Freshwater Snail
+4.  | Beddomeia capensis | Ponder & Clark, Mesogastropoda | Table Cape Freshwater Snail
+5.  | Beddomeia fromensis | Ponder & Clark, Mesogastropoda | Frome River Freshwater Snail
+6.  | Beddomeia fultoni | Ponder & Clark, Mesogastropoda | Farnhams Creek Freshwater Snail
+7.  | Beddomeia hallae | Ponder & Clark, Mesogastropoda | Buttons Rivulet Freshwater Snail
+8.  | Beddomeia hermansi | Ponder & Clark, Mesogastropoda | Viking Creek Freshwater Snail
+9.  | Beddomeia kershawi | Ponder & Clark, Mesogastropoda | Macquarie River Freshwater Snail
+10.  | Beddomeia launcestonensis | Johnston, Mesogastropoda | Cataract Gorge Freshwater Snail
 11.  | Beddomeia petterdi | Ponder & Clark, Mesogastropoda | Blythe River Freshwater Snail
-12.  | Beddomeia ronaldi | Ponder & Clark, Mesogastropoda | Hydrobiid Snail (St. Patricks River)
-13.  | Beddomeia tumida | Petterd, Mesogastropoda | Hydrobiid Snail (Great Lake)
+12.  | Beddomeia ronaldi | Ponder & Clark, Mesogastropoda | St. Patricks River Freshwater Snail
+13.  | Beddomeia tumida | Petterd, Mesogastropoda | Great Lake Freshwater Snail
 14.  | Beddomeia waterhouseae | Ponder & Clark, Mesogastropoda | Claytons Rivulet Freshwater Snail
 15.  | Castiarina insculpta | (Carter), Coleoptera | Miena Jewel Beetle
 16.  | Chrysolarentia decisaria | Walker, Lepidoptera | Tunbridge Looper Moth
@@ -78,6 +78,7 @@ Invertebrates
 22.  | Lissotes latidens | Westwood, Coleoptera | Broad-toothed Stag Beetle
 23.  | Marginaster littoralis | Dartnell, Asterinidae | Seastar
 24.  | Micropathus kiernani | Richards, Orthoptera | Southern Sandstone Cave Cricket
+24A.  | Migas plomleyi | Raven and Churchill, Araneae | Plomleys Trapdoor Spider
 25.  | Miselaoma weldi | Tenison-Woods, Sigmurethra | Stanley Snail
 26.  | Onchotelson spatulatus | Nicholls, Isopoda | Isopod (Great Lake)
 27.  | Oreisplanus munionga larana | Olliff, Lepidoptera | Marrawah Skipper
@@ -110,6 +111,7 @@ Dicotyledonae
 15.  | Epacris stuartii | Stapf, Epacridaceae | southport heath
 16.  | Eucalyptus gunnii subsp. divaricata | (McAulay & Brett) B.M.Potts, Myrtaceae | miena cider gum
 17.  | Eucalyptus morrisbyi | Brett, Myrtaceae | morrisbys gum
+17A.  | Euphrasia amplidens | W.R.Barker, Scrophulariaceae | pieman eyebright
 18.  | Euphrasia collina subsp. tetragona | (R.Br.) W.R.Barker, Scrophulariaceae | northcoast eyebright
 19.  | Euphrasia fragosa | W.R.Barker, Scrophulariaceae | shy eyebright
 20.  | Euphrasia gibbsiae subsp. psilantherea | (F.Muell.) W.R.Barker, Scrophulariaceae | swamp eyebright
@@ -129,11 +131,13 @@ Dicotyledonae
 32.  | Lomatia tasmanica | W.M.Curtis, Proteaceae | kings lomatia
 33.  | Lycopus australis | R.Br., Lamiaceae | australian gipsywort
 34.  | Mentha australis | R.Br., Lamiaceae | river mint
-34A.  | Myosurus australis | F.Muell., Ranunculaceae | southern mousetail
+34A.  | Millotia muelleri | (Sond.) P.S.Short, Asteraceae | clustered bowflower
+34B.  | Myosurus australis | F.Muell., Ranunculaceae | southern mousetail
 35.  | Persicaria subsessilis | (R.Br.) K.L. Wilson, Polygonaceae | bristly waterpepper
 36.  | Phebalium daviesii | Hook.f., Rutaceae | davies waxflower
 37.  | Philotheca freyciana | Rozefelds, Rutaceae | freycinet waxflower
 38.  | Pimelea axiflora subsp. axiflora | F.Muell. ex Meisn., Thymelaeaceae | bootlace bush
+38A.  | Pimelea sp. Tunbridge | (A.Moscal 9026) Tas Herbarium, Thymelaeaceae | grassland riceflower
 39.  | Polyscias sp. Douglas-Denison | (R.B.Schahinger HO 526133) Tas. Herbarium, Araliaceae | ferny panax
 39A.  | Pomaderris pilifera subsp. talpicutica | A.M.Gray & M.Wapstra, Rhamnaceae | moleskin dogwood
 40.  | Ranunculus prasinus | Menadue, Ranunculaceae | midlands buttercup
@@ -181,7 +185,6 @@ Monocotyledonae
 27.  | Diuris palustris | Lindl., Orchidaceae | swamp doubletail
 27A.  | Nematoceras sulcatum | (Hook.f.) D.L.Jones & M.A.Clem., Orchidaceae | grooved helmet-orchid
 27B.  | Poa cookii | (Hook.f.) Hook.f., Poaceae | cooks tussockgrass
-29.  | Prasophyllum amoenum | D.L.Jones, Orchidaceae | dainty leek-orchid
 30.  | Prasophyllum apoxychilum | D.L.Jones, Orchidaceae | tapered leek-orchid
 30A.  | Prasophyllum atratum | D.L.Jones, Orchidaceae | three hummock leek-orchid
 31.  | Prasophyllum castaneum | D.L.Jones, Orchidaceae | chestnut leek-orchid
@@ -201,6 +204,8 @@ Monocotyledonae
 43.  | Prasophyllum tunbridgense | D.L.Jones, Orchidaceae | tunbridge leek-orchid
 45.  | Pterostylis commutata | D.L.Jones, Orchidaceae | midlands greenhood
 46.  | Pterostylis cucullata subsp. cucullata | R.Br., Orchidaceae | leafy greenhood
+46A.  | Pterostylis falcata | R.S.Rogers, Orchidaceae | sickle greenhood
+46A. 46B. | Pterostylis lustra | D.L.Jones, Orchidaceae | small sickle greenhood
 47.  | Pterostylis rubenachii | D.L.Jones, Orchidaceae | arthur river greenhood
 48.  | Pterostylis tunstallii | D.L.Jones & M.A. Clem., Orchidaceae | tunstalls greenhood
 49.  | Pterostylis wapstrarum | D.L.Jones, Orchidaceae | fleshy greenhood
