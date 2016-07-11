@@ -32,6 +32,8 @@ Robbery.
 Aggravated Robbery.
 Armed Robbery.
 Aggravated Armed Robbery.
+Carjacking.
+Aggravated carjacking.
 Demanding property with menaces with intent to steal.
 Any crime under Chapter XXVII.
 Receiving stolen property.
