@@ -1,0 +1,3 @@
+# Schedule 1 Dedication of Crown land as Highway
+All those lands from a midpoint on Richmond Road (also known as Colebrook Main Road) approximately 235 metres west of Blair Street, Richmond, to a midpoint on the Colebrook Road (also known as Colebrook Main Road) approximately 231 metres north of Victoria Street, Richmond, including the Middle Tea Tree Road junction and Franklin Street junction, shown as Lot 1, Lot 2, and Lot 3 and shaded grey on Plan No. 10253 in the Central Plan Register, a reduced copy of which is set out, by way of illustration only, in Part 2 of Schedule 1 to this proclamation.
+[Picture in the source, not reproduced]
