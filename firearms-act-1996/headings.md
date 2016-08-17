@@ -5,6 +5,7 @@ Part 2, Division 2 Categories and authority of firearms licences
 Part 2, Division 3 Other licences
 Part 2, Division 4 General matters
 Part 2, Division 5 Applications
+Part 2, Division 5A Renewal of licences
 Part 2, Division 6 Genuine reasons and requirements
 Part 2, Division 7 General provisions relating to licences
 Part 3 Permits
