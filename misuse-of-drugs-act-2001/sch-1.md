@@ -90,6 +90,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 72.  | 4-cyano-2-dimethylamino-4,4-diphenylbutane |
 73.  | 4-cyano-1-methyl-4-phenylpiperidine (otherwise known as pethidine intermediate A) |
 74.  | Cyclobarbitone |
+74C.  | l-cyclohexyl-4-(1,2-diphenylethyl)piperazine (otherwise known as MT-45) |
 74E.  | Cyclohexylphenols | 5g or 20 units
 74H.  | Darbepoetin alfa |
 75.  | Desomorphine |
@@ -103,6 +104,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 80.  | Diampromide |
 81.  | Diazepam |
 81A.  | Dibenzopyrans | 5g or 20 units
+81M.  | 3,4-dichloro-N-(2-(dimethylamino)cyclohexyl)-N-methylbenzamide (otherwise known as U-47700) |
 82.  | Diethylpropion |
 83.  | Diethylthiambutene |
 84.  | N,N-diethyltryptamine (otherwise known as DET) |
@@ -159,8 +161,9 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 117.  | 4,5-ethylenedioxy-3-methoxyamphetamine | 25g
 118.  | Ethylmethylthiambutene |
 119.  | Ethylmorphine |
+119M.  | Ethylnaphthidate (otherwise known as HDEP-28) |
 120.  | Ethyloestronol |
-120A.  | Ethylphenidate |
+120A.  | Ethylphenidate | 25g
 121.  | Eticyclidine (otherwise known as N-ethyl-1-phenylcyclohexylamine or PCE) |
 122.  | Etonitazene |
 123.  | Etorphine |
@@ -168,10 +171,13 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 125.  | Fenetylline |
 126.  | Fentanyl | 200mg
 127.  | Flunitrazepam | 500mg
-127A.  | 2-fluoromethcathione | 25 grams (or 20 Units)
-127B.  | 3-fluoromethcathione | 25 grams (or 20 Units)
-127C.  | 4-fluoromethcathione | 25 grams (or 20 Units)
+127A.  | 2-fluoromethcathinone | 25 grams (or 20 Units)
+127B.  | 3-fluoromethcathinone | 25 grams (or 20 Units)
+127C.  | 4-fluoromethcathinone | 25 grams (or 20 Units)
 127D.  | 4-fluoro-N-methylamphetamine | 25 grams (or 20 Units)
+127DA.  | 3-fluorophenmetrazine |
+(a)  | in individual packages | 20 packages
+(b)  | in any other form | 25g
 127E.  | 1-(p-fluorophenyl)piperazine | 25 grams (or 20 Units)
 128.  | Fluoxymesterone |
 129.  | Flurazepam |
@@ -255,6 +261,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 181.  | N-[α-methyl-3,4-(methylenedioxy)phenethyl] hydroxylamine (otherwise known as N-hydroxy MDA) |
 182.  | N-methyl-1-(3,4-methylenedioxyphenyl)-2-butanamine (otherwise known as MBDB) |
 183.  | 2-methyl-3-morpholino-1,1-diphenylpropane carboxylic acid (moramide intermediate) |
+183M.  | Methylnaphthidate (otherwise known as HDMP-28) |
 184.  | Methylpentynol and other substituted alkynes for internal use |
 185.  | Methylphenidate | 25g
 186.  | 1-methyl-4-phenylpiperidine-4-carboxylic acid (otherwise known as pethidine intermediate C) |
