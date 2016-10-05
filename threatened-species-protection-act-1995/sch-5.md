@@ -301,7 +301,6 @@ Monocotyledonae
 70A.  | Pterostylis atriola | D.L.Jones, Orchidaceae | snug greenhood
 72.  | Pterostylis grandiflora | R.Br., Orchidaceae | superb greenhood
 73.  | Pterostylis sanguinea | D.L.Jones & M.A. Clem., Orchidaceae | banded greenhood
-74.  | Pterostylis squamata | R.Br., Orchidaceae | ruddy greenhood
 75.  | Puccinellia perlaxa | (Stapf ex N.G.Walsh) N.G. Walsh & A.R.Williams, Poaceae | spreading saltmarshgrass
 76.  | Ruppia megacarpa | R.Mason, Ruppiaceae | largefruit seatassel
 77.  | Ruppia tuberosa | J.S.Davis & Toml., Ruppiaceae | tuberous seatassel

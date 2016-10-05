@@ -140,6 +140,7 @@ Dicotyledonae
 38A.  | Pimelea sp. Tunbridge | (A.Moscal 9026) Tas Herbarium, Thymelaeaceae | grassland riceflower
 39.  | Polyscias sp. Douglas-Denison | (R.B.Schahinger HO 526133) Tas. Herbarium, Araliaceae | ferny panax
 39A.  | Pomaderris pilifera subsp. talpicutica | A.M.Gray & M.Wapstra, Rhamnaceae | moleskin dogwood
+39B.  | Ranunculus diminutus | B.G.Briggs, Orchidaceae | brackish buttercup
 40.  | Ranunculus prasinus | Menadue, Ranunculaceae | midlands buttercup
 41.  | Rhytidosporum inconspicuum | L.W.Cayzer, Crisp & I.Telford, Pittosporaceae | alpine appleberry
 42.  | Sagina diemensis | L.G.Adams, Caryophyllaceae | tasmanian pearlwort
@@ -185,7 +186,6 @@ Monocotyledonae
 27.  | Diuris palustris | Lindl., Orchidaceae | swamp doubletail
 27A.  | Nematoceras sulcatum | (Hook.f.) D.L.Jones & M.A.Clem., Orchidaceae | grooved helmet-orchid
 27B.  | Poa cookii | (Hook.f.) Hook.f., Poaceae | cooks tussockgrass
-30.  | Prasophyllum apoxychilum | D.L.Jones, Orchidaceae | tapered leek-orchid
 30A.  | Prasophyllum atratum | D.L.Jones, Orchidaceae | three hummock leek-orchid
 31.  | Prasophyllum castaneum | D.L.Jones, Orchidaceae | chestnut leek-orchid
 31A.  | Prasophyllum crebriflorum | D.L.Jones, Orchidaceae | crowded leek-orchid
@@ -214,8 +214,9 @@ Monocotyledonae
 51A.  | Thelymitra atronitida | Jeanes, Orchidaceae | blackhood sun-orchid
 52.  | Thelymitra benthamiana | Rchb.f., Orchidaceae | blotched sun-orchid
 53.  | Thelymitra bracteata | J.Z.Weber ex Jeanes, Orchidaceae | leafy sun-orchid
+53A.  | Thelymitra improcera | D.L.Jones & M.A.Clem., Orchidaceae | coastal sun-orchid
 54.  | Thelymitra jonesii | Jeanes, Orchidaceae | skyblue sun-orchid
-55.  | Thelymitra malvina | M.A.Clem, D.L.Jones & Molloy, Orchidaceae | mauvetuft sun-orchid
+55.  | Thelymitra malvina | M.A.Clem., D.L.Jones & Molloy, Orchidaceae | mauvetuft sun-orchid
 56.  | Thynninorchis nothofagicola | (D.L.Jones) D.L.Jones & M.A. Clem., Orchidaceae | myrtle elbow-orchid
 56A.  | Triglochin mucronata | R.Br., Juncaginaceae | prickly arrowgrass
 56B.  | Wurmbea latifolia subsp. vanessae | R.J.Bates, Liliaceae | broadleaf early nancy
@@ -223,10 +224,11 @@ Pteridophyta
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Asplenium hookerianum | Colenso, Aspleniaceae | maidenhair spleenwort
+1A.  | Blechnum neohollandicum | Christenh., Blechnaceae | prickly raspfern
+1B.  | Blechnum rupestre | (Kaulf. ex Link) Christenh., Blechnaceae | small raspfern
 2.  | Cheilanthes distans | (R.Br.) Mett., Adiantaceae | bristly rockfern
 3.  | Cyathea cunninghamii | Hook.f., Cyatheaceae | slender treefern
 4.  | Cyathea Xmarcescens | N.A.Wakef., Cyatheaceae | skirted treefern
-5.  | Doodia caudata | (Cav.) R.Br., Blechnaceae | small raspfern
 6.  | Hypolepis distans | Hook., Dennstaedtiaceae | scrambling groundfern
 7.  | Pneumatopteris pennigera | (G.Forst.) Holttum, Thelypteridaceae | lime fern
 8.  | Polystichum vestitum | (G.Forst.) C.Presl, Dryopteridaceae | prickly shieldfern
