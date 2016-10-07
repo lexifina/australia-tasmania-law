@@ -35,7 +35,7 @@ Chapter 7, Part 6 Miscellaneous
 Chapter 8 Motor vehicle registration
 Chapter 8, Part 1 Introduction and overview
 Chapter 8, Part 2 Circumstances in which duty not chargeable
-Chapter 8, Part 3 Trading stock and demonstrator vehicles of motor dealers
+Chapter 8, Part 3 Trading stock, demonstrator vehicles and courtesy vehicles
 Chapter 9 Miscellaneous duties
 Chapter 9, Part 1 Duplicates and replicas
 Chapter 9, Part 2 Miscellaneous duties
