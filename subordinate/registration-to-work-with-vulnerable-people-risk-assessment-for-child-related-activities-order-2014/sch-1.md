@@ -1,2 +1,2 @@
 # Schedule 1 Offences
-Clauses 5 and 6
+Clauses 5 and 10
