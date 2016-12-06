@@ -17,11 +17,10 @@ Chapter 2, Part 5, Division 3 Miscellaneous
 Chapter 2, Part 6 Exemptions
 Chapter 3 Certain transactions treated as transfers
 Chapter 3, Part 1 Preliminary
-Chapter 3, Part 2 Acquisition of interests in certain landholders
-Chapter 3, Part 2, Division 1 Land-rich private corporations
-Chapter 3, Part 2, Division 2 Acquisitions of interests in private corporations
-Chapter 3, Part 2, Division 3 Charging of duty
-Chapter 3, Part 2, Division 4 General and supplemental
+Chapter 3, Part 2 Charging of Duty on Acquisitions of Interests of Landholders
+Chapter 3, Part 3 Charging of Duty on Acquisitions Made by Trustees
+Chapter 3, Part 3A General Principles to be Applied under this Chapter
+Chapter 3, Part 3B Exemptions, Concessions and Refunds
 Chapter 3, Part 4 Acquisition of land use entitlements by allotment of shares or issue of units
 Chapter 7 Insurance
 Chapter 7, Part 1 General Insurance
@@ -41,6 +40,7 @@ Chapter 9, Part 1 Duplicates and replicas
 Chapter 9, Part 2 Miscellaneous duties
 Chapter 10 General exemptions from duty
 Chapter 10, Part 1 Intergenerational rural transfers
+Chapter 10, Part 1A Corporate Reconstruction Transactions and Corporate Consolidation Transactions
 Chapter 10, Part 2 Miscellaneous exemptions
 Chapter 11 Miscellaneous
 Chapter 11, Part 1 Stamping instruments
