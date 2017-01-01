@@ -11,6 +11,11 @@ Part 6 Public and professional safeguards
 Part 6, Division 1 Public and professional safeguards
 Part 6, Division 2 General offences
 Part 6A Registration of pharmacy business premises
+Part 6A, Division 1 Preliminary
+Part 6A, Division 2 Registration
+Part 6A, Division 3 Alterations
+Part 6A, Division 4 Registration notices
+Part 6A, Division 5 Register
 Part 7 Miscellaneous
 Part 7, Division 1 Obligations to provide information
 Part 7, Division 2 Administrative and legal
