@@ -5,10 +5,12 @@ Part 2, Division 2 Occupational Licensing Advisory Board
 Part 2, Division 3 Delegation
 Part 2, Division 4 Authorised officers
 Part 3 Duties of Persons Relating to Prescribed Work
-Part 4 Licensing of Contractors and Practitioners
+Part 3A Permits for owner builders
+Part 4 Licensing of Contractors, Practitioners and Building services providers
 Part 4, Division 1 Preliminary
 Part 4, Division 2 Contractors' licences
 Part 4, Division 3 Practitioners' licences
+Part 4, Division 3A Building services licences
 Part 4, Division 4 Offences related to occupational licensing
 Part 4, Division 5 General provisions about licences
 Part 4, Division 6 Registers
