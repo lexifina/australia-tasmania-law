@@ -12,7 +12,9 @@ Part 6 Fines
 Part 6AA Warrant of commitment for non-payment of monetary penalty
 Part 6A Rehabilitation programs
 Part 7 Driving disqualification orders
-Part 8 Adjournments, discharges and dismissals
+Part 8 Adjournments, discharges, deferrals and dismissals
+Part 8, Division 1 Deferral of sentencing
+Part 8, Division 2 Adjournments, discharge or dismissal
 Part 9 Orders in addition to sentence
 Part 9, Division 1 Restitution
 Part 9, Division 2 Compensation
