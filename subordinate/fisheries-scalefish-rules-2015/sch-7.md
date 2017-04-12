@@ -2,7 +2,7 @@
 Rule 24
 | People permitted
 1.  | The holder of a fishing licence (personal), fishing licence (vessel) and apparatus licence who uses graball nets in the waters of Great Oyster Bay or in East Coast waters if –
-(a)  | none of those nets exceeds200 metres in length; and
+(a)  | none of those nets exceeds 200 metres in length; and
 (b)  | none of those nets are set within 50 metres of another net; and
 (c)  | the total combined length of those nets does not exceed 800 metres.
 2.  | The holder of a fishing licence (personal) that is endorsed for the waters of the River Tamar if the gillnet is used in the shark refuge areas for which the licence is endorsed.

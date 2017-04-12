@@ -26,7 +26,7 @@
 24.  | Sulphur Creek, upstream from the railway bridge
 | Waters
 1.  | Ansons Bay
-2.  | Boobyalla Inlet, upstream from an imaginary straight line originating on Murdochs Beach at latitude 40°52'4.5"S/ longitude 147°52'56.9"E and finishing at latitude 40°52'5.4"S/ longitude 47°52'57.5"E on Boobyalla Beach
+2.  | Boobyalla Inlet, upstream from an imaginary straight line originating on Murdochs Beach at latitude 40°52'4.5"S/ longitude 147°52'56.9"E and finishing at latitude 40°52'5.4"S/ longitude 147°52'57.5"E on Boobyalla Beach
 3.  | Brid River, and waters south of an imaginary straight line from the eastern extremity of Barnbougle Beach to the boat ramp at the southern end of Old Pier Beach and the old wharf piles
 4.  | Cameron Inlet on Flinders Island, upstream from an imaginary straight line from the north-western tip of Planter Beach west to the opposite shore
 5.  | Douglas River, north of Bicheno
