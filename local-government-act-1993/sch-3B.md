@@ -7,4 +7,4 @@ Municipal area | Name of city | Plan
 3. Devonport | Devonport City | CPR 3658
 4. Glenorchy | Glenorchy City | CPR 2977
 5. Hobart | Hobart City | CPR 2475
-6. Launceston | Launceston City | CPR 3004
+6. Launceston | Launceston City | CPR 10067
