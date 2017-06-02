@@ -1,0 +1,3 @@
+# 40ABB. Effect of WEP order on certain provisions of instruments
+(1) Clauses 5.1(b)(2), 5.1(b)(6)(iii) and 5.2(a)(2) of the guideline, made by the Regulator, entitled "Standing offer price approval process in accordance with the 2016 Standing Offer Determination" and dated 28 April 2016, are of no effect while a WEP order is in effect.
+(2) Clause 10 of the determination made under section 40AA, entitled "Aurora Energy Pty Ltd 2016 Standing Offer Price Determination (2016 Price-Regulated Retail Service Price Determination)" and issued on 5 May 2016, as that determination is amended from time to time, is of no effect while a WEP order is in effect.
