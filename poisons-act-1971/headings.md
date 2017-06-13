@@ -3,6 +3,7 @@ Part 1A General Provisions Relating to Licences
 Part II Administration
 Part II, Division 2 Classification of substances
 Part II, Division 3 Licensing of manufacturing chemists and wholesale chemists
+Part II, Division 3A Licensing of first-aid providers
 Part II, Division 4 Analysts
 Part II, Division 5 General
 Part III Poisons and Restricted Substances
