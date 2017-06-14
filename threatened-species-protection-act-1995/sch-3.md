@@ -46,10 +46,12 @@ Fish
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
 1.  | Brachionichthys hirsutus | Lacepede | Spotted Handfish
+1A.  | Brachiopsilus ziebelli | Last & Gledhill | Ziebells Handfish
 2.  | Galaxias fontanus | Fulton | Swan Galaxias
 3.  | Galaxias johnstoni | Scott | Clarence Galaxias
 4.  | Galaxias pedderensis | Frankenberg | Pedder Galaxias
 5.  | Paragalaxias mesotes | McDowall and Fulton | Arthurs Paragalaxias
+5A.  | Thymichthys politus | (Richardson) | Red Handfish
 6.  | Zearaja maugeana | Last & Gledhill | Maugean Skate
 Invertebrates
 | Column 1 | Column 2 | Column 3
