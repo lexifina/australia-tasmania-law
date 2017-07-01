@@ -1,3 +1,1 @@
-Consolidated Fund Appropriation (Supplementary Appropriation for 2015-16) Act 2016
-An Act for the appropriation of money out of the Consolidated Fund for the service of the financial year ending on 30 June 2016 for the purpose of making contributions to Division 1, Department of Education, Division 2, Finance-General, Division 3, Department of Health and Human Services, Division 4, Department of Justice, Division 7, Department of Premier and Cabinet, Division 8, Department of Primary Industries, Parks, Water and Environment and Division 9, Department of State Growth, of Part 2 of Schedule 1 to the Consolidated Fund Appropriation Act (No. 1) 2015
-Be it enacted by Her Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
+Consolidated Fund Appropriation (Supplementary Appropriation for 2015-16) Act 2016 (Expired)
