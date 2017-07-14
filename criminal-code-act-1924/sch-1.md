@@ -7,7 +7,7 @@ Piracy and offences deemed to be piracy.
 Rioting.
 Opposing the making of a riot proclamation.
 Escape.
-Unnatural sexual intercourse.
+Bestiality.
 Murder.
 Manslaughter.
 Threatening to murder.
@@ -22,7 +22,6 @@ Wantonly endangering persons on a railway.
 Causing injury by poison.
 Rape.
 Indecent assault.
-Aggravated sexual assault.
 Forcible abduction.
 Stalking.
 Stealing, other than stealing under sections 228 to 231 or under section 233.
@@ -51,7 +50,6 @@ Serious Crimes
 | Section 125A | Maintaining sexual relationship with young person under the age of 17 years
 | Section 125C(2) | Procuring unlawful sexual intercourse with person under the age of 17 years
 | Section 126 | Sexual intercourse with person with mental impairment
-| Section 127A | Aggravated sexual assault
 | Section 130 | Involving person under age of 18 years in production of child exploitation material
 | Section 130A | Producing child exploitation material
 | Section 130B | Distributing child exploitation material
