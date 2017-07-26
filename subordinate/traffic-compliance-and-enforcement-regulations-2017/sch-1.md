@@ -1,0 +1,1766 @@
+# Schedule 1 Offences
+Regulation 6
+Traffic Act 1925
+Traffic offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+1.  | TA 41G(1)(a) | Display on/near road, a light/reflector that was (or was likely to be) reasonably mistaken by a driver for emergency vehicle flashing light | 0.75 | 0
+2.  | TA 41G(1)(b) | Display on/near road, a light/reflector that dazzled/distracted a driver (or was likely to) | 1 | 0
+3.  | TA 41G(1)(c) | Display on/near road, a light/reflector that misled/confused a driver (or was likely to) | 1 | 0
+4.  | TA 41G(1)(d) | Display on/near road, a light/reflector that interfered with operation/effectiveness of traffic light/overhead lane control signal/traffic arrow (or was likely to) | 1 | 0
+5.  | TA 41G(2) | Display a light/reflector on/near a road (after given Transport Commission written notice that it constitutes a traffic hazard) | 1.25 | 0
+6.  | TA 41G(4) | Fail to obey direction to adjust/disconnect/move/cover a light/reflector constituting a traffic hazard | 1.25 | 0
+7.  | TA 41H(1)(a) | Place/display anything on/near a road obscuring traffic control device | 1 | 0
+8.  | TA 41H(1)(b) | Place/display anything on/near a road interfering with operation/effectiveness of traffic control device | 1 | 0
+9.  | TA 41H(1)(c) | Place/display anything on/near a road preventing (or likely to prevent) an approaching driver clearly seeing traffic control device | 1 | 0
+10.  | TA 41J(1) | Mark (or otherwise place) on a road, anything purporting to be a road marking | 1.25 | 0
+11.  | TA 42(1) | Use loudspeaker on or from a vehicle without a permit | 0.25 | 0
+12.  | TA 43G(3) | Registered operator fail to comply with notice of demand |  |
+(a)  |  | individual | 4.25 | 0
+(b)  |  | body corporate | 8.5 | 0
+General offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+13.  | TA 51(3)(a) | Owner or registered operator fail to provide driver information as required (if driver allegedly committed offence against the Traffic Act 1925 or Vehicle and Traffic Act 1999) |  |
+(a)  |  | individual | 4.25 | 0
+(b)  |  | body corporate | 7.75 | 0
+14.  | TA 51(3)(b) | Owner or registered operator fail to provide, or to diligently ascertain, driver information or to report such steps within 7 days (if driver allegedly committed offence against the Traffic Act 1925 or Vehicle and Traffic Act 1999) |  |
+(a)  |  | individual | 2.25 | 0
+(b)  |  | body corporate | 5.25 | 0
+15.  | TA 51(3)(c) | Fail to provide driver identity or information leading to identification (if driver allegedly committed offence against the Traffic Act 1925 or Vehicle and Traffic Act 1999) |  |
+(a)  |  | individual | 2.25 | 0
+(b)  |  | body corporate | 5.25 | 0
+Road Rules
+Speed-limit offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+|  | Note For additional local speed-limit offences see item 439 and items 447 to 453. |  |
+16.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by less than 10km/h | 0.50 | 2
+17.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by less than 10km/h (photographic detection device) | 0.50 | 2
+18.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by 10 to 14km/h | 0.75 | 2
+19.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by 10 to 14km/h (photographic detection device) | 0.75 | 2
+20.  | RR 20 | Rider of a bicycle exceed applicable speed-limit for length of road by less than 15km/h | 0.50 | 0
+21.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by 15 to 22km/h | 1 | 3
+22.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by 15 to 22km/h (photographic detection device) | 1 | 3
+23.  | RR 20 | Rider of bicycle exceed applicable speed-limit for length of road by 15 to 22km/h | 0.75 | 0
+24.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by 23 to 29km/h | 1.75 | 3
+25.  | RR 20 | Rider of bicycle exceed applicable speed-limit for length of road by 23 to 29km/h | 1 | 0
+26.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by 23 to 29km/h (photographic detection device) | 1.75 | 3
+27.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by 30 to 37km/h | 3 | 5
+28.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by 30 to 37km/h (photographic detection device) | 3 | 5
+29.  | RR 20 | Rider of bicycle exceed applicable speed-limit for length of road by 30 to 37km/h | 1.25 | 0
+30.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by 38 to 44km/h | 4.25 | 6
+31.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by 38 to 44km/h (photographic detection device) | 4.25 | 6
+32.  | RR 20 | Rider of bicycle exceed applicable speed-limit for length of road by 38 to 44km/h | 1.75 | 0
+33.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by 45km/h or more | 5.75 | 6
+34.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by 45km/h or more (photographic detection device) | 5.75 | 6
+35.  | RR 20 | Rider of bicycle exceed applicable speed-limit for length of road by 45km/h or more | 2.25 | 0
+Left turn offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+36.  | RR 27(1) | Fail to keep left when starting left hand turn at intersection (from other than multi-lane road) |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 2
+37.  | RR 28(1) | Fail to approach and enter intersection from within left lane (unless otherwise permitted) when turning left from multi-lane road |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 2
+38.  | RR 28(1A) | Fail to approach and enter intersection from within slip lane (unless obstructed) when turning left from multi-lane road with slip lane |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 2
+39.  | RR 28(2A) | Rider of bicycle fail to approach and enter intersection from within bicycle storage area that is directly in front of left marked lane or of a bicycle lane on left side of road when turning left at intersection from multi-lane road | 0.50 | 0
+40.  | RR 29(1) | Fail to make left hand turn at intersection as indicated by a turn line (unless otherwise permitted) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+Right turn offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+41.  | RR 31(1) | Start right hand turn incorrectly (from other than multi-lane road) |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 2
+42.  | RR 32(1) | Fail to approach and enter intersection from within right lane (unless otherwise permitted) when turning right from multi-lane road |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 2
+43.  | RR 32(2A) | Rider of a bicycle, when turning right from a multi-lane road, fail to approach and enter intersection from within bicycle storage area that is directly in front of a right marked lane or of a bicycle lane on the right side of the road | 0.50 | 0
+44.  | RR 33(1) | Make right hand turn incorrectly |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+Hook turn/U-turn offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+45.  | RR 34(1) | Fail to make hook turn in accordance with to hook turn only sign | 1 | 0
+46.  | RR 35(2) | Rider of a bicycle making hook turn incorrectly | 0.75 | 0
+47.  | RR 36 | Rider of a bicycle make hook turn contrary to no hook turn by bicycles sign | 0.75 | 0
+48.  | RR 37 | Start U-turn without clear view and when could unreasonably obstruct traffic |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+49.  | RR 38 | Fail to give way as required when making U-turn |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+50.  | RR 39(1) | Make U-turn contrary to no U-turn sign (at dividing strip) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+51.  | RR 39(2) | Make U-turn contrary to no U-turn sign (along road) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+52.  | RR 40 | Make U-turn at intersection with traffic lights without U-turn permitted sign |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+53.  | RR 41 | Make U-turn at intersection without traffic lights (contrary to no U-turn sign) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+54.  | RR 42 | Start U-turn at intersection from incorrect position |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 2
+Change of direction signal offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+55.  | RR 46(1) | Fail to give required left change of direction signal | 0.75 | 2
+56.  | RR 46(4) | Fail to turn off left indicator on completion of direction change | 0.75 | 0
+57.  | RR 48(1) | Fail to give required right change of direction signal |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 2
+58.  | RR 48(4) | Fail to turn off right indicator on completion of direction change | 0.75 | 0
+59.  | RR 51 | Use direction indicator light except as permitted | 0.50 | 0
+Stop signal offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+60.  | RR 53(1) | Fail to give required stop signal | 0.75 | 2
+61.  | RR 53(2) | Fail to give stop signal for long enough on stopping | 0.75 | 2
+62.  | RR 53(3) | Fail to give stop signal when slowing suddenly | 0.75 | 2
+Traffic light/traffic arrow offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+63.  | RR 56(1) | Fail to stop as required on red traffic light |  |
+63.  |  |  |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+64.  | RR 56(2) | Fail to stop as required on red traffic arrow |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+65.  | RR 57(1) | Fail to stop on yellow traffic light when could have done so safely and/or proceed before permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 3
+66.  | RR 57(2) | Fail to stop on yellow traffic arrow when could have done so safely and/or proceed before permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 3
+67.  | RR 57(3) | Fail to clear intersection as soon as safe after entering on yellow traffic light/arrow |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+68.  | RR 59(1) | Enter intersection or marked foot crossing contrary to red traffic light |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+69.  | RR 59(1) | Enter intersection or marked foot crossing contrary to red traffic light (photographic detection device) | 1 | 3
+70.  | RR 60 | Enter intersection or marked foot crossing contrary to red traffic arrow |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+71.  | RR 60 | Driver of motor vehicle enter intersection or marked foot crossing contrary to red traffic arrow (photographic detection device) | 1 | 3
+72.  | RR 60A(1) | Driver of motor vehicle enter bicycle storage area contrary to red traffic light | 1 | 3
+73.  | RR 60A(2) | Driver of motor vehicle enter bicycle storage area contrary to red traffic arrow | 1 | 3
+74.  | RR 61(2) | Proceed against yellow/red traffic light/arrow after having stopped before entering intersection |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+75.  | RR 61(5) | Fail to leave intersection as soon as safe after traffic light/arrow changes to yellow/red (having entered on green) |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+Giving way at traffic light/traffic arrow offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+76.  | RR 62(1) | Fail to give way when turning at intersection with traffic lights except on green traffic arrow |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+77.  | RR 62(1)(a) | Fail to give way to pedestrian as required when turning at intersection with traffic lights |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+78.  | RR 63(2) | Fail to give way at intersection where traffic lights not wholly operating (with traffic light-stop sign displayed) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+79.  | RR 63(3) | Fail to give way as required at intersection that is not a roundabout where traffic lights not wholly working or only flashing yellow (and no traffic light-stop sign displayed) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+80.  | RR 64 | Fail to give way as required when turning at flashing yellow traffic arrow at intersection |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+81.  | RR 65(2)(a) | Fail to give way to any pedestrian on marked foot crossing with flashing yellow traffic light (other than at/near intersection) |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 3
+82.  | RR 65(2)(b) | Obstruct pedestrian on marked foot crossing with flashing yellow traffic light (other than at/near intersection) |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 3
+83.  | RR 65(2)(c) | Overtake/pass a vehicle stopping/stopped at marked foot crossing with flashing yellow traffic light (other than at/near intersection) |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 2.25 | 3
+Twin red light offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+84.  | RR 66(1) | Fail to stop as required at twin red lights (other than at level crossing) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+85.  | RR 66(4) | Proceed through twin red lights after stopping (other than at level crossing) with red lights still showing |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+Giving way at traffic light/sign offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+86.  | RR 67(1) | Fail to stop and give way as required at a stop sign/ stop line (at intersection without traffic lights) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+87.  | RR 68(1) | Fail to stop and give way as required at a stop sign/stop line (other than at intersection, children's crossing, level crossing or twin red lights) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+88.  | RR 69(1) | Fail to give way as required at give way sign/give way line at intersection (other than a roundabout) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+89.  | RR 70 | Fail to give way at give way sign on bridge/narrow road |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+90.  | RR 71(1) | Fail to give way as required at give way sign/give way line (other than at intersection, bridge, narrow road, level crossing, twin red lights) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+Giving way where no traffic light/sign offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+91.  | RR 72(1) | Fail to give way as required at uncontrolled/unsigned intersection (other than T-intersection or roundabout) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+92.  | RR 73(1) | Fail to give way as required at uncontrolled/unsigned T-intersection |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+Entering/leaving road-related area offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+93.  | RR 74(1)(a) | Fail to give way as required to vehicle (other than one turning right from road-related area/adjacent land) when entering (uncontrolled/unsigned) road from road-related area/adjacent land |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+94.  | RR 74(1)(b) | Fail to give way to any pedestrian on road when entering (uncontrolled/unsigned) road from road-related area/adjacent land |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+95.  | RR 74(1)(c) | Fail to give way to any vehicle/pedestrian on road-related area crossed when entering (uncontrolled /unsigned) road from road-related area/adjacent land |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+96.  | RR 74(1)(d)(i) | Fail to give way when entering (uncontrolled/unsigned) road from road-related area to pedestrian on the road-related area |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+97.  | RR 74(1)(d)(ii) | Fail to give way when entering (uncontrolled/unsigned) road from road-related area to vehicle ahead or approaching from the left or right |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+98.  | RR 75(1)(a) | Fail to give way to any pedestrian on road when entering road-related area/adjacent land from an uncontrolled/unsigned road |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+99.  | RR 75(1)(b) | Fail to give way as required to any vehicle/pedestrian on road-related area crossed when entering road-related area/adjacent land from an uncontrolled/unsigned road |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+100.  | RR 75(1)(c) | Fail to give way to oncoming vehicle on road when turning right into road-related area/adjacent land |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+101.  | RR 75(1)(d) | Fail to give way as required to vehicle on continuing road at T-intersection |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+Keeping clear of/giving way to particular vehicle offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+102.  | RR 77(1) | Fail to give way as required to signed signalling bus pulling out |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 3
+103.  | RR 78(1) | Move into path of police/emergency vehicle displaying flashing red/blue light or sounding alarm |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 3
+104.  | RR 78(2) | Fail to move out of path of police/emergency vehicle displaying flashing red/blue light or sounding alarm |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 3
+105.  | RR 79(1) | Fail to give way to police/emergency vehicle displaying flashing red/blue light or sounding alarm |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 3
+Giving way at crossing/shared zone offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+106.  | RR 80(1) | Approach children's crossing too quickly to stop safely |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 3
+107.  | RR 80(2)(a) | Fail to stop at children's crossing (when hand-held stop sign displayed) |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 2.25 | 3
+108.  | RR 80(2)(b) | Fail to stop at children's crossing (when pedestrian on/entering crossing) |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 2.25 | 3
+109.  | RR 80(3) | Proceed through children's crossing, when pedestrian is on or entering crossing and while hand-held stop sign still displayed, or before being signalled to do so |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 3
+110.  | RR 80(4) | Proceed through children's crossing while pedestrian is on or is entering the crossing |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 2.25 | 3
+111.  | RR 81(1) | Approach pedestrian crossing too quickly to stop safely |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 3
+112.  | RR 81(2) | Fail to give way to pedestrian on pedestrian crossing |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 2.25 | 3
+113.  | RR 82 | Overtake/pass a vehicle stopping/stopped at children's/pedestrian crossing |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 2.25 | 3
+114.  | RR 83 | Driver fail to give way to pedestrian in shared zone |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+General give way offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+115.  | RR 84(1) | Fail to give way as required to vehicle when driving through break in (unsigned/unmarked) dividing strip |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+116.  | RR 85 | Fail to give way to vehicle as required when entering a turning lane from a painted island |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+117.  | RR 86(1) | Fail to give way when entering median turning bay to oncoming vehicle already in bay |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+118.  | RR 87(1) | Fail to give way to vehicle as required when entering a marked lane or line of traffic from either side of road |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+119.  | RR 87(3) | Fail to give way to vehicle as required when turning from a median strip parking area into a marked lane/line of traffic |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+Traffic sign at certain location offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+120.  | RR 88(1) | Fail to turn left at left turn only sign |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+121.  | RR 88(2) | Fail to turn left when entering intersection in left lane must turn left sign lane |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+122.  | RR 89(1) | Fail to turn right at right turn only sign |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+123.  | RR 89(2) | Fail to turn right when entering intersection in right lane must turn right sign lane |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+124.  | RR 90 | Turn at no turns sign |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+125.  | RR 91(1) | Turn left at no left turn sign |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+126.  | RR 91(2) | Turn right at no right turn sign |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+127.  | RR 91(2) | Make U-turn at no right turn sign |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+128.  | RR 92(1) | Drive in direction contrary to traffic lane arrows (other than at roundabout) except when making permitted U-turn or when permitted by a traffic sign or when obstructed |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+General traffic sign/road marking offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+129.  | RR 93(1)(a) | Drive past a no overtaking or passing sign when oncoming vehicle on bridge/road |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+130.  | RR 93(1)(b) | Overtake vehicle on bridge/road contrary to no overtaking or passing sign |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1.25 | 2
+131.  | RR 94 | Overtake on bridge contrary to no overtaking on bridge sign |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1.25 | 2
+132.  | RR 96(1) | Driver stop on area with keep clear marking |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 2
+133.  | RR 97(1) | Drive on road when road access sign indicates driver/vehicle not permitted |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 0
+134.  | RR 98(1) | Drive contrary to one-way sign unless rider of postal vehicle, bicycle or animal riding as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 1 | 2
+135.  | RR 99(1) | Fail to keep left (contrary to keep left sign) unless rider of postal vehicle, bicycle or animal riding as permitted |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+136.  | RR 99(2) | Fail to keep right (contrary to keep right sign) unless rider of postal vehicle, bicycle or animal riding as permitted |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+137.  | RR 100 | Drive past a no entry sign |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+138.  | RR 101(1) | Fail to stop before reaching hand-held stop sign (other than at children's crossing) |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 3
+139.  | RR 101(2) | Proceed past hand-held stop sign before permitted to do so (other than at children's crossing) |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 3
+Truck, bus and other large vehicle sign offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+140.  | RR 102(1) | Drive overheight vehicle past clearance sign or low clearance sign | 3.25 | 2
+141.  | RR 103(1) | Drive vehicle past bridge load limit (gross mass) sign/gross load limit sign if in excess of displayed gross mass | 3.25 | 2
+142.  | RR 103(2) | Drive vehicle past bridge load limit (mass per axle group) sign if in excess of mass indicated | 3.25 | 2
+143.  | RR 104(1) | Drive vehicle (other than bus) past no trucks sign if in excess of mass indicated unless otherwise permitted | 1.25 | 0
+144.  | RR 104(2) | Drive vehicle (other than bus) past no trucks sign if in excess of length indicated unless otherwise permitted | 1.25 | 0
+145.  | RR 104(3) | Drive truck past no trucks sign unless otherwise permitted | 1.25 | 0
+146.  | RR 105 | Fail to comply with trucks must enter sign | 1.25 | 0
+147.  | RR 106(1) | Drive bus past no buses sign in excess of indicated GVM | 1.25 | 0
+148.  | RR 106(2) | Drive bus past no buses sign in excess of indicated length | 1.25 | 0
+149.  | RR 106(3) | Drive bus past no buses sign | 1.25 | 0
+150.  | RR 107 | Fail to comply with buses must enter sign | 1.25 | 0
+Roundabout offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+151.  | RR 111(1) | Fail to enter roundabout as required (from multi-lane road or multi lines of traffic) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 0
+152.  | RR 112(2) | Fail to give sufficient left change of direction signal before entering roundabout (when leaving at first exit) | 0.75 | 2
+153.  | RR 112(3) | Fail to continue left change of direction signal (when leaving at first exit of roundabout) | 0.75 | 2
+154.  | RR 113(2) | Fail to give sufficient right change of direction signal before entering roundabout (when travelling more than halfway through) | 0.75 | 2
+155.  | RR 113(3) | Fail to continue right change of direction signal (when travelling more than halfway through roundabout) except as permitted | 0.75 | 2
+156.  | RR 114(1) | Fail to give way on entering roundabout to vehicle in roundabout |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+157.  | RR 115(1)(a) | Fail to keep left of central traffic island in roundabout |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1.25 | 2
+158.  | RR 115(1)(b) | Fail to keep to left of centre of traffic island in roundabout (where vehicle too large to drive in roundabout without driving on edge of central traffic island) | 1.25 | 2
+159.  | RR 115(1)(c) | Fail to keep to left of centre of traffic island (where vehicle too large to drive in roundabout without driving over central traffic island) | 1.25 | 2
+160.  | RR 116 | Fail to obey roundabout traffic lane arrows as required |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+161.  | RR 117(1) | Fail to indicate left-change of lane/traffic line in roundabout | 0.75 | 2
+162.  | RR 117(2) | Fail to indicate right-change of lane/traffic line in roundabout |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 2
+163.  | RR 118(1) | Fail to indicate left when leaving roundabout (if practicable) | 0.75 | 2
+164.  | RR 118(2) | Fail to turn off left indicator after leaving roundabout | 0.75 | 0
+165.  | RR 119 | Rider of a bicycle/animal (in far left lane) fail to give way to vehicle leaving roundabout | 0.75 | 0
+Level crossing offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+166.  | RR 121 | Fail to stop and give way at stop sign at level crossing |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+167.  | RR 122 | Fail to give way at level crossing with give way sign |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+168.  | RR 123(a) | Enter level crossing (with warning lights or bells operating) |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 2.25 | 3
+169.  | RR 123(b) | Enter level crossing (with gate/boom/barrier closed or moving) |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 2.25 | 3
+170.  | RR 123(c) | Enter level crossing (when train entering) |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 2.25 | 3
+171.  | RR 123(d) | Enter level crossing (when approaching train can be seen/heard and danger of collision) |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 2.25 | 3
+172.  | RR 123(e) | Enter level crossing (when blocked or road beyond blocked) |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 2.25 | 3
+173.  | RR 124 | Fail to leave level crossing as soon as safe |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 0
+General driving rule offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+|  | Note For additional local general offences see items 444 and 445. |  |
+174.  | RR 125(1) | Unreasonably obstructing the path of other driver/pedestrian |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+175.  | RR 126 | Follow another vehicle too closely to stop safely |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 1
+176.  | RR 127(1) | Long vehicle driver fail to keep required minimum distance behind another long vehicle | 1 | 1
+177.  | RR 128 | Enter blocked intersection/or intersection when road beyond blocked |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+178.  | RR 128A(1) | Enter children's crossing, marked foot crossing or pedestrian crossing when blocked or road beyond is blocked |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+Keeping to the left offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+179.  | RR 129(1) | Driver (other than motor bike rider) fail to keep to far left side of road (except on multi-lane road) |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 2
+180.  | RR 130(2) | Drive in a right hand lane on multi-lane road (in an over 80 km/h zone or with keep left unless overtaking sign) except as permitted |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 0.75 | 2
+181.  | RR 131(1) | Fail to keep to left of oncoming vehicles as required unless rider of postal vehicle, bicycle or animal riding on path or nature strip |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 2
+182.  | RR 132(1) | Fail to keep to left of centre of road (when no dividing line/median strip) |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 2
+183.  | RR 132(2) | Fail to keep to left of dividing line as required |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 3
+184.  | RR 132(2A) | Cross dividing lines as specified to make U-turn |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 3
+185.  | RR 135(1) | Fail to keep to left of median strip (other than painted island) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1.25 | 3
+186.  | RR 136 | Drive wrong way on a one-way service road |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 1 | 0
+187.  | RR 137(1) | Drive on dividing strip at same level as road and marked at each side by continuous line (other than painted island) except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+188.  | RR 138(1) | Drive on/over painted island (with single continuous line/2 parallel continuous lines) except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+Overtaking offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+189.  | RR 140 | Overtake when unsafe and when no clear view of any approaching traffic |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1.25 | 2
+190.  | RR 141(1) | Overtake to left of vehicle except as permitted |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+191.  | RR 142(1) | Overtake to right of vehicle indicating turning right or doing U-turn |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+192.  | RR 143(1) | Pass/overtake (when unsafe) to left of vehicle with do not overtake turning vehicle sign that is indicating turning left |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+193.  | RR 143(2) | Pass/overtake (when unsafe) to right of vehicle with do not overtake turning vehicle sign that is indicating turning right, or doing U-turn |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+194.  | RR 144(a) | Overtake too close to another vehicle |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+195.  | RR 144(b) | Cut in front of vehicle after overtaking |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+196.  | RR 145 | Increase speed while being overtaken on two-way road and before overtaking vehicle has safely returned |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 0
+Marked lane/line of traffic offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+|  | Note For additional local marked line offences see item 446. |  |
+197.  | RR 146(1) | Fail to drive within single marked lane as required (multi-lane road) except as permitted |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 0.75 | 0
+198.  | RR 146(2) | Fail to drive within single line of traffic as required when 2 or more lines of traffic travelling in same direction (and no marked lanes) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 0.75 | 0
+199.  | RR 147 | Cross continuous line separating 2 marked lanes (multi-lane road) except as permitted |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 0.75 | 2
+200.  | RR 148(1) | Fail to give way moving from one marked lane to another |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+201.  | RR 148(2) | Fail to give way moving from one line of traffic to another (when at least 2 lines of traffic travelling in same direction) |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+202.  | RR 148A | Driver of motor vehicle fail to give way when diverging (left or right) within a marked lane |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+203.  | RR 149 | Fail to give way to vehicle when any part of other vehicle is ahead when lines of traffic merge |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+204.  | RR 150(1) | Drive on/over continuous white edge line except as permitted | 0.75 | 0
+205.  | RR 151(1) | Ride motor bike/bicycle more than 2 abreast (on other than multi-lane road) | 0.75 | 0
+206.  | RR 151(2) | Ride motor bike/bicycle more than 2 abreast (in marked lane) unless overtaking or otherwise permitted | 0.75 | 0
+207.  | RR 151(4) | Ride motor bike/bicycle more than 1.5 metres abreast of another rider | 0.75 | 0
+Overhead lane control offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+208.  | RR 152(1) | Fail to comply with overhead lane control device |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.25 | 3
+Marked land for special purpose offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+209.  | RR 153(1) | Drive in bicycle lane except as permitted | 0.75 | 2
+210.  | RR 154(1) | Drive in bus lane except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+211.  | RR 156(1) | Drive in transit lane except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+212.  | RR 157(1) | Drive in truck lane except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+213.  | RR 159(1) | Fail to drive in correct lane as marked for that vehicle type unless driving as specified | 0.75 | 0
+No stopping/no parking sign offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+214.  | RR 167 | Disobey no stopping sign |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+215.  | RR 168(1) | Disobey no parking sign |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+216.  | RR 169 | Stop at side of road with continuous yellow edge line |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.75 | 0
+Stopping at intersection/crossing offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+217.  | RR 170(1) | Stop in an intersection except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+218.  | RR 170(2) | Stop within 20 metres of traffic lights at intersection except as permitted |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.75 | 0
+219.  | RR 170(3) | Stop within 10 metres of intersection (without traffic lights) except as permitted |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.75 | 0
+220.  | RR 171(1) | Stop on or within 20 metres of approach to or 10 metres after children's crossing except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+221.  | RR 172(1) | Stop on or within 20 metres of approach to or 10 metres after pedestrian crossing (not at intersection) except as permitted |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.75 | 0
+222.  | RR 173(1) | Stop on or within 10 metres of approach to or 3 metres after marked foot crossing (not at intersection) except as permitted |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.75 | 0
+223.  | RR 174(2) | Stop within 10 metres of approach to or 3 metres after bicycle crossing lights (not at intersection) except as permitted |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.75 | 0
+224.  | RR 175(1) | Stop on or within 20 metres either side of level crossing |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.75 | 0
+Stopping on clearway offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+225.  | RR 176(1) | Disobey clearway sign except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+Stopping in zone for particular vehicle offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+226.  | RR 179(1) | Stop in loading zone except as permitted |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+227.  | RR 179(2) | Exceed time in loading zone | 0.50 | 0
+228.  | RR 180(1) | Stop in truck zone except as permitted |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+229.  | RR 181(1) | Stop in works zone except as permitted |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+230.  | RR 182(1) | Stop in taxi zone |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+231.  | RR 183(1) | Stop in bus zone except as permitted |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+232.  | RR 185(1) | Stop in permit zone |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+233.  | RR 186(1) | Stop in mail zone |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+Stopping in other restricted place offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+234.  | RR 187(1) | Stop in bus/transit/truck lane except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.50 | 0
+235.  | RR 187(2) | Stop in bicycle lane except as permitted | 0.75 | 0
+236.  | RR 188 | Stop in shared zone except as permitted |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+237.  | RR 189(1) | Double park on road |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.75 | 0
+238.  | RR 191 | Stop (near obstruction) in such position to obstruct traffic |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+239.  | RR 192(1) | Stop on bridge/causeway/ramp or similar except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+240.  | RR 192(2) | Stop in tunnel/underpass except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+241.  | RR 193(1) | Stop on or near crest/curve (outside built-up area) except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+242.  | RR 194(1) | Stop within one metre of fire hydrant/indicator/fire plug indicator except as permitted |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+243.  | RR 195(1) | Stop within 20 metres of approach to or within 10 metres after bus stop sign |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+244.  | RR 197(1) | Stop (other than rider of a bicycle/animal) on bicycle path/footpath/shared path/dividing strip or nature strip (other than own) in built-up area except as permitted | 0.50 | 0
+245.  | RR 197(1A) | Stop on a painted island |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+246.  | RR 198(1) | Obstruct access to/from footpath ramp (or similar access) to foot/bicycle path or passageway |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+247.  | RR 198(2) | Stop on/across driveway or similar vehicular access except as permitted |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+248.  | RR 199(1) | Stop within 3 metres of public post box except as permitted |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.50 | 0
+249.  | RR 200(1) | Stop heavy/long vehicle other than on road shoulder (when not in built-up area) | 1 | 0
+250.  | RR 200(2) | Stop heavy/long vehicle on road (in built-up area) longer than 1 hour except as permitted | 0.75 | 0
+251.  | RR 201 | Stop contrary to bicycle parking sign | 0.50 | 0
+252.  | RR 202 | Stop contrary to motor bike parking sign |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.50 | 0
+253.  | RR 203(1) | Stop in parking area for people with disabilities except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 1 | 0
+254.  | RR 203A | Stop in slip lane except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+Permissive parking sign/parking fee offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+255.  | RR 205(1) | Park continuously for longer than permitted by sign |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.25 | 0
+Parallel parking offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+256.  | RR 208(1) | Incorrect parallel park on road (other than median strip parking) |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.50 | 0
+257.  | RR 208A | Incorrect parallel park in road-related area (other than median strip parking) |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.50 | 0
+258.  | RR 209(2) | Incorrect parallel park (median strip parking) |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.50 | 0
+Angle parking offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+259.  | RR 210(1) | Incorrect angle parking |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.50 | 0
+Other parking-related rule offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+260.  | RR 211(2) | Fail to park vehicle wholly within parking bay |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.50 | 0
+261.  | RR 211(3) | Use more parking bays than necessary | 0.50 | 0
+262.  | RR 212(1) | Fail to enter/leave median strip park in direction indicated |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 1 | 0
+263.  | RR 212(2) | Fail to enter/leave median strip parking area in forward direction (when no direction given) | 0.75 | 0
+264.  | RR 213(2) | Fail to effectively apply parking brake/restrain motor vehicle in some way | 0.75 | 0
+265.  | RR 213(3) | Driver leaving motor vehicle fail to switch off engine if will be over 3 metres from motor vehicle | 0.75 | 0
+266.  | RR 213(4) | Fail to remove ignition key (when over 3 metres from motor vehicle unattended by person at least 16 years) | 0.50 | 0
+267.  | RR 213(5) | Fail to lock doors or secure windows (when over 3 metres from motor vehicle unattended by person at least 16 years) | 0.50 | 0
+Light on vehicle offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+268.  | RR 215(1)(a) | Drive at night or in weather-reduced-visibility conditions without head/tail/number plate lights effectively operating and visible | 1 | 1
+269.  | RR 215(1)(b) | Drive at night or in weather-reduced-visibility conditions without clearance/side marker lights effectively operating and visible | 1 | 1
+270.  | RR 216(1) | Tow vehicle at night or in weather-reduced-visibility conditions without lights as required on towed vehicle | 1 | 1
+271.  | RR 217(1) | Use front or rear fog light except as permitted | 0.75 | 0
+272.  | RR 218(1) | Use high-beam headlights within 200 metres of moving vehicle | 1 | 1
+273.  | RR 219 | Use/allow use of lights likely to dazzle another road user | 1 | 1
+274.  | RR 220(1)(a) | Stop wide vehicle on road at night without clearance and side marker lights effectively operating and visible | 1.25 | 0
+275.  | RR 220(1)(b) | Stop vehicle (other than wide vehicle) on road at night without required parking lights | 1 | 0
+276.  | RR 221(1) | Use hazard warning lights except as permitted | 0.75 | 0
+277.  | RR 222(2) | Driver fail to have operating school bus warning lights as required when dropping off/picking up a child | 1.25 | 0
+Light on animal-drawn vehicle offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+278.  | RR 223 | Riding animal-drawn vehicle at night or in hazardous weather conditions causing reduced visibility without required lighting and reflector | 1 | 0
+Horn/radar detector offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+279.  | RR 224 | Use/allow use of a horn (or similar warning device) unnecessarily |  |
+(a)  |  | rider of a bicycle | 0.25 | 0
+(b)  |  | any other driver | 0.75 | 0
+280.  | RR 225(1) | Drive vehicle or tow trailer having device for detecting, or preventing effective use of, speed measuring device unless exempt | 5.75 | 0
+281.  | RR 225(2) | Person in vehicle or trailer having device for detecting, or preventing effective use of, speed measuring device unless exempt | 5.75 | 0
+Portable warning triangle offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+282.  | RR 226(1) | Drive vehicle not equipped with 3 portable warning triangles (GVM more than 12 tonnes) | 1 | 0
+283.  | RR 226(2) | Fail to produce portable warning triangles for inspection | 1 | 0
+284.  | RR 227(2) | Fail to use portable warning triangles as required (while stopped and vehicle not visible for 200m)(GVM more than 12 tonnes) | 1 | 0
+285.  | RR 227(3) | Fail to use portable warning triangles as required (fallen load not visible for 200m)(GVM more than 12 tonnes) | 1 | 0
+General pedestrian rules offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+286.  | RR 228 | Fail to obey no pedestrians sign | 0.75 | 0
+287.  | RR 229 | Pedestrian fail to comply with road access sign | 0.75 | 0
+288.  | RR 230(1) | Pedestrian fail to cross road by shortest safe route/stay on road longer than necessary to safely cross | 0.25 | 0
+289.  | RR 231(1) | Fail to comply with pedestrian traffic lights | 0.25 | 0
+290.  | RR 232(1) | Pedestrian fail to comply with traffic light (when no pedestrian light) | 0.25 | 0
+291.  | RR 232(3) | Pedestrian crossing road fail to proceed as required after change to yellow/red traffic light | 0.25 | 0
+292.  | RR 234(1) | Pedestrian cross road/part of road within 20 metres of crossing except as permitted | 0.25 | 0
+293.  | RR 234(2) | Pedestrian remain on crossing longer than necessary | 0.25 | 0
+294.  | RR 235(1) | Fail to use pedestrian facility at or near level crossing | 0.25 | 0
+295.  | RR 235(2)(a) | Pedestrian fail to comply with warning lights at level crossing | 0.75 | 0
+296.  | RR 235(2)(b) | Pedestrian cross level crossing while gate/boom/barrier is closed/opening/closing | 0.75 | 0
+297.  | RR 235(2)(c) | Pedestrian cross level crossing when train is on/entering level crossing | 0.75 | 0
+298.  | RR 235(2)(d) | Pedestrian cross level crossing when approaching train is visible or is sounding warning | 0.50 | 0
+299.  | RR 235(2)(e) | Pedestrian cross railway line when crossing or road beyond is blocked | 0.25 | 0
+300.  | RR 235(2A) | Pedestrian fail to finish crossing railway line without delay if warning lights or bells start, gate, boom or barrier starts to close or train approaches | 0.75 | 0
+301.  | RR 235A(2) | Pedestrian start to cross at pedestrian level crossing when red pedestrian light showing | 0.75 | 0
+302.  | RR 235A(3) | Pedestrian fail to finish crossing pedestrian level crossing without delay if red pedestrian light appears after pedestrian starts to cross | 0.75 | 0
+303.  | RR 236(1) | Pedestrian cause traffic hazard by moving into path of driver | 0.75 | 0
+304.  | RR 236(2) | Pedestrian unreasonably obstructing path of driver/another pedestrian | 0.25 | 0
+305.  | RR 236(4)(a) | Pedestrian stand on/move on to road/median strip/painted island or traffic island to solicit contributions, business or employment from person in vehicle | 0.50 | 0
+306.  | RR 236(4)(c) | Pedestrian stand on/move on to road/median strip/painted island or traffic island to display an advertisement | 0.50 | 0
+307.  | RR 236(4)(d) | Pedestrian stand on/move on to road/median strip/painted island or traffic island to sell or offer articles for sale | 0.50 | 0
+308.  | RR 236(4)(e) | Pedestrian stand on/move on to road/median strip/painted island or traffic island to wash or clean, or offer to wash or clean, windscreen | 0.50 | 0
+309.  | RR 236(5) | Buy or offer to buy article or service from in or on vehicle from person standing on road | 0.50 | 0
+310.  | RR 237(1) | Get on/into a moving vehicle except as permitted | 0.75 | 0
+311.  | RR 238(1) | Pedestrian travel along road (other than in/on wheeled recreational device) if footpath or nature strip adjacent to road | 0.25 | 0
+312.  | RR 238(2)(a) | Pedestrian fail to keep as far left/far right along road (other than in/on wheeled recreational device) as practicable | 0.25 | 0
+313.  | RR 238(2)(ab) | Pedestrian when travelling forward on road fail to face approaching traffic moving in opposite direction to which pedestrian is travelling | 0.25 | 0
+314.  | RR 238(2)(b) | Pedestrian travel more than 2 abreast on road (other than in/on wheeled recreational device) | 0.25 | 0
+315.  | RR 239(1) | Pedestrian on bicycle path or bicycle part of separated footway except as permitted | 0.25 | 0
+316.  | RR 239(3) | Pedestrian fail to keep out of path of bicycle or pedestrian (when crossing bicycle path or bicycle part of separated footpath) | 0.50 | 0
+Wheeled recreational device/toy offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+|  | Note For additional local lawn mower and wheeled recreational device/toy offences see items 439 to 442. |  |
+317.  | RR 240A | Travel in/on wheeled recreational device or wheeled toy on a road past a no wheeled recreational devices or toys sign | 0.25 | 0
+318.  | RR 240(1) | Travel in/on wheeled recreational device/toy on road (not road-related area) with dividing line/median strip/or one-way road with more than one marked lane or where speed limit over 50km/h | 0.50 | 0
+319.  | RR 240(2)(b) | Travel in/on wheeled recreational device on road (not road-related area) at night | 0.25 | 0
+320.  | RR 241(1)(a) | Fail to keep left when travelling in/on wheeled recreational device/toy on road (not road-related area) | 0.25 | 0
+321.  | RR 241(1)(b) | Travel more than 2 abreast of pedestrian or vehicle in/on wheeled recreational device/toy on road (not road-related area) | 0.25 | 0
+322.  | RR 242(1)(a) | Fail to keep to left of footpath or shared path when travelling in/on wheeled recreational device/toy | 0.25 | 0
+323.  | RR 242(1)(b) | Fail to give way to pedestrian (other than person in/on wheeled recreational device/toy) when travelling in/on wheeled recreational device/toy on footpath or shared path | 0.25 | 0
+324.  | RR 243(1) | Rollerblader (or similar) travelling on pedestrian part of separated footpath | 0.50 | 0
+325.  | RR 243(2) | Rollerblader (or similar) fail to keep out of path of bicycle when travelling on bicycle path or part of separated footpath designated for bicycles | 0.50 | 0
+326.  | RR 244(1) | Travel in/on wheeled recreational device/toy that is being towed by vehicle | 0.75 | 0
+327.  | RR 244(2) | Travel in/on wheeled recreational device/toy while holding onto moving vehicle | 0.75 | 0
+328.  | RR 244(3) | Travel in/on wheeled recreational device/toy within 2 metres of rear of moving vehicle (continuously for more than 200 metres) | 0.75 | 0
+Additional bicycle rule offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+329.  | RR 245(a) | Rider of bicycle not astride riders seat and facing forward | 0.50 | 0
+330.  | RR 245(b) | Rider of bicycle ride with no hands on handlebars | 0.50 | 0
+331.  | RR 245(c) | Rider of bicycle seated other than on seat | 0.50 | 0
+332.  | RR 246(1) | Rider of bicycle carry more persons than bicycle designed to carry | 0.50 | 0
+333.  | RR 246(2) | Bicycle passenger travel on bicycle otherwise than in seat designed for passenger | 0.25 | 0
+334.  | RR 246(3) | Rider of bicycle carrying passenger on bicycle otherwise than in seat designed for passenger | 0.25 | 0
+335.  | RR 247(1) | Rider of bicycle fail to ride in bicycle lane | 0.75 | 0
+336.  | RR 247A(1) | Rider of bicycle enter bicycle storage area contrary to red traffic light or red traffic arrow except from bicycle lane | 0.75 | 0
+337.  | RR 247B(1) | Rider of bicycle fail to give way as required to any vehicle when entering bicycle storage area | 0.75 | 0
+338.  | RR 247B(2) | Rider of bicycle in a bicycle storage area on multi-lane road fail to give way as required to motor vehicle in any lane other than lane that rider of bicycle is directly in front of (except to motor vehicle facing red traffic arrow) | 0.75 | 0
+339.  | RR 248(2) | Rider of bicycle ride on marked foot crossing unless green bicycle crossing light showing | 0.50 | 0
+340.  | RR 249 | Rider of bicycle ride on pedestrian part of separated footpath | 0.50 | 0
+341.  | RR 250(2)(a) | Rider of bicycle fail to keep left of footpath or shared path | 0.50 | 0
+342.  | RR 250(2)(b) | Rider of bicycle fail to give way to pedestrian on footpath or shared path | 0.50 | 0
+343.  | RR 251 | Rider of bicycle fail to keep left of oncoming rider of bicycle (on path) | 0.50 | 0
+344.  | RR 252(1) | Rider of bicycle ride where forbidden by sign or road marking | 0.50 | 0
+345.  | RR 253 | Rider of bicycle cause traffic hazard (move into path of driver/pedestrian) | 0.75 | 0
+346.  | RR 254(1) | Ride bicycle while being towed by another vehicle | 0.75 | 0
+347.  | RR 254(2) | Ride bicycle while holding onto another moving vehicle | 0.75 | 0
+348.  | RR 255 | Ride bicycle within 2 metres of rear of moving motor vehicle (continuously for more than 200 metres) | 0.75 | 0
+349.  | RR 256(1) | Rider of bicycle fail to wear securely fitted and fastened approved bicycle helmet | 0.75 | 0
+350.  | RR 256(2) | Bicycle passenger (except fare-paying passenger on 3 or 4-wheeled bicycle) fail to wear securely fitted and fastened approved bicycle helmet | 0.25 | 0
+351.  | RR 256(3) | Rider of bicycle carry passenger (except fare-paying passenger on 3 or 4-wheeled bicycle) without securely fitted and fastened approved bicycle helmet | 0.75 | 0
+352.  | RR 257(1)(b) | Rider of bicycle tow bicycle trailer carrying person 10 or more years old | 0.50 | 0
+353.  | RR 257(1)(c) | Rider of bicycle tow person in/on bicycle trailer when trailer can not carry person safely | 0.75 | 0
+354.  | RR 257(1)(d) | Rider of bicycle carry person in/on bicycle trailer without person wearing securely fitted and fastened approved bicycle helmet | 0.75 | 0
+355.  | RR 258(a) | Ride bicycle with no effective brake | 0.50 | 0
+356.  | RR 258(b) | Ride bicycle with no warning device in working order | 0.50 | 0
+357.  | RR 259(a) | Cycle at night without white light visible from 200 or more metres in front | 0.75 | 0
+358.  | RR 259(b) | Cycle at night without red light visible from 200 or more metres at rear | 0.75 | 0
+359.  | RR 259(c) | Cycle at night without red reflector visible from 50 or more metres at rear | 0.75 | 0
+360.  | RR 260(1) | Rider of bicycle start to cross intersection or other place contrary to red bicycle crossing light | 0.75 | 0
+361.  | RR 261(1) | Rider of bicycle start to cross intersection or other place contrary to yellow bicycle crossing light | 0.75 | 0
+362.  | RR 262(1) | Rider of a bicycle fail to cross intersection safely as required (when entered on green and bicycle crossing lights change to yellow/red) | 0.50 | 0
+Rule for person travelling in/on vehicle offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+363.  | RR 264(1) | Driver fail to wear properly adjusted and fastened seatbelt (when vehicle moving/stationary, but not parked) | 2 | 3
+364.  | RR 265(1) | Passenger (aged 16 years or more) fail to wear properly adjusted and fastened seatbelt (when vehicle moving/stationary, but not parked) | 2 | 0
+365.  | RR 265(3) | Driver fail to ensure passenger aged 16 years or more is restrained as required (when vehicle moving/stationary, but not parked) | 2 | 3
+366.  | RR 266(1) | Driver fail to ensure passenger under 16 years old is restrained as required (when vehicle moving/stationary, but not parked) | 2.25 | 3
+367.  | RR 268(1) | Travel in/on part of vehicle not designed primarily for carriage of passengers/goods | 2 | 0
+368.  | RR 268(2) | Travel in/on part of vehicle designed primarily for carriage of goods unless part is enclosed and passenger occupies suitable seating position | 2 | 0
+369.  | RR 268(3) | Travel in/on motor vehicle with part of body outside window/door | 0.75 | 0
+370.  | RR 268(4) | Drive with part of passenger's body outside window/door (other than bus) | 0.75 | 0
+371.  | RR 268(4A) | Drive with passenger in/on part of vehicle not designed primarily for carriage of passengers/goods | 2.25 | 3
+372.  | RR 268(4B) | Drive with passenger in/on part of vehicle designed primarily for goods carriage unless part is enclosed and passenger occupies suitable seating position | 2.25 | 3
+373.  | RR 269(1) | Alight from moving vehicle except as permitted | 0.75 | 0
+374.  | RR 269(3) | Cause hazard by opening/leaving open a vehicle door or getting out of/off vehicle | 1 | 0
+375.  | RR 269(4) | Bus driver moving bus while doors not closed | 1 | 0
+376.  | RR 270(1)(a) | Motor bike rider fail to wear securely fitted and fastened approved motor bike helmet (when vehicle moving/stationary, but not parked) | 1 | 3
+377.  | RR 270(1)(b) | Motor bike rider fail to ensure passenger wearing securely fitted and fastened approved motor bike helmet (when vehicle moving/stationary, but not parked) | 1 | 3
+378.  | RR 270(2) | Motor bike passenger fail to wear securely fitted and fastened approved motor bike helmet (when vehicle moving/stationary, but not parked) | 1 | 0
+379.  | RR 271(1)(a) | Ride motor bike not sitting astride seat and facing forward (including when stationary, but not parked) | 1 | 0
+380.  | RR 271(1)(b) | Ride motor bike without at least one hand on handlebars (including when stationary, but not parked) | 1 | 0
+381.  | RR 271(2)(a) | Motor bike pillion passenger not sitting astride seat and facing forwards (when vehicle moving/stationary, but not parked) | 0.75 | 0
+382.  | RR 271(2)(b) | Motor bike pillion passenger not keeping both feet on passenger footrests (when vehicle moving/stationary, but not parked) | 0.75 | 0
+383.  | RR 271(3) | Ride motor bike when pillion passenger not facing forwards sitting astride seat and not having both feet on passenger footrests (when vehicle moving/stationary, but not parked) | 0.75 | 0
+384.  | RR 271(4) | Ride motor bike with more than one passenger (excluding in sidecar or seat other than pillion seat) | 1 | 0
+385.  | RR 271(5) | Ride motor bike with sidecar passengers or other non-pillion passengers exceeding number designed to carry | 1 | 0
+386.  | RR 271(5A) | Ride motor bike with passenger who is under 8 years old, unless in sidecar | 1 | 3
+387.  | RR 271(5B) | Motor bike sidecar passenger ride when not safely seated in sidecar | 0.75 | 0
+388.  | RR 271(5C) | Ride motor bike when sidecar passenger not safely seated in side car | 0.75 | 0
+389.  | RR 272 | Passenger in/on vehicle interfere with driver's control or obstruct driver's view of road/traffic | 1 | 0
+General bus offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+390.  | RR 281 | Public bus driver fail to stop as required at red B light | 1 | 3
+391.  | RR 282 | Public bus driver fail to stop as required at yellow B light | 0.75 | 3
+392.  | RR 284 | Public bus driver proceed through red/yellow B light (after having stopped) before permitted | 1 | 3
+393.  | RR 286(2) | Public bus driver (having stopped before entering intersection) proceed before permitted by B light/green traffic light/traffic arrow to do so | 1 | 3
+394.  | RR 286(3) | Public bus driver (already stopped in intersection) fail to proceed as soon as safely possible after B light/traffic arrow changes to red/yellow | 0.75 | 0
+Miscellaneous driver offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+395.  | RR 288(1) | Drive on path (other than rider of bicycle) except as permitted | 0.75 | 0
+396.  | RR 288(4) | Driver on path (other than rider of bicycle or driver entering road from road-related area or adjacent land or vice versa) fail to give way to other road users/animals on path | 1 | 3
+397.  | RR 289(2) | Driver on nature strip (other than animal rider or driver entering road from road-related area or adjacent land or vice versa) fail to give way to other road users/animals on nature strip |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+398.  | RR 290 | Drive on traffic island (other than on central island in roundabout) except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 1 | 0
+399.  | RR 291 | Start vehicle or drive causing unnecessary noise/smoke | 0.75 | 0
+400.  | RR 292 | Drive/tow vehicle with improperly secured/placed load or projecting load likely to injure/damage/obstruct |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1.25 | 0
+401.  | RR 293(2) | Driver fail to remove/have removed from road, as soon as safely can, any thing fallen/put from driver's vehicle (when possibility of injury/damage/obstruction) |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1 | 0
+402.  | RR 294(1) | Tow motor vehicle when unsafe to do so and without having control of towed vehicle | 1.25 | 0
+403.  | RR 294(1) | Tow motor vehicle when unsafe to do so and without having a relevantly licensed driver steering and operating brakes of towed vehicle | 1.25 | 0
+404.  | RR 294(2) | Motor vehicle driver tow trailer when unsafe to do so and when unable to control trailer's movement | 1.25 | 0
+405.  | RR 295(1) | Motor vehicle driver tow vehicle with overlong towline and not having required warning material | 1 | 0
+406.  | RR 296(1) | Reverse vehicle when unsafe |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1 | 0
+407.  | RR 296(2) | Reverse vehicle further than reasonable in circumstances |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 0.75 | 0
+408.  | RR 297(1) | Drive without proper control of vehicle | 1 | 0
+409.  | RR 297(1A) | Drive with person or animal in the driver's lap | 1 | 0
+410.  | RR 297(2) | Drive motor vehicle without clear view of road and traffic ahead, behind and to each side | 1 | 0
+411.  | RR 297(3) | Ride motor bike with animal on motor bike that interferes with rider's control or prevents clear view of road | 1 | 0
+412.  | RR 298 | Drive motor vehicle towing trailer with person in/on it except as permitted | 1 | 0
+413.  | RR 299(1) | Drive vehicle with TV/VDU image visible to driver or likely to distract another driver | 1 | 0
+414.  | RR 300(1) | Drive using mobile phone (when vehicle moving or stationary, but not parked) except to make or receive audio phone call from phone secured in mounting or not required to be touched |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 2 | 3
+Miscellaneous animal offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+|  | Note For additional local livestock offences see items 426 to 437. |  |
+415.  | RR 301(1) | Lead or tether animal to motor vehicle whilst driving except as permitted | 0.75 | 0
+416.  | RR 301(2) | Passenger lead animal whilst in/on moving motor vehicle except as permitted | 0.75 | 0
+417.  | RR 301(3) | Rider of a bicycle lead or tether animal to bicycle when riding unless permitted | 0.75 | 0
+418.  | RR 302 | Animal rider fail to give way to pedestrian on footpath/nature strip | 0.50 | 0
+419.  | RR 303(1) | Ride animal more than 2 abreast (other than on multi-lane road) | 0.75 | 0
+420.  | RR 303(2) | Ride animal more than 2 abreast (in a marked lane) | 0.75 | 0
+421.  | RR 303(4) | Ride animal more than 1.5 metres abreast of another animal rider | 0.75 | 0
+Obeying direction offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+422.  | RR 304(1) | Fail to obey reasonable direction by police officer/authorised person for safe and efficient traffic regulation |  |
+(a)  |  | rider of a bicycle | 1.25 | 0
+(b)  |  | any other driver | 1.25 | 3
+(c)  |  | pedestrian | 1.25 | 0
+Local police officer/authorised person offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+423.  | RR 354(2) | Fail to obey direction of police officer/authorised person (when found committing or when reasonably believed to have committed offence against the Traffic Act 1925, Passenger Transport Services Act 2011 or Taxi and Hire Vehicle Industries Act 2008) | 2.25 | 0
+Local livestock offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+424.  | RR 356(1)(a) | Fail to stop before reaching livestock obstructing progress | 1 | 0
+425.  | RR 356(1)(b) | Proceed past livestock before way cleared to proceed safely | 1 | 0
+426.  | RR 356(3) | Person leading livestock fail to clear way for driver as soon as practicable | 0.75 | 0
+427.  | RR 357(1) | Fail to give effective and sufficient warning of livestock presence on road as required (during daylight) | 1.25 | 0
+428.  | RR 358(1) | Lead livestock on road at night except as permitted | 1.75 | 0
+429.  | RR 358(2) | Lead livestock on road at night with no flashing/rotating amber light warning road users | 1.75 | 0
+430.  | RR 359(1)(a) | Lead livestock on National Land Transport Network/State highway/subsidiary road without one person at front and one at rear | 1.75 | 0
+431.  | RR 359(1)(b) | Lead livestock on road (other than National Land Transport Network/State highway/subsidiary road) without one person at front and one at rear or without at least one person assisted by prescribed dog | 1.75 | 0
+432.  | RR 360(1) | Lead livestock on National Land Transport Network without permit | 1.25 | 0
+433.  | RR 360(8) | Contravene permit condition for livestock on National Land Transport Network | 1.25 | 0
+434.  | RR 360(9) | Fail to immediately produce permit to lead livestock on National Land Transport Network | 0.75 | 0
+435.  | RR 361(3) | Fail to stop/remain stopped as directed on approaching restive/alarmed animals | 0.75 | 0
+Miscellaneous local offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+436.  | RR 363(1) | Turn right or left at traffic lights intersection at more than 20km/h | 0.75 | 2
+437.  | RR 364(1) | Drive ride-on lawnmower on road (excluding road-related area but including shoulder, footpath, bicycle path) except as permitted | 0.75 | 0
+438.  | RR 365(1) | Travel in/on wheeled recreational device or wheeled toy on a road past a no wheeled recreational devices or toys road marking | 0.25 | 0
+439.  | RR 366(a) | Travel in/on wheeled recreational device/toy without due care and attention | 0.50 | 0
+440.  | RR 366(b) | Travel in/on wheeled recreational device/toy on road without reasonable consideration for other road users | 0.25 | 0
+441.  | RR 367(1) | Drive without due care and attention |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+442.  | RR 367(2) | Drive without reasonable consideration for other road users |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+Local transitional rule offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+443.  | RR 371(1) | Driver cross 2 broken parallel dividing lines except as permitted |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 3
+444.  | RR 374(1) | Exceed 40km/h by less than 10km/h within 50 metres of bus on road displaying school bus warning sign and warning light | 0.50 | 2
+445.  | RR 374(1) | Exceed 40km/h by 10 to 14km/h within 50 metres of bus on road displaying school bus warning sign and warning light | 0.75 | 2
+446.  | RR 374(1) | Exceed 40km/h by 15 to 22km/h within 50 metres of bus on road displaying school bus warning sign and warning light | 1 | 3
+447.  | RR 374(1) | Exceed 40km/h by 23 to 29km/h within 50 metres of bus on road displaying school bus warning sign and warning light | 1.75 | 3
+448.  | RR 374(1) | Exceed 40km/h by 30 to 37km/h within 50 metres of bus on road displaying school bus warning sign and warning light | 3 | 5
+449.  | RR 374(1) | Exceed 40km/h by 38 to 44km/h within 50 metres of bus on road displaying school bus warning sign and warning light | 4.25 | 6
+450.  | RR 374(1) | Exceed 40km/h by 45km/h or more within 50 metres of bus on road displaying school bus warning sign and warning light | 5.75 | 6
+Vehicle and Traffic Act 1999
+Licensing Offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+451.  | VT 8(1) | Drive without a driver licence of the relevant class (within 3 months expiry of such licence) | 1 | 0
+452.  | VT 8(3) | Employ/cause/permit another person to drive without a driver licence of the relevant class (within 3 months expiry of such licence) | 1 | 0
+453.  | VT 12(1) | Fail to comply with conditions of driver licence | 1.25 | 0
+454.  | VT 12(2) | Fail to comply with conditions of Australian driver licence issued under corresponding law | 1.25 | 0
+455.  | VT 12(3) | Fail to comply with conditions of foreign driver licence | 1.25 | 0
+456.  | VT 12(4) | Employ/cause/permit another person to drive in breach of conditions of Australian/foreign driver licence | 1.25 | 0
+Ancillary certificate offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+457.  | VT 14(4) | Use motor vehicle for providing driving instruction for reward without certificate of roadworthiness in force | 1.25 | 0
+458.  | VT 14(4) | Permit use of motor vehicle for providing driving instruction for reward without certificate of roadworthiness in force | 1.25 | 0
+459.  | VT 14(4) | Use vehicle not fitted with dual controls as required for providing driving instruction for reward | 1.75 | 0
+460.  | VT 14(4) | Permit use of vehicle not fitted with dual controls as required for providing driving instruction for reward | 1.75 | 0
+461.  | VT 16(1) | Fail to comply with conditions of ancillary certificate | 1.25 | 0
+462.  | VT 16(3) | Employ/cause/permit another person to provide driving instruction for reward contrary to conditions of ancillary certificate | 1.25 | 0
+463.  | VT 16(3) | Employ/cause/permit another person to drive a public passenger vehicle contrary to conditions of ancillary certificate | 1.25 | 0
+Registration offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+464.  | VT 27(1) | Use unregistered motor vehicle (registration not suspended/cancelled) | 1.25 | 0
+465.  | VT 27(1) | Use/permit use of unregistered motor vehicle (registration not suspended/cancelled) (photographic detection device) | 1.25 | 0
+466.  | VT 27(1) | Use unregistered trailer (registration not suspended/cancelled) | 1.25 | 0
+467.  | VT 27(1) | Permit use of unregistered trailer (registration not suspended/cancelled) | 1.25 | 0
+468.  | VT 27(1) | Use/permit use of unregistered trailer (registration not suspended/cancelled) (photographic detection device) | 1.25 | 0
+469.  | VT 27(1) | Permit use of unregistered motor vehicle (registration not suspended/cancelled) | 1.75 | 0
+470.  | VT 28(3) | Contravene condition on use of vehicle imposed under corresponding law (registration/trade plate/short term unregistered vehicle permit) | 1.25 | 0
+471.  | VT 28(3) | Permit contravention of condition on use of vehicle imposed under corresponding law (registration/trade plate/short term unregistered vehicle permit) | 1.25 | 0
+472.  | VT 29(3) | Contravene/permit contravention of requirement/condition on use of vehicle registered under foreign law | 1.25 | 0
+473.  | VT 30(1) | Use motor vehicle in breach of registration condition | 1.25 | 0
+474.  | VT 30(1) | Permit use of motor vehicle in breach of registration condition | 1.25 | 0
+475.  | VT 30(1) | Use trailer in breach of registration condition | 1.25 | 0
+476.  | VT 30(1) | Permit use of trailer in breach of registration condition | 1.25 | 0
+477.  | VT 30(2) | Use motor vehicle in breach of short term unregistered vehicle permit condition | 1.25 | 0
+478.  | VT 30(2) | Use trailer in breach of short term unregistered vehicle permit condition | 1.25 | 0
+479.  | VT 30(2) | Permit use of motor vehicle in breach of short term unregistered vehicle permit condition | 1.25 | 0
+480.  | VT 30(2) | Permit use of trailer in breach of short term unregistered vehicle permit condition | 1.25 | 0
+481.  | VT 30(2) | Use motor vehicle in breach of trade plate condition | 1.25 | 0
+482.  | VT 30(2) | Use trailer in breach of trade plate condition | 1.25 | 0
+483.  | VT 30(2) | Permit use of motor vehicle in breach of trade plate condition | 1.25 | 0
+484.  | VT 30(2) | Permit use of trailer in breach of trade plate condition | 1.25 | 0
+Motor tax offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+485.  | VT 36(1) | Use registered vehicle that has been altered/had alteration to its configuration/use with increased motor tax liability (without upgrade or temporary upgrade permit in force) | 1.75 | 0
+486.  | VT 36(1) | Permit use of registered vehicle that has been altered/had alteration to its configuration/use with increased motor tax liability (without upgrade or temporary upgrade permit in force) | 1.75 | 0
+Compliance offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+487.  | VT 46(2) | Fail to stop/remain stopped when directed/signalled (inspection, investigation, inquiry) | 1.25 | 0
+488.  | VT 46(2) | Fail to stop/remain stopped when directed/signalled | 2.25 | 0
+489.  | VT 46(3) | Unload/alter position of load on vehicle or combination, or cause/permit vehicle or combination to be unloaded or position of load altered before vehicle is inspected | 2.25 | 0
+490.  | VT 46A(1) | Fail to carry and produce Australian driver licence (other than a restricted driver licence) while driving, or in charge of, a motor vehicle on a public street or instructing a person learning to drive a motor vehicle on a public street | 0.50 | 0
+491.  | VT 46A(1) | Fail to carry and produce restricted driver licence while driving, or in charge of, a motor vehicle on a public street | 1.25 | 0
+492.  | VT 46A(2) | Fail to carry and produce foreign driver licence (and English translation where required) or international driving permit while driving, or in charge of, a motor vehicle on a public street | 0.50 | 0
+493.  | VT 46A(3) | Fail to carry and produce ancillary certificate while driving, or in charge of, a motor vehicle or engaging in other activity for which that certificate is required | 1.25 | 0
+494.  | VT 47(1) | Driver fail to produce for inspection a document required to be carried by driver or to be carried in/on vehicle (other than an Australian driver licence, foreign driver licence or ancillary certificate) | 1.25 | 0
+495.  | VT 47(3) | Person apparently in charge of vehicle (other than driver) fail to produce for inspection document required to be carried in/on vehicle | 1.25 | 0
+496.  | VT 47(4) | Fail to produce document for inspection within 7 days | 1.25 | 0
+497.  | VT 48(1) | Fail to deliver into custody as required an Australian driver licence/ancillary certificate or related document | 1.75 | 0
+498.  | VT 48(3) | Registered operator fail to deliver number plate/registration label/certificate of registration/trade plate/short term unregistered vehicle permit or any other required document issued under Act into custody as required | 1.75 | 0
+499.  | VT 48(3) | Fail to deliver plate/label/certificate/permit/ other document issued under Act into custody of the Registrar/police officer/authorised officer as required | 1.75 | 0
+500.  | VT 48(4A) | Fail to deliver document/record/logbook issued or required to be kept under Act into custody of the Commission/police officer/authorised officer as required | 1.75 | 0
+501.  | VT 48(5) | Fail to have Australian/foreign driver licence or ancillary certificate available for production and fail to produce in court proceedings | 1 | 0
+502.  | VT 48(6) | Fail to produce for inspection, when asked by police/authorised officer, record required to be kept under regulations | 1.75 | 0
+503.  | VT 49(6) | Fail to comply with direction of police officer/authorised officer at inspection to move vehicle/open compartment/demonstrate operation of vehicle or equipment or to answer question | 2.25 | 0
+504.  | VT 49A(3) | Fail to comply with police officer/authorised officer direction to unload/secure all/part of load | 2.25 | 0
+505.  | VT 50(8) | Fail to produce motor vehicle for inspection (on Registrar's written notice) as required | 1.75 | 0
+506.  | VT 50(8) | Fail to produce trailer for inspection (on Registrar's written notice) as required | 1.75 | 0
+507.  | VT 55(3) | Fail to comply with Registrar's written requirement to provide specified information/evidence/ documents for inspection, or attend for identification (to correct/complete relevant register entry) | 1.25 | 0
+508.  | VT 56A(7) | Fail to comply with police direction (when temporary closure of public street or prohibition on its use – public event) | 1.25 | 0
+509.  | VT 56B(2) | Fail to comply with police direction (when temporary closure of public street or prohibition on its use – danger or obstruction) | 1.25 | 0
+Vehicle and Traffic (Driver Licensing and Vehicle Registration) Regulations 2010
+Learner, provisional and conditional licence offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+510.  | DLVR 10(9) | Novice driver in L1 stage or L2 stage or novice rider in motorcycle learner stage fail to display clearly visible L-plates as required | 0.50 | 2
+511.  | DLVR 10(9) | Learner driver (other than novice driver in L1 stage or L2 stage or novice rider in motorcycle learner stage) fail to display clearly visible L-plates as required | 0.50 | 2
+512.  | DLVR 10(11) | Novice driver in L1 stage or L2 stage driving without accompanying person as required | 1.25 | 0
+513.  | DLVR 10(11) | Learner driver (other than novice driver) driving without accompanying person as required | 1.25 | 0
+514.  | DLVR 10(15) | Drive with L-plate displayed when not learner driver | 0.50 | 0
+515.  | DLVR 10(16) | Employing, causing or permitting motor vehicle to be driven without L-plates displayed as required | 0.50 | 0
+516.  | DLVR 10(16) | Employing, causing or permitting learner driver (including novice driver in L1 stage or L2 stage) to drive without accompanying person as required | 1.25 | 0
+517.  | DLVR 10(16) | Employing, causing or permitting holder of learner motor cycle licence to drive motor cycle on public street carrying another person unless holder permitted by regulation 10(13) of the DLVR | 1 | 0
+518.  | DLVR 10(16) | Employing, causing or permitting holder of learner motor cycle licence to drive motor cycle, other than learner approved motor cycle, on public street | 1 | 0
+519.  | DLVR 10(16) | Employing, causing or permitting holder of learner motor cycle licence to drive motor cycle on public street unless motor cycle is of a kind prescribed or holder has authorisation | 1 | 0
+520.  | DLVR 12(9) | Novice driver or novice rider in P1 stage fail to display clearly visible P-plates as required | 0.50 | 2
+521.  | DLVR 12(11) | Employ/cause/permit novice driver or novice rider in P1 stage to drive without displaying clearly visible P-plates as required | 0.50 | 0
+522.  | DLVR 13(1) | Holder of P1 provisional licence in relation to motor cycle driving, on public street, motor cycle carrying another person | 1 | 0
+523.  | DLVR 13(2) | Holder of P1 provisional licence in relation to a motor cycle driving motor cycle on public street otherwise than as permitted by regulation 13(2) of the DLVR | 1 | 0
+524.  | DLVR 13(4) | Employing, causing or permitting holder of P1 provisional licence in relation to a motor cycle to drive, on public street, motor cycle carrying another person | 1 | 0
+525.  | DLVR 13(4) | Employing, causing or permitting holder of P1 provisional licence in relation to a motor cycle to drive motor cycle on public street unless holder permitted by regulation 13(2) of the DLVR | 1 | 0
+526.  | DLVR 24(5) | Holder of code X conditional Australian driver licence fail to carry explanatory notice as required | 1.25 | 0
+Miscellaneous licensing offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+527.  | DLVR 36(1) | Fail to notify change of name, residential address, or address for service of notices, within 14 days | 0.75 | 0
+528.  | DLVR 36(5) | Fail to attach change of address sticker to driver licence as soon as practicable, and keep attached | 0.75 | 0
+General ancillary certificate offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+529.  | DLVR 42(2) | Fail to display identification card (issued to ancillary certificate holder) in vehicle as required | 1.25 | 0
+Document offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+530.  | DLVR 49(1) | Fail to return driver licence to Registrar within 21 days of service of notice of suspension | 1.25 | 0
+531.  | DLVR 49(1) | Fail to return driver licence to Registrar within 21 days of service of notice of cancellation | 1.25 | 0
+532.  | DLVR 49(1) | Fail to return ancillary certificate to Registrar within 21 days of service of notice of suspension | 1.25 | 0
+533.  | DLVR 49(1) | Fail to return ancillary certificate to Registrar within 21 days of service of notice of cancellation | 1.25 | 0
+534.  | DLVR 49(2) | Fail to return restricted driver licence (and any ancillary certificate) to Registrar within 21 days after revocation by court | 1.25 | 0
+535.  | DLVR 49(3) | Fail to return driver licence (and any ancillary certificate) to Registrar within 21 days after being disqualified from driving by court or by automatic statutory penalty | 1.25 | 0
+536.  | DLVR 50(1) | Fail to return driver licence or ancillary certificate to Registrar for endorsement/replacement within 21 days after service of notice or request | 1.25 | 0
+General registration offence
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+537.  | DLVR 55(1) | Fail to stamp/display new identification number as required by Registrar (when no, or altered/defaced, identification number) | 1.25 | 0
+538.  | DLVR 55(2) | Fail to overstrike existing identification number and stamp/display new identification number as specified and required by the Registrar (when number is same as for other vehicle) | 1.25 | 0
+539.  | DLVR 59(6) | Fail to install and keep installed an "operations plate" on conditionally registered vehicle as required | 1.25 | 0
+540.  | DLVR 59(6) | Fail to ensure a "certificate of approved operations" carried at all times in conditionally registered vehicle | 1.25 | 0
+541.  | DLVR 63(1) | Registered operator fail to ensure within 7 days that motor vehicle number plate for that vehicle is permanently affixed as required | 1 | 0
+542.  | DLVR 63(1) | Registered operator fail to ensure within 7 days that trailer number plate for that vehicle is permanently affixed as required | 1 | 0
+543.  | DLVR 63(2)(a) | Registered operator fail to ensure any motor vehicle number plate cover is clear, clean, untinted, flat over entire surface and has no characteristics preventing production of clear number plate photograph by photographic detection device | 1 | 0
+544.  | DLVR 63(2)(a) | Registered operator fail to ensure any trailer number plate cover is clear, clean, untinted, flat over entire surface and has no characteristics preventing production of clear number plate photograph by photographic detection device | 1 | 0
+545.  | DLVR 63(2)(b) | Registered operator fail to ensure that no object obscures/reduces visibility of any motor vehicle number plate and that number plate has no characteristics preventing production of clear number plate photograph by photographic detection device | 1 | 0
+546.  | DLVR 63(2)(b) | Registered operator fail to ensure that no object obscures/reduces visibility of any trailer number plate and that number plate has no characteristics preventing production of clear number plate photograph by photographic detection device | 1 | 0
+547.  | DLVR 63(3) | Apply substance to number plate that prevents production of clear number plate photograph by photographic detection device | 1 | 0
+548.  | DLVR 63(4)(a) | Use motor vehicle without number plates issued for the vehicle affixed and displayed as required | 1 | 0
+549.  | DLVR 63(4)(a) | Use trailer without number plates issued for the vehicle affixed and displayed as required | 1 | 0
+550.  | DLVR 63(4)(a) | Permit use of motor vehicle without number plates issued for the vehicle affixed and displayed as required | 1 | 0
+551.  | DLVR 63(4)(a) | Permit use of trailer without number plates issued for the vehicle affixed and displayed as required | 1 | 0
+552.  | DLVR 63(4)(b) | Use motor vehicle not complying with number plate/cover regulations (other than affix and display) | 1 | 0
+553.  | DLVR 63(4)(b) | Use trailer not complying with number plate/cover regulations (other than affix and display) | 1 | 0
+554.  | DLVR 63(4)(b) | Permit use of motor vehicle not complying with number plate/cover regulations (other than affix and display) | 1 | 0
+555.  | DLVR 63(4)(b) | Permit use of trailer not complying with number plate/cover regulations (other than affix and display) | 1 | 0
+556.  | DLVR 65(1) | Registered operator fail to ensure current registration label is affixed within 45 days of registration commencement or payment of registration, whichever is later | 0.50 | 0
+557.  | DLVR 65(1A) | Registered operator fail to ensure current registration label kept affixed as required | 0.50 | 0
+558.  | DLVR 65(2) | Registered operator fail to ensure that information on registration label is legible from outside the vehicle | 0.50 | 0
+559.  | DLVR 65(3) | Registered operator fail to ensure registration label is removed within 30 days of registration expiry | 0.50 | 0
+560.  | DLVR 65(4) | Use registered vehicle on public street in contravention of registration label regulations | 0.50 | 0
+561.  | DLVR 65(4) | Permit use of registered vehicle on public street in contravention of registration label regulations | 0.50 | 0
+Transfer or surrender of registration offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+562.  | DLVR 69(3) | Registered operator transferring registration fail to comply with requirements for transfer of vehicle registration | 0.75 | 0
+563.  | DLVR 69(5) | Proposed transferee fail to comply with requirements for transfer of vehicle registration | 0.75 | 0
+564.  | DLVR 69(6) | Person taking possession of vehicle under court order/powers conferred by security interest fail to comply with requirements for transfer of vehicle registration | 0.75 | 0
+565.  | DLVR 71(6) | Fail to destroy registration label as soon as practicable after surrendering registration | 0.50 | 0
+Vehicle defect notice offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+566.  | DLVR 86(3) | Driver fail to give/send formal warning notice to registered operator as soon as practicable | 1 | 0
+567.  | DLVR 87(7) | Driver fail to give/send vehicle defect notice to registered operator as soon as practicable | 1 | 0
+568.  | DLVR 88(5) | Remove/deface a defective vehicle label without authorisation | 1.25 | 0
+569.  | DLVR 89(1) | Use motor vehicle subject of major vehicle defect notice (other than one imposing total prohibition on use) after time allowed for compliance has passed (when notice not complied with) | 1.25 | 3
+570.  | DLVR 89(1) | Use trailer subject of major vehicle defect notice (other than one imposing total prohibition on use) after time allowed for compliance has passed (when notice not complied with) | 1.25 | 3
+571.  | DLVR 89(2) | Use motor vehicle subject of minor vehicle defect notice after time allowed for compliance has passed (when notice not complied with) | 1 | 1
+572.  | DLVR 89(2) | Use trailer subject of minor vehicle defect notice after time allowed for compliance has passed (when notice not complied with) | 1 | 1
+573.  | DLVR 89(3) | Use motor vehicle with minor vehicle defect notice contrary to a condition limiting its use | 1 | 1
+574.  | DLVR 89(3) | Use trailer with minor vehicle defect notice contrary to a condition limiting its use | 1 | 1
+575.  | DLVR 89(3) | Use motor vehicle with major vehicle defect notice contrary to a condition limiting its use (other than total prohibition on use) | 1.25 | 3
+576.  | DLVR 89(3) | Use trailer with major vehicle defect notice contrary to a condition limiting its use (other than total prohibition on use) | 1.25 | 3
+577.  | DLVR 89(5) | Permit use of motor vehicle subject of minor vehicle defect notice after time allowed for compliance has passed (when notice not complied with) | 1.25 | 0
+578.  | DLVR 89(5) | Permit use of trailer subject of minor vehicle defect notice after time allowed for compliance has passed (when notice not complied with) | 1.25 | 0
+579.  | DLVR 89(5) | Permit use of motor vehicle with minor vehicle defect notice contrary to a condition limiting its use | 1.25 | 0
+580.  | DLVR 89(5) | Permit use of trailer with minor vehicle defect notice contrary to a condition limiting its use | 1.25 | 0
+581.  | DLVR 89(5) | Permit use of motor vehicle subject of major vehicle defect notice (other than one imposing total prohibition on use) after time allowed for compliance has passed (when notice not complied with) | 2.25 | 0
+582.  | DLVR 89(5) | Permit use of trailer subject of major vehicle defect notice (other than one imposing total prohibition on use) after time allowed for compliance has passed (when notice not complied with) | 2.25 | 0
+583.  | DLVR 89(5) | Permit use of motor vehicle with major vehicle defect notice contrary to a condition limiting its use (other than total prohibition on use) | 2.25 | 0
+584.  | DLVR 89(5) | Permit use of trailer with major vehicle defect notice contrary to a condition limiting its use (other than total prohibition on use) | 2.25 | 0
+Unregistered vehicle offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+585.  | DLVR 91(5) | Holder of trade plate fail to ensure trade plate used only for prescribed purposes | 1.25 | 0
+586.  | DLVR 91(6) | Use trade plate for other than authorised purpose | 1.25 | 0
+587.  | DLVR 91(6) | Permit use of trade plate for other than authorised purpose | 1.25 | 0
+588.  | DLVR 91(7) | Use unregistered vehicle under authority of trade plate without plate being temporarily fixed to rear of vehicle in appropriate position or displayed in way acceptable to Registrar | 1 | 0
+589.  | DLVR 91(7) | Permit use of unregistered vehicle under authority of trade plate without plate being temporarily fixed to rear of vehicle in appropriate position or displayed in way acceptable to Registrar | 1 | 0
+590.  | DLVR 92(5) | Holder of short term unregistered vehicle permit fail to ensure such permit is affixed, carried or removed as required | 1 | 0
+591.  | DLVR 92(6) | Use vehicle under short term unregistered vehicle permit without permit affixed or carried as required | 1 | 0
+592.  | DLVR 92(6) | Permit use of vehicle under short term unregistered vehicle permit without permit affixed or carried as required | 1 | 0
+Miscellaneous registration offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+593.  | DLVR 102(7) | Registered operator fail to affix and keep affixed as required vehicle inspection label (under vehicle inspection program) | 0.75 | 0
+594.  | DLVR 102(7)(a) | Registered operator fail to affix inspection label to vehicle in accordance with instructions issued under regulation 102(6) of DLVR | 1 | 0
+595.  | DLVR 102(7)(b) | Registered operator fail to keep inspection label affixed (unless removal of label authorised under regulation 102(8) of DLVR) to vehicle until date vehicle next inspected under vehicle inspection program | 1 | 0
+596.  | DLVR 102(8) | Remove/deface current inspection label (under vehicle inspection program) without authority | 1 | 0
+597.  | DLVR 102(10) | Use vehicle on public street that has not passed inspection (after completion of that inspection) under vehicle inspection program | 1 | 0
+598.  | DLVR 102(10) | Permit use of vehicle on public street that has not passed inspection (after completion of that inspection) under vehicle inspection program | 1 | 0
+599.  | DLVR 102(10)(a) | Use, or permit use of, vehicle on public street for hire or reward if vehicle has not been presented for inspection required under vehicle inspection program | 1.50 | 0
+600.  | DLVR 102(10)(b) | Use, or permit use of, vehicle on public street if vehicle does not pass inspection under vehicle inspection program | 1.50 | 0
+601.  | DLVR 104 | Use modified vehicle not complying with relevant vehicle standard or if modification is unacceptable to Registrar | 1.25 | 0
+602.  | DLVR 104 | Permit use of modified vehicle not complying with relevant vehicle standard or if modification is unacceptable to Registrar | 1.25 | 0
+603.  | DLVR 105(1) | Fail to notify Registrar within 14 days of change of circumstance affecting information recorded in register (about registered operator/registered vehicle) | 0.75 | 0
+604.  | DLVR 105(3) | Fail to notify Registrar within 14 days after any change affecting information recorded about a short term unregistered vehicle permit (about vehicle or holder) | 0.75 | 0
+605.  | DLVR 105(4) | Fail to notify Registrar within 14 days of change of circumstance affecting information recorded in the register about holder of trade plate/business carried on by holder of trade plate | 0.75 | 0
+606.  | DLVR 106(1) | Fail to return number plates as required after cancellation or expiry without renewal | 0.75 | 0
+607.  | DLVR 106(3) | Fail to return trade plates as required after cancellation or expiry without renewal | 0.75 | 0
+608.  | DLVR 106(4) | Fail to return number plate/trade plate as required by terms on issue | 0.75 | 0
+609.  | DLVR 106(5) | Fail to return number plate/trade plate as and when required by Registrar's written notice | 1 | 0
+610.  | DLVR 107(1) | Fail to return certificate of registration as required by Registrar (on cancellation or expiry without renewal) | 1 | 0
+611.  | DLVR 107(2) | Registered operator fail to destroy registration label as required | 0.50 | 0
+Temporary upgrade permit offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+612.  | DLVR 110(6) | Use vehicle for which temporary upgrade permit in force contrary to conditions of permit | 1.25 | 0
+613.  | DLVR 110(6) | Permit use of vehicle for which temporary upgrade permit in force contrary to conditions of permit | 1.25 | 0
+614.  | DLVR 110(7) | Use vehicle for which temporary upgrade permit in force without ensuring permit carried in vehicle | 1 | 0
+615.  | DLVR 110(7) | Permit use of vehicle for which temporary upgrade permit in force without ensuring permit carried in vehicle | 1 | 0
+616.  | DLVR 117(3) | Fail to affix and keep affixed distinctive number plates to truck as required (farm vehicle rebate) | 0.75 | 0
+617.  | DLVR 117(5)(b) | Fail to return truck distinctive number plates within 14 days of cessation of entitlement to farm vehicle rebate (motor tax) | 0.75 | 0
+Interchangeable trailer offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+618.  | DLVR 119(4) | Fail to affix and keep affixed distinctive number plate to vehicle as required (interchangeable trailer) | 0.75 | 0
+619.  | DLVR 119(6)(b) | Fail to return number plate on cessation of entitlement to rebate (interchangeable trailer) within 14 days | 0.75 | 0
+620.  | DLVR 119(10)(a) | Fail to return distinctive number plate (interchangeable trailer rebate) within 14 days of Registrar's written notice that rebate ceased | 0.75 | 0
+Miscellaneous offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+621.  | DLVR 138(10) | Fail to deliver to Registrar within allowed time a document, plate or device as required by a recall notice (on issue of duplicate or replacement) | 1.75 | 0
+Vehicle and Traffic (Vehicle Operations) Regulations 2014
+Tyre pressure offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+622.  | VOR 7 | Use, or cause or permit the use of, light vehicle with tyres exceeding pressure requirements | 1 | 0
+Vehicle/load dimension offences - general
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+623.  | VOR 8(1) | Use, or cause or permit the use of, oversize vehicle that is light vehicle without booms fully retracted and the vehicle and load reduced to smallest practical dimensions | 1.25 | 0
+624.  | VOR 8(2) | Use, or cause or permit the use of, light vehicle or light combination loaded so as not to minimise its dimensions | 1.25 | 0
+625.  | VOR 10(1) | Use, or cause or permit the use of, light vehicle, inclusive of load, in contravention of vehicle width requirements | 1.75 | 0
+626.  | VOR 11 | Use, or cause or permit the use of, light motor vehicle in contravention of length requirements | 1.75 | 0
+627.  | VOR 12(1) or (2) | Use, or cause or permit the use of, light semi-trailer or dog trailer in contravention of trailer length requirements | 1 | 0
+628.  | VOR 13 | Use, or cause or permit the use of, light combination in contravention of combination length requirements | 1.75 | 0
+629.  | VOR 14(1), (3), or (4) | Use, or cause or permit the use of, light vehicle in contravention of rear overhang requirements | 1.75 | 0
+630.  | VOR 15(1) or (2) | Use, or cause or permit the use of, dog or pig trailer in contravention of trailer drawbar length requirements | 1 | 0
+631.  | VOR 16(2) | Use, or cause or permit the use of, light vehicle or livestock carrier in contravention of vehicle height requirements | 1.75 | 0
+632.  | VOR 17(2) | Use, or cause or permit the use of, light motor vehicle or light combination in contravention of ground clearance requirements | 1 | 0
+Vehicle/load dimension offences - mass
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+633.  | VOR 19 | Use, or cause or permit the use of, overmass light vehicle or light combination (exceeding mass by not more than 1 tonne) | 0.75 | 0
+634.  | VOR 19 | Use, or cause or permit the use of, overmass light vehicle or light combination (exceeding mass between 1 and 2 tonnes) | 1.50 | 0
+635.  | VOR 19 | Use, or cause or permit the use of, overmass light vehicle or light combination (exceeding mass between 2 and 3 tonnes) | 2.50 | 0
+636.  | VOR 19 | Use, or cause or permit the use of, overmass light vehicle or light combination (exceeding mass between 3 and 4 tonnes) | 3.25 | 0
+637.  | VOR 19 | Use, or cause or permit the use of, overmass light vehicle or light combination (exceeding mass between 4 and 5 tonnes) | 4.25 | 0
+638.  | VOR 20(1) | Use, or cause or permit the use of, light vehicle in breach of wheel load mass, or axle load mass, limit (exceeding mass by not more than 1 tonne) | 0.75 | 0
+639.  | VOR 20(1) | Use, or cause or permit the use of, light vehicle in breach of wheel load mass, or axle load mass, limit (exceeding mass between 1 and 2 tonnes) | 1.50 | 0
+640.  | VOR 20(1) | Use, or cause or permit the use of, light vehicle in breach of wheel load mass, or axle load mass, limit (exceeding mass between 2 and 3 tonnes) | 2.50 | 0
+641.  | VOR 20(1) | Use, or cause or permit the use of, light vehicle in breach of wheel load mass, or axle load mass, limit (exceeding mass between 3 and 4 tonnes) | 3.25 | 0
+642.  | VOR 20(1) | Use, or cause or permit the use of, light vehicle in breach of wheel load mass, or axle load mass, limit (exceeding mass between 4 and 5 tonnes) | 4.25 | 0
+643.  | VOR 20(2) | Use, or cause or permit the use of, light vehicle with tyre load exceeding maximum load capacity as determined by tyre manufacturer | 1 | 0
+Load offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+644.  | VOR 24(2) | Use, or cause or permit the use of, light vehicle or light combination without load placed, secured or restrained in accordance with standards recommended in the Load Restraint Guide | 1.25 | 0
+645.  | VOR 25(1) | Use, or cause or permit the use of, light vehicle or light combination so loaded as to allow load to fall from vehicle, move or flap or sway so as to be likely to cause danger to person/property | 2.25 | 0
+646.  | VOR 25(2) | Use, or cause or permit the use of, light vehicle or light combination so loaded as to allow sand, soil, rocks, stones or gravel or similar to fall or be blown from vehicle | 1.25 | 0
+647.  | VOR 27 | Use, or cause or permit the use of, light vehicle with dangerous projection | 2 | 0
+648.  | VOR 29(2)(a) | Use, or cause or permit the use of, light vehicle with front load projection exceeding 1.2 metres (during daylight) | 1.25 | 0
+649.  | VOR 29(2)(b) | Use, or cause or permit the use of, light vehicle with rear load projection exceeding 1.2 metre in contravention of flagging requirements (during daylight) | 1.25 | 0
+650.  | VOR 29(3)(a) | Use, or cause or permit the use of, light vehicle with front load projection exceeding 1.2 metres (at night) | 1.75 | 0
+651.  | VOR 29(3)(b) | Use, or cause or permit the use of, light vehicle with rear load projection exceeding 1.2 metre in contravention of red light attachment requirement (at night) | 1.75 | 0
+Towing offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+652.  | VOR 30 | Use, or cause or permit the use of, light combination with coupling not securely fastened | 1.75 | 0
+653.  | VOR 31(2) | Use, or cause or permit the use of, light motor vehicle to tow light trailer in excess of towing capacity of motor vehicle or towing attachment fitted to motor vehicle | 1.25 | 0
+654.  | VOR 32 | Use, or cause or permit the use of, light motor vehicle to tow more than one other vehicle except as permitted | 1.25 | 0
+655.  | VOR 69(1) | Use, or cause or permit the use of, vehicle contrary to conditions of exemption | 1 | 0
+656.  | VOR 70(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass by not more than 1 tonne) | 0.75 | 0
+657.  | VOR 70(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass between 1 and 2 tonnes) | 1.50 | 0
+658.  | VOR 70(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption dimension limits | 2.25 | 0
+659.  | VOR 70(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass between 2 and 3 tonnes) | 2.50 | 0
+660.  | VOR 70(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass between 3 and 4 tonnes) | 3.25 | 0
+661.  | VOR 70(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass between 4 and 5 tonnes) | 4.25 | 0
+662.  | VOR 71(1) | Use, or cause or permit the use of, exempt vehicle or combination in contravention of warning sign requirements | 1 | 0
+663.  | VOR 71(2) | Use, or cause or permit the use of, vehicle or combination displaying warning sign when sign not required | 0.75 | 0
+664.  | VOR 71(3) | Use, or cause or permit the use of, exempt vehicle or combination without warning light illuminated as required | 1.75 | 0
+665.  | VOR 71(4) | Use, or cause or permit the use of, accompanying pilot vehicle without warning light illuminated as required | 1.75 | 0
+666.  | VOR 71(5) | Use, or cause or permit the use of, vehicle or combination displaying warning light when light not required | 0.75 | 0
+667.  | VOR 72(1) | Use, or cause or permit the use of, pilot vehicle that does not comply with requirements | 1.25 | 0
+668.  | VOR 72(2) | Use, or cause or permit the use of, vehicle or combination without accompanying pilot vehicle when pilot vehicle required | 2.25 | 0
+669.  | VOR 74 | Fail to carry permit in motor vehicle if motor vehicle or combination is operating under permit | 0.75 | 0
+Load limit road sign offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+670.  | VOR 75(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass by not more than 1 tonne) | 0.75 | 0
+671.  | VOR 75(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass between 1 and 2 tonnes) | 1.50 | 0
+672.  | VOR 75(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass between 2 and 3 tonnes) | 2.50 | 0
+673.  | VOR 75(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass between 3 and 4 tonnes) | 3.25 | 0
+674.  | VOR 75(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass between 4 and 5 tonnes) | 4.25 | 0
+675.  | VOR75(3)(b) | Use, or cause or permit the use of, vehicle or combination in breach of road sign dimension limit | 2.25 | 0
+Vehicle and Traffic (Vehicle Standards) Regulations 2014
+Australian Design Rules offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+676.  | VSR 4(1)(a) as regards VSR 19(1) or 20(1) | Use, or cause or permit the use of, light vehicle in contravention of applicable second or third edition ADR | 1 | 0
+General safety requirement offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+677.  | VSR 4(1)(a) as regards VSR 27 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - modification requirements | 1 | 0
+678.  | VSR 4(1)(a) as regards VSR 28 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - steering requirements | 1.25 | 0
+679.  | VSR 4(1)(a) as regards VSR 29 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - turning requirements | 1 | 0
+680.  | VSR 4(1)(a) as regards VSR 30 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - unloaded mass over 450kg without ability to travel backwards/forwards | 0.75 | 0
+681.  | VSR 4(1)(a) as regards VSR 31(1) | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - object not designed, built, fitted to or maintained on light vehicle in way that minimises likelihood of injury to person | 1 | 0
+682.  | VSR 4(1)(a) as regards VSR 32 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - driver’s viewing and light vehicle control requirements | 1.25 | 0
+683.  | VSR 4(1)(a) as regards VSR 33 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - without seating securely attached | 1.25 | 0
+684.  | VSR 4(1)(a) as regards VSR 34 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - mudguard requirements | 0.75 | 0
+685.  | VSR 4(1)(a) as regards VSR 35 | Use, or cause or permit the use of, vehicle in contravention of vehicle standards - oil, grease, fuel, brake fluid or hydraulic fluid dripping onto street surface | 0.75 | 0
+686.  | VSR 4(1)(a) as regards VSR 36 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - horn/alarm/other device requirements | 0.75 | 0
+687.  | VSR 4(1)(a) as regards VSR 37, 38 or 39 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - rear vision mirror requirements | 1 | 0
+688.  | VSR 4(1)(a) as regards VSR 40 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - automatic transmission requirements | 1 | 0
+689.  | VSR 4(1)(a) as regards VSR 41 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - diesel engine without device fitted preventing engine starting accidentally/inadvertently | 0.75 | 0
+690.  | VSR 4(1)(a) as regards VSR 42 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - bonnet-securing device requirements | 1 | 0
+691.  | VSR 4(1)(a) as regards VSR 43 | Use, or cause or permit the use of, vehicle in contravention of vehicle standards - electrical wiring requirements | 1 | 0
+692.  | VSR 4(1)(a) as regards VSR 44 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - television receiver/visual display unit requirements | 1 | 0
+693.  | VSR 4(1)(a) as regards VSR 45 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - requirement to fit windscreen | 1 | 0
+694.  | VSR 4(1)(a) as regards VSR 46 | Use, or cause or permit the use of, motor vehicle in contravention of vehicle standards - windscreen/window/interior partition requirements | 1 | 0
+695.  | VSR 4(1)(a) as regards VSR 47 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - window tinting requirements | 0.75 | 0
+696.  | VSR 4(1)(a) as regards VSR 48 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - windscreen wiper/washer requirements | 0.75 | 0
+697.  | VSR 4(1)(a) as regards VSR 49, 50, 51, 52, 53, 54, 55, or 56 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - wheel and tyre requirements | 1 | 0
+Additional motorbike safety requirement offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+698.  | VSR 4(1)(a) as regards VSR 57 | Use, or cause or permit the use of, motor bike in contravention of vehicle standards - steering gear and hand grips/handlebar requirements | 1 | 0
+699.  | VSR 4(1)(a) as regards VSR 58 | Use, or cause or permit the use of, motor bike in contravention of vehicle standards - foot rests for driver/passenger requirements | 1 | 0
+700.  | VSR 4(1)(a) as regards VSR 59 | Use, or cause or permit the use of, motor bike in contravention of vehicle standards - chain guard requirements | 1 | 0
+Vehicle marking offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+701.  | VSR 4(1)(a) as regards VSR 60 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - light vehicle and engine identification number requirements | 0.75 | 0
+702.  | VSR 4(1)(a) as regards VSR 61 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - white or silver band requirements | 0.75 | 0
+Vehicle configuration offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+703.  | VSR 4(1)(a) as regards VSR 62 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - axle configuration requirements | 0.75 | 0
+Vehicle light offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+704.  | VSR 4(1)(a) as regards VSR 64 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - with light (other than high-beam headlight) not fitted/adjusted to provide necessary amount of light, without dazzling driver | 1 | 0
+705.  | VSR 4(1)(a) as regards VSR 65 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - requirement for lights to be a matching pair | 1 | 0
+706.  | VSR 4(1)(a) as regards VSR 66, 67, 68, 69, 70, 71, or 72 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - headlight requirements | 1 | 0
+707.  | VSR 4(1)(a) as regards VSR 73 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - parking light requirements | 1 | 0
+708.  | VSR 4(1)(a) as regards VSR 74 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - daytime running lights requirements | 1 | 0
+709.  | VSR 4(1)(a) as regards VSR 75, 76, 77, or 78 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - tail light requirements | 1 | 0
+710.  | VSR 4(1)(a) as regards VSR 79 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - number plate light requirements | 0.75 | 0
+711.  | VSR 4(1)(a) as regards VSR 80, 81, or 82 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - front and rear clearance light/external cabin light requirements | 1 | 0
+712.  | VSR 4(1)(a) as regards VSR 83, 84, or 85 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - side marker light requirements | 1 | 0
+713.  | VSR 4(1)(a) as regards VSR 87 or 88 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - brake light requirements | 1 | 0
+714.  | VSR 4(1)(a) as regards VSR 89 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - reversing light requirements | 0.75 | 0
+715.  | VSR 4(1)(a) as regards VSR 90, 91, 92, or 93 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - direction indicator light requirements | 1 | 0
+716.  | VSR 4(1)(a) as regards VSR 94 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - front fog light requirements | 0.75 | 0
+717.  | VSR 4(1)(a) as regards VSR 95 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - rear fog light requirements | 0.75 | 0
+Reflector offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+718.  | VSR 4(1)(a) as regards VSR Division 14, 15, 16 or 17, of Part 8 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - reflector requirements | 1 | 0
+Bus warning light/warning sign offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+719.  | VSR 4(1)(a) as regards VSR Division 18 of Part 8 | Use, or cause or permit the use of, bus mainly used for carrying schoolchildren in contravention of vehicle standards - warning light/warning sign requirements | 1.25 | 0
+Other light, reflector and general offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+720.  | VSR 4(1)(a) as regards VSR 107 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - flashing light/other light or reflector requirements | 1 | 0
+721.  | VSR 4(1)(a) as regards VSR 109, 110, or 111 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - mechanical signalling device or turn signal requirements | 1 | 0
+Braking system offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+722.  | VSR 4(1)(a) as regards VSR Part 9 | Use, or cause or permit the use of, light vehicle or light combination in contravention of vehicle standards - braking system requirements | 1.25 | 0
+Control of emissions offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+723.  | VSR 4(1)(a) as regards VSR 124 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - light motor vehicle powered by petrol engine built/fitted so as not to prevent crank case gases escaping | 0.75 | 0
+724.  | VSR 4(1)(a) as regards VSR 125 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - light motor vehicle propelled by internal combustion engine emitting more than allowable visible emissions | 0.75 | 0
+725.  | VSR 4(1)(a) as regards VSR 126 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - exhaust system requirements | 0.75 | 0
+726.  | VSR 4(1)(a) as regards VSR 129 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - light motor vehicle propelled by internal combustion engine not fitted with effective silencing device through which all exhaust from engine passes | 0.75 | 0
+727.  | VSR 4(1)(a) as regards VSR 131, 132 or 133 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - stationary noise emission requirements | 0.75 | 0
+Alternative fuel system offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+728.  | VSR 4(1)(a) as regards VSR 135 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - LPG fuel system requirements | 1 | 0
+General offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+729.  | VSR 4(1)(a) as regards VSR Part 12 | Use, or cause or permit the use of, motor vehicle/trailer in light combination in contravention of vehicle standards - coupling requirements | 1.25 | 0
+730.  | VSR 4(1)(a) as regards VSR Part 13 or VSR 96(2) | Use, or cause or permit the use of, bus (used for carrying passengers) in contravention of vehicle standards - bus construction and fitting requirements | 1.25 | 0
+731.  | VSR 4(1)(b) | Use, or cause or permit the use of, vehicle or combination in an unsafe and unroadworthy condition | 4 | 0
+732.  | VSR 4(1)(c) | Use, or cause or permit the use of, vehicle or combination with unclean or obscured light, reflector, sign, writing, colouring or band | 0.75 | 0
+Taxi and Hire Vehicle Industries Act 2008
+Perpetual taxi licence offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+733.  | THVIA 14(4) | Responsible operator operate, or cause or permit another person to operate, taxi service under lapsed perpetual taxi licence | 2.50 | 0
+734.  | THVIA 14(5) | Perpetual taxi licence owner operate, or cause or permit another person to operate, taxi service under lapsed licence | 2.50 | 0
+Owner-operator taxi licence offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+735.  | THVIA 30(4) | Holder of lapsed owner-operator taxi licence operate, or cause or permit another person to operate, taxi service under lapsed licence | 2.50 | 0
+736.  | THVIA 38 | Owner-operator taxi licence holder fail to comply with Commission notice to deliver up licence as specified | 1.25 | 0
+Wheelchair-accessible taxi licence offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+737.  | THVIA 45 | Wheelchair-accessible taxi licence holder use vehicle other than specified vehicle without authority | 2.50 | 0
+738.  | THVIA 48(4) | Holder of lapsed wheelchair-accessible taxi licence operate, or cause or permit another person to operate, taxi service under lapsed licence | 2.50 | 0
+739.  | THVIA 51(6) | Wheelchair-accessible taxi licence holder fail to affix, keep affixed and remove licence number plate as specified | 1 | 0
+740.  | THVIA 56 | Wheelchair-accessible taxi licence holder fail to comply with Commission notice to deliver up licence as specified | 1.25 | 0
+Temporary taxi licence offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+741.  | THVIA 66 | Temporary taxi licence holder fail to comply with Commission notice to deliver up licence as specified | 1.25 | 0
+Luxury hire car licence offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+742.  | THVIA 76(4) | Holder of lapsed luxury hire car licence operate, or cause or permit another person to operate, luxury hire car service under lapsed licence | 2.50 | 0
+743.  | THVIA 83 | Luxury hire car licence holder fail to comply with Commission notice to deliver up licence as specified | 1.25 | 0
+Restricted hire vehicle offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+744.  | THVIA 84Q | Restricted hire vehicle licence holder fail to comply with Commission notice to deliver up licence as specified | 1.25 |
+Miscellaneous taxi, luxury hire car and restricted hire vehicle offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+745.  | THVIA 90 | Fail to give Commission, within specified period, licence number plate issued in respect of surrendered licence | 1.25 | 0
+746.  | THVIA 90 | Fail to give Commission, within specified period, any licence number plate issued in respect of licence required to be delivered up | 1.25 | 0
+747.  | THVIA 91(1) | Driver operate taxi from taxi zone not within relevant taxi area | 1.75 | 0
+748.  | THVIA 91(2) | Driver operate taxi where hiring is commenced and completed entirely outside relevant taxi area | 1.75 | 0
+749.  | THVIA 91(3) | Responsible operator permit taxi to operate from taxi zone not within relevant taxi area | 1.75 | 0
+750.  | THVIA 91(4) | Responsible operator permit hiring of taxi to commence and be completed entirely outside relevant taxi area | 1.75 | 0
+751.  | THVIA 91A | Hire out small passenger vehicle that is not a taxi to person hailing it on a public street, without prior authorisation of Commission | 1 | 0
+752.  | THVIA 91C(1) | Solicit passenger trade for motor vehicle on a public street without prior authorisation of Commission | 1.50 | 0
+753.  | THVIA 91D(1) | Stand or park taxi, on a public street that is not a taxi zone, other than in specified circumstances | 1 | 0
+754.  | THVIA 91D(2) | Stand or park small passenger vehicle available for hire, that is not taxi, on a public street without prior authorisation of Commission other than in specified circumstances | 1 | 0
+755.  | THVIA 91E(3) | Operate restricted hire vehicle service with small passenger vehicle if vehicle is at any other time also used as a taxi without complying with specified requirements | 1 | 0
+756.  | THVIA 97(3) | Perpetual taxi licence owner fail to supply written information as required by Commission within specified period | 1.25 | 0
+757.  | THVIA 97(3) | Perpetual taxi licence responsible operator fail to supply written information as required by Commission within specified period | 1.25 | 0
+758.  | THVIA 97(3) | Owner-operator taxi licence holder fail to supply written information as required by Commission within specified period | 1.25 | 0
+759.  | THVIA 97(3) | Wheelchair-accessible taxi licence holder fail to supply written information as required by Commission within specified period | 1.25 | 0
+760.  | THVIA 97(3) | Luxury hire car licence holder fail to supply written information as required by Commission within specified period | 1.25 | 0
+761.  | THVIA 97(3) | Restricted hire vehicle licence holder fail to supply written information as required by Commission within specified period | 1.25 | 0
+762.  | THVIA 97(3) | Temporary taxi licence holder fail to supply written information as required by Commission within specified period | 1.25 | 0
+763.  | THVIA 98(2) | Proprietor of taxi dispatch service fail to supply information as required by Commission within specified period | 1.25 | 0
+764.  | THVIA 98(2) | Manager of taxi dispatch service fail to supply information as required by Commission within specified period | 1.25 | 0
+Taxi Industry Regulations 2008
+Taxi licence offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+765.  | TIR 8(1) | Perpetual taxi licence owner who leases licence to another person fail to provide written notice and fee to Commission as specified | 0.75 | 0
+766.  | TIR 8(4) | Perpetual taxi licence owner fail to notify Commission in writing of termination of lease within 7 days | 0.75 | 0
+767.  | TIR 8(4) | Perpetual taxi licence lessee fail to notify Commission in writing of termination of lease within 7 days | 0.50 | 0
+768.  | TIR 9(a) | Perpetual taxi licence owner fail to notify Commission in writing of change to name or address within 14 days | 0.50 | 0
+769.  | TIR 9(b) | Perpetual taxi licence responsible operator fail to notify Commission in writing of change to name or address within 14 days | 0.50 | 0
+770.  | TIR 9(c) | Owner-operator taxi licence holder fail to notify Commission in writing of change to name or address within 14 days | 0.50 | 0
+771.  | TIR 9(d) | Wheelchair-accessible taxi licence holder fail to notify Commission in writing of change to name or address within 14 days | 0.50 | 0
+772.  | TIR 9(e) | Temporary taxi licence holder fail to notify Commission in writing of change to name or address within 14 days | 0.50 | 0
+Taxi vehicle offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+773.  | TIR 14(1) | Responsible operator of taxi licence fail to ensure that vehicle operating as taxi complies with prescribed specifications | 1.25 | 0
+774.  | TIR 14(3)(a) | Responsible operator of wheelchair-accessible taxi licence fail to ensure that vehicle operating as wheelchair-accessible taxi complies with prescribed specifications | 2.50 | 0
+775.  | TIR 14(3)(b) | Responsible operator of wheelchair-accessible taxi licence fail to ensure that vehicle operating as remote area wheelchair-accessible taxi complies with prescribed specifications | 2.50 | 0
+776.  | TIR 14(3)(c) | Responsible operator of wheelchair-accessible taxi licence fail to ensure that vehicle operating as substitute wheelchair-accessible taxi complies with prescribed specifications | 2.50 | 0
+777.  | TIR 15(2)(a) | Responsible operator of metropolitan area taxi licence fail to ensure vehicle operating as taxi for first time does not exceed specified age | 1.25 | 0
+778.  | TIR 15(2)(b) | Responsible operator of non-metropolitan area taxi licence fail to ensure vehicle operating as taxi for first time does not exceed specified age | 1.25 | 0
+779.  | TIR 15(4)(a) | Responsible operator of metropolitan area taxi licence fail to ensure vehicle operating as taxi does not exceed specified age | 1.75 | 0
+780.  | TIR 15(4)(b) | Responsible operator of non-metropolitan area taxi licence fail to ensure vehicle operating as taxi does not exceed specified age | 1.75 | 0
+781.  | TIR 16 | Responsible operator of wheelchair-accessible taxi licence fail to ensure vehicle operating as taxi does not exceed 10 years of age | 1.75 | 0
+782.  | TIR 17(2) | Responsible operator of wheelchair-accessible taxi licence fail to ensure taxi fitted with specified fire extinguisher | 2.50 | 0
+783.  | TIR 17(3) | Responsible person fail to ensure fire extinguisher fitted in vehicle is maintained as specified | 2.50 | 0
+Taximeter offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+784.  | TIR 19(1) | Person, other than authorised meter adjuster, seal taximeter | 1.75 | 0
+785.  | TIR 19(2)(a) | Responsible operator fail to ensure vehicle is not operated as a taxi under the authority of the licence if taximeter not sealed by authorised meter adjuster with tamperproof seal | 1.75 | 0
+786.  | TIR 19(2)(b) | Responsible operator fail to ensure vehicle is not operated as a taxi under the authority of the licence if taximeter requires, but has no, electronic seal | 1.75 | 0
+787.  | TIR 19(3)(a) | Operate a taxi with taximeter without tamperproof seal | 1.75 | 0
+788.  | TIR 19(3)(b) | Operate a taxi with taximeter with non-compliant tamperproof seal | 1.75 | 0
+789.  | TIR 20(1) | Responsible operator fail to ensure vehicle operating as taxi is fitted with compliant taximeter | 1.75 | 0
+790.  | TIR 20(2)(a) | Driver operate taxi not fitted with taximeter | 1.75 | 0
+791.  | TIR 20(2)(b) | Driver operate taxi if knows, or reasonably ought to know, taximeter not calculating and displaying relevant fares | 1.75 | 0
+792.  | TIR 20(2)(c) | Driver operate taxi with taximeter with broken seal | 1.75 | 0
+793.  | TIR 22 | Responsible person fail to submit reprogrammed taximeter to authorised meter adjuster for testing within prescribed period | 0.75 | 0
+794.  | TIR 24(3) | Fail to produce vehicle for inspection of taximeter as prescribed | 1.75 | 0
+795.  | TIR 24(4) | Authorised meter adjuster fail to provide test certificate or similar document as prescribed | 1.25 | 0
+796.  | TIR 24(5) | Authorised meter adjuster fail to provide copy of test certificate or similar document to Commission within 7 days after testing | 1.25 | 0
+797.  | TIR 25 | Responsible operator fail to provide to Commission most recent evidence of taximeter testing within 7 days of request | 1.25 | 0
+798.  | TIR 26(1)(a) | Driver fail to start taximeter at commencement of hiring period and not before | 1.75 | 0
+799.  | TIR 26(1)(b) | Driver fail to stop taximeter, or hold taximeter reading constant, at conclusion of hiring period | 1.75 | 0
+800.  | TIR 27(1) | Interfere, or cause or permit another person to interfere, with installed taximeter | 1.75 | 0
+Sign, light and communication device offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+801.  | TIR 28(6) | Responsible operator fail to ensure vehicle operating as taxi is fitted with compliant and fully operational taxi roof sign | 0.50 | 0
+802.  | TIR 28(7) | Operate taxi not fitted with compliant and fully operational taxi roof sign | 0.50 | 0
+803.  | TIR 29 | Interfere, or cause or permit another person to interfere, with taxi roof sign | 0.50 | 0
+804.  | TIR 30(4) | Responsible operator fail to ensure that vehicle operated as taxi is fitted with compliant and fully operational tariff indicator lights | 0.50 | 0
+805.  | TIR 30(5) | Operate taxi not fitted with compliant and fully operational tariff indicator lights | 0.50 | 0
+806.  | TIR 31 | Interfere, or cause or permit another person to interfere, with tariff indicator lights in or on vehicle | 1.75 | 0
+807.  | TIR 33(2A) | Responsible person fail to ensure vehicle is carrying compliant not-for-hire sign | 0.50 | 0
+808.  | TIR 33(3)(a) | Fail to display not-for-hire sign when vehicle required to carry not-for-hire sign is not operating as a taxi while in use on public street | 0.25 | 0
+809.  | TIR 33(3)(b) | Fail to display not-for-hire sign when vehicle required to carry not-for-hire sign is used on a public street and does not have taximeter, taxi roof sign or external tariff indicator lights installed or fitted | 0.25 | 0
+810.  | TIR 33(3)(c) | Fail to display not-for-hire sign when vehicle required to carry not-for-hire sign is used on a public street and has taximeter, taxi roof sign or external tariff indicator lights not fully operational | 0.25 | 0
+811.  | TIR 33(3)(d) | Fail to display not-for-hire sign when vehicle required to carry not-for-hire sign is used on a public street and has security camera system that is not fully operational | 0.25 | 0
+812.  | TIR 33(4) | Driver fail to display not-for-hire sign at front of vehicle as prescribed | 0.25 | 0
+813.  | TIR 33(6) | Driver accept hiring when not-for-hire sign displayed | 0.75 | 0
+814.  | TIR 34(3) | Responsible operator fail to ensure radio dispatch system installed in vehicle is compliant | 1 | 0
+Security camera system offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+815.  | TIR 36(1) | Responsible operator of security camera taxi licence fail to ensure security camera system installed in vehicle operating as taxi | 2.50 | 0
+816.  | TIR 36(2) | Responsible operator of security camera taxi licence cause or permit another person to operate vehicle as taxi without security camera system installed | 2.50 | 0
+817.  | TIR 36(3) | Operate taxi under security camera taxi licence without security camera system installed | 2.50 | 0
+818.  | TIR 37(1) | Install camera system that is not a security camera system in vehicle used, or intended for use, as taxi | 2.50 | 0
+819.  | TIR 37(2) | Fail to install security camera system as prescribed in vehicle used or intended for use as taxi | 2.50 | 0
+820.  | TIR 37(3)(a) | Installer of taxi security camera system fail to make written record of installation of system as soon as practicable | 1 | 0
+821.  | TIR 37(3)(b) | Installer of taxi security camera system fail to retain record for required period | 1 | 0
+822.  | TIR 37(5) | Fail to provide Commission with copy of record of installation of security camera system as prescribed | 1.25 | 0
+823.  | TIR 38(1) | Responsible person fail to display security camera system signs as prescribed on vehicle with security camera system installed | 0.50 | 0
+824.  | TIR 39(2) | Responsible person fail to present vehicle for testing of security camera system as required by police or authorised officer | 1.75 | 0
+825.  | TIR 39(4) | Responsible operator fail to ensure display of written evidence of most recent testing of security camera system | 0.50 | 0
+826.  | TIR 39(5) | Responsible operator fail to ensure security camera system tested as prescribed | 1 | 0
+827.  | TIR 39A(1)(a) | Tester of security camera system fail to make written record of testing as soon as practicable | 1 | 0
+828.  | TIR 39A(1)(b) | Tester of security camera system fail to retain record for specified period | 1 | 0
+829.  | TIR 39A(3) | Fail to provide Commission with copy of testing of security camera system as prescribed | 1.25 | 0
+830.  | TIR 40(1) | Responsible operator fail to ensure security camera system, installed in a vehicle operating as a taxi, indicates it is fully operational | 2.50 | 0
+831.  | TIR 40(2) | Operate vehicle with security camera system installed while system does not indicate it is fully operational or camera lens of system is not clear and free of all obstructions | 2.50 | 0
+832.  | TIR 40(3) | Interfere, or cause or permit another person to interfere, with part of a security camera system | 2.50 | 0
+833.  | TIR 41(1A) | Fail to download all video recordings from security camera system when resetting camera | 1.75 | 0
+834.  | TIR 41A(1)(a) | Fail to make written record of download from security camera system as soon as practicable | 1 | 0
+835.  | TIR 41A(1)(b) | Fail to retain written record of download from security camera system for specified period | 1 | 0
+836.  | TIR 41A(4) | Fail to comply with written notice by Commission for copy of written record of download from security camera system within specified period | 1.25 | 0
+837.  | TIR 42(1)(a) | Person with download of video recording in certain circumstances fail to forward recording to police as soon as possible | 0.50 | 0
+838.  | TIR 42(1)(b) | Person with download of video recording fail to keep copy of recording as prescribed | 0.50 | 0
+839.  | TIR 42(3)(a) | Person with download of video recording fail to comply with police request for copy of video recording | 0.50 | 0
+840.  | TIR 42(3)(b) | Person with download of video recording fail to keep copy of recording as prescribed | 0.50 | 0
+841.  | TIR 42A(1)(a) | Person with download of video recording from a security camera system in certain circumstances fail to forward video recording to authorised officer | 0.50 | 0
+842.  | TIR 42A(1)(b) | Person with download of video recording from a security camera system in certain circumstances fail to keep copy of video recording as prescribed | 0.50 | 0
+843.  | TIR 42A(3)(a) | Person with download of video recording from a security camera system fail to comply with authorised officer request for copy of video recording | 0.50 | 0
+844.  | TIR 42A(3)(b) | Person with downloaded video recording fail to keep copy of recording as prescribed | 0.50 | 0
+Licence number plate/label offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+845.  | TIR 46(1) | Responsible operator of specified taxi licence fail to ensure licence number plate is affixed to vehicle and remains affixed to vehicle | 1 | 0
+846.  | TIR 46(2) | Responsible operator of wheelchair-accessible taxi licence fail to ensure licence number plate is affixed to vehicle and remains affixed to vehicle | 1 | 0
+847.  | TIR 46(4) | Responsible operator of wheelchair-accessible taxi licence affix, or cause or permit to be affixed, licence number plate to vehicle other than vehicle specified in licence | 1 | 0
+848.  | TIR 46(5) | Responsible operator of lapsed taxi licence fail to remove, or cause to be removed, licence number plate while licence is lapsed | 0.25 | 0
+849.  | TIR 46(6) | Responsible operator of owner-operator taxi licence or wheelchair-accessible taxi licence fail to remove, or cause to be removed, licence number plate from vehicle while licence is suspended | 0.25 | 0
+850.  | TIR 46(7)(a) | Responsible operator operate, or cause or permit another person to operate, vehicle as taxi while vehicle has void licence number plate affixed | 2.50 | 0
+851.  | TIR 46(7)(b) | Responsible operator operate, or cause or permit another person to operate, vehicle as taxi with licence number plate affixed that is to be surrendered or delivered up to Commission | 2.50 | 0
+852.  | TIR 46(7)(c) | Responsible operator operate, or cause or permit another person to operate, vehicle as taxi with licence number plate affixed that is to be removed from vehicle | 2.50 | 0
+853.  | TIR 47(1) | Responsible operator fail to notify Commission in writing of damage to licence number plate and to return damaged licence number plate as soon as practicable | 0.50 | 0
+854.  | TIR 47(4) | Responsible operator fail to notify Commission in writing of loss of licence number plate as soon as practicable | 0.50 | 0
+855.  | TIR 47(8) | Fail to comply with Commission request for evidence relating to loss of taxi licence number plate within specified period | 1.25 | 0
+856.  | TIR 49(5) | Fail to comply with Commission request to return taxi label within specified period | 0.25 | 0
+857.  | TIR 50(1) | Fail to ensure taxi label is affixed and remains affixed, as instructed, while vehicle is operating as taxi | 0.25 | 0
+858.  | TIR 50(3) | Responsible operator fail to comply with instruction given by Commission to remove taxi label | 0.25 | 0
+859.  | TIR 53(2) | Temporary taxi licence holder fail to ensure expiry date label affixed, and remains affixed, as prescribed | 0.50 | 0
+860.  | TIR 53(3) | Temporary taxi licence holder fail to remove expiry date label immediately after expiry of licence | 0.25 | 0
+861.  | TIR 54(1) | Fail to notify Commission in writing, as soon as practicable, that taxi label is lost or unusable due to damage | 0.50 | 0
+862.  | TIR 54(3) | Fail to comply with Commission request, within specified period, for evidence of loss of or damage to taxi label | 0.75 | 0
+863.  | TIR 57(2) | Driver fail to travel by route nominated by passenger or, if route not nominated, by most direct route | 1.75 | 0
+864.  | TIR 57(3) | Driver operate taxi while taximeter operating on wrong tariff | 1.75 | 0
+865.  | TIR 57(4) | Driver operate taxi with taximeter on third or fourth tariff except as permitted | 1.75 | 0
+866.  | TIR 57(5)(a) | Driver refuse to accept hiring while taxi in taxi zone | 1.75 | 0
+867.  | TIR 57(5)(b) | Driver permit person to ride in or on taxi without consent of hirer of taxi | 2.50 | 0
+868.  | TIR 57(5)(c) | Driver fail to stand taxi in foremost vacant space of taxi zone | 0.50 | 0
+869.  | TIR 57(5)(d) | Driver leave taxi unattended in taxi zone without reasonable grounds | 1 | 0
+870.  | TIR 57(5)(e) | Driver prevent a taxi from leaving taxi zone | 2.50 | 0
+871.  | TIR 57(5)(f) | Driver inform a person that person is required to hire taxi in foremost space of taxi zone | 1 | 0
+872.  | TIR 57(5)(g) | Driver advise person that prescribed taxi cannot be hired without wheelchair passenger | 1.75 | 0
+873.  | TIR 57(5)(h) | Driver refuse to transport assistance animal other than as permitted by law | 2.50 | 0
+874.  | TIR 58(1) | Wheelchair-accessible taxi licence holder allow person without prescribed training to drive the taxi | 2.50 | 0
+875.  | TIR 58(2) | Driver of wheelchair-accessible taxi fail to ensure wheelchair is restrained as prescribed | 2.50 | 0
+876.  | TIR 58(3) | Driver drive wheelchair-accessible taxi if driver has not completed prescribed driver training | 2.50 | 0
+877.  | TIR 61(1) | Driver charge passenger more than total fare for hiring period | 1.75 | 0
+878.  | TIR 61(2) | Driver charge passenger for period while taxi is delayed due to prescribed event | 1.75 | 0
+879.  | TIR 62 | Responsible operator fail to cause prominent notice of relevant fares and charges to be displayed in taxi | 0.50 | 0
+Authorised meter adjuster offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+880.  | TIR 64(3) | Authorised meter adjuster fail to comply with Commission request to surrender sealing pliers | 1.25 | 0
+881.  | TIR 64(5) | Authorised meter adjuster fail to notify Commission in writing of lost, destroyed or damaged sealing pliers as soon as practicable | 0.50 | 0
+882.  | TIR 67(4) | Authorised meter adjuster fail to provide sealing certificate or similar document as prescribed | 1.25 | 0
+883.  | TIR 67(5) | Authorised meter adjuster fail to provide Commission with copy of sealing certificate or similar document as prescribed | 1.25 | 0
+884.  | TIR 68(1)(a) | Authorised meter adjuster fail to keep written record of each taximeter sealed as soon as practicable | 1 | 0
+885.  | TIR 68(1)(b) | Authorised meter adjuster fail to retain record for specified period | 1 | 0
+886.  | TIR 68(4) | Authorised meter adjuster fail to comply with Commission request to supply prescribed information within specified period | 1.25 | 0
+887.  | TIR 69(2) | Authorised meter adjuster fail to return sealing pliers to Commission within specified period after providing written notice of resignation | 0.75 | 0
+Luxury Hire Car Industry Regulations 2008
+Luxury hire car licence offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+888.  | LHCIR 5 | Luxury hire car licence holder fail to notify Commission in writing of change to name or address within 14 days after change | 0.50 | 0
+Vehicle/equipment offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+889.  | LHCIR 9 | Operate vehicle as luxury hire car if age of vehicle exceeds prescribed age | 1.50 | 0
+Licence number plate offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+890.  | LHCIR 11(2) | Luxury hire car licence holder fail to ensure licence number plate affixed to vehicle, and remains affixed to vehicle | 1 | 0
+891.  | LHCIR 11(5) | Luxury hire car licence holder affix, or cause or permit another person to affix, licence number plate to vehicle other than specified vehicle | 1 | 0
+892.  | LHCIR 11(6) | Holder of lapsed luxury hire car licence fail to remove, or cause to be removed, licence number plate while licence lapsed | 0.25 | 0
+893.  | LHCIR 11(7) | Holder of suspended luxury hire car licence fail to remove, or cause to be removed, licence number plate while licence suspended | 0.25 | 0
+894.  | LHCIR 11(8)(a) | Holder of luxury hire car licence operate, or cause or permit another person to operate, luxury hire car while void licence number plate affixed | 2.50 | 0
+895.  | LHCIR 11(8)(b) | Holder of luxury hire car licence operate, or cause or permit another person to operate, luxury hire car with licence number plate affixed that is to be surrendered or delivered up to Commission | 2.50 | 0
+896.  | LHCIR 11(8)(c) | Holder of luxury hire car licence operate, or cause or permit another person to operate, luxury hire car with licence number plate affixed that is to be removed from that vehicle | 2.50 | 0
+897.  | LHCIR 13(1) | Holder of luxury hire car licence fail to notify Commission in writing of damage to licence number plate and to return damaged number plate as soon as practicable | 0.50 | 0
+898.  | LHCIR 13(1A) | Holder of luxury hire car licence fail to notify Commission in writing of loss of licence number plate as soon as practicable | 0.50 | 0
+899.  | LHCIR 13(3) | Fail to comply with Commission request for evidence of loss of licence number plate within specified period | 1.25 | 0
+Label offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+900.  | LHCIR 16(5) | Fail to comply with Commission request to return luxury hire car label within specified period | 0.25 | 0
+901.  | LHCIR 17(1) | Holder of luxury hire car licence fail to ensure luxury hire car label is affixed and remains affixed, as instructed, while vehicle is operating as luxury hire car | 0.25 | 0
+902.  | LHCIR 17(3) | Holder of luxury hire car licence fail to comply with instruction by Commission to remove luxury hire car label | 0.25 | 0
+903.  | LHCIR 19(1) | Fail to notify Commission in writing, as soon as practicable, that luxury hire car label is lost or unusable due to damage | 0.25 | 0
+904.  | LHCIR 19(3) | Fail to comply with Commission request for evidence of loss of, or damage to, luxury hire car label within specified period | 0.25 | 0
+Logbook offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+905.  | LHCIR 19C(2) | Driver of luxury hire car fail to enter specified information in logbook as required | 0.50 | 0
+906.  | LHCIR 19D(2) | Holder of luxury hire car licence fail to comply with notice from Commission to produce logbook, or information from logbook, within specified period | 1 | 0
+907.  | LHCIR 19E(2) | Driver of luxury hire car fail to comply with direction given by authorised officer, or police officer, to produce logbook for inspection | 1 | 0
+Licensing offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+908.  | LHCIR 26(1) | Holder of luxury hire car licence hire out, or cause or permit another person to hire out, luxury hire car if hiring charge (or method of calculating hiring charge) has not been agreed before commencement of hiring | 1.75 | 0
+909.  | LHCIR 26(2) | Driver of luxury hire car undertake hiring if hiring charge (or method of calculating hiring charge) has not been agreed before commencement of hiring | 1.75 | 0
+Restricted Hire Vehicle Industry Regulations 2013
+Restricted hire vehicle offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+910.  | RHVIR 5 | Holder of restricted hire vehicle licence fail to notify Commission in writing within 14 days of change of name or address | 0.50 | 0
+911.  | RHVIR 11 | Holder of restricted hire vehicle licence fail to ensure vehicle used under licence and offered for hire as wheelchair-accessible meets specified requirements | 2.50 | 0
+Security camera offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+912.  | TIR 39(2) (as applied by RHVIR 13) | Fail to present restricted hire vehicle for testing of security camera system as required by police or authorised officer | 1.75 | 0
+913.  | TIR 39(4) (as applied by RHVIR 13) | Fail to ensure display of written evidence of most recent testing of security camera system in restricted hire vehicle | 0.50 | 0
+914.  | TIR 39(5) (as applied by RHVIR 13) | Fail to ensure security camera system installed in restricted hire vehicle is tested as prescribed | 1 | 0
+915.  | TIR 40(1) (as applied by RHVIR 13) | Fail to ensure security camera system installed in restricted hire vehicle indicates it is fully operational | 2.50 | 0
+916.  | TIR 40(2) (as applied by RHVIR 13) | Operate restricted hire vehicle with security camera system installed while system does not indicate it is fully operational or camera lens of system is not clear and free of all obstructions | 2.50 | 0
+917.  | TIR 40(3) (as applied by RHVIR 13) | Interfere, or cause or permit another person to interfere, with part of a security camera system installed in restricted hire vehicle | 2.50 | 0
+Licence number plate offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+918.  | RHVIR 15(1) | Holder of restricted hire vehicle licence for general rhv service fail to ensure licence number plate affixed and remains affixed to vehicle specified in the licence | 1 | 0
+919.  | RHVIR 15(2) | Holder of restricted hire vehicle licence for specified rhv service fail to ensure licence number plate affixed and remains affixed to vehicle used to operate that service | 1 | 0
+920.  | RHVIR 15(5) | Holder of restricted hire vehicle licence for general rhv service affix, or cause or permit to be affixed, licence number to vehicle other than vehicle specified in licence | 1 | 0
+921.  | RHVIR 15(6) | Holder of suspended restricted hire vehicle licence fail to remove licence number plate while licence is suspended | 0.25 | 0
+922.  | RHVIR 15(7)(a) | Holder of restricted hire vehicle licence operate, or cause or permit another person to operate, restricted hire vehicle with void licence number plate affixed | 2.50 | 0
+923.  | RHVIR 15(7)(b) | Holder of restricted hire vehicle licence operate, or cause or permit another person to operate, restricted hire vehicle with licence number plate affixed that is to be surrendered or delivered up to Commission | 2.50 | 0
+924.  | RHVIR 15(7)(c) | Holder of restricted hire vehicle licence operate, or cause or permit another person to operate, restricted hire vehicle with licence number plate affixed that is to be removed from vehicle | 2.50 | 0
+925.  | RHVIR 16(1) | Holder of restricted hire vehicle licence fail to notify Commission in writing of damage to licence number plate and to return damaged number plate as soon as practicable | 0.50 | 0
+926.  | RHVIR 16(2) | Holder of restricted hire vehicle licence fail to notify Commission in writing of loss of licence number plate as soon as practicable | 0.50 | 0
+927.  | RHVIR 16(4) | Fail to comply with Commission request for evidence of loss of licence number plate within specified period | 1.25 | 0
+Label offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+928.  | RHVIR 18(5) | Fail to comply with Commission request to return restricted hire vehicle label within specified period | 0.25 | 0
+929.  | RHVIR 19(1) | Holder of restricted hire vehicle licence fail to ensure restricted hire vehicle label is affixed and remains affixed as instructed while vehicle is operating as restricted hire vehicle | 0.25 | 0
+930.  | RHVIR 19(3) | Holder of restricted hire vehicle licence fail to comply with instruction by Commission to remove restricted hire vehicle label | 0.25 | 0
+931.  | RHVIR 20(1) | Fail to notify Commission in writing, as soon as practicable, that restricted hire vehicle label is lost or unusable due to damage | 0.25 | 0
+932.  | RHVIR 20(3) | Fail to comply with Commission request, within specified period, for evidence of loss of or damage to restricted hire vehicle label | 0.25 | 0
+Logbook offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+933.  | RHVIR 23(2) | Driver of restricted hire vehicle fail to enter specified information into logbook | 0.50 | 0
+934.  | RHVIR 24(2) | Holder of restricted hire vehicle licence fail to comply with notice from Commission to produce logbook, or information from logbook, within specified period | 1 | 0
+935.  | RHVIR 25(2) | Driver of restricted hire vehicle fail to comply with direction given by authorised officer or police officer to produce logbook for inspection | 1 | 0
+Licensing offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+936.  | RHVIR 26(1) | Holder of restricted hire vehicle licence hire out, or cause or permit another person to hire out, restricted hire vehicle if hiring charge (or method of calculating hiring charge) has not been agreed before commencement of hiring | 1.75 | 0
+937.  | RHVIR 26(2) | Driver of restricted hire vehicle undertake hiring if hiring charge (or method of calculating hiring charge) has not been agreed before commencement of hiring | 1.75 | 0
+Passenger Transport Services Act 2011
+Accreditation offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+938.  | PTSA 29(1) | Person holding accreditation contravenes, or causes or allows another person to contravene, condition of accreditation | 1.75 | 0
+939.  | PTSA 29(2) | Responsible person in respect of accreditation contravenes, or causes or allows another person to contravene, condition of accreditation | 1.75 | 0
+940.  | PTSA 32(2) | Accredited operator fail to comply with Commission requirement to provide information on relevant accredited service within specified period | 0.50 | 0
+941.  | PTSA 32(3) | Responsible person in respect of accreditation fail to comply with Commission requirement to provide information on relevant accredited service within specified period | 0.50 | 0
+942.  | PTSA 33(1) | Accredited operator, who is natural person, fail to notify Commission within 14 days that operator has been charged with serious offence | 1 | 0
+943.  | PTSA 33(2) | Responsible person in respect of accreditation fail to notify Commission, within specified period, that responsible person has been charged with serious offence | 1 | 0
+944.  | PTSA 33(3) | Accredited operator fail to notify Commission, within 14 days, that person nominated as responsible person has ceased to be responsible person, and fail to nominate a new responsible person in same notice | 0.50 | 0
+Regular passenger service offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+945.  | PTSA 41 | Service operator of authorised regular passenger service contravene, or cause or allow another person to contravene, condition of authorisation | 1.75 | 0
+Miscellaneous offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+946.  | PTSA 64(6) | Person who has benefit of exemption fail to comply with condition of exemption | 1.75 | 0
+Passenger Transport Services Regulations 2013
+Passenger service
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+947.  | PTSR 7(2) | Accredited operator fail to comply with Commission's written instructions on how to display evidence of accreditation in vehicles used to provide services under accreditation | 0.75 | 0
+948.  | PTSR 8(1) | Accredited operator or responsible person place safety of driver of, or passenger on, a passenger transport service vehicle at unreasonable risk | 1.75 | 0
+949.  | PTSR 9 | Authorised person fail to provide whole, or any part of, regular passenger service without prior written permission of Commission | 1.75 | 0
+950.  | PTSR 10(1) | Operate, or cause or permit another person to operate, passenger transport service with a vehicle exceeding its operational capacity without prior written permission of Commission | 1.50 | 0
+951.  | PTSR 10(2) | Operate, or cause or permit another person to operate, passenger transport service with vehicle that does not prominently display the operational seating capacity and standing capacity (if greater than zero) without prior written permission from Commission | 1 | 0
+Travel and traveller offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+952.  | PTSR 11(4) | Accredited operator fail to prominently display (if practicable) in a vehicle used to provide passenger transport services a copy of each condition of travel imposed on the service or ensure such a copy is available on request | 0.25 | 0
+953.  | PTSR 13(1) | Driver of vehicle providing regular passenger service fail to stop vehicle and pick up any person indicating that they wish to travel on the vehicle except in specified circumstances | 0.75 | 0
+954.  | PTSR 14(1) | Driver of vehicle providing regular passenger service set down passenger at a place other than the destination nominated by the passenger except in specified circumstances | 0.75 | 0
+955.  | PTSR 15(2) | Fail to provide name and address if requested by driver of, or authorised officer on, vehicle providing passenger transport service | 0.75 | 0
+956.  | PTSR 16(1)(a) | Person travelling on vehicle providing passenger transport service endanger the safety of himself or herself, or another person, or the vehicle | 1.25 | 0
+957.  | PTSR 16(1)(b) | Person travelling on vehicle providing passenger transport service threaten, harass or attempt to intimidate another person | 1.25 | 0
+958.  | PTSR 16(1)(c) | Person travelling on vehicle providing passenger transport service wilfully obstruct or hinder another person | 1.25 | 0
+959.  | PTSR 16(1)(d) | Person travelling on vehicle providing passenger transport service wilfully disturb the comfort or convenience of another person | 1.25 | 0
+960.  | PTSR 16(1)(e) | Person travelling on vehicle providing passenger transport service soil, damage or deface vehicle, any of the vehicle's fittings or property of another person | 1.25 | 0
+961.  | PTSR 16(1)(f) | Person travelling on vehicle providing passenger transport service behave in an offensive or indecent manner | 1.25 | 0
+962.  | PTSR 16(1)(g) | Person travelling on vehicle providing passenger transport service use any profane, indecent, obscene, offensive or blasphemous language | 1.25 | 0
+963.  | PTSR 16(1)(h) | Person travelling on vehicle providing passenger transport service throw anything inside, or from, the vehicle | 1.25 | 0
+964.  | PTSR 16(2)(a) | Person smoke while travelling on vehicle providing regular passenger service | 0.75 | 0
+965.  | PTSR 16(2)(b) | Person consume alcohol while travelling on vehicle providing regular passenger service | 0.75 | 0
+966.  | PTSR 16(2)(c) | Person possess open container of alcohol while travelling on vehicle providing regular passenger service | 0.75 | 0
+967.  | PTSR 16(2)(d) | Person litter while travelling on vehicle providing regular passenger service | 0.25 | 0
+968.  | PTSR 16(2)(e) | Person travelling on vehicle providing regular passenger service have animal on board, other than an animal permitted by law | 0.25 | 0
+969.  | PTSR 16(2)(f) | Person travelling on vehicle providing regular passenger service place his or her feet on seat of the vehicle | 0.25 | 0
+970.  | PTSR 16(2)(g) | Person travelling on vehicle providing regular passenger service spit on any part of vehicle | 0.25 | 0
+971.  | PTSR 16(2)(h) | Person play an instrument while travelling on vehicle providing regular passenger service | 0.25 | 0
+972.  | PTSR 16(2)(i) | Person busk while travelling on vehicle providing regular passenger service | 0.25 | 0
+973.  | PTSR 16(3) | Person travelling on vehicle providing regular passenger service fail to vacate, or fail to offer to vacate, seat for another passenger in specified circumstances | 0.75 | 0
+974.  | PTSR 16(5)(a) | Person travelling on vehicle providing regular passenger transport service eat or drink something other than water without permission of driver, or authorised officer, unless for clear or diagnosed medical reason | 0.25 | 0
+975.  | PTSR 16(5)(b) | Person travelling on vehicle providing regular passenger service occupy more than one seat without permission of driver or authorised officer | 0.25 | 0
+976.  | PTSR 16(5)(c) | Person travelling on vehicle providing regular passenger service sell or distribute, or attempt to sell or distribute, anything without permission of driver or authorised officer | 0.25 | 0
+977.  | PTSR 16(5)(d) | Person travelling on vehicle providing regular passenger service display, or attempt to display, any sign without permission of driver or authorised officer | 0.25 | 0
+978.  | PTSR 16(5)(e) | Person travelling on vehicle providing regular passenger service affix, or attempt to affix, anything to the vehicle without permission of driver or authorised officer | 0.25 | 0
+979.  | PTSR 17(2) | Fail to leave a vehicle providing passenger transport service when directed to by driver or authorised officer | 0.75 | 0
+980.  | PTSR 18(1) | Person travel on vehicle providing regular passenger service without paying required fare, or holding valid ticket or pass authorising travel, except as specified | 0.75 | 0
+981.  | PTSR 18(3) | Fail to comply with request of driver, or authorised officer, to produce ticket or pass entitling travel for inspection or to pay all or part of any outstanding fare amount | 0.75 | 0
+Miscellaneous offences
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+982.  | PTSR 19(a) | Driver operating vehicle as passenger transport service cause or allow passenger on the vehicle, who is travelling in a standing position, to obstruct an entrance or exit on the vehicle | 1 | 0
+983.  | PTSR 19(b) | Driver operating vehicle as passenger transport service cause or allow passenger on the vehicle to travel in a standing position to the danger or discomfort of another passenger or driver | 1 | 0
+984.  | PTSR 20(a) | Driver operate vehicle as passenger transport service while freight or luggage being carried on the vehicle is not safely stowed | 1 | 0
+985.  | PTSR 20(b) | Driver operate vehicle as passenger transport service while aisle, entrance or emergency exit on the vehicle is obstructed by freight or luggage | 1 | 0
+986.  | PTSR 21(a) | Driver stand or park vehicle providing passenger transport service, or cause or allow vehicle to stand or park, to pick up or set down passenger where it would be likely to create unreasonable risk to safety of passenger being picked up or set down, the driver of, or passengers on, the vehicle or other person in street whether in a vehicle or as pedestrian | 1.50 | 0
+987.  | PTSR 21(b) | Driver stand or park vehicle providing passenger transport service, or cause or allow vehicle to stand or park, to pick up or set down passenger where it would be likely to unreasonably disrupt lawful movement of traffic | 1.50 | 0
+Vehicle insurance cover
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+988.  | MALC 29(1) | Use uninsured motor vehicle | 1.25 | 0
+989.  | MALC 29(1) | Cause or allow use of uninsured motor vehicle | 1.25 | 0
+990.  | MALC 29(1) | Use uninsured trailer | 1.25 | 0
+991.  | MALC 29(1) | Cause or allow use of uninsured trailer | 1.25 | 0
+992.  | MALC 29(1) | Use insured motor vehicle with increased premium liability | 1.75 | 0
+993.  | MALC 29(1) | Cause or allow use of insured motor vehicle with increased premium liability | 1.75 | 0
+994.  | MALC 29(1) | Use insured trailer with increased premium liability | 1.75 | 0
+995.  | MALC 29(1) | Cause or allow use of insured trailer with increased premium liability | 1.75 | 0
