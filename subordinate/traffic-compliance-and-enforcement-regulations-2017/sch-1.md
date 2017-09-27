@@ -34,7 +34,7 @@ Road Rules
 Speed-limit offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-|  | Note For additional local speed-limit offences see item 439 and items 447 to 453. |  |
+|  | Note For additional local speed-limit offences see item 436 and items 444 to 450. |  |
 16.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by less than 10km/h | 0.50 | 2
 17.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by less than 10km/h (photographic detection device) | 0.50 | 2
 18.  | RR 20 | Exceed applicable speed-limit applying to driver for length of road by 10 to 14km/h | 0.75 | 2
@@ -180,10 +180,10 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 80.  | RR 64 | Fail to give way as required when turning at flashing yellow traffic arrow at intersection |  |
 (a)  |  | rider of a bicycle | 0.75 | 0
 (b)  |  | any other driver | 1 | 3
-81.  | RR 65(2)(a) | Fail to give way to any pedestrian on marked foot crossing with flashing yellow traffic light (other than at/near intersection) |  |
+81.  | RR 65(2)(a) | Fail to give way to any pedestrian or rider of a bicycle on marked foot crossing with flashing yellow traffic light (other than at/near intersection) |  |
 (a)  |  | rider of a bicycle | 1 | 0
 (b)  |  | any other driver | 1.25 | 3
-82.  | RR 65(2)(b) | Obstruct pedestrian on marked foot crossing with flashing yellow traffic light (other than at/near intersection) |  |
+82.  | RR 65(2)(b) | Obstruct pedestrian or rider of a bicycle on marked foot crossing with flashing yellow traffic light (other than at/near intersection) |  |
 (a)  |  | rider of a bicycle | 1 | 0
 (b)  |  | any other driver | 1.25 | 3
 83.  | RR 65(2)(c) | Overtake/pass a vehicle stopping/stopped at marked foot crossing with flashing yellow traffic light (other than at/near intersection) |  |
@@ -279,19 +279,19 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 107.  | RR 80(2)(a) | Fail to stop at children's crossing (when hand-held stop sign displayed) |  |
 (a)  |  | rider of a bicycle | 1 | 0
 (b)  |  | any other driver | 2.25 | 3
-108.  | RR 80(2)(b) | Fail to stop at children's crossing (when pedestrian on/entering crossing) |  |
+108.  | RR 80(2)(b) | Fail to stop at children's crossing (when pedestrian or rider of a bicycle on/entering crossing) |  |
 (a)  |  | rider of a bicycle | 1 | 0
 (b)  |  | any other driver | 2.25 | 3
-109.  | RR 80(3) | Proceed through children's crossing, when pedestrian is on or entering crossing and while hand-held stop sign still displayed, or before being signalled to do so |  |
+109.  | RR 80(3) | Proceed through children's crossing, when pedestrian or rider of a bicycle is on or entering crossing and while hand-held stop sign still displayed, or before being signalled to do so |  |
 (a)  |  | rider of a bicycle | 1 | 0
 (b)  |  | any other driver | 1.25 | 3
-110.  | RR 80(4) | Proceed through children's crossing while pedestrian is on or is entering the crossing |  |
+110.  | RR 80(4) | Proceed through children's crossing while pedestrian or rider of a bicycle is on or is entering the crossing |  |
 (a)  |  | rider of a bicycle | 1 | 0
 (b)  |  | any other driver | 2.25 | 3
 111.  | RR 81(1) | Approach pedestrian crossing too quickly to stop safely |  |
 (a)  |  | rider of a bicycle | 1 | 0
 (b)  |  | any other driver | 1.25 | 3
-112.  | RR 81(2) | Fail to give way to pedestrian on pedestrian crossing |  |
+112.  | RR 81(2) | Fail to give way to pedestrian or rider of a bicycle on pedestrian crossing |  |
 (a)  |  | rider of a bicycle | 1 | 0
 (b)  |  | any other driver | 2.25 | 3
 113.  | RR 82 | Overtake/pass a vehicle stopping/stopped at children's/pedestrian crossing |  |
@@ -456,7 +456,7 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 General driving rule offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-|  | Note For additional local general offences see items 444 and 445. |  |
+|  | Note For additional local general offences see items 441 and 442. |  |
 174.  | RR 125(1) | Unreasonably obstructing the path of other driver/pedestrian |  |
 (a)  |  | rider of a bicycle | 0.50 | 0
 (b)  |  | any other driver | 0.75 | 0
@@ -524,6 +524,7 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 194.  | RR 144(a) | Overtake too close to another vehicle |  |
 (a)  |  | rider of a bicycle | 0.75 | 0
 (b)  |  | any other driver | 1 | 2
+194A.  | RR 144A(1) | Pass rider of bicycle without sufficient distance | 1 | 2
 195.  | RR 144(b) | Cut in front of vehicle after overtaking |  |
 (a)  |  | rider of a bicycle | 0.75 | 0
 (b)  |  | any other driver | 1 | 2
@@ -533,7 +534,7 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 Marked lane/line of traffic offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-|  | Note For additional local marked line offences see item 446. |  |
+|  | Note For additional local marked line offences see item 443. |  |
 197.  | RR 146(1) | Fail to drive within single marked lane as required (multi-lane road) except as permitted |  |
 (a)  |  | rider of a bicycle | 0.75 | 0
 (b)  |  | any other driver | 0.75 | 0
@@ -813,7 +814,7 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 Wheeled recreational device/toy offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-|  | Note For additional local lawn mower and wheeled recreational device/toy offences see items 439 to 442. |  |
+|  | Note For additional local lawn mower and wheeled recreational device/toy offences see items 437 to 440. |  |
 317.  | RR 240A | Travel in/on wheeled recreational device or wheeled toy on a road past a no wheeled recreational devices or toys sign | 0.25 | 0
 318.  | RR 240(1) | Travel in/on wheeled recreational device/toy on road (not road-related area) with dividing line/median strip/or one-way road with more than one marked lane or where speed limit over 50km/h | 0.50 | 0
 319.  | RR 240(2)(b) | Travel in/on wheeled recreational device on road (not road-related area) at night | 0.25 | 0
@@ -839,7 +840,7 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 336.  | RR 247A(1) | Rider of bicycle enter bicycle storage area contrary to red traffic light or red traffic arrow except from bicycle lane | 0.75 | 0
 337.  | RR 247B(1) | Rider of bicycle fail to give way as required to any vehicle when entering bicycle storage area | 0.75 | 0
 338.  | RR 247B(2) | Rider of bicycle in a bicycle storage area on multi-lane road fail to give way as required to motor vehicle in any lane other than lane that rider of bicycle is directly in front of (except to motor vehicle facing red traffic arrow) | 0.75 | 0
-339.  | RR 248(2) | Rider of bicycle ride on marked foot crossing unless green bicycle crossing light showing | 0.50 | 0
+339.  | RR 248(2) | Rider of bicycle ride across children’s crossing, marked foot crossing or pedestrian crossing otherwise than in accordance with rule 248 | 0.50 | 0
 340.  | RR 249 | Rider of bicycle ride on pedestrian part of separated footpath | 0.50 | 0
 341.  | RR 250(2)(a) | Rider of bicycle fail to keep left of footpath or shared path | 0.50 | 0
 342.  | RR 250(2)(b) | Rider of bicycle fail to give way to pedestrian on footpath or shared path | 0.50 | 0
@@ -941,7 +942,7 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 Miscellaneous animal offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-|  | Note For additional local livestock offences see items 426 to 437. |  |
+|  | Note For additional local livestock offences see items 424 to 435. |  |
 415.  | RR 301(1) | Lead or tether animal to motor vehicle whilst driving except as permitted | 0.75 | 0
 416.  | RR 301(2) | Passenger lead animal whilst in/on moving motor vehicle except as permitted | 0.75 | 0
 417.  | RR 301(3) | Rider of a bicycle lead or tether animal to bicycle when riding unless permitted | 0.75 | 0
@@ -1139,12 +1140,6 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 553.  | DLVR 63(4)(b) | Use trailer not complying with number plate/cover regulations (other than affix and display) | 1 | 0
 554.  | DLVR 63(4)(b) | Permit use of motor vehicle not complying with number plate/cover regulations (other than affix and display) | 1 | 0
 555.  | DLVR 63(4)(b) | Permit use of trailer not complying with number plate/cover regulations (other than affix and display) | 1 | 0
-556.  | DLVR 65(1) | Registered operator fail to ensure current registration label is affixed within 45 days of registration commencement or payment of registration, whichever is later | 0.50 | 0
-557.  | DLVR 65(1A) | Registered operator fail to ensure current registration label kept affixed as required | 0.50 | 0
-558.  | DLVR 65(2) | Registered operator fail to ensure that information on registration label is legible from outside the vehicle | 0.50 | 0
-559.  | DLVR 65(3) | Registered operator fail to ensure registration label is removed within 30 days of registration expiry | 0.50 | 0
-560.  | DLVR 65(4) | Use registered vehicle on public street in contravention of registration label regulations | 0.50 | 0
-561.  | DLVR 65(4) | Permit use of registered vehicle on public street in contravention of registration label regulations | 0.50 | 0
 Transfer or surrender of registration offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
