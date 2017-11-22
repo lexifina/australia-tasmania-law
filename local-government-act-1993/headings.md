@@ -59,6 +59,7 @@ Part 12A Local Government Board
 Part 12A, Division 1 Local Government Board
 Part 12A, Division 2 Reviews of councils
 Part 12A, Division 3 Reviews of single and joint authorities
+Part 12B Performance Improvement Directions
 Part 13 Inquiries
 Part 13, Division 1 Board of Inquiry
 Part 13, Division 2 Commissioners
