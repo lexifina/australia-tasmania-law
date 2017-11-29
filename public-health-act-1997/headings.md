@@ -11,11 +11,11 @@ Part 3, Division 1 Notifiable diseases and notifiable contaminants
 Part 3, Division 1A Supply and use of needles and syringes
 Part 3, Division 2 Immunisation
 Part 3, Division 3 Confidentiality
-Part 4 Tobacco products
+Part 4 Tobacco and other smoking products
 Part 4, Division 1 Under-age smoking
 Part 4, Division 1A Smoke-free areas
 Part 4, Division 2 Display, advertising, packaging, &c.
-Part 4, Division 3 Tobacco seller's licence
+Part 4, Division 3 Smoking product licence
 Part 4, Division 4 Miscellaneous
 Part 5 Premises
 Part 5, Division 1 Places of assembly
