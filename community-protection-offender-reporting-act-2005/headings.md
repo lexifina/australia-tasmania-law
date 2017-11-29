@@ -5,6 +5,7 @@ Part 3, Division 1 Report
 Part 3, Division 2 Ongoing reporting obligations
 Part 3, Division 3 Provisions applying to all reporting obligations
 Part 3, Division 4 Suspension and extension of reporting obligations
+Part 3, Division 4A Suspension and variation of reporting obligations for young reportable offenders
 Part 3, Division 5 Reporting period
 Part 3, Division 6 Exemption from reporting obligations
 Part 3, Division 7 Offences
