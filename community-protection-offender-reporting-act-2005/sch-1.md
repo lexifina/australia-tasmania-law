@@ -35,4 +35,5 @@ Section 8(1A)(a) | Exposing person
 Section 13A | Observation or recording in breach of privacy
 Section 13B | Publishing or distributing prohibited visual recording
 Section 13C | Possession of prohibited visual recording
+Section 21 | Indecent or offensive behaviour
 Section 35(3) | Assaulting with indecent intent
