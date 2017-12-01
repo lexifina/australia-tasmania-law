@@ -17,7 +17,7 @@ Section 3
 15.  | Stealing, unlawfully receiving or embezzling anything.
 16.  | Trafficking with another prisoner or detainee or any other person.
 17.  | Giving or lending to, or borrowing from, another prisoner or detainee anything if not authorised.
-18.  | Having in the prisoner's possession anything that is not authorised.
+18.  | Having in the prisoner's or detainee's possession anything that is not authorised.
 19.  | Sending a letter that is threatening or harassing.
 20.  | Sending an article of mail containing an item or substance that is not authorised.
 21.  | Using a telephone in any way or for any purpose that is not authorised.
@@ -35,5 +35,9 @@ Section 3
 33.  | Failing to obey an order lawfully given by a person having authority in the prison.
 34.  | Cursing or swearing.
 35.  | Using language or behaving in a manner that is indecent, insulting, insolent or threatening.
+35A.  | Striking, injuring, maiming or killing, without lawful excuse, a detector dog.
+35B.  | Impeding, or interfering with, a detector dog without lawful excuse.
+35C.  | Conducting a business in or from prison without the Director's consent.
+35D.  | Making, or causing or allowing the making of, a change of name application without the Director's consent.
 36.  | Breaching the regulations.
 37.  | Attempting to commit a prison offence.
