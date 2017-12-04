@@ -12,6 +12,16 @@ Part 3, Division 4 Notification obligations
 Part 3, Division 5 Emergency authorizations
 Part 3, Division 6 Financial assurances
 Part 3, Division 7 Environmental improvement programmes
+Part 3, Division 8 Environmental licences
+Part 3, Division 8, Subdivision 1 Interpretation and offences
+Part 3, Division 8, Subdivision 2 Licences in relation to existing lawful activities
+Part 3, Division 8, Subdivision 3 Licences where no existing authority
+Part 3, Division 8, Subdivision 4 Variation of licences
+Part 3, Division 8, Subdivision 5 Renewal of licences
+Part 3, Division 8, Subdivision 6 Transfer of licences
+Part 3, Division 8, Subdivision 7 General provisions
+Part 3, Division 8, Subdivision 8 Surrender, suspension and cancellation of licences
+Part 3, Division 8, Subdivision 9 Appeals in relation to licences
 Part 4 Enforcement Provisions
 Part 4, Division 1 Information to be supplied
 Part 4, Division 2 Environment protection notices
