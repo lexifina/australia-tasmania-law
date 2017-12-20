@@ -118,7 +118,6 @@ Part 32, Division 7, Subdivision 3 Recognition and enforcement of NZ judgment
 Part 32, Division 7, Subdivision 4 Miscellaneous
 Part 33 Entry of judgment and orders
 Part 34 Fees and costs
-Part 34, Division 1 Court fees
 Part 34, Division 2 Security for costs
 Part 34, Division 3 Costs
 Part 35 Enforcement and execution
