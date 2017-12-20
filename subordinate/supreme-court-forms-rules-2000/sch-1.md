@@ -6,7 +6,6 @@ Form 3 | Originating application intended to be served
 Form 4 | Originating application requiring an appearance intended to be served out of the State
 Form 5 | Originating application not intended to be served
 Form 6 | Notice to be given to persons ordered to be served with notice of an application
-Form 6A | Notice to defendant served outside Australia
 Form 7 | Notice of change or appointment of practitioner
 Form 8 | Notice of change of agent
 Form 9 | Notice of party acting in person
@@ -37,8 +36,9 @@ Form 33 | Long order for commission to examine witnesses
 Form 34 | Commission to examine witnesses
 Form 35 | Order for letter of request to judicial authority out of Tasmania
 Form 36 | Letter of request for examination of witness
-Form 37 | Subpoena
-Form 37A | Notice and declaration
+Form 37 | Subpoena to give evidence
+Form 38 | Subpoena to produce documents or things
+Form 39 | Subpoena to give evidence and produce documents or things
 Form 41 | Interlocutory application
 Form 42 | Certificate of readiness
 Form 43 | Notice of intention to appear
@@ -93,6 +93,7 @@ Form 82 | Notice to creditors or other claimants to produce documents
 Form 83 | Affidavit of service of foreign process
 Form 83A | Request for service abroad of judicial documents and certificate
 Form 83B | Summary of document to be served
+Form 83C | Notice to defendant served outside of Australia
 Form 84 | Certificate as to examination and depositions
 1 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
@@ -110,7 +111,6 @@ Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 6 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
-6A [Picture in the source, not reproduced]
 7 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 8 Rules of the Supreme Court (Forms) 2000
@@ -190,12 +190,19 @@ Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 37 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
+38 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
-37A [Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+39 [Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
 41 [Picture in the source, not reproduced]
 42 Certificate of Readiness
@@ -322,5 +329,6 @@ Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 83B [Picture in the source, not reproduced]
 [Picture in the source, not reproduced]
+83C [Picture in the source, not reproduced]
 84 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
