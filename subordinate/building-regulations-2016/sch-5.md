@@ -143,6 +143,7 @@ Regulation 85
 140.  | Regulation 29(4) | 2 | -
 141.  | Regulation 30(1) | 2 | -
 142.  | Regulation 30(2) | 2 | -
+142A.  | Regulation 30A(1) | 2 | -
 143.  | Regulation 32(2) | 2 | -
 144.  | Regulation 35(1) | 2 | -
 145.  | Regulation 35(4) | 2 | -
@@ -184,6 +185,7 @@ Regulation 85
 181.  | Regulation 75(1) | 5 | -
 182.  | Regulation 75(2) | 5 | -
 183.  | Regulation 76 | 5 | -
+183A.  | Regulation 76A | 2 | -
 184.  | Regulation 77(3) | 5 | -
 185.  | Regulation 79(1) | 7.5 | -
 186.  | Regulation 80(1) | 5 | -
