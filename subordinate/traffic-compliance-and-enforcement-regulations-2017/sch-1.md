@@ -560,6 +560,7 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 205.  | RR 151(1) | Ride motor bike/bicycle more than 2 abreast (on other than multi-lane road) | 0.75 | 0
 206.  | RR 151(2) | Ride motor bike/bicycle more than 2 abreast (in marked lane) unless overtaking or otherwise permitted | 0.75 | 0
 207.  | RR 151(4) | Ride motor bike/bicycle more than 1.5 metres abreast of another rider | 0.75 | 0
+207A.  | RR 151A(2) | Rider of motor bike unlawfully lane filtering along a length of road | 1 | 2
 Overhead lane control offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
