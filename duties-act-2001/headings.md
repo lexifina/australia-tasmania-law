@@ -14,6 +14,7 @@ Chapter 2, Part 5 Concessional rates of duty
 Chapter 2, Part 5, Division 1 Trusts
 Chapter 2, Part 5, Division 2 Superannuation
 Chapter 2, Part 5, Division 2A First home buyer duty concession
+Chapter 2, Part 5, Division 2B Pensioner duty concession
 Chapter 2, Part 5, Division 3 Miscellaneous
 Chapter 2, Part 6 Exemptions
 Chapter 3 Certain transactions treated as transfers
