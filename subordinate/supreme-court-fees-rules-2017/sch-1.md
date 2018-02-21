@@ -34,8 +34,8 @@ Rules 5, 6 and 9
 11.  | On the appointment of a mediator who is an employee of, or otherwise engaged by, the Court | 483
 | Item | Fee(fee units)
 1.  | Transcripts |
-(a)  | for the initial copy, supplied to a party, of a transcript that is required to be transcribed | 5
-(b)  | for a copy of a transcript that has already been transcribed | 2
+(a)  | for the initial copy, supplied to a party, of a transcript that is required to be transcribed | 5 (per page)
+(b)  | for a copy of a transcript that has already been transcribed | 2 (per page)
 2.  | For each search or inspection of an index, file, register or document, relating to a cause or matter, made by a person who is not a party to that cause or matter or a practitioner for that party | 26
 3.  | For a copy of a document | 1 (per page)
 4.  | Additional fee for a request for registry services that results in a registry staying open after the usual close of business for that registry | 290
