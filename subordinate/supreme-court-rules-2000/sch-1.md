@@ -83,7 +83,7 @@ Fees on the scale specified in Part 1 of Schedule 1 to the Magistrates Court (Ci
 | Item | Fee - claim exceeding $50 000.00 ($)
 1.  | Costs of writ for service within the jurisdiction | 287.00
 2.  | Costs of writ for service outside the jurisdiction | 383.00
-2.  | In addition to the fees allowed in items 1 and 2, the practitioner may claim the Court fees set out in Schedule 2, and the fee, if any, prescribed under section 5(1) of the Appeal Costs Fund Act 1968 |
+2.  | In addition to the fees allowed in items 1 and 2, the practitioner may claim the Court fees set out in the Supreme Court (Fees) Rules 2017, and the fee, if any, prescribed under section 5(1) of the Appeal Costs Fund Act 1968 |
 3.  | Costs of signing judgment | 75.00
 Rules 912 and 921
 Judgment creditor's costs | Fee ($)
@@ -91,4 +91,4 @@ In respect of a debt exceeding $50 000.00 | 217.00
 In respect of a debt not exceeding $50 000.00 | 146.00
 Rule 601(3)
 Costs of the summons | $449.00
-In addition to the above fee, the practitioner may claim the Court fees set out in Schedule 2, and the fee, if any, prescribed under section 5(1) of the Appeal Costs Fund Act 1968 |
+In addition to the above fee, the practitioner may claim the Court fees set out in the Supreme Court (Fees) Rules 2017, and the fee, if any, prescribed under section 5(1) of the Appeal Costs Fund Act 1968 |
