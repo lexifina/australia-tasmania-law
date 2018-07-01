@@ -31,19 +31,19 @@ Special-purpose vehicle (type P) | No charge
 Special-purpose vehicle (type T) | $300
 Special-purpose vehicle (type O) | Calculated using the formula:
 | $375 + ($375 x number of axles more than 2)
-Division 1 – Load-carrying vehicles
+Load-carrying vehicles
 Vehicle type | 2 axles | 3 axles | 4 axles | 5 or more axles
 Trucks |  |  |  |
-Truck (type 1) | $199 | $235 | $250 | $250
-Truck (type 2) | $260 | $331 | $353 | $353
-Short combination truck | $291 | $369 | $353 | $353
-Medium combination truck | $660 | $660 | $714 | $714
-Long combination truck | $913 | $913 | $913 | $913
+Truck (type 1) | $195 | $230 | $245 | $245
+Truck (type 2) | $255 | $325 | $346 | $346
+Short combination truck | $285 | $362 | $347 | $347
+Medium combination truck | $648 | $648 | $701 | $701
+Long combination truck | $896 | $896 | $896 | $896
 Prime movers |  |  |  |
-Short combination prime mover | $411 | $411 | $411 | $411
-Multi-combination prime mover | $929 | $929 | $1 022 | $1 022
-Division 2 – Load-carrying trailers |  |  |  |
-Charge per axle ($)
+Short combination prime mover | $404 | $404 | $404 | $404
+Multi-combination prime mover | $912 | $912 | $1 003 | $1 003
+Load-carrying trailers
+| Charge | per axle ($) |  |
 Trailer type | Single axle | Tandem axle group | Tri-axle group | Quad-axle group and above
 Goods-carrying trailer with a GVM less than 9 tonnes | $55 | $28 | $18 | $14
 Pig trailer with a GVM of 9 tonnes or more | $55 | $28 | $18 | $14
@@ -51,13 +51,13 @@ Dog trailer with a GVM of 9 tonnes or more | $55 | $28 | $18 | $14
 Semi-trailer with a GVM of 9 tonnes or more | $55 | $28 | $18 | $14
 B-double lead trailer and B-triple lead and middle trailers with a GVM of 9 tonnes or more | $55 | $28 | $18 | $14
 Converter dolly | $55 | $28 | $18 | $14
-Division 3 – Buses |  |  |
+Buses
 Bus type | 2 axles | 3 axles | 4 or more axles
-Bus (type 1) | $208 |  |
-Bus (type 2) | $340 | $422 | $422
-Articulated bus |  | $337 | $337
-Division 4 – Special-purpose vehicles |
+Bus (type 1) | $204 |  |
+Bus (type 2) | $334 | $414 | $414
+Articulated bus |  | $331 | $331
+Special-purpose vehicles
 Vehicle type |
 Special-purpose vehicle (type P) | No charge
-Special-purpose vehicle (type T) | $205
-Special-purpose vehicle (type O) | $205
+Special-purpose vehicle (type T) | $202
+Special-purpose vehicle (type O) | $202
