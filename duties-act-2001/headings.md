@@ -5,6 +5,7 @@ Chapter 2 Transactions concerning dutiable property
 Chapter 2, Part 1 Introduction and overview
 Chapter 2, Part 2 Dutiable value
 Chapter 2, Part 3 Rates of duty
+Chapter 2, Part 3A Additional duty on certain dutiable transactions involving foreign persons
 Chapter 2, Part 4 Special provisions
 Chapter 2, Part 4A Transactions Treated as Subsales of Land
 Chapter 2, Part 4A, Division 1 Introduction
