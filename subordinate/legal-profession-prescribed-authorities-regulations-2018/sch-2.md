@@ -1,0 +1,7 @@
+# Schedule 2 Provisions of Act (Board)
+Regulation 4(2)
+1.  | Section 106 (Show cause procedure for removal of lawyer's name from local roll following foreign regulatory action)
+2.  | Section 130 (Audit of incorporated legal practices)
+3.  | Section 132 (Banning of incorporated legal practices)
+4.  | Section 133 (Disqualification from managing incorporated legal practice)
+5.  | Section 158 (Prohibition on partnerships with certain partners who are not Australian legal practitioners)
