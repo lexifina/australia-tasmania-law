@@ -14,6 +14,7 @@ Part 4 Elections
 Part 4, Division 1 Mayors and deputy mayors
 Part 4, Division 2 Councillors
 Part 5 Interests
+Part 5A Gifts and Donations
 Part 6 Petitions, polls and public meetings
 Part 6, Division 1 Petitions
 Part 6, Division 2 Elector polls
