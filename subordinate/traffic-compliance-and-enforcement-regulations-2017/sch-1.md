@@ -1446,7 +1446,7 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 762.  | THVIA 97(3) | Temporary taxi licence holder fail to supply written information as required by Commission within specified period | 1.25 | 0
 763.  | THVIA 98(2) | Proprietor of taxi dispatch service fail to supply information as required by Commission within specified period | 1.25 | 0
 764.  | THVIA 98(2) | Manager of taxi dispatch service fail to supply information as required by Commission within specified period | 1.25 | 0
-Taxi Industry Regulations 2008
+Taxi Industry Regulations 2018
 Taxi licence offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
@@ -1461,137 +1461,137 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 Taxi vehicle offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-773.  | TIR 14(1) | Responsible operator of taxi licence fail to ensure that vehicle operating as taxi complies with prescribed specifications | 1.25 | 0
-774.  | TIR 14(3)(a) | Responsible operator of wheelchair-accessible taxi licence fail to ensure that vehicle operating as wheelchair-accessible taxi complies with prescribed specifications | 2.50 | 0
-775.  | TIR 14(3)(b) | Responsible operator of wheelchair-accessible taxi licence fail to ensure that vehicle operating as remote area wheelchair-accessible taxi complies with prescribed specifications | 2.50 | 0
-776.  | TIR 14(3)(c) | Responsible operator of wheelchair-accessible taxi licence fail to ensure that vehicle operating as substitute wheelchair-accessible taxi complies with prescribed specifications | 2.50 | 0
-777.  | TIR 15(2)(a) | Responsible operator of metropolitan area taxi licence fail to ensure vehicle operating as taxi for first time does not exceed specified age | 1.25 | 0
-778.  | TIR 15(2)(b) | Responsible operator of non-metropolitan area taxi licence fail to ensure vehicle operating as taxi for first time does not exceed specified age | 1.25 | 0
-779.  | TIR 15(4)(a) | Responsible operator of metropolitan area taxi licence fail to ensure vehicle operating as taxi does not exceed specified age | 1.75 | 0
-780.  | TIR 15(4)(b) | Responsible operator of non-metropolitan area taxi licence fail to ensure vehicle operating as taxi does not exceed specified age | 1.75 | 0
-781.  | TIR 16 | Responsible operator of wheelchair-accessible taxi licence fail to ensure vehicle operating as taxi does not exceed 10 years of age | 1.75 | 0
-782.  | TIR 17(2) | Responsible operator of wheelchair-accessible taxi licence fail to ensure taxi fitted with specified fire extinguisher | 2.50 | 0
-783.  | TIR 17(3) | Responsible person fail to ensure fire extinguisher fitted in vehicle is maintained as specified | 2.50 | 0
+773.  | TIR 15(1) | Responsible operator of taxi licence fail to ensure that vehicle being operated as taxi complies with prescribed specifications | 1.25 | 0
+774.  | TIR 15(3)(a) | Responsible operator of wheelchair-accessible taxi licence fail to ensure that vehicle being operated as wheelchair-accessible taxi complies with prescribed criteria | 2.50 | 0
+775.  | TIR 15(3)(b) | Responsible operator of wheelchair-accessible taxi licence fail to ensure that vehicle being operated as remote area wheelchair-accessible taxi complies with prescribed criteria | 2.50 | 0
+776.  | TIR 15(3)(c) | Responsible operator of wheelchair-accessible taxi licence fail to ensure that vehicle being operated as substitute wheelchair-accessible taxi complies with prescribed criteria | 2.50 | 0
+777.  | TIR 16(2)(a) | Responsible operator of metropolitan area taxi licence fail to ensure vehicle being operated as taxi for first time does not exceed specified age | 1.25 | 0
+778.  | TIR 16(2)(b) | Responsible operator of non-metropolitan area taxi licence fail to ensure vehicle being operated as taxi for first time does not exceed specified age | 1.25 | 0
+779.  | TIR 16(4)(a) | Responsible operator of metropolitan area taxi licence fail to ensure vehicle being operated as taxi does not exceed specified age | 1.75 | 0
+780.  | TIR 16(4)(b) | Responsible operator of non-metropolitan area taxi licence fail to ensure vehicle being operated as taxi does not exceed specified age | 1.75 | 0
+781.  | TIR 17 | Responsible operator of wheelchair-accessible taxi licence fail to ensure vehicle being operated as taxi does not exceed 10 years of age | 1.75 | 0
+782.  | TIR 18(2) | Responsible operator of wheelchair-accessible taxi licence fail to ensure taxi fitted with specified fire extinguisher | 2.50 | 0
+783.  | TIR 18(3) | Responsible person fail to ensure fire extinguisher fitted in vehicle is maintained as specified | 2.50 | 0
 Taximeter offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-784.  | TIR 19(1) | Person, other than authorised meter adjuster, seal taximeter | 1.75 | 0
-785.  | TIR 19(2)(a) | Responsible operator fail to ensure vehicle is not operated as a taxi under the authority of the licence if taximeter not sealed by authorised meter adjuster with tamperproof seal | 1.75 | 0
-786.  | TIR 19(2)(b) | Responsible operator fail to ensure vehicle is not operated as a taxi under the authority of the licence if taximeter requires, but has no, electronic seal | 1.75 | 0
-787.  | TIR 19(3)(a) | Operate a taxi with taximeter without tamperproof seal | 1.75 | 0
-788.  | TIR 19(3)(b) | Operate a taxi with taximeter with non-compliant tamperproof seal | 1.75 | 0
-789.  | TIR 20(1) | Responsible operator fail to ensure vehicle operating as taxi is fitted with compliant taximeter | 1.75 | 0
-790.  | TIR 20(2)(a) | Driver operate taxi not fitted with taximeter | 1.75 | 0
-791.  | TIR 20(2)(b) | Driver operate taxi if knows, or reasonably ought to know, taximeter not calculating and displaying relevant fares | 1.75 | 0
-792.  | TIR 20(2)(c) | Driver operate taxi with taximeter with broken seal | 1.75 | 0
-793.  | TIR 22 | Responsible person fail to submit reprogrammed taximeter to authorised meter adjuster for testing within prescribed period | 0.75 | 0
-794.  | TIR 24(3) | Fail to produce vehicle for inspection of taximeter as prescribed | 1.75 | 0
-795.  | TIR 24(4) | Authorised meter adjuster fail to provide test certificate or similar document as prescribed | 1.25 | 0
-796.  | TIR 24(5) | Authorised meter adjuster fail to provide copy of test certificate or similar document to Commission within 7 days after testing | 1.25 | 0
-797.  | TIR 25 | Responsible operator fail to provide to Commission most recent evidence of taximeter testing within 7 days of request | 1.25 | 0
-798.  | TIR 26(1)(a) | Driver fail to start taximeter at commencement of hiring period and not before | 1.75 | 0
-799.  | TIR 26(1)(b) | Driver fail to stop taximeter, or hold taximeter reading constant, at conclusion of hiring period | 1.75 | 0
-800.  | TIR 27(1) | Interfere, or cause or permit another person to interfere, with installed taximeter | 1.75 | 0
+784.  | TIR 20(1) | Person, other than authorised meter adjuster, seal taximeter | 1.75 | 0
+785.  | TIR 20(2)(a) | Responsible operator fail to ensure vehicle is not operated as a taxi under the authority of the licence if taximeter not sealed by authorised meter adjuster with tamperproof seal | 1.75 | 0
+786.  | TIR 20(2)(b) | Responsible operator fail to ensure vehicle is not operated as a taxi under the authority of the licence if taximeter requires, but does not have, an electronic seal | 1.75 | 0
+787.  | TIR 20(3)(a) | Operate a taxi with taximeter without tamperproof seal | 1.75 | 0
+788.  | TIR 20(3)(b) | Operate a taxi with taximeter with non-compliant tamperproof seal | 1.75 | 0
+789.  | TIR 21(1) | Responsible operator fail to ensure vehicle operating as taxi is fitted with compliant taximeter | 1.75 | 0
+790.  | TIR 21(2)(a) | Driver operate taxi not fitted with taximeter | 1.75 | 0
+791.  | TIR 21(2)(b) | Driver operate taxi if knows, or reasonably ought to know, taximeter not calculating and displaying relevant fares | 1.75 | 0
+792.  | TIR 21(2)(c) | Driver operate taxi with taximeter with broken seal | 1.75 | 0
+793.  | TIR 23 | Responsible person fail to submit, within prescribed period, reprogrammed taximeter to authorised meter adjuster for testing | 0.75 | 0
+794.  | TIR 25(3) | Fail to produce, or present, vehicle for inspection or testing of taximeter as prescribed | 1.75 | 0
+795.  | TIR 25(4) | Authorised meter adjuster fail to provide test certificate or similar document as prescribed | 1.25 | 0
+796.  | TIR 25(5) | Authorised meter adjuster fail to provide copy of test certificate or similar document to Commission within 7 days after testing | 1.25 | 0
+797.  | TIR 26 | Responsible operator fail to provide to Commission, within 7 days of request, most recent evidence of taximeter testing | 1.25 | 0
+798.  | TIR 27(1)(a) | Driver fail to start taximeter at commencement of hiring period and not before | 1.75 | 0
+799.  | TIR 27(1)(b) | Driver fail to stop taximeter, or hold taximeter reading constant, at conclusion of hiring period | 1.75 | 0
+800.  | TIR 28(1) | Interfere, or cause or permit another person to interfere, with installed taximeter | 1.75 | 0
 Sign, light and communication device offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-801.  | TIR 28(6) | Responsible operator fail to ensure vehicle operating as taxi is fitted with compliant and fully operational taxi roof sign | 0.50 | 0
-802.  | TIR 28(7) | Operate taxi not fitted with compliant and fully operational taxi roof sign | 0.50 | 0
-803.  | TIR 29 | Interfere, or cause or permit another person to interfere, with taxi roof sign | 0.50 | 0
-804.  | TIR 30(4) | Responsible operator fail to ensure that vehicle operated as taxi is fitted with compliant and fully operational tariff indicator lights | 0.50 | 0
-805.  | TIR 30(5) | Operate taxi not fitted with compliant and fully operational tariff indicator lights | 0.50 | 0
-806.  | TIR 31 | Interfere, or cause or permit another person to interfere, with tariff indicator lights in or on vehicle | 1.75 | 0
-807.  | TIR 33(2A) | Responsible person fail to ensure vehicle is carrying compliant not-for-hire sign | 0.50 | 0
-808.  | TIR 33(3)(a) | Fail to display not-for-hire sign when vehicle required to carry not-for-hire sign is not operating as a taxi while in use on public street | 0.25 | 0
-809.  | TIR 33(3)(b) | Fail to display not-for-hire sign when vehicle required to carry not-for-hire sign is used on a public street and does not have taximeter, taxi roof sign or external tariff indicator lights installed or fitted | 0.25 | 0
-810.  | TIR 33(3)(c) | Fail to display not-for-hire sign when vehicle required to carry not-for-hire sign is used on a public street and has taximeter, taxi roof sign or external tariff indicator lights not fully operational | 0.25 | 0
-811.  | TIR 33(3)(d) | Fail to display not-for-hire sign when vehicle required to carry not-for-hire sign is used on a public street and has security camera system that is not fully operational | 0.25 | 0
-812.  | TIR 33(4) | Driver fail to display not-for-hire sign at front of vehicle as prescribed | 0.25 | 0
-813.  | TIR 33(6) | Driver accept hiring when not-for-hire sign displayed | 0.75 | 0
+801.  | TIR 29(4) | Responsible operator fail to ensure vehicle being operated as taxi is fitted with compliant and fully operational taxi roof sign | 0.50 | 0
+802.  | TIR 29(5) | Operate taxi not fitted with compliant and fully operational taxi roof sign | 0.50 | 0
+803.  | TIR 30 | Interfere, or cause or permit another person to interfere, with taxi roof sign | 0.50 | 0
+804.  | TIR 31(4) | Responsible operator fail to ensure that vehicle operated as taxi is fitted with compliant and fully operational tariff indicator lights | 0.50 | 0
+805.  | TIR 31(5) | Operate taxi not fitted with compliant and fully operational tariff indicator lights | 0.50 | 0
+806.  | TIR 32 | Interfere, or cause or permit another person to interfere, with tariff indicator lights in or on vehicle | 1.75 | 0
+807.  | TIR 33(3) | Responsible person fail to ensure vehicle is carrying compliant not-for-hire sign | 0.50 | 0
+808.  | TIR 33(4)(a) | Fail to display not-for-hire sign when vehicle required to carry not-for-hire sign is not operating as a taxi while in use on public street | 0.25 | 0
+809.  | TIR 33(4)(b) | Fail to display not-for-hire sign when vehicle required to carry not-for-hire sign is used on a public street and does not have taximeter, taxi roof sign or external tariff indicator lights installed or fitted | 0.25 | 0
+810.  | TIR 33(4)(c) | Fail to display not-for-hire sign when vehicle required to carry not-for-hire sign is used on a public street and has taximeter, taxi roof sign or external tariff indicator lights not fully operational | 0.25 | 0
+811.  | TIR 33(4)(d) | Fail to display not-for-hire sign when vehicle required to carry not-for-hire sign is used on a public street and has security camera system that is not fully operational | 0.25 | 0
+812.  | TIR 33(7) | Driver fail to display not-for-hire sign at front of vehicle as prescribed | 0.25 | 0
+813.  | TIR 33(9) | Driver accept hiring when not-for-hire sign displayed or illuminated | 0.75 | 0
 814.  | TIR 34(3) | Responsible operator fail to ensure radio dispatch system installed in vehicle is compliant | 1 | 0
 Security camera system offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-815.  | TIR 36(1) | Responsible operator of security camera taxi licence fail to ensure security camera system installed in vehicle operating as taxi | 2.50 | 0
+815.  | TIR 36(1) | Responsible operator of security camera taxi licence fail to ensure security camera system is installed in vehicle being operated as taxi | 2.50 | 0
 816.  | TIR 36(2) | Responsible operator of security camera taxi licence cause or permit another person to operate vehicle as taxi without security camera system installed | 2.50 | 0
 817.  | TIR 36(3) | Operate taxi under security camera taxi licence without security camera system installed | 2.50 | 0
 818.  | TIR 37(1) | Install camera system that is not a security camera system in vehicle used, or intended for use, as taxi | 2.50 | 0
 819.  | TIR 37(2) | Fail to install security camera system as prescribed in vehicle used or intended for use as taxi | 2.50 | 0
 820.  | TIR 37(3)(a) | Installer of taxi security camera system fail to make written record of installation of system as soon as practicable | 1 | 0
-821.  | TIR 37(3)(b) | Installer of taxi security camera system fail to retain record for required period | 1 | 0
+821.  | TIR 37(3)(b) | Installer of taxi security camera system fail to keep record for required period | 1 | 0
 822.  | TIR 37(5) | Fail to provide Commission with copy of record of installation of security camera system as prescribed | 1.25 | 0
-823.  | TIR 38(1) | Responsible person fail to display security camera system signs as prescribed on vehicle with security camera system installed | 0.50 | 0
-824.  | TIR 39(2) | Responsible person fail to present vehicle for testing of security camera system as required by police or authorised officer | 1.75 | 0
-825.  | TIR 39(4) | Responsible operator fail to ensure display of written evidence of most recent testing of security camera system | 0.50 | 0
-826.  | TIR 39(5) | Responsible operator fail to ensure security camera system tested as prescribed | 1 | 0
-827.  | TIR 39A(1)(a) | Tester of security camera system fail to make written record of testing as soon as practicable | 1 | 0
-828.  | TIR 39A(1)(b) | Tester of security camera system fail to retain record for specified period | 1 | 0
-829.  | TIR 39A(3) | Fail to provide Commission with copy of testing of security camera system as prescribed | 1.25 | 0
-830.  | TIR 40(1) | Responsible operator fail to ensure security camera system, installed in a vehicle operating as a taxi, indicates it is fully operational | 2.50 | 0
-831.  | TIR 40(2) | Operate vehicle with security camera system installed while system does not indicate it is fully operational or camera lens of system is not clear and free of all obstructions | 2.50 | 0
-832.  | TIR 40(3) | Interfere, or cause or permit another person to interfere, with part of a security camera system | 2.50 | 0
-833.  | TIR 41(1A) | Fail to download all video recordings from security camera system when resetting camera | 1.75 | 0
-834.  | TIR 41A(1)(a) | Fail to make written record of download from security camera system as soon as practicable | 1 | 0
-835.  | TIR 41A(1)(b) | Fail to retain written record of download from security camera system for specified period | 1 | 0
-836.  | TIR 41A(4) | Fail to comply with written notice by Commission for copy of written record of download from security camera system within specified period | 1.25 | 0
-837.  | TIR 42(1)(a) | Person with download of video recording in certain circumstances fail to forward recording to police as soon as possible | 0.50 | 0
-838.  | TIR 42(1)(b) | Person with download of video recording fail to keep copy of recording as prescribed | 0.50 | 0
-839.  | TIR 42(3)(a) | Person with download of video recording fail to comply with police request for copy of video recording | 0.50 | 0
-840.  | TIR 42(3)(b) | Person with download of video recording fail to keep copy of recording as prescribed | 0.50 | 0
-841.  | TIR 42A(1)(a) | Person with download of video recording from a security camera system in certain circumstances fail to forward video recording to authorised officer | 0.50 | 0
-842.  | TIR 42A(1)(b) | Person with download of video recording from a security camera system in certain circumstances fail to keep copy of video recording as prescribed | 0.50 | 0
-843.  | TIR 42A(3)(a) | Person with download of video recording from a security camera system fail to comply with authorised officer request for copy of video recording | 0.50 | 0
-844.  | TIR 42A(3)(b) | Person with downloaded video recording fail to keep copy of recording as prescribed | 0.50 | 0
+823.  | TIR 38(1) | Responsible person fail to display security camera signs as prescribed on vehicle with security camera system installed | 0.50 | 0
+824.  | TIR 39(2) | Responsible person fail to present vehicle for testing of security camera system as required by police officer or authorised officer | 1.75 | 0
+825.  | TIR 39(4) | Responsible operator fail to ensure display of written evidence of most recent testing of security camera system as prescribed | 0.50 | 0
+826.  | TIR 39(6) | Responsible operator fail to ensure security camera system tested as prescribed | 1 | 0
+827.  | TIR 40(1)(a) | Tester of security camera system fail to make written record of testing as soon as practicable | 1 | 0
+828.  | TIR 40(1)(b) | Tester of security camera system fail to retain record for specified period | 1 | 0
+829.  | TIR 40(3) | Fail to provide Commission with copy of record of testing of security camera system as prescribed | 1.25 | 0
+830.  | TIR 41(1) | Responsible operator fail to ensure security camera system, installed in a vehicle being operated as a taxi, indicates it is fully operational | 2.50 | 0
+831.  | TIR 41(2) | Operate vehicle with security camera system installed while system does not indicate it is fully operational or camera lens of system is not clear and free of all obstructions | 2.50 | 0
+832.  | TIR 41(3) | Interfere, or cause or permit another person to interfere, with part of a security camera system | 2.50 | 0
+833.  | TIR 42(2) | Fail to download all video recordings from security camera system before resetting camera | 1.75 | 0
+834.  | TIR 43(1)(a) | Fail to make written record of download from security camera system as soon as practicable | 1 | 0
+835.  | TIR 43(1)(b) | Fail to retain written record of download from security camera system for specified period | 1 | 0
+836.  | TIR 43(4) | Fail to comply with requirement by Commission to provide, within specified period, copy of written record of download from security camera system | 1.25 | 0
+837.  | TIR 44(1)(a) | Person with download of video recording in certain circumstances fail to forward recording to police officer as soon as possible | 0.50 | 0
+838.  | TIR 44(1)(b) | Person with download of video recording fail to keep copy of recording as prescribed | 0.50 | 0
+839.  | TIR 44(3)(a) | Person with download of specified video recording fail to comply with police request for copy of video recording | 0.50 | 0
+840.  | TIR 44(3)(b) | Person with download of specified video recording fail to keep copy of recording as prescribed | 0.50 | 0
+841.  | TIR 45(1)(a) | Person with download of video recording from a security camera system in certain circumstances fail to forward video recording to authorised officer as soon as possible | 0.50 | 0
+842.  | TIR 45(1)(b) | Person with download of video recording from a security camera system in certain circumstances fail to keep copy of video recording as prescribed | 0.50 | 0
+843.  | TIR 45(3)(a) | Person with download of video recording from a security camera system fail to comply with authorised officer request for copy of video recording | 0.50 | 0
+844.  | TIR 45(3)(b) | Person with specified downloaded video recording fail to keep copy of recording as prescribed | 0.50 | 0
 Licence number plate/label offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-845.  | TIR 46(1) | Responsible operator of specified taxi licence fail to ensure licence number plate is affixed to vehicle and remains affixed to vehicle | 1 | 0
-846.  | TIR 46(2) | Responsible operator of wheelchair-accessible taxi licence fail to ensure licence number plate is affixed to vehicle and remains affixed to vehicle | 1 | 0
-847.  | TIR 46(4) | Responsible operator of wheelchair-accessible taxi licence affix, or cause or permit to be affixed, licence number plate to vehicle other than vehicle specified in licence | 1 | 0
-848.  | TIR 46(5) | Responsible operator of lapsed taxi licence fail to remove, or cause to be removed, licence number plate while licence is lapsed | 0.25 | 0
-849.  | TIR 46(6) | Responsible operator of owner-operator taxi licence or wheelchair-accessible taxi licence fail to remove, or cause to be removed, licence number plate from vehicle while licence is suspended | 0.25 | 0
-850.  | TIR 46(7)(a) | Responsible operator operate, or cause or permit another person to operate, vehicle as taxi while vehicle has void licence number plate affixed | 2.50 | 0
-851.  | TIR 46(7)(b) | Responsible operator operate, or cause or permit another person to operate, vehicle as taxi with licence number plate affixed that is to be surrendered or delivered up to Commission | 2.50 | 0
-852.  | TIR 46(7)(c) | Responsible operator operate, or cause or permit another person to operate, vehicle as taxi with licence number plate affixed that is to be removed from vehicle | 2.50 | 0
-853.  | TIR 47(1) | Responsible operator fail to notify Commission in writing of damage to licence number plate and to return damaged licence number plate as soon as practicable | 0.50 | 0
-854.  | TIR 47(4) | Responsible operator fail to notify Commission in writing of loss of licence number plate as soon as practicable | 0.50 | 0
-855.  | TIR 47(8) | Fail to comply with Commission request for evidence relating to loss of taxi licence number plate within specified period | 1.25 | 0
-856.  | TIR 49(5) | Fail to comply with Commission request to return taxi label within specified period | 0.25 | 0
-857.  | TIR 50(1) | Fail to ensure taxi label is affixed and remains affixed, as instructed, while vehicle is operating as taxi | 0.25 | 0
-858.  | TIR 50(3) | Responsible operator fail to comply with instruction given by Commission to remove taxi label | 0.25 | 0
-859.  | TIR 53(2) | Temporary taxi licence holder fail to ensure expiry date label affixed, and remains affixed, as prescribed | 0.50 | 0
+845.  | TIR 50(2) | Responsible operator of specified taxi licence fail to ensure licence number plate is affixed to vehicle and remains affixed to vehicle | 1 | 0
+846.  | TIR 50(3) | Responsible operator of wheelchair-accessible taxi licence fail to ensure licence number plate is affixed to vehicle and remains affixed to vehicle | 1 | 0
+847.  | TIR 50(5) | Responsible operator of wheelchair-accessible taxi licence affix, or cause or permit to be affixed, licence number plate to vehicle other than vehicle specified in licence | 1 | 0
+848.  | TIR 50(6) | Responsible operator of lapsed taxi licence fail to remove, or cause to be removed, licence number plate | 0.25 | 0
+849.  | TIR 50(7) | Responsible operator of owner-operator taxi licence or wheelchair-accessible taxi licence fail to remove, or cause to be removed, licence number plate from vehicle while licence is suspended | 0.25 | 0
+850.  | TIR 50(8)(a) | Responsible operator of specified taxi licence operate, or cause or permit another person to operate, vehicle as taxi while vehicle has void licence number plate affixed | 2.50 | 0
+851.  | TIR 50(8)(b) | Responsible operator of specified taxi licence operate, or cause or permit another person to operate, vehicle as taxi with licence number plate affixed that is to be given to Commission | 2.50 | 0
+852.  | TIR 50(8)(c) | Responsible operator of specified taxi licence operate, or cause or permit another person to operate, vehicle as taxi with licence number plate affixed that is to be removed from vehicle | 2.50 | 0
+853.  | TIR 51(1) | Responsible operator fail to notify Commission in writing of damage to licence number plate and to return damaged licence number plate to Commission as soon as practicable | 0.50 | 0
+854.  | TIR 51(4) | Responsible operator fail to notify Commission in writing of loss of licence number plate as soon as practicable | 0.50 | 0
+855.  | TIR 51(8) | Fail to comply with Commission request for evidence relating to loss of taxi licence number plate within specified period | 1.25 | 0
+856.  | TIR 53(5) | Fail to comply with Commission request to return taxi label within specified period | 0.25 | 0
+857.  | TIR 54(1) | Fail to ensure taxi label is affixed and remains affixed, as instructed, while vehicle is being operated as taxi | 0.25 | 0
+858.  | TIR 54(3) | Responsible operator fail to comply with instruction given by Commission to remove taxi label | 0.25 | 0
+859.  | TIR 55(2) | Temporary taxi licence holder fail to ensure expiry date label affixed, and remains affixed, as prescribed | 0.50 | 0
 860.  | TIR 53(3) | Temporary taxi licence holder fail to remove expiry date label immediately after expiry of licence | 0.25 | 0
-861.  | TIR 54(1) | Fail to notify Commission in writing, as soon as practicable, that taxi label is lost or unusable due to damage | 0.50 | 0
-862.  | TIR 54(3) | Fail to comply with Commission request, within specified period, for evidence of loss of or damage to taxi label | 0.75 | 0
-863.  | TIR 57(2) | Driver fail to travel by route nominated by passenger or, if route not nominated, by most direct route | 1.75 | 0
-864.  | TIR 57(3) | Driver operate taxi while taximeter operating on wrong tariff | 1.75 | 0
-865.  | TIR 57(4) | Driver operate taxi with taximeter on third or fourth tariff except as permitted | 1.75 | 0
-866.  | TIR 57(5)(a) | Driver refuse to accept hiring while taxi in taxi zone | 1.75 | 0
-867.  | TIR 57(5)(b) | Driver permit person to ride in or on taxi without consent of hirer of taxi | 2.50 | 0
-868.  | TIR 57(5)(c) | Driver fail to stand taxi in foremost vacant space of taxi zone | 0.50 | 0
-869.  | TIR 57(5)(d) | Driver leave taxi unattended in taxi zone without reasonable grounds | 1 | 0
-870.  | TIR 57(5)(e) | Driver prevent a taxi from leaving taxi zone | 2.50 | 0
-871.  | TIR 57(5)(f) | Driver inform a person that person is required to hire taxi in foremost space of taxi zone | 1 | 0
-872.  | TIR 57(5)(g) | Driver advise person that prescribed taxi cannot be hired without wheelchair passenger | 1.75 | 0
-873.  | TIR 57(5)(h) | Driver refuse to transport assistance animal other than as permitted by law | 2.50 | 0
-874.  | TIR 58(1) | Wheelchair-accessible taxi licence holder allow person without prescribed training to drive the taxi | 2.50 | 0
-875.  | TIR 58(2) | Driver of wheelchair-accessible taxi fail to ensure wheelchair is restrained as prescribed | 2.50 | 0
-876.  | TIR 58(3) | Driver drive wheelchair-accessible taxi if driver has not completed prescribed driver training | 2.50 | 0
-877.  | TIR 61(1) | Driver charge passenger more than total fare for hiring period | 1.75 | 0
-878.  | TIR 61(2) | Driver charge passenger for period while taxi is delayed due to prescribed event | 1.75 | 0
+861.  | TIR 56(1) | Fail to notify Commission in writing, as soon as practicable, that taxi label is lost or unusable due to damage | 0.50 | 0
+862.  | TIR 56(3) | Fail to comply with Commission request, within specified period, for evidence of loss of or damage to taxi label | 0.75 | 0
+863.  | TIR 59(1) | Driver fail to travel by route nominated by passenger or, if route not nominated, by most direct route | 1.75 | 0
+864.  | TIR 59(2) | Driver operate taxi while taximeter operating on wrong tariff | 1.75 | 0
+865.  | TIR 59(3) | Driver operate taxi with taximeter on third or fourth tariff except as permitted | 1.75 | 0
+866.  | TIR 59(4)(a) | Driver refuse to accept hiring while taxi in taxi zone | 1.75 | 0
+867.  | TIR 59(4)(b) | Driver permit person to ride in or on taxi without consent of hirer of taxi | 2.50 | 0
+868.  | TIR 59(4)(c) | Driver fail to stand taxi in foremost vacant space of taxi zone | 0.50 | 0
+869.  | TIR 59(4)(d) | Driver leave taxi unattended in taxi zone without reasonable grounds | 1 | 0
+870.  | TIR 59(4)(e) | Driver prevent a taxi from leaving taxi zone | 2.50 | 0
+871.  | TIR 59(4)(f) | Driver inform a person that person is required to hire taxi in foremost space of taxi zone | 1 | 0
+872.  | TIR 59(4)(g) | Driver advise person that prescribed taxi cannot be hired without wheelchair passenger | 1.75 | 0
+873.  | TIR 59(4)(h) | Driver refuse to transport assistance animal other than as permitted by law | 2.50 | 0
+874.  | TIR 60(1) | Wheelchair-accessible taxi licence holder allow person without prescribed training to drive the taxi | 2.50 | 0
+875.  | TIR 60(2) | Driver of wheelchair-accessible taxi fail to ensure wheelchair is restrained as prescribed | 2.50 | 0
+876.  | TIR 60(3) | Driver drive wheelchair-accessible taxi if driver has not completed prescribed driver training | 2.50 | 0
+877.  | TIR 61(2) | Driver charge passenger more than total fare for hiring period | 1.75 | 0
+878.  | TIR 61(3) | Driver charge passenger for period while taxi is delayed due to prescribed event | 1.75 | 0
 879.  | TIR 62 | Responsible operator fail to cause prominent notice of relevant fares and charges to be displayed in taxi | 0.50 | 0
 Authorised meter adjuster offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
 880.  | TIR 64(3) | Authorised meter adjuster fail to comply with Commission request to surrender sealing pliers | 1.25 | 0
 881.  | TIR 64(5) | Authorised meter adjuster fail to notify Commission in writing of lost, destroyed or damaged sealing pliers as soon as practicable | 0.50 | 0
-882.  | TIR 67(4) | Authorised meter adjuster fail to provide sealing certificate or similar document as prescribed | 1.25 | 0
-883.  | TIR 67(5) | Authorised meter adjuster fail to provide Commission with copy of sealing certificate or similar document as prescribed | 1.25 | 0
-884.  | TIR 68(1)(a) | Authorised meter adjuster fail to keep written record of each taximeter sealed as soon as practicable | 1 | 0
-885.  | TIR 68(1)(b) | Authorised meter adjuster fail to retain record for specified period | 1 | 0
-886.  | TIR 68(4) | Authorised meter adjuster fail to comply with Commission request to supply prescribed information within specified period | 1.25 | 0
-887.  | TIR 69(2) | Authorised meter adjuster fail to return sealing pliers to Commission within specified period after providing written notice of resignation | 0.75 | 0
-Luxury Hire Car Industry Regulations 2008
+882.  | TIR 66(5) | Authorised meter adjuster fail to provide sealing certificate, or similar document, as prescribed | 1.25 | 0
+883.  | TIR 66(6) | Authorised meter adjuster fail to provide Commission with copy of sealing certificate, or similar document, as prescribed | 1.25 | 0
+884.  | TIR 67(1)(a) | Authorised meter adjuster fail to make written record of each taximeter sealed as soon as practicable | 1 | 0
+885.  | TIR 67(1)(b) | Authorised meter adjuster fail to retain record for specified period | 1 | 0
+886.  | TIR 67(4) | Authorised meter adjuster fail to comply with Commission request to supply prescribed information within specified period | 1.25 | 0
+887.  | TIR 68(2) | Authorised meter adjuster fail to return sealing pliers to Commission, within specified period, after providing written notice of resignation | 0.75 | 0
+Luxury Hire Car Industry Regulations 2018
 Luxury hire car licence offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
@@ -1603,35 +1603,35 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 Licence number plate offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-890.  | LHCIR 11(2) | Luxury hire car licence holder fail to ensure licence number plate affixed to vehicle, and remains affixed to vehicle | 1 | 0
-891.  | LHCIR 11(5) | Luxury hire car licence holder affix, or cause or permit another person to affix, licence number plate to vehicle other than specified vehicle | 1 | 0
-892.  | LHCIR 11(6) | Holder of lapsed luxury hire car licence fail to remove, or cause to be removed, licence number plate while licence lapsed | 0.25 | 0
-893.  | LHCIR 11(7) | Holder of suspended luxury hire car licence fail to remove, or cause to be removed, licence number plate while licence suspended | 0.25 | 0
-894.  | LHCIR 11(8)(a) | Holder of luxury hire car licence operate, or cause or permit another person to operate, luxury hire car while void licence number plate affixed | 2.50 | 0
-895.  | LHCIR 11(8)(b) | Holder of luxury hire car licence operate, or cause or permit another person to operate, luxury hire car with licence number plate affixed that is to be surrendered or delivered up to Commission | 2.50 | 0
-896.  | LHCIR 11(8)(c) | Holder of luxury hire car licence operate, or cause or permit another person to operate, luxury hire car with licence number plate affixed that is to be removed from that vehicle | 2.50 | 0
-897.  | LHCIR 13(1) | Holder of luxury hire car licence fail to notify Commission in writing of damage to licence number plate and to return damaged number plate as soon as practicable | 0.50 | 0
-898.  | LHCIR 13(1A) | Holder of luxury hire car licence fail to notify Commission in writing of loss of licence number plate as soon as practicable | 0.50 | 0
-899.  | LHCIR 13(3) | Fail to comply with Commission request for evidence of loss of licence number plate within specified period | 1.25 | 0
+890.  | LHCIR 11(1) | Luxury hire car licence holder fail to ensure licence number plate affixed to vehicle, and remains affixed to vehicle | 1 | 0
+891.  | LHCIR 11(4) | Luxury hire car licence holder affix, or cause or permit another person to affix, licence number plate to vehicle other than specified vehicle | 1 | 0
+892.  | LHCIR 11(5) | Holder of lapsed luxury hire car licence fail to remove, or cause to be removed, licence number plate | 0.25 | 0
+893.  | LHCIR 11(6) | Holder of suspended luxury hire car licence fail to remove, or cause to be removed, licence number plate while licence suspended | 0.25 | 0
+894.  | LHCIR 11(7)(a) | Holder of luxury hire car licence operate, or cause or permit another person to operate, luxury hire car while void licence number plate affixed | 2.50 | 0
+895.  | LHCIR 11(7)(b) | Holder of luxury hire car licence operate, or cause or permit another person to operate, luxury hire car with licence number plate affixed that is to be given to Commission | 2.50 | 0
+896.  | LHCIR 11(7)(c) | Holder of luxury hire car licence operate, or cause or permit another person to operate, luxury hire car with licence number plate affixed that is to be removed from that vehicle | 2.50 | 0
+897.  | LHCIR 12(1) | Holder of luxury hire car licence fail to notify Commission in writing of damage to licence number plate and to return damaged number plate as soon as practicable | 0.50 | 0
+898.  | LHCIR 12(2) | Holder of luxury hire car licence fail to notify Commission in writing of loss of licence number plate as soon as practicable | 0.50 | 0
+899.  | LHCIR 12(4) | Fail to comply with Commission request for information within specified period | 1.25 | 0
 Label offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-900.  | LHCIR 16(5) | Fail to comply with Commission request to return luxury hire car label within specified period | 0.25 | 0
-901.  | LHCIR 17(1) | Holder of luxury hire car licence fail to ensure luxury hire car label is affixed and remains affixed, as instructed, while vehicle is operating as luxury hire car | 0.25 | 0
-902.  | LHCIR 17(3) | Holder of luxury hire car licence fail to comply with instruction by Commission to remove luxury hire car label | 0.25 | 0
-903.  | LHCIR 19(1) | Fail to notify Commission in writing, as soon as practicable, that luxury hire car label is lost or unusable due to damage | 0.25 | 0
-904.  | LHCIR 19(3) | Fail to comply with Commission request for evidence of loss of, or damage to, luxury hire car label within specified period | 0.25 | 0
+900.  | LHCIR 14(4) | Fail to comply with Commission request to return luxury hire car label within specified period | 0.25 | 0
+901.  | LHCIR 15(1) | Holder of luxury hire car licence fail to ensure luxury hire car label is affixed and remains affixed, as instructed, while vehicle is being operated as luxury hire car | 0.25 | 0
+902.  | LHCIR 15(4) | Holder of luxury hire car licence fail to comply with instruction by Commission to remove luxury hire car label | 0.25 | 0
+903.  | LHCIR 16(1) | Fail to notify Commission in writing, as soon as practicable, that luxury hire car label is lost or unusable due to damage | 0.25 | 0
+904.  | LHCIR 16(3) | Fail to comply, within specified period, with Commission request for evidence of loss of, or damage to, luxury hire car label | 0.25 | 0
 Logbook offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-905.  | LHCIR 19C(2) | Driver of luxury hire car fail to enter specified information in logbook as required | 0.50 | 0
-906.  | LHCIR 19D(2) | Holder of luxury hire car licence fail to comply with notice from Commission to produce logbook, or information from logbook, within specified period | 1 | 0
-907.  | LHCIR 19E(2) | Driver of luxury hire car fail to comply with direction given by authorised officer, or police officer, to produce logbook for inspection | 1 | 0
+905.  | LHCIR 18(1) | Driver of luxury hire car fail to enter specified information in logbook as required | 0.50 | 0
+906.  | LHCIR 19(2) | Holder of luxury hire car licence fail to comply with notice from Commission to produce logbook, or provide information from logbook, within specified period | 1 | 0
+907.  | LHCIR 20(2) | Driver of luxury hire car fail to comply with direction given by authorised officer, or police officer, to produce logbook for inspection | 1 | 0
 Licensing offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-908.  | LHCIR 26(1) | Holder of luxury hire car licence hire out, or cause or permit another person to hire out, luxury hire car if hiring charge (or method of calculating hiring charge) has not been agreed before commencement of hiring | 1.75 | 0
-909.  | LHCIR 26(2) | Driver of luxury hire car undertake hiring if hiring charge (or method of calculating hiring charge) has not been agreed before commencement of hiring | 1.75 | 0
+908.  | LHCIR 21(1) | Holder of luxury hire car licence hire out, or cause or permit another person to hire out, luxury hire car if hiring charge (or method of calculating hiring charge) has not been agreed before hiring begins | 1.75 | 0
+909.  | LHCIR 21(2) | Driver of luxury hire car undertake hiring if hiring charge (or method of calculating hiring charge) has not been agreed before hiring begins | 1.75 | 0
 Restricted Hire Vehicle Industry Regulations 2013
 Restricted hire vehicle offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
