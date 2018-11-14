@@ -1378,13 +1378,16 @@ Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
 723.  | VSR 4(1)(a) as regards VSR 124 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - light motor vehicle powered by petrol engine built/fitted so as not to prevent crank case gases escaping | 0.75 | 0
 724.  | VSR 4(1)(a) as regards VSR 125 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - light motor vehicle propelled by internal combustion engine emitting more than allowable visible emissions | 0.75 | 0
-725.  | VSR 4(1)(a) as regards VSR 126 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - exhaust system requirements | 0.75 | 0
-726.  | VSR 4(1)(a) as regards VSR 129 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - light motor vehicle propelled by internal combustion engine not fitted with effective silencing device through which all exhaust from engine passes | 0.75 | 0
-727.  | VSR 4(1)(a) as regards VSR 131, 132 or 133 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - stationary noise emission requirements | 0.75 | 0
+725.  | VSR 4(1)(a) as regards VSR 126 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - certain light motor vehicle powered by diesel engine emitting more than allowable emissions | 0.75 | 0
+726.  | VSR 4(1)(a) as regards VSR 129 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - exhaust outlet requirements for motor trike or bus | 0.75 | 0
+726A.  | VSR 4(1)(a) as regards VSR 132 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - light motor vehicle propelled by internal combustion engine not fitted with effective silencing device through which all exhaust from engine passes | 0.75 | 0
+727.  | VSR 4(1)(a) as regards VSR 134, 134A, 134B or 134C | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - stationary noise emission requirements | 0.75 | 0
 Alternative fuel system offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
 728.  | VSR 4(1)(a) as regards VSR 135 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - LPG fuel system requirements | 1 | 0
+728A.  | VSR 4(1)(a) as regards VSR 135A | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - hydrogen fuel system requirements | 1 | 0
+728B.  | VSR 4(1)(a) as regards VSR 135B | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - electric propulsion system requirements | 1 | 0
 General offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
