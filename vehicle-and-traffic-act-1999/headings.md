@@ -7,7 +7,7 @@ Part 3, Division 1 Licensing of drivers
 Part 3, Division 2 Ancillary certificates
 Part 3, Division 3 Powers of court with regard to driving
 Part 3, Division 3A Excessive speeding offences
-Part 3, Division 3B Excessive drink-driving offences
+Part 3, Division 3B Road safety disqualification notice
 Part 3, Division 3C Prescribed offences by learner drivers
 Part 3, Division 4 Demerit points scheme
 Part 4 Registration of Motor Vehicles and Trailers
