@@ -17,6 +17,7 @@ Administering a drug with intent to facilitate the commission of an offence [or 
 Committing an unlawful act intended to cause bodily harm.
 Preventing escape from a wreck.
 Wounding or causing grievous bodily harm.
+Persistent family violence.
 Intentionally endangering persons on a railway.
 Wantonly endangering persons on a railway.
 Causing injury by poison.
@@ -59,6 +60,7 @@ Serious Crimes
 | Section 161 | Being accessory after the fact to murder
 | Section 165 | Causing death of child before birth
 | Section 170 | Committing an unlawful act intended to cause grievous bodily harm
+| Section 170A | Persistent family violence
 | Section 172 | Wounding or causing grievous bodily harm
 | Section 178A | Performing female genital mutilation
 | Section 179 | Setting man-traps &c., or allowing man-traps &c. to remain set
