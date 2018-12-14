@@ -8,6 +8,8 @@ Part 3, Division 4 Suspended sentences
 Part 3A Drug treatment orders
 Part 4 Community service orders
 Part 5 Probation orders
+Part 5A Home Detention Orders
+Part 5B Community Correction Orders
 Part 6 Fines
 Part 6AA Warrant of commitment for non-payment of monetary penalty
 Part 6A Rehabilitation programs
