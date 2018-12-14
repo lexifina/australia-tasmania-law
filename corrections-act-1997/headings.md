@@ -12,5 +12,6 @@ Part 7 Prison Discipline
 Part 8 Parole
 Part 8, Division 1 Parole Board
 Part 8, Division 2 Eligibility for parole
+Part 8, Division 2A Parole for terrorism-linked prisoners or prisoners promoting terrorist acts
 Part 8, Division 3 Miscellaneous
 Part 9 Miscellaneous
