@@ -8,6 +8,7 @@ Part 4 Powers and Duties of, Offences by and Indemnification of Directors and St
 Part 5 Directions, Plans, Property Instruments and Remediation
 Part 5, Division 1 Directions and plans
 Part 5, Division 2 Property instruments and remediation
+Part 5, Division 3 Planning
 Part 6 Financial Affairs and Reports
 Part 6, Division 1 Financial affairs of Corporation
 Part 6, Division 2 Accounting records and financial statements
