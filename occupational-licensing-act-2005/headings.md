@@ -20,7 +20,6 @@ Part 6, Division 1 Inspection, investigation and rectification of prescribed wor
 Part 6, Division 2 Emergency powers
 Part 6, Division 3 Complaints
 Part 6, Division 4 Infringement notices
-Part 6, Division 5 Demerit points
 Part 7 Review of decisions
 Part 8 Appeals
 Part 9 Legal and Disciplinary Proceedings
