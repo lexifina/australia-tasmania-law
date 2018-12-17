@@ -1,5 +1,6 @@
 Part 1 Preliminary
 Part 2 The Tasmanian Planning Scheme
+Part 2A Tasmanian Planning Policies
 Part 3 State Planning Provisions
 Part 3, Division 1 Making of State Planning Provisions
 Part 3, Division 1, Subdivision 1 Interpretation of Division 1
