@@ -20,5 +20,4 @@ Item No. | Section | Description | Body corporate infringement | Individual infr
 16.  | 43 | Owner to be given notice of practical completion within specified period | 3 | 1
 17.  | 44(2) | Defects document to be given to owner | 8 | 3
 18.  | 44(3) | Reasonable steps to be taken to correct defects or omissions within 6 months | 8 | 3
-19.  | 49(2) | Notice for information – mediation | 8 | 3
-20.  | 78(2) | Compliance with adjudication order by specified date | 20 | 10
+19.  | 77(2) | Compliance with adjudication order by specified date | 20 | 10
