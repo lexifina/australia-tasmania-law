@@ -1,0 +1,71 @@
+# Schedule 2 Infringement notice offences and penalties
+Regulation 49
+Column 1 | Column 2 | Column 3
+Item no. | Provision | Penalty(penalty units)
+1.  | Section 31(6) | 1
+2.  | Section 64(2) | 1
+Column 1 | Column 2 | Column 3
+Item no. | Provision | Penalty(penalty units)
+1.  | Regulation 4(2)(a) | 1
+2.  | Regulation 4(2)(b) | 1
+3.  | Regulation 4(2)(c) | 1
+4.  | Regulation 4(2)(d) | 1
+5.  | Regulation 4(2)(e) | 1
+6.  | Regulation 4(2)(f) | 1
+7.  | Regulation 4(2)(g) | 1
+8.  | Regulation 4(3) | 1
+9.  | Regulation 5(a) | 1
+10.  | Regulation 5(c) | 1
+11.  | Regulation 5(d) | 1
+12.  | Regulation 5(e) | 1
+13.  | Regulation 6(2) | 1
+14.  | Regulation 6(3) | 1
+15.  | Regulation 6(4) | 1
+16.  | Regulation 6(6) | 1
+17.  | Regulation 7(2)(a) | 1
+18.  | Regulation 7(2)(b) | 1
+19.  | Regulation 7(4) | 1
+20.  | Regulation 8(2)(a) | 1
+21.  | Regulation 8(2)(b) | 1
+22.  | Regulation 10(3) | 1.5
+23.  | Regulation 10(7) | 1.5
+24.  | Regulation 11(1) | 1.5
+25.  | Regulation 12(4) | 1
+26.  | Regulation 13(3) | 1.5
+27.  | Regulation 15(2) | 1
+28.  | Regulation 15(4) | 1
+29.  | Regulation 16(4) | 1.5
+30.  | Regulation 17(1) | 1
+31.  | Regulation 18(2) | 1
+32.  | Regulation 18(3) | 1
+33.  | Regulation 18(5) | 1
+34.  | Regulation 19(2) | 1
+35.  | Regulation 21(2) | 1.5
+36.  | Regulation 21(4) | 1.5
+37.  | Regulation 22(4) | 2
+38.  | Regulation 23(4) | 2
+39.  | Regulation 24(3) | 1
+40.  | Regulation 25(2) | 1
+41.  | Regulation 26(3) | 1
+42.  | Regulation 27(a) | 1
+43.  | Regulation 27(b) | 1
+44.  | Regulation 28(2) | 1
+45.  | Regulation 29(2) | 1
+46.  | Regulation 30(1)(a) | 1
+47.  | Regulation 30(1)(b) | 1
+48.  | Regulation 30(2) | 1
+49.  | Regulation 31(a) | 1
+50.  | Regulation 31(b) | 2
+51.  | Regulation 31(c) | 1
+52.  | Regulation 32 | 1
+53.  | Regulation 38 | 1
+54.  | Regulation 41(4) | 1
+55.  | Regulation 43(a) | 1
+56.  | Regulation 43(b) | 1
+57.  | Regulation 44 | 1
+58.  | Regulation 45(2)(a) | 1
+59.  | Regulation 45(2)(b) | 1
+60.  | Regulation 45(2)(c) | 1
+61.  | Regulation 46 | 1
+62.  | Regulation 47(a) | 1
+63.  | Regulation 47(b) | 1
