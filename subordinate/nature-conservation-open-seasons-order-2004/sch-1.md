@@ -45,4 +45,3 @@ Clause 5(2)
 41.  | Hannants Bight
 42.  | Pilot Bay
 43.  | Trumpeter Rock
-44.  | Swan Basin
