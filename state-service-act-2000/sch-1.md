@@ -16,6 +16,7 @@ Division | 2
 Tasmanian Audit Office | Auditor-General
 Column 1 | Column 2
 Agency | Head of Agency
+Brand Tasmania | Chief executive officer
 Integrity Commission | Chief executive officer
 Macquarie Point Development Corporation | Chief executive officer
 Port Arthur Historic Site Management Authority | Chief executive officer
