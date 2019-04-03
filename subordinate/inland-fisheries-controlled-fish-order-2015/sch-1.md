@@ -13,7 +13,7 @@ Item No. | Family | Specific name | Common name
 9.  | Acipenseridae | Acipenser medirostris | Green sturgeon
 10.  | Acipenseridae | Acipenser mikadoi | Sakhalin sturgeon
 11.  | Acipenseridae | Acipenser naccarii | Adriatic sturgeon
-12.  | Acipenseridae | Acipenser oxyrinchus oxyrinchus | Atlantic sturgeon
+12.  | Acipenseridae | Acipenser oxyrinchus | Atlantic sturgeon
 13.  | Acipenseridae | Acipenser baerii baicalensis | Baikal sturgeon
 14.  | Acipenseridae | Acipenser nudiventris | Fringebarbel sturgeon
 15.  | Acipenseridae | Acipenser schrenckii | Amur sturgeon
@@ -21,7 +21,7 @@ Item No. | Family | Specific name | Common name
 17.  | Acipenseridae | Acipenser oxyrinchus destotoi | Gulf sturgeon
 18.  | Acipenseridae | Huso huso | Beluga
 19.  | Acipenseridae | Acipenser stellatus | Starry sturgeon
-20.  | Acipenseridae | Acipenser baerii baerii | Siberian sturgeon
+20.  | Acipenseridae | Acipenser baerii | Siberian sturgeon
 21.  | Acipenseridae | Acipenser gueldenstaedtii | Russian sturgeon
 22.  | Acipenseridae | Acipenser transmontanus | White sturgeon
 23.  | Alestiidae | Hydrocynus spp. | Pike characin and giant tigerfish
@@ -46,9 +46,12 @@ Item No. | Family | Specific name | Common name
 42.  | Chacidae | Chaca chaca | Angler catfish, frogmouth catfish and squareheaded catfish
 43.  | Chacidae | Chaca burmensis | Burmensis frogmouth catfish
 44.  | Channidae | Channa spp. | Snake head
+44A.  | Characidae | Astyanacinus moorii |
 45.  | Characidae | Astyanax aeneus | Banded tetra
 46.  | Characidae | Astyanax fasciatus | Banded astyanax
 47.  | Characidae | Colossoma spp. | Tambaqui
+47A.  | Characidae | Ctenobrycon hauxwellianus | Mojara and lambari
+47B.  | Characidae | Ctenobrycon multiradiatus |
 48.  | Characidae | Serrasalmus spp. | Redeye piranha
 49.  | Characidae | Pygocentrus spp. | Red piranha
 50.  | Cichlidae | Boulengerochromis microlepis | Giant cichlid and yellow belly cichlid
@@ -61,6 +64,9 @@ Item No. | Family | Specific name | Common name
 57.  | Citharinidae | Ichthyborinae (entire subfamily) | African pike-characin, tubenose poacher and fin eater
 58.  | Clariidae | Clarias spp. | Walking catfish
 59.  | Cobitidae | Misgurnus anguillicaudatus | Weatherloach
+59A.  | Ctenoluciidae | Boulengerella cuvieri | Bicuda and pirapucu
+59B.  | Ctenoluciidae | Boulengerella lucius | Golden pike-characin
+59C.  | Ctenoluciidae | Boulengerella xyrekes | Pirapoco
 60.  | Cyprinidae | Hypophthalmichthys nobilis | Bighead carp
 61.  | Cyprinidae | Neolissochilus hexagonolepis | Copper mahseer
 62.  | Cyprinidae | Gibelion catla | Catla
@@ -97,7 +103,32 @@ Item No. | Family | Specific name | Common name
 93.  | Eleotridae | Oxyeleotris marmorata | Marble goby
 94.  | Eleotridae | Dormitator lebretonis |
 95.  | Eleotridae | Eleotris amblyopsis | Large scaled spiny cheek sleeper
+95A.  | Eleotridae | Eleotris andamensis |
+95A. 95B. | Eleotridae | Eleotris annobonensis |
+95A. 95C. | Eleotridae | Eleotris aquadulcis | Ramu freshwater gudgeon
+95A. 95D. | Eleotridae | Eleotris balia |
+95A. 95E. | Eleotridae | Eleotris brachyurus |
+95A. 95F. | Eleotridae | Eleotris daganensis |
+95A. 95G. | Eleotridae | Eleotris fasciatus |
+95A. 95H. | Eleotridae | Eleotris feai |
+95A. 95I. | Eleotridae | Eleotris lutea | Lutea sleeper
+95A. 95J. | Eleotridae | Eleotris macrocephala |
+95A. 95K. | Eleotridae | Eleotris macrolepis |
+95A. 95L. | Eleotridae | Eleotris mauritianus | Widehead sleeper
+95A. 95M. | Eleotridae | Eleotris melanura |
+95A. 95N. | Eleotridae | Eleotris oxycephala |
+95A. 95O. | Eleotridae | Eleotris pellegrini |
+95A. 95P. | Eleotridae | Eleotris perniger | Smallscaled spinycheek sleeper
+95A. 95Q. | Eleotridae | Eleotris picta | Spotted sleeper
+95A. 95R. | Eleotridae | Eleotris pisonis | Spinycheek sleeper
+95A. 95S. | Eleotridae | Eleotris pseudacanthopomus |
 96.  | Eleotridae | Eleotris sandwicensis | Sandwich Island sleeper
+96A.  | Eleotridae | Eleotris senegalensis |
+96B.  | Eleotridae | Eleotris soaresi |
+96C.  | Eleotridae | Eleotris tecta |
+96D.  | Eleotridae | Eleotris tubularis |
+96E.  | Eleotridae | Eleotris vittata |
+96F.  | Eleotridae | Eleotris vomerodentata |
 97.  | Erythrinidae | Erythrinus spp. | Trahiras
 98.  | Erythrinidae | Hoplerythrinus spp. | Aimara
 99.  | Erythrinidae | Hoplias spp. | Trahira
@@ -163,27 +194,40 @@ Item No. | Family | Specific name | Common name
 159.  | Lepisosteidae | Lepisosteus spp (4.) | Florida gar, longnose gar, shortnose gar and spotted gar
 160.  | Malapteruridae | Malapterurus spp. | Electric catfish
 161.  | Mormyridae | Mormyrops anguilloides | Cornish jack and bottlenose
-162.  | Pangasiidae | Pangasius elongatus |
-163.  | Pangasiidae | Pangasius nieuwenhuisii |
+162.  | Pangasiidae | Helicophagus leptorhynchus |
+163.  | Pangasiidae | Helicophagus waandersii |
 164.  | Pangasiidae | Pangasianodon gigas | Mekong giant catfish
-165.  | Pangasiidae | Pangasius conchophilus |
-166.  | Pangasiidae | Pangasius krempfi |
-167.  | Pangasiidae | Pangasius kunyit |
-168.  | Pangasiidae | Pangasius pangasius | Yellowtailed catfish
-169.  | Pangasiidae | Pangasius nasutus |
-170.  | Pangasiidae | Pangasius larnaudii | Spot pangasius
-171.  | Pangasiidae | Pangasianodon hypophthalmus | Sutchi catfish
-172.  | Pangasiidae | Pangasius macronema |
-173.  | Pangasiidae | Helicophagus leptorhynchus |
-174.  | Pangasiidae | Helicophagus waandersii |
+165.  | Pangasiidae | Pangasianodon hypophthalmus | Sutchi catfish
+166.  | Pangasiidae | Pangasius bedado |
+167.  | Pangasiidae | Pangasius conchophilus |
+168.  | Pangasiidae | Pangasius elongatus |
+169.  | Pangasiidae | Pangasius djambal |
+170.  | Pangasiidae | Pangasius humeralis |
+171.  | Pangasiidae | Pangasius kinabatanganensis |
+172.  | Pangasiidae | Pangasius krempfi |
+173.  | Pangasiidae | Pangasius kunyit |
+174.  | Pangasiidae | Pangasius larnaudii | Spot pangasius
+174A.  | Pangasiidae | Pangasius lithostoma |
+174B.  | Pangasiidae | Pangasius macronema |
+174C.  | Pangasiidae | Pangasius mahakamensis |
+174D.  | Pangasiidae | Pangasius mekongensis |
+174E.  | Pangasiidae | Pangasius myanmar |
+174F.  | Pangasiidae | Pangasius nasutus |
+174G.  | Pangasiidae | Pangasius nieuwenhuisii |
+174H.  | Pangasiidae | Pangasius pangasius | Yellowtailed catfish
+174I.  | Pangasiidae | Pangasius polyuranodon |
+174J.  | Pangasiidae | Pangasius rheophilus |
+174K.  | Pangasiidae | Pangasius sabahensis |
+174L.  | Pangasiidae | Pangasius tubbi | Shortbarbel pangasius
 175.  | Parastacidae | Cherax spp. | Freshwater crayfish or yabby of the genus Cherax
+175A.  | Poeciliidae | Alfaro amazonus |
+175B.  | Poeciliidae | Alfaro cultratus | Knife-edged livebearer
+175C.  | Poeciliidae | Alfaro huberi |
 176.  | Poeciliidae | Belonesox belizanus | Pike minnow and pike killifish
 177.  | Poeciliidae | Gambusia holbrooki | Eastern gambusia
 178.  | Poeciliidae | Gambusia spp. | Mosquito fish
 179.  | Poeciliidae | Tomeurus gracilis |
-180.  | Poeciliidae | Alfaro cultratus | Knife-edged livebearer
 181.  | Poeciliidae | Heterandria bimaculata | Twospot livebearer
-182.  | Poeciliidae | Alfaro huberi |
 183.  | Polyodontidae | Polyodon spathula | Mississippi paddlefish
 184.  | Polyodontidae | Psephurus gladius | Chinese swordfish
 185.  | Polypteridae | Erpetoichthys calabaricus | Reedfish
@@ -196,9 +240,27 @@ Item No. | Family | Specific name | Common name
 192.  | Rivulidae | Leptolebias aureoguttatus |
 193.  | Rivulidae | Leptolebias marmoratus | Marbled pearlfish
 194.  | Rivulidae | Leptolebias minimus | Barred tail pearlfish
-195.  | Schilbeidae | Schilbe mystus | African butter catfish
-196.  | Schilbeidae | Schilbe marmoratus | Shoulderspot catfish
-197.  | Schilbeidae | Schilbe intermedius | Silver catfish
+195.  | Schilbeidae | Schilbe angolensis |
+196.  | Schilbeidae | Schilbe banguelensis | Golden barbel
+197.  | Schilbeidae | Schilbe bocagii |
+197A.  | Schilbeidae | Schilbe brevianalis | Butterfish
+197B.  | Schilbeidae | Schilbe congensis |
+197C.  | Schilbeidae | Schilbe djemeri |
+197D.  | Schilbeidae | Schilbe durinii |
+197E.  | Schilbeidae | Schilbe grenfelli |
+197F.  | Schilbeidae | Schilbe intermedius | Silver catfish
+197G.  | Schilbeidae | Schilbe laticeps |
+197H.  | Schilbeidae | Schilbe mandibularis |
+197I.  | Schilbeidae | Schilbe marmoratus | Shoulderspot catfish
+197J.  | Schilbeidae | Schilbe micropogon |
+197K.  | Schilbeidae | Schilbe moebiusii |
+197L.  | Schilbeidae | Schilbe multitaeniatus |
+197M.  | Schilbeidae | Schilbe mystus | African butter catfish
+197N.  | Schilbeidae | Schilbe nyongensis |
+197O.  | Schilbeidae | Schilbe tumbanus |
+197P.  | Schilbeidae | Schilbe uranoscopus |
+197Q.  | Schilbeidae | Schilbe yangambianus | Yangambi butterbarbel
+197R.  | Schilbeidae | Schilbe zairensis |
 198.  | Siluridae | Silurus spp. | European catfish and wels catfish
 199.  | Trichomycteridae | Paravandellia oxyptera | Parasitic catfish
 200.  | Valenciidae | Valencia hispanica | Valencia toothcarp
