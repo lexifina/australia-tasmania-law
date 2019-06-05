@@ -31,13 +31,13 @@ Birds
 15.  | Sterna vittata bethunei | Buller | Antarctic Tern
 15A.  | Sternula albifrons sinensis | Gmelin | Little Tern
 16.  | Thalassarche chrysostoma | Forster | Grey-headed Albatross
-17.  | Thalassarche melanophrys | Temminck | Black-browed Albatross
+17.  | Thalassarche melanophris | (Temminck) | Black-browed Albatross
 18.  | Tyto novaehollandiae castanops | (Gould) | Masked Owl
 Reptiles
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
 1.  | Caretta caretta | Linnaeus | Loggerhead Turtle
-2.  | Niveoscincus palfreymani | Rawlinson | Pedra Branca Skink
+2.  | Carinascincus palfreymani | (Rawlinson) | Pedra Branca Skink
 Amphibians
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
@@ -56,7 +56,8 @@ Fish
 Invertebrates
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Order | Common name
-1.  | Antipodia chaostola leucophaea | Couchman, Lepidoptera | Tasmanian Chaostola Skipper
+1.  | Ammoniropa vigens | (Legrand), Eupolmonata | Ammonite Pinwheel Snail
+1A.  | Antipodia chaostola leucophaea | Couchman, Lepidoptera | Tasmanian Chaostola Skipper
 2.  | Beddomeia averni | Ponder & Clark, Mesogastropoda | West Gawler Freshwater Snail
 3.  | Beddomeia camensis | Ponder & Clark, Mesogastropoda | Cam River Freshwater Snail
 4.  | Beddomeia capensis | Ponder & Clark, Mesogastropoda | Table Cape Freshwater Snail
@@ -70,20 +71,18 @@ Invertebrates
 12.  | Beddomeia ronaldi | Ponder & Clark, Mesogastropoda | St. Patricks River Freshwater Snail
 13.  | Beddomeia tumida | Petterd, Mesogastropoda | Great Lake Freshwater Snail
 14.  | Beddomeia waterhouseae | Ponder & Clark, Mesogastropoda | Claytons Rivulet Freshwater Snail
-15.  | Castiarina insculpta | (Carter), Coleoptera | Miena Jewel Beetle
 16.  | Chrysolarentia decisaria | Walker, Lepidoptera | Tunbridge Looper Moth
-17.  | Discocharopa vigens | Legrand, Eupulmonata | Ammonite Snail
 18.  | Engaeus granulatus | Horwitz, Decapoda | Central North Burrowing Crayfish
 19.  | Engaeus spinicaudatus | Horwitz, Decapoda | Scottsdale Burrowing Crayfish
 20.  | Haloniscus searlei | Chilton, Isopoda | Salt Lake Slater
 21.  | Hoplogonus bornemisszai | Bartoluzzi, Coleoptera | Bornemisszas Stag Beetle
 22.  | Lissotes latidens | Westwood, Coleoptera | Broad-toothed Stag Beetle
-23.  | Marginaster littoralis | Dartnell, Asterinidae | Seastar
 24.  | Micropathus kiernani | Richards, Orthoptera | Southern Sandstone Cave Cricket
 24A.  | Migas plomleyi | Raven and Churchill, Araneae | Plomleys Trapdoor Spider
-25.  | Miselaoma weldi | Tenison-Woods, Sigmurethra | Stanley Snail
+25.  | Miselaoma weldii | (Tenison-Woods), Sigmurethra | Stanley Pinhead Snail
 26.  | Onchotelson spatulatus | Nicholls, Isopoda | Isopod (Great Lake)
 27.  | Oreisplanus munionga larana | Olliff, Lepidoptera | Marrawah Skipper
+27A.  | Patiriella littoralis | (Dartnell), Asterinidae | Derwent River Seastar
 28.  | Plesiothele fentoni | Hickman, Araneae | Lake Fenton Trapdoor Spider
 29.  | Schayera baiulus | Erichson, Orthoptera | Schayer's Grasshopper
 30.  | Taskiria mccubbini | Neboiss, Trichoptera | Caddis Fly (Lake Pedder)
@@ -98,38 +97,39 @@ Dicotyledonae
 3.  | Barbarea australis | Hook.f., Brassicaceae | riverbed wintercress
 4.  | Bertya tasmanica subsp. tasmanica | (Sond. & F.Muell.) Müll.Arg., Euphorbiaceae | tasmanian bertya
 5.  | Boronia hemichiton | Duretto, Rutaceae | mt arthur boronia
+5A.  | Bossiaea heterophylla | Vent., Fabaceae | variable bossia
 6.  | Calystegia marginata | R.Br., Convolvulaceae | forest bindweed
 6A.  | Cassinia rugata | N.G.Walsh, Asteraceae | wrinkled dollybush
 7.  | Craspedia preminghana | Rozefelds, Asteraceae | preminghana billybuttons
 8.  | Cryptandra amara | Sm., Rhamnaceae | pretty pearlflower
 8A.  | Desmodium varians | (Labill.) G.Don, Fabaceae | slender ticktrefoil
 9.  | Discaria pubescens | (Brongn.) Druce, Rhamnaceae | spiky anchorplant
-10.  | Epacris apsleyensis | Crowden, Epacridaceae | apsley heath
-11.  | Epacris barbata | Melville, Epacridaceae | bearded heath
-11A.  | Epacris exserta | R.Br., Epacridaceae | south esk heath
-12.  | Epacris glabella | Jarman, Epacridaceae | smooth heath
-13.  | Epacris grandis | Crowden, Epacridaceae | tall heath
-14.  | Epacris limbata | K.J.Williams & F.Duncan, Epacridaceae | bordered heath
-15.  | Epacris stuartii | Stapf, Epacridaceae | southport heath
+10.  | Epacris apsleyensis | Crowden, Ericaceae | apsley heath
+11.  | Epacris barbata | Melville, Ericaceae | bearded heath
+11A.  | Epacris exserta | R.Br., Ericaceae | south esk heath
+12.  | Epacris glabella | Jarman, Ericaceae | smooth heath
+13.  | Epacris grandis | Crowden, Ericaceae | tall heath
+14.  | Epacris limbata | K.J.Williams & F.Duncan, Ericaceae | bordered heath
+15.  | Epacris stuartii | Stapf, Ericaceae | southport heath
 16.  | Eucalyptus gunnii subsp. divaricata | (McAulay & Brett) B.M.Potts, Myrtaceae | miena cider gum
 17.  | Eucalyptus morrisbyi | Brett, Myrtaceae | morrisbys gum
-17A.  | Euphrasia amplidens | W.R.Barker, Scrophulariaceae | pieman eyebright
-18.  | Euphrasia collina subsp. tetragona | (R.Br.) W.R.Barker, Scrophulariaceae | northcoast eyebright
-19.  | Euphrasia fragosa | W.R.Barker, Scrophulariaceae | shy eyebright
-20.  | Euphrasia gibbsiae subsp. psilantherea | (F.Muell.) W.R.Barker, Scrophulariaceae | swamp eyebright
-21.  | Euphrasia scabra | R.Br., Scrophulariaceae | yellow eyebright
-22.  | Euphrasia semipicta | W.R.Barker, Scrophulariaceae | peninsula eyebright
-23.  | Euphrasia sp. Bivouac Bay | (W.R.Barker 7626 et al.) W.R.Barker, Scrophulariaceae | masked cliff-eyebright
+17A.  | Euphrasia amplidens | W.R.Barker, Orobanchaceae | pieman eyebright
+18.  | Euphrasia collina subsp. tetragona | (R.Br.) W.R.Barker, Orobanchaceae | northcoast eyebright
+19.  | Euphrasia fragosa | W.R.Barker, Orobanchaceae | shy eyebright
+20.  | Euphrasia gibbsiae subsp. psilantherea | (F.Muell.) W.R.Barker, Orobanchaceae | swamp eyebright
+21.  | Euphrasia scabra | R.Br., Orobanchaceae | yellow eyebright
+22.  | Euphrasia semipicta | W.R.Barker, Orobanchaceae | peninsula eyebright
+23.  | Euphrasia sp. Bivouac Bay | (W.R.Barker 7626 et al.) W.R.Barker, Orobanchaceae | masked cliff-eyebright
 23A.  | Galium antarcticum | Hook.f., Rubiaceae | subantarctic bedstraw
 24.  | Gompholobium ecostatum | Kuchel, Fabaceae | dwarf wedgepea
 24A.  | Goodenia geniculata | R.Br., Goodeniaceae | bent native-primrose
 25.  | Hardenbergia violacea | (Schneev.) Stearn, Fabaceae | purple coralpea
 26.  | Hibbertia basaltica | A.M.Buchanan & Schah., Dilleniaceae | basalt guineaflower
 27.  | Hyalosperma demissum | (A.Gray) Paul G. Wilson, Asteraceae | moss sunray
-28.  | Hydrocotyle laxiflora | DC., Apiaceae | stinking pennywort
+28.  | Hydrocotyle laxiflora | DC., Araliaceae | stinking pennywort
 29.  | Lepidium hyssopifolium | Desv., Brassicaceae | soft peppercress
 30.  | Leptorhynchos elongatus | DC., Asteraceae | lanky buttons
-31.  | Leucochrysum albicans var. tricolor | (DC.) Paul G.Wilson, Asteraceae | grassland paperdaisy
+31.  | Leucochrysum albicans subsp. tricolor | (DC.) N.G.Walsh, Asteraceae | grassland paperdaisy
 32.  | Lomatia tasmanica | W.M.Curtis, Proteaceae | kings lomatia
 33.  | Lycopus australis | R.Br., Lamiaceae | australian gipsywort
 34.  | Mentha australis | R.Br., Lamiaceae | river mint
@@ -150,10 +150,11 @@ Dicotyledonae
 43A.  | Senecio psilocarpus | Belcher & Albr., Asteraceae | swamp fireweed
 44.  | Solanum opacum | A.Braun & Bouché, Solanaceae | greenberry nightshade
 45.  | Spyridium eriocephalum var. eriocephalum | Fenzl, Rhamnaceae | heath dustymiller
-46.  | Stackhousia subterranea | W.R.Barker, Stackhousiaceae | grassland candles
+46.  | Stackhousia subterranea | W.R.Barker, Celastraceae | grassland candles
 47.  | Stenopetalum lineare | R.Br. ex DC., Brassicaceae | narrow threadpetal
 48.  | Stonesiella selaginoides | (Hook.f.) Crisp & P.H.Weston, Fabaceae | clubmoss bushpea
-49.  | Tetratheca gunnii | Hook.f., Tremandraceae | shy pinkbells
+49.  | Tetratheca gunnii | Hook.f., Elaeocarpaceae | shy pinkbells
+49A.  | Veronica notabilis | F.Muell. ex Benth., Scrophulariaceae | forest speedwell
 50.  | Viminaria juncea | (Schrad. & J.Wendl.) Hoffmanns., Fabaceae | golden spray
 51.  | Vittadinia australasica var. oricola | N.T.Burb., Asteraceae | coast new-holland-daisy
 52.  | Zieria veronicea subsp. veronicea | (F.Muell.) Benth., Rutaceae | pink zieria
@@ -183,10 +184,10 @@ Monocotyledonae
 23.  | Corunastylis morrisii | (Nicholls) D.L.Jones & M.A.Clem., Orchidaceae | bearded midge-orchid
 23A.  | Corunastylis nudiscapa | (Hook.f.) D.L.Jones & M.A.Clem., Orchidaceae | bare midge-orchid
 24.  | Corybas fordhamii | (Rupp) Rupp, Orchidaceae | swamp pelican-orchid
+24A.  | Corybas sulcatus | (M.A.Clem & D.L.Jones) G.N.Backh., Orchidaceae | grooved helmet-orchid
 25.  | Cryptostylis leptochila | F.Muell. ex Benth., Orchidaceae | small tongue-orchid
 26.  | Diuris lanceolata | Lindl., Orchidaceae | large golden moths
 27.  | Diuris palustris | Lindl., Orchidaceae | swamp doubletail
-27A.  | Nematoceras sulcatum | (Hook.f.) D.L.Jones & M.A.Clem., Orchidaceae | grooved helmet-orchid
 27B.  | Poa cookii | (Hook.f.) Hook.f., Poaceae | cooks tussockgrass
 30A.  | Prasophyllum atratum | D.L.Jones, Orchidaceae | three hummock leek-orchid
 31.  | Prasophyllum castaneum | D.L.Jones, Orchidaceae | chestnut leek-orchid
@@ -216,18 +217,20 @@ Monocotyledonae
 51A.  | Thelymitra atronitida | Jeanes, Orchidaceae | blackhood sun-orchid
 52.  | Thelymitra benthamiana | Rchb.f., Orchidaceae | blotched sun-orchid
 53.  | Thelymitra bracteata | J.Z.Weber ex Jeanes, Orchidaceae | leafy sun-orchid
-53A.  | Thelymitra improcera | D.L.Jones & M.A.Clem., Orchidaceae | coastal sun-orchid
+53A.  | Thelymitra improcera | D.L.Jones & M.A.Clem., Orchidaceae | coast sun-orchid
+53B.  | Thelymitra inflata | Jeanes, Orchidaceae | inflated sun-orchid
 54.  | Thelymitra jonesii | Jeanes, Orchidaceae | skyblue sun-orchid
+54A.  | Thelymitra lucida | Jeanes, Orchidaceae | glistening sun-orchid
 55.  | Thelymitra malvina | M.A.Clem., D.L.Jones & Molloy, Orchidaceae | mauvetuft sun-orchid
 56.  | Thynninorchis nothofagicola | (D.L.Jones) D.L.Jones & M.A. Clem., Orchidaceae | myrtle elbow-orchid
 56A.  | Triglochin mucronata | R.Br., Juncaginaceae | prickly arrowgrass
-56B.  | Wurmbea latifolia subsp. vanessae | R.J.Bates, Liliaceae | broadleaf early nancy
+56B.  | Wurmbea latifolia subsp. vanessae | R.J.Bates, Colchicaceae | broadleaf early nancy
 Pteridophyta
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Asplenium hookerianum | Colenso, Aspleniaceae | maidenhair spleenwort
 1A.  | Blechnum neohollandicum | Christenh., Blechnaceae | prickly raspfern
-1B.  | Blechnum rupestre | (Kaulf. ex Link) Christenh., Blechnaceae | small raspfern
+1B.  | Blechnum spinulosum | Poir., Blechnaceae | small raspfern
 2.  | Cheilanthes distans | (R.Br.) Mett., Adiantaceae | bristly rockfern
 3.  | Cyathea cunninghamii | Hook.f., Cyatheaceae | slender treefern
 4.  | Cyathea Xmarcescens | N.A.Wakef., Cyatheaceae | skirted treefern
@@ -237,10 +240,10 @@ Pteridophyta
 Lichens
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Bunodophoron notatum | (Tibell) Wedin, Sphaerophoraceae | –
+1.  | Austroparmelina pallida | (Elix & Kantvilas) Kantvilas & Divakar, Parmeliaceae |
+1A.  | Bunodophoron notatum | (Tibell) Wedin, Sphaerophoraceae | –
 2.  | Erioderma sorediatum | D.J.Galloway & P.M.Jørg., Pannariaceae | –
 3.  | Menegazzia minuta | P.James & Kantvilas, Parmeliaceae | –
-4.  | Parmelina pallida | Elix & Kantvilas, Parmeliaceae | –
 5.  | Roccellinastrum neglectum | Henssen & Vobis, Roccellinastraceae | –
 6.  | Xanthoparmelia amphixantha | (Müll.Arg.), Hale, Parmeliaceae | –
 7.  | Xanthoparmelia molliuscula | (Ach.) Hale, Parmeliaceae | –
@@ -271,7 +274,7 @@ Dicotyledonae
 | Species | Authority, Family | Common name
 1.  | Ballantinia antipoda | (F.Muell.) E.A.Shaw, Brassicaceae | southern shepherds purse
 2.  | Banksia integrifolia subsp. integrifolia | L.f., Proteaceae | coast banksia
-3.  | Chenopodium erosum | R.Br., Chenopodiaceae | papery goosefoot
+3.  | Chenopodium erosum | R.Br., Amaranthaceae | papery goosefoot
 4.  | Coopernookia barbata | (R.Br.) Carolin, Goodeniaceae | purple native-primrose
 5.  | Hibbertia obtusifolia | DC., Dilleniaceae | grey guineaflower
 7.  | Levenhookia dubia | Sond., Stylidiaceae | hairy stylewort
@@ -282,7 +285,6 @@ Dicotyledonae
 12A.  | Senecio georgianus | DC., Asteraceae | grey groundsel
 13.  | Senecio macrocarpus | Belcher, Asteraceae | largefruit fireweed
 14.  | Thesium australe | R.Br., Santalaceae | southern toadflax
-15.  | Veronica notabilis | F.Muell. ex Benth., Scrophulariaceae | forest speedwell
 Monocotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name

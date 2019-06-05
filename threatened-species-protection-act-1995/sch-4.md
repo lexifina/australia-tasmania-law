@@ -50,6 +50,7 @@ Invertebrates
 5.  | Beddomeia lodderae | Petterd, Mesogastropoda | Castra Rivulet Freshwater Snail
 5A.  | Beddomeia phasianella | Ponder & Clark, Mesogastropoda | Keddies Creek Freshwater Snail
 6.  | Beddomeia wiseae | Ponder & Clark, Mesogastropoda | Blizzards Creek Freshwater Snail
+6A.  | Castiarina insculpta | (Carter), Coleoptera | Miena Jewel Beetle
 7.  | Catadromus lacordairei | Boisduval, Coleoptera | Green-lined Ground Beetle
 7. 7A. | Chloritobadistes victoriae | (Cox), Eupulmonata | Southern Hairy Red Snail
 8.  | Dasybela achroa | Lower, Lepidoptera | Saltmarsh Looper Moth
@@ -63,27 +64,26 @@ Invertebrates
 17.  | Hoplogonus vanderschoori | Bartoluzzi, Coleoptera | Vanderschoors Stag Beetle
 19.  | Oreixenica ptunarra | Couchman, Lepidoptera | Ptunarra Brown Butterfly
 19A.  | Parvulastra vivipara | (Dartnall), Asterinidae | Live-bearing Seastar
-20.  | Pasmaditta jungermanniae | Petterd, Sigmurethra | Snail (Cataract Gorge)
+20.  | Pasmaditta jungermanniae | Petterd, Sigmurethra | Cataract Gorge Pinhead Snail
 Dicotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Acacia axillaris | Benth., Mimosaceae | midlands wattle
-2.  | Acrotriche cordata | (Labill.) R.Br., Epacridaceae | coast groundberry
+1.  | Acacia axillaris | Benth., Fabaceae | midlands wattle
+2.  | Acrotriche cordata | (Labill.) R.Br., Ericaceae | coast groundberry
 2A.  | Argyrotegium nitidulum | (Hook.f.) J.M.Ward & Breitw., Asteraceae | shining cottonleaf
-3.  | Atriplex suberecta | I.Verd., Chenopodiaceae | sprawling saltbush
+3.  | Atriplex suberecta | I.Verd., Amaranthaceae | sprawling saltbush
 4.  | Bedfordia arborescens | Hochr., Asteraceae | tree blanketleaf
 5.  | Boronia gunnii | Hook.f., Rutaceae | river boronia
 6.  | Boronia hippopala | Duretto, Rutaceae | velvet boronia
 7.  | Brachyscome rigidula | (DC.) G.L.Davis, Asteraceae | cutleaf daisy
 9.  | Conospermum hookeri | (Meisn.) E.M.Benn., Proteaceae | tasmanian smokebush
 10.  | Desmodium gunnii | Benth. ex Hook.f., Fabaceae | southern ticktrefoil
-12.  | Epacris graniticola | Crowden, Epacridaceae | granite heath
-13.  | Epacris virgata | Hook.f., Epacridaceae | pretty heath
+12.  | Epacris graniticola | Crowden, Ericaceae | granite heath
+13.  | Epacris virgata | Hook.f., Ericaceae | pretty heath
 14.  | Eryngium ovinum | A.Cunn., Apiaceae | blue devil
-15.  | Euphrasia phragmostoma | W.R.Barker, Scrophulariaceae | hairy cliff-eyebright
+15.  | Euphrasia phragmostoma | W.R.Barker, Orobanchaceae | hairy cliff-eyebright
 16.  | Glycine latrobeana | (Meisn.) Benth., Fabaceae | clover glycine
 17.  | Glycine microphylla | (Benth.) Tindale, Fabaceae | small-leaf glycine
-18.  | Gratiola pubescens | R.Br., Scrophulariaceae | hairy brooklime
 19.  | Hakea ulicina | R.Br., Proteaceae | furze needlebush
 20.  | Haloragis aspera | Lindl., Haloragaceae | rough raspwort
 21.  | Hibbertia calycina | (DC.) N.A.Wakef., Dilleniaceae | lesser guineaflower
@@ -93,13 +93,13 @@ Dicotyledonae
 25.  | Lobelia pratioides | Benth., Campanulaceae | poison lobelia
 26.  | Lythrum salicaria | L., Lythraceae | purple loosestrife
 27.  | Mirbelia oxylobioides | F.Muell., Fabaceae | sandstone bushpea
-28.  | Myoporum parvifolium | R.Br., Myoporaceae | creeping boobialla
+28.  | Myoporum parvifolium | R.Br., Scrophulariaceae | creeping boobialla
 29.  | Myriophyllum integrifolium | (Hook.f.) Hook.f., Haloragaceae | tiny watermilfoil
 31.  | Ozothamnus reflexifolius | K.Leeson & Rozefelds, Asteraceae | reflexed everlastingbush
 32.  | Persicaria decipiens | (R.Br.) K.L.Wilson, Polygonaceae | slender waterpepper
 33.  | Phyllangium divergens | (Hook.f.) Dunlop, Loganiaceae | wiry mitrewort
 35.  | Pomaderris elachophylla | F.Muell., Rhamnaceae | small-leaf dogwood
-35A.  | Poranthera petalifera | (Orchard & J.B.Davies) Halford & R.J.F.Hend., Euphorbiaceae | mountain poranthera
+35A.  | Poranthera petalifera | (Orchard & J.B.Davies) Halford & R.J.F.Hend., Phyllanthaceae | mountain poranthera
 36.  | Prostanthera rotundifolia | R.Br., Lamiaceae | roundleaf mintbush
 37.  | Pultenaea humilis | Benth. ex Hook.f., Fabaceae | dwarf bushpea
 38.  | Pultenaea mollis | Lindl., Fabaceae | soft bushpea
@@ -112,27 +112,27 @@ Dicotyledonae
 42A.  | Senecio campylocarpus | I.Thomps., Asteraceae | bulging fireweed
 43.  | Spyridium lawrencei | (Hook.f.) Benth., Rhamnaceae | small-leaf dustymiller
 44.  | Spyridium obcordatum | (Hook.f.) W.M.Curtis, Rhamnaceae | creeping dustymiller
-44A.  | Stackhousia pulvinaris | F.Muell., Stackhousiaceae | alpine candles
+44A.  | Stackhousia pulvinaris | F.Muell., Celastraceae | alpine candles
 45.  | Stenanthemum pimeleoides | (Hook.f.) Benth., Rhamnaceae | propeller plant
 46.  | Thryptomene micrantha | Hook.f., Myrtaceae | ribbed heathmyrtle
 47.  | Triptilodiscus pygmaeus | Turcz., Asteraceae | dwarf sunray
 48.  | Velleia paradoxa | R.Br., Goodeniaceae | spur velleia
-48A.  | Veronica ciliolata subsp. fiordensis | (Ashwin) Meudt, Scrophulariaceae | ben lomond cushionplant
-49.  | Veronica novae-hollandiae | Poir., Scrophulariaceae | coast speedwell
-50.  | Xerochrysum palustre | (Flann) R.J.Bayer, Asterceae | swamp everlasting
+48A.  | Veronica ciliolata subsp. fiordensis | (Ashwin) Meudt, Plantaginaceae | ben lomond cushionplant
+49.  | Veronica novae-hollandiae | Poir., Plantaginaceae | coast speedwell
+50.  | Xerochrysum palustre | (Flann) R.J.Bayer, Asteraceae | swamp paperdaisy
 Monocotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
 1.  | Caladenia caudata | Nicholls, Orchidaceae | tailed spider-orchid
 2.  | Caladenia patersonii | R.Br., Orchidaceae | patersons spider-orchid
-2A.  | Nematoceras dienemum | (D.L.Jones) D.L.Jones, M.A.Clem. & Molloy, Orchidaceae | windswept helmet-orchid
+2A.  | Corybas dienemus | D.L.Jones, Orchidaceae | windswept helmet-orchid
 2B.  | Prasophyllum amoenum | D.L.Jones, Orchidaceae | dainty leek-orchid
 2C.  | Prasophyllum apoxychilum | D.L.Jones, Orchidaceae | tapered leek-orchid
 3.  | Pterostylis pratensis | D.L.Jones, Orchidaceae | liawenee greenhood
 3A.  | Pterostylis squamata | R.Br., Orchidaceae | ruddy greenhood
 4.  | Pterostylis ziegeleri | D.L.Jones, Orchidaceae | grassland greenhood
-4A.  | Sowerbaea juncea | Andrews, Liliaceae | purple rushlily
-5.  | Tricoryne elatior | R.Br., Liliaceae | yellow rushlily
+4A.  | Sowerbaea juncea | Andrews, Laxmanniaceae | purple rushlily
+5.  | Tricoryne elatior | R.Br., Hemerocallidaceae | yellow rushlily
 6.  | Xanthorrhoea arenaria | D.J.Bedford, Xanthorrhoeaceae | sand grasstree
 7.  | Xanthorrhoea bracteata | R.Br., Xanthorrhoeaceae | shiny grasstree
 Gymnospermae
