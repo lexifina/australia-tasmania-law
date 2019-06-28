@@ -11,7 +11,6 @@ Part 5 Improvement notices and prohibition orders
 Part 6 Taking and analysis of samples
 Part 6, Division 1 Taking of samples
 Part 6, Division 2 Procedures relating to analyses
-Part 6, Division 3 Approval of laboratories
 Part 6A Auditing
 Part 6A, Division 1 Approval of food safety auditors
 Part 6A, Division 2 Auditing and reporting requirements
