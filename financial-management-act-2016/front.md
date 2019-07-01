@@ -1,0 +1,3 @@
+Financial Management Act 2016
+An Act to provide for the management of the public finances of the State of Tasmania in an economical, efficient and effective manner consistent with contemporary accounting standards and financial practices and to make provision for, and with respect to, the Public Account of the State, and to repeal the Financial Management and Audit Act 1990 and the Public Account Act 1986 and various other legislative instruments
+Be it enacted by Her Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
