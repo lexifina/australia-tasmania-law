@@ -1,0 +1,57 @@
+# Schedule 4 Infringement notice penalties and demerit points
+Regulations 19, 20 and 21
+Column 1 | Column 2 | Column 3 | Column 4 | Column 5
+Section of Act | Nature of offence | Maximum penalty under Act | Penalty in case of infringement notice | Demerit points
+52 | Taking water, except under section 48 of Act, to other's detriment | 20 penalty units and a daily penalty of 2 penalty units | 2.5 penalty units | 2
+54(1) | Taking water without a licence | 500 penalty units and a daily penalty of 50 penalty units | 2.5 penalty units for first offence (but 5 penalty units for second offence within 12 months after first offence, 10 penalty units for third offence within 24 months after first offence) | Nil
+61(8) | Failing to provide details of other person's financial interest in licence | 10 penalty units | 1 penalty unit | 2
+82(2) | Breaching licence | 500 penalty units and a daily penalty of 50 penalty units | 2.5 penalty units (but 5 penalty units for second offence within 12 months after first offence, 10 penalty units for third offence within 24 months after first offence) | 4
+92(4) | Contravening notice of water restrictions | 500 penalty units and a daily penalty of 50 penalty units | 2.5 penalty units (but 5 penalty units for second offence within 12 months after first offence, 10 penalty units for third offence within 24 months after first offence) | 4
+123A | Conveying water via watercourse without or in contravention of watercourse authority | 500 penalty units and a daily penalty of 50 penalty units | 2.5 penalty units (but 5 penalty units for second offence within 12 months after first offence, 10 penalty units for third offence within 24 months after first offence) | Nil
+126(4) | Contravening a well order | 20 penalty units and a daily penalty of 5 penalty units | 4 penalty units and a daily penalty of 1 penalty unit | 3
+135(1) | Undertaking well works without a permit | 200 penalty units and a daily penalty of 20 penalty units | 8 penalty units for first offence and a daily penalty of 2 penalty units; 16 penalty units and a daily penalty of 4 penalty units for second offence within 12 months after first offence | 4
+135(2) | Failing to ensure well works are undertaken in accordance with a permit | 200 penalty units and a daily penalty of 20 penalty units | 8 penalty units for first offence and a daily penalty of 2 penalty units; 16 penalty units and a daily penalty of 4 penalty units for second offence within 12 months after first offence | 4
+136A(1) | Undertaking well works without a well driller's licence or supervision of a licence holder | 200 penalty units and a daily penalty of 20 penalty units | 2.5 penalty units for first offence (but 5 penalty units for second offence within 12 months after first offence, 7.5 penalty units for third offence within 24 months after first offence) | 4
+136A(2) | Undertaking well works that are in contravention of the class of licence or endorsement on the licence | 200 penalty units and a daily penalty of 20 penalty units | 2.5 penalty units for first offence (but 5 penalty units for second offence within 12 months after first offence, 7.5 penalty units for third offence within 24 months after first offence) | 4
+136D(4) | Contravening a condition of a well driller's licence | 50 penalty units | 2.5 penalty units for first offence (but 5 penalty units for second offence within 12 months after first offence, 7.5 penalty units for third offence within 24 months after first offence) | 2
+136E(4) | Failing to produce licence for inspection | 10 penalty units | 0.5 penalty units | 0.5
+143(1) | Undertaking, or causing or permitting to be undertaken, dam works without or in contravention of permit | 200 penalty units and a daily penalty of 20 penalty units | 24 penalty units and a daily penalty of 2 penalty units for first offence; 48 penalty units and a daily penalty of 4 penalty units for any subsequent offence within 5 years after first offence | Nil
+162(2) | Failing to comply with notice | 200 penalty units and a daily penalty of 20 penalty units | 24 penalty units and a daily penalty of 2 penalty units | Nil
+164ZA(1) | Failing to give notice of completion of dam works | 100 penalty units | 10 penalty units | Nil
+164ZA(3) | Failing to comply with requirement | 100 penalty units | 10 penalty units | Nil
+164ZB(1) | Failing to give notice of completion of dam works | 200 penalty units | 20 penalty units | Nil
+164ZB(4) | Failing to comply with requirement | 200 penalty units | 20 penalty units | Nil
+164ZF(2) | Failing to notify of having ceased to be responsible for certain matters under dam operating notice and of replacement person | 10 penalty units | 2 penalty units | Nil
+164ZI | Contravening condition of dam permit | 200 penalty units and a daily penalty of 20 penalty units | 24 penalty units and a daily penalty of 2 penalty units for first offence; 48 penalty units and a daily penalty of 4 penalty units for any subsequent offence within 5 years after first offence | Nil
+164ZJ(1) | Contravening a dam operating notice or condition of notice | 200 penalty units and a daily penalty of 20 penalty units | 24 penalty units and a daily penalty of 2 penalty units for first offence; 48 penalty units and a daily penalty of 4 penalty units for any subsequent offence within 5 years after first offence | Nil
+164ZK(1) and 164ZK(2) | Failing to comply with registered offset | 200 penalty units and a daily penalty of 20 penalty units | 24 penalty units and a daily penalty of 2 penalty units for first offence; 48 penalty units and a daily penalty of 4 penalty units for any subsequent offence within 5 years after first offence | Nil
+164ZM(3) | Failing to comply with requirement | 50 penalty units and a daily penalty of 5 penalty units | 12 penalty units and a daily penalty of 1 penalty unit | Nil
+165G | Maintaining and operating dam in way that causes, or is likely to cause, environmental harm or endangers persons or property | 500 penalty units and a daily penalty of 50 penalty units for a body corporate | 25 penalty units and a daily penalty of 2.5 penalty units for a body corporate for first offence; 50 penalty units and a daily penalty of 5 penalty units for any subsequent offence within 5 years after first offence | Nil
+|  | 200 penalty units and a daily penalty of 20 penalty units for a natural person | 10 penalty units and a daily penalty of 1 penalty unit for a natural person for first offence; 20 penalty units and a daily penalty of 2 penalty units for any subsequent offence within 5 years after first offence |
+165H(2) | Failing to comply with requirement contained in Ministerial notice on dam safety | 100 penalty units | 10 penalty units and a daily penalty of 1 penalty unit | Nil
+165I | Failing to report dam incident | 100 penalty units | 10 penalty units and a daily penalty of 1 penalty unit | Nil
+165L(3) | Failing to comply with Ministerial direction relating to undertaking dam works, keeping records or providing plan of action | 500 penalty units and a daily penalty of 50 penalty units for a body corporate | 25 penalty units and a daily penalty of 2.5 penalty units for a body corporate for first offence; 50 penalty units and a daily penalty of 5 penalty units for any subsequent offence within 5 years after first offence | Nil
+|  | 200 penalty units and a daily penalty of 20 penalty units for a natural person | 10 penalty units and a daily penalty of 1 penalty unit for a natural person for first offence; 20 penalty units and a daily penalty of 2 penalty units for any subsequent offence within 5 years after first offence |
+165N(3) | Failing to comply with Ministerial notice to modify dam | 500 penalty units and a daily penalty of 50 penalty units for a body corporate | 25 penalty units and a daily penalty of 2.5 penalty units for a body corporate for first offence; 50 penalty units and a daily penalty of 5 penalty units for any subsequent offence within 5 years after first offence | Nil
+|  | 200 penalty units and a daily penalty of 20 penalty units for a natural person | 10 penalty units and a daily penalty of 1 penalty unit for a natural person for first offence; 20 penalty units and a daily penalty of 2 penalty units for any subsequent offence within 5 years after first offence |
+165P(2) | Failing to comply with Ministerial notice of measures to ensure safety of dam | 500 penalty units and a daily penalty of 50 penalty units for a body corporate | 25 penalty units and a daily penalty of 2.5 penalty units for a body corporate for first offence; 50 penalty units and a daily penalty of 5 penalty units for any subsequent offence within 5 years after first offence | Nil
+|  | 200 penalty units and a daily penalty of 20 penalty units for a natural person | 10 penalty units and a daily penalty of 1 penalty unit for a natural person for first offence; 20 penalty units and a daily penalty of 2 penalty units for any subsequent offence within 5 years after first offence |
+165W(3) | Failing to register dam | 100 penalty units | 20 penalty units | Nil
+165W(6) | Failing to comply with requirement | 100 penalty units | 10 penalty units | Nil
+182 | Failing to provide annual or other required report to Minister within specified time | 50 penalty units | 1 penalty unit | Nil
+199 | Offence in connection with water district, as specified | 50 penalty units | 1 penalty unit | Nil
+222 | Failing to allow inspection, &c., of trust accounts | 5 penalty units | 0.5 penalty units | Nil
+227(3) | Failing to comply with Ministerial notice directing person to install meter in respect of water resource | 50 penalty units and a daily penalty of 5 penalty units | 2.5 penalty units | 3
+228(1) | Interfering with or injuring meter | 50 penalty units and a daily penalty of 5 penalty units | 2.5 penalty units and a daily penalty of 0.5 penalty units | 3
+235(2) | Hindering person reading, &c., meter | 5 penalty units | 1 penalty unit | 2
+236 | Failing to take reasonable measures to protect meter | 10 penalty units and a daily penalty of 1 penalty unit | 1 penalty unit | 2
+239 | Failing to return identity card on ceasing to be authorised officer | 5 penalty units | 0.5 penalty units | Nil
+246(2) | Failing to comply with direction of authorised officer | 50 penalty units and a daily penalty of 5 penalty units | 2.5 penalty units and a daily penalty of 0.5 penalty units | 4
+280D(5) | Failing to comply with water supply emergency direction by Minister | 500 penalty units and a daily penalty of 10 penalty units | 250 penalty units and a daily penalty of 10 penalty units | Nil
+281(1) | Interfering with property of Minister or water entity without permission | 50 penalty units | 1 penalty unit | 3
+281(2) | Interfering with infrastructure or other property of water entity without permission | 50 penalty units | 1 penalty unit | 3
+281(3) | Interfering with property or infrastructure in contravention of condition of permission | 50 penalty units | 1 penalty unit | 3
+282(5) | Contravening Ministerial notice to prevent or make good damage caused in taking water | 50 penalty units | 2.5 penalty units | 4
+283 | Providing false or misleading information | 50 penalty units | 10 penalty units for providing false or misleading information in relation to proposed or existing dam works under Part 8 of Act; | 3
+|  |  | in all other cases, 1 penalty unit |
+284(1) | Hindering, &c., persons administering Act or misrepresenting self as authorised officer or authorised person | 50 penalty units | 1 penalty unit | 3
