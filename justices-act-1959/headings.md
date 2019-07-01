@@ -1,6 +1,4 @@
 Part I Preliminary
-Part II Justices
-Part III Extra-Territorial Justices
 Part IV Clerks
 Part V Jurisdiction
 Part VI General Procedure
