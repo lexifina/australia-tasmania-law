@@ -22,6 +22,8 @@ Form 19 | Judgment for plaintiff after confession of defence
 Form 20 | Notice of payment into court
 Form 21 | Acceptance of sum paid into court
 Form 22 | Affidavit for entry of appearance as litigation guardian
+Form 22A | Notice accompanying the originating process in representative proceedings
+Form 22B | Opt-out notice
 Form 23 | Judgment by consent
 Form 24 | Notice of discontinuance or finalisation
 Form 25 | Judgment for defendant on discontinuance
@@ -143,6 +145,8 @@ Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 22 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
+22A [Picture in the source, not reproduced]
+22B [Picture in the source, not reproduced]
 23 Rules of the Supreme Court (Forms) 2000
 [Picture in the source, not reproduced]
 24 [Picture in the source, not reproduced]
