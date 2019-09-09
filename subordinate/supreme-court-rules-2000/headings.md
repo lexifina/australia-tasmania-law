@@ -38,6 +38,7 @@ Part 10, Division 2 Executors, administrators and trustees
 Part 10, Division 3 Partners and sole proprietors
 Part 10, Division 4 Societies
 Part 10, Division 5 Representative proceedings
+Part 10, Division 5A Representative defendants
 Part 10, Division 6 Notice of constitutional matters
 Part 11 Judgments
 Part 11, Division 1 Judgment by consent
