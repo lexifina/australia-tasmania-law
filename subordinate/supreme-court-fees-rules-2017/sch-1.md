@@ -1,11 +1,12 @@
 # Schedule 1 Fees and percentages
 Rules 5, 6 and 9
 | Item | Fee (fee units) or percentage
-1.  | On the commencement of a cause or matter (other than proceedings referred to in items 2 or 3) – |
+1.  | On the commencement of a cause or matter (other than proceedings referred to in items 1A, 2 or 3) – |
 (a)  | if the plaintiff or applicant is an individual | 580
 (b)  | if the plaintiff or applicant is a small corporation | 580
 (c)  | if the plaintiff or applicant is a medium corporation | 1 290
 (d)  | if the plaintiff or applicant is a large corporation | 1 935
+1A.  | On the filing of originating process in representative proceedings | 1 935
 2.  | On commencement of proceedings for admission to the legal profession | 277
 3.  | On the filing of an application seeking relief under section 146 of the Land Titles Act 1980 | 580
 4.  | On the filing of an interlocutory application for injunctive relief or a freezing order – |
