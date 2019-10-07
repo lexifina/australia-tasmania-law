@@ -10,3 +10,7 @@ Part IV Forest Practices Code
 Part V Forest Practices Tribunal
 Part VA Forest Practices Advisory Council
 Part VI Miscellaneous
+Part VI, Division 1 Officers and forest practices officers
+Part VI, Division 2 Code of conduct
+Part VI, Division 3 Compliance with forest practices plans
+Part VI, Division 4 Other matters
