@@ -32,7 +32,7 @@ Section 139(b) | Interfering (indecently) with human remains
 Section 169 | Administering a drug with intent to facilitate the commission of an offence
 Section 186(1) | Forcible abduction
 Section 189 | Abduction of a young person under the age of 17 years
-Section 192(1) | Stalking
+Section 192(1) | Stalking and bullying
 Sex Industry Offences Act 2005 |
 Section 7(1)(a) | Intimidating, assaulting or threatening to assault a sex worker
 Section 7(1)(d) | Administering to a sex worker, or causing a sex worker to take, any drug or other substance with the intent to stupefy or overpower that sex worker

@@ -20,7 +20,7 @@ Section 185 | Rape
 Section 191(1) | Abduction of a child
 Section 191(2) | Harbouring an abducted child
 Section 191A(a) | Kidnapping
-Section 192(1) | Stalking (if the person against whom the offence is committed is a child)
+Section 192(1) | Stalking and bullying (if the person against whom the offence is committed is a child)
 Sex Industry Offences Act 2005 |
 Section 9(1) | Procuring or otherwise causing or permitting a child to provide sexual services in a sexual services business
 Section 9(2) | Receiving a fee or reward from sexual services provided by a child in a sexual services business
