@@ -22,7 +22,7 @@ Schedule 1, Part V, Chapter XVI Duties Relating to the Preservation of Human Lif
 Schedule 1, Part V, Chapter XVII Homicide: Suicide: Concealment of Birth
 Schedule 1, Part V, Chapter XVIII Crimes Endangering Life or Health
 Schedule 1, Part V, Chapter XIX Assaults
-Schedule 1, Part V, Chapter XX Rape: Abduction: Stalking
+Schedule 1, Part V, Chapter XX Rape: Abduction: Stalking and Bullying
 Schedule 1, Part V, Chapter XXII Crimes Relating to Mentally Disordered Persons
 Schedule 1, Part V, Chapter XXIII Criminal defamation
 Schedule 1, Part VI Crimes Relating to Property
