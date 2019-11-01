@@ -13,9 +13,13 @@ Column 1Item | Column 2Provision of rules | Column 3Penalty(penalty units)
 10.  | Rule 17(1) | 10
 11.  | Rule 17(2) | 10
 12.  | Rule 17(3) | 10
+12A.  | Rule 17(4) | 5
+12B.  | Rule 17(5) | 2
 13.  | Rule 18(1) | 8
 14.  | Rule 18(2) | 8
 15.  | Rule 18(3) | 8
+15A.  | Rule 18A(1) | 5
+15B.  | Rule 18A(2) | 5
 16.  | Rule 19(1) | 8
 17.  | Rule 19(2) | 8
 18.  | Rule 19(5) | 8
