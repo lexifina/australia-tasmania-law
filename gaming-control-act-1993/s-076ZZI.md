@@ -13,11 +13,10 @@
 (a) whether as in force at a particular time or as from time to time amended; and
 (b) whether published before, on or after the day on which subsection (3) commences.
 (5) The following provisions apply to the setting of general control system standards:
-(a) the Commission is to give notice of the setting of the standards in the Gazette;
-(b) the Commission is to publish the standards electronically and in such other ways as it thinks necessary;
+(a) the Commission is to give notice of the setting of the standards to licensed providers;
+(b) the Commission is to publish the standards on a website maintained by or on behalf of the Commission and in such other ways as it thinks necessary;
 (c) the notice is to specify when the standards take effect and how they have been published;
 (d) the Commission is to ensure that any licensed provider who wishes to do so can obtain a free printed copy of the standards.
-(6) A notice under subsection (5) is not a statutory rule for the purposes of the Rules Publication Act 1953.
 (7) A licensed provider must ensure that the licensed provider's control system complies with –
 (a) the general control system standards, if any, set under subsection (3)(a); and
 (b) if any general control system standards set under subsection (3)(b) apply to the licensed provider, those general control system standards.
