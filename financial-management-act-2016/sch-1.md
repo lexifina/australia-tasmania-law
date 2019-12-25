@@ -20,6 +20,7 @@ Office of the Ombudsman | The person appointed as Ombudsman under section 5(1A) 
 Royal Tasmanian Botanical Gardens | The Director of the Botanical Gardens appointed under section 18 of the Royal Tasmanian Botanical Gardens Act 2002
 State Fire Commission | The Chief Officer appointed under section 10 of the Fire Service Act 1979
 Tasmanian Audit Office | Auditor-General
+Tasmanian Health Service | Secretary of the responsible Department in relation to the Tasmanian Health Service Act 2018
 TasTAFE | The chief executive officer of TasTAFE appointed under section 66 of the Training and Workforce Development Act 2013
 Tourism Tasmania | The chief executive officer appointed under section 17 of the Tourism Tasmania Act 1996
 Column 1 – Agency | Column 2 – Accountable authority
