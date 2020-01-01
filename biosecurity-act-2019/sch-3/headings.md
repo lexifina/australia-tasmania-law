@@ -1,0 +1,7 @@
+Schedule 3, Part 1 Animal (Brands and Movement) [Not yet in force. Commences: 31 October 2025]
+Schedule 3, Part 2 Animal Farming (Registration) [Not yet in force. Commences: 17 May 2023]
+Schedule 3, Part 3 Animal Health [Not yet in force. Commences: 17 May 2023]
+Schedule 3, Part 4 Plant Quarantine [Not yet in force. Commences: 17 May 2023]
+Schedule 3, Part 5 Seeds [Not yet in force. Commences: 17 May 2023]
+Schedule 3, Part 6 Vermin [Not yet in force. Commences: 17 May 2023]
+Schedule 3, Part 7 Weed Management [Not yet in force. Commences: 17 May 2023]
