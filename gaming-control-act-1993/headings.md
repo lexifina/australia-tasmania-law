@@ -57,6 +57,7 @@ Part 7 Tasmanian Liquor and Gaming Commission
 Part 8 Inspectors
 Part 9 Financial Provisions
 Part 9, Division 1 Accounts and levies
+Part 9, Division 1A Point of consumption tax
 Part 9, Division 2 Licence fees, taxation and other amounts payable
 Part 9, Division 2A Gaming machine rental
 Part 9, Division 3 Gaming and wagering guarantee
