@@ -56,11 +56,14 @@ Item No. | Section of Act | Penalty
 46.  | Section 82(1) | 10
 47.  | Section 82(2) | 10
 48.  | Section 83(1) | 2
-49.  | Section 83A(1) | 4
+49.  | Section 83A(1) | In the case of an individual, 10
+49.  |  | In the case of a body corporate, 20
 50.  | Section 83B | 10
 51.  | Section 83C | 20
 52.  | Section 84B(2) | In the case of an individual, 2
 52.  |  | In the case of a body corporate, 10
+52A.  | Section 86E | In the case of an individual, 10
+52A.  |  | In the case of a body corporate, 20
 53.  | Section 90D(2) | 2
 Column 1 | Column 2 | Column 3
 Item No. | Regulation | Penalty
