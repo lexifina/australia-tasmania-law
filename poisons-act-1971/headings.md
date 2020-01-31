@@ -27,4 +27,5 @@ Part VI, Division 1 Analysis and examination of scheduled substances and schedul
 Part VI, Division 1A Improvement notices
 Part VI, Division 2 Legal proceedings and offences
 Part VI, Division 2A Transitional provision
+Part VI, Division 2B Ice pipes
 Part VI, Division 3 General
