@@ -41,7 +41,3 @@ Clause 5(2)
 38.  | Wash and Springs
 39.  | Whistler Point
 40.  | Wickham Lighthouse
-40.  | West Coast Group
-41.  | Hannants Bight
-42.  | Pilot Bay
-43.  | Trumpeter Rock
