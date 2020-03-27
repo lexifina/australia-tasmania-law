@@ -1,0 +1,3 @@
+COVID-19 Disease Emergency (Miscellaneous Provisions) Act 2020
+An Act to make provision to deal with certain risks, arising from the disease, known as coronavirus disease 2019 (COVID-19), to the effective performance and exercise of judicial, administrative or legislative functions and powers in relation to the State, to mitigate in certain circumstances the financial and social effects related to those risks, to amend the Emergency Management Act 2006 and the Residential Tenancy Act 1997 and for related purposes
+Be it enacted by Her Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
