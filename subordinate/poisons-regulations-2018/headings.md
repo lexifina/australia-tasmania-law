@@ -21,6 +21,7 @@ Part 4, Division 5 Administration of substances by nurses
 Part 4, Division 6 Possession and supply of nitrous oxide and methoxyflurane at relevant workplaces
 Part 4, Division 7 Possession, &c., of nitrous oxide and methoxyflurane by relevant first-aiders
 Part 4, Division 8 Possession and supply of salbutamol (S4)
+Part 4, Division 8A Possession and supply of naloxone by needle and syringe services
 Part 4, Division 9 Miscellaneous
 Part 5 Standing Orders for Administration of Restricted Substances and Narcotic Substances
 Part 6 Packaging and Labelling of Scheduled Substances
