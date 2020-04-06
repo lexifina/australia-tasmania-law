@@ -16,13 +16,13 @@ Section 471.22 | Aggravated offence – offence involving conduct on 3 or more o
 Section 474.24A | Aggravated offence – offence involving conduct on 3 or more occasions and 2 or more people
 Section 474.25B | Aggravated offence – child with mental impairment or under care, supervision or authority of defendant
 Criminal Code |
-Section 122 | Unnatural crimes
-Section 124 | Sexual intercourse with a young person under the age of 17 years
-Section 125 | Permitting unlawful sexual intercourse with a young person on premises
-Section 125A | Maintaining sexual relationship with young person under the age of 17 years
-Section 125B | Indecent act with or directed at young person under the age of 17 years
-Section 125C(3) | Procuring indecent act by, or with, young person
-Section 126 | Sexual intercourse with person with mental impairment
+Section 122 | Bestiality
+Section 124 | Penetrative sexual abuse of a child [or young person]
+Section 125 | Permitting penetrative sexual abuse of a child [or young person] on premises
+Section 125A | Persistent sexual abuse of a child [or young person]
+Section 125B | Indecent act with or directed at a child [or young person]
+Section 125C(3) | Procuring a child [or young person] for indecent act
+Section 126 | Penetrative sexual abuse of a person with a mental impairment
 Section 127(1) | Indecent assault
 Section 127A(1) | Aggravated sexual assault
 Section 130A | Producing child exploitation material

@@ -47,10 +47,10 @@ Forms of Indictment
 [Picture in the source, not reproduced]
 Serious Crimes
 1. | Criminal Code Act 1924 |
-| Section 124 | Sexual intercourse with young person under the age of 17 years
-| Section 125A | Maintaining sexual relationship with young person under the age of 17 years
-| Section 125C(2) | Procuring unlawful sexual intercourse with person under the age of 17 years
-| Section 126 | Sexual intercourse with person with mental impairment
+| Section 124 | Penetrative sexual abuse of a child [or young person]
+| Section 125A | Persistent sexual abuse of a child [or young person]
+| Section 125C(2) | Procuring a child [or young person] for penetrative sexual abuse
+| Section 126 | Penetrative sexual abuse of a person with a mental impairment
 | Section 130 | Involving person under age of 18 years in production of child exploitation material
 | Section 130A | Producing child exploitation material
 | Section 130B | Distributing child exploitation material

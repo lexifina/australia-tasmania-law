@@ -15,7 +15,8 @@ Schedule 1, Part III, Chapter XI Escape
 Schedule 1, Part III, Chapter XII Miscellaneous Crimes Against Public Authority
 Schedule 1, Part IV Acts Injurious to the Public in General
 Schedule 1, Part IV, Chapter XIII Crimes Relating to Religion
-Schedule 1, Part IV, Chapter XIV Crimes Against Morality
+Schedule 1, Part IV, Chapter XIV Sexual Crimes
+Schedule 1, Part IV, Chapter XIVA Human Remains
 Schedule 1, Part IV, Chapter XV Common Nuisances
 Schedule 1, Part V Crimes Against the Person
 Schedule 1, Part V, Chapter XVI Duties Relating to the Preservation of Human Life

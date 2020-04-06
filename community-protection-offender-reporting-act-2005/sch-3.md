@@ -10,8 +10,8 @@ Section 272.11 | Persistent sexual abuse of child outside Australia
 Section 272.18 | Benefiting from offence against this Division
 Section 272.19 | Encouraging offence against this Division
 Criminal Code |
-Section 125C(2) | Procuring unlawful sexual intercourse with young person
-Section 125D(1) | Communicating with intent to procure a person under the age of 17 years to engage in an unlawful sexual act
+Section 125C(2) | Procuring a child [or young person] for penetrative sexual abuse
+Section 125D(1) | Grooming with intent to procure a child [or young person] for sexual abuse
 Section 127A(1) | Aggravated sexual assault (if the person against whom the offence is committed is a child)
 Section 130 | Involving a person under the age of 18 years in the production of child exploitation material
 Section 133(1) | Incest (if the person against whom the offence is committed is a child)
