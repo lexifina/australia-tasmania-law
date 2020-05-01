@@ -21,4 +21,9 @@ Part 9A Proportionate Liability
 Part 10 Volunteers
 Part 10A Accommodation provider
 Part 10B Rights between employer and employee
+Part 10C Child Abuse – Liability of Organisations
+Part 10C, Division 1 Preliminary
+Part 10C, Division 2 Duty of organisations to prevent child abuse
+Part 10C, Division 3 Vicarious liability of organisations
+Part 10C, Division 4 Proceedings against unincorporated organisations
 Part 11 Miscellaneous
