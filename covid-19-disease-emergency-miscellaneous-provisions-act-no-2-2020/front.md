@@ -1,0 +1,3 @@
+COVID-19 Disease Emergency (Miscellaneous Provisions) Act (No. 2) 2020
+An Act to provide for special measures, related to the social effect of, and the risk of the spread of, COVID-19 disease in the State, by amending, or modifying the application of, the Constitution Act 1934, the COVID-19 Disease Emergency (Miscellaneous Provisions) Act 2020, the Electoral Act 2004, the Emergency Management Act 2006, the Public Health Act 1997, the Tasmanian Health Service Act 2018, the Taxi and Hire Vehicle Industries Act 2008 and the Vehicle and Traffic Act 1999
+Be it enacted by Her Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
