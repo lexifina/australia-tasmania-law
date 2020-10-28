@@ -1,0 +1,12 @@
+# 60ZZG. Contents of final advice of EPA Board
+(1) A participating regulator that is the EPA Board may only specify, in a final advice under section 60ZZF(1) in relation to a major project, that the regulator requests the Panel to refuse to grant a major project permit in relation to the major project if the EPA Board is satisfied that the EPA Board would, if the project were not a major project and it were to deal with the project under section 25 of the EMPC Act, direct, under section 25(5) of the EMPC Act, a planning authority to refuse to grant a discretionary permit in relation to the project.
+(2) The conditions which the EPA Board may include in a final advice under section 60ZZF(1) include, but are not limited to including, any or all of the following:
+(a) a condition requiring the person to whom the major project permit is granted to apply for a further permit in the event of a proposed change in the activity which might result in environmental harm, within the meaning of the EMPC Act;
+(b) a condition requiring a person to provide a document or information to a person;
+(c) a condition requiring the person to whom the major project permit is granted to undertake regular monitoring of the environmental effects of the activity and to report the results of that monitoring to the Board on a regular basis;
+(d) a condition providing that the activity can be undertaken only for a specified period of time;
+(e) a condition requiring that, if the activity ceases, the site must be rehabilitated in accordance with the Board's requirements;
+(f) a condition requiring the person to whom the major project permit is granted to undertake such measures as the Board may specify to limit the environmental effects of traffic movements to and from the land to which the major project permit applies.
+(3) A participating regulator that is the EPA Board may only specify, in a final advice under section 60ZZF(1) in relation to a major project, that the regulator requests the Panel to impose a condition or restriction on any major project permit that may be granted in relation to the major project if the EPA Board is satisfied that, if the project were not a major project –
+(a) the EPA Board would not direct, under section 25(5) of the EMPC Act, a planning authority to refuse to grant a discretionary permit in relation to the project; and
+(b) the EPA Board would, under section 25(5) of the EMPC Act, require a permit, granted under this Act in relation to the project, to contain the condition or restriction.

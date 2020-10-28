@@ -8,7 +8,6 @@ Class of assessment | Characteristics
 (d)  | are unlikely to generate significant public interest.
 2. Class 2B | Any activity that is not included in Class 2A or Class 2C
 3. Class 2C | Projects that –
-(a)  | are projects of regional significance within the meaning of Part 4 of the Land Use Planning and Approvals Act 1993; or
 (b)  | have a reasonable likelihood of –
 (i)  | requiring approval from the Commonwealth Government under the Environment Protection and Biodiversity Conservation Act 1999 of the Commonwealth; or
 (ii)  | generating a very high level of public interest; or

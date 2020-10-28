@@ -1,0 +1,14 @@
+# 60ZZW. Minor amendment of major project permit
+(1) Subject to section 60ZZX, the relevant decision-maker may, on the application of a proponent of a major project, or an owner, occupier or lessee of land, to which a major project permit relates, by notice in writing to the applicant, amend the major project permit.
+(2) The relevant decision-maker may, on the application of –
+(a) a relevant regulator in relation to a major project to which the major project permit relates; or
+(b) the planning authority for the area of land to which the major project relates –
+amend the major project permit by notice in writing to the proponent, if any, and each owner, occupier or lessee of land to which the major project permit relates.
+(3) The relevant decision-maker may only amend under subsection (2) a major project permit if it has invited the proponent, if any, and each owner, occupier or lessee of land to which a major project permit relates, to show cause why the major project permit should not be amended as proposed.
+(4) The relevant decision-maker may only amend under subsection (1) or (2) a major project permit if, at least 14 days before amending the major project permit –
+(a) the relevant decision-maker has invited each relevant regulator, in relation to the major project to which the major project permit relates, to advise the relevant decision-maker within 14 days, or a longer period allowed by the relevant decision-maker, as to whether the relevant regulator objects to the proposed amendment; and
+(b) the relevant regulator has not, within the time required under paragraph (a), advised that the relevant regulator objects to the proposed amendment.
+(5) Subsection (4) does not apply in relation to a relevant regulator in relation to an amendment that the relevant regulator has applied for under subsection (2)(a).
+(6) If the relevant decision-maker amends a major project permit under subsection (1) or (2), the relevant decision-maker is to make a reasonable attempt to notify, in writing, of the making of the amendment, each person to whom a copy of the proposed amendment has been provided under section 60ZZX(1)(a).
+(7) The relevant decision-maker, as soon as practicable after amending under subsection (2) a major project permit in relation to a major project, is to make a reasonable attempt to, in writing, notify of the making of the amendment each person who made a representation under section 60ZZD(1), in relation to the project, that is a representation that is relevant to the amendment.
+(8) The relevant decision-maker, as soon as practicable after amending under subsection (1) or (2) a major project permit, is to ensure that a notice, specifying that the amendment has been made and setting out the effect of the amendment, is published in the Gazette and in a newspaper that is published, and circulates generally, in Tasmania.

@@ -1,0 +1,12 @@
+# 60ZZR. Fees in relation to major projects
+(1) The proponent of a major project in relation to which an environmental impact assessment is carried out in accordance with section 60ZC is liable to pay to the EPA Board, by the date specified in a notice by the Board to the proponent, the relevant fees for the assessment of the major project.
+(2) The relevant fees for the assessment by the EPA Board of a major project are the fees that the proponent would have been liable to pay for the assessment of the major project if –
+(a) the proponent had made an application for an ordinary permit in relation to the major project; and
+(b) the environmental impact assessment had been carried out under and in accordance with the EMPC Act as if this section did not apply.
+(3) The proponent of a major project is liable to pay to a relevant regulator in relation to the major project, other than the EPA Board or Heritage Council, the fee, calculated by multiplying the number of fee units per hour that is prescribed by the number of hours that the relevant regulator spends performing a function or exercising a power in relation to the major project, before a determination is made under section 60ZZM to grant, or refuse to grant, a major project permit in relation to the major project.
+(4) If a major project permit is granted to the proponent of a major project and the EPA Board or Heritage Council is a relevant regulator in relation to the major project –
+(a) the proponent is liable to pay to the EPA Board, or the Heritage Council, respectively, the fees that the proponent would have been liable to pay under the EMPC Act, or the Historic Cultural Heritage Act 1995, respectively, if the major project permit had been a permit within the meaning of this Act; and
+(b) the EMPC Act, or the Historic Cultural Heritage Act 1995, respectively, applies in relation to such fees accordingly.
+(5) If a major project permit is granted to the proponent of a major project and there is in relation to the major project a relevant regulator in relation to a project-associated Act (other than the EMPC Act or the Historic Cultural Heritage Act 1995) –
+(a) the proponent is liable to pay to the Director, within the meaning of that Act, the fees that the proponent would have been liable to pay if the major project permit had been a project-related permit granted under that Act; and
+(b) the project-associated Act applies in relation to such fees accordingly.

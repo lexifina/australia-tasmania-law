@@ -1,0 +1,2 @@
+# 60ZZZE. Restriction on certain applications for permits or amendments to planning schemes
+Except with the permission of the Commission, a person may not, within 2 calendar years from the date of a decision by the Panel under section 60ZZM(1)(b) to refuse to grant a major project permit in relation to a major project, apply to a planning authority to grant a permit in relation to a project that is the same as, or substantially the same as, the major project.
