@@ -4,7 +4,8 @@ Vertebrates
 Mammals
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
-1.  | Balaenoptera physalus | Linnaeus | Fin Whale
+1.  | Antechinus vandycki | Baker, Mutton, Mason & Gray, Mammals | Tasman Peninsula Dusky Antechinus
+2.  | Balaenoptera physalus | Linnaeus, Mammals | Fin Whale
 Birds
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
@@ -50,7 +51,6 @@ Invertebrates
 5.  | Beddomeia lodderae | Petterd, Mesogastropoda | Castra Rivulet Freshwater Snail
 5A.  | Beddomeia phasianella | Ponder & Clark, Mesogastropoda | Keddies Creek Freshwater Snail
 6.  | Beddomeia wiseae | Ponder & Clark, Mesogastropoda | Blizzards Creek Freshwater Snail
-6A.  | Castiarina insculpta | (Carter), Coleoptera | Miena Jewel Beetle
 7.  | Catadromus lacordairei | Boisduval, Coleoptera | Green-lined Ground Beetle
 7. 7A. | Chloritobadistes victoriae | (Cox), Eupulmonata | Southern Hairy Red Snail
 8.  | Dasybela achroa | Lower, Lepidoptera | Saltmarsh Looper Moth
@@ -99,7 +99,8 @@ Dicotyledonae
 32.  | Persicaria decipiens | (R.Br.) K.L.Wilson, Polygonaceae | slender waterpepper
 33.  | Phyllangium divergens | (Hook.f.) Dunlop, Loganiaceae | wiry mitrewort
 35.  | Pomaderris elachophylla | F.Muell., Rhamnaceae | small-leaf dogwood
-35A.  | Poranthera petalifera | (Orchard & J.B.Davies) Halford & R.J.F.Hend., Phyllanthaceae | mountain poranthera
+35A.  | Pomaderris pilifera subsp. talpicutica | A.M.Gray & M.Wapstra, Rhamnaceae | moleskin dogwood
+35B.  | Poranthera petalifera | (Orchard & J.B.Davies) Halford & R.J.F.Hend., Phyllanthaceae | mountain poranthera
 36.  | Prostanthera rotundifolia | R.Br., Lamiaceae | roundleaf mintbush
 37.  | Pultenaea humilis | Benth. ex Hook.f., Fabaceae | dwarf bushpea
 38.  | Pultenaea mollis | Lindl., Fabaceae | soft bushpea
@@ -150,7 +151,7 @@ Pteridophyta
 Lichens
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Hypotrachyna laevigata | (Sm.) Hale, Parmeliaceae | –
-2.  | Melanelia piliferella | (Essl.) Essl., Parmeliaceae | –
+1.  | Austromelanelixia piliferella | (Essl.) Divakar, Crespo & Lumbsch Parmeliaceae | –
+2.  | Hypotrachyna laevigata | (Sm.) Hale, Parmeliaceae | –
 3.  | Xanthoparmelia jarmaniae | Elix & Kantvilas, Parmeliaceae | –
 4.  | Xanthoparmelia mannumensis | (Elix) Elix & J.Johnst., Parmeliaceae | –

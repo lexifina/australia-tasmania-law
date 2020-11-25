@@ -71,11 +71,13 @@ Invertebrates
 12.  | Beddomeia ronaldi | Ponder & Clark, Mesogastropoda | St. Patricks River Freshwater Snail
 13.  | Beddomeia tumida | Petterd, Mesogastropoda | Great Lake Freshwater Snail
 14.  | Beddomeia waterhouseae | Ponder & Clark, Mesogastropoda | Claytons Rivulet Freshwater Snail
+15.  | Castiarina insculpta | (Carter), Coleoptera | Miena Jewel Beetle
 16.  | Chrysolarentia decisaria | Walker, Lepidoptera | Tunbridge Looper Moth
 18.  | Engaeus granulatus | Horwitz, Decapoda | Central North Burrowing Crayfish
 19.  | Engaeus spinicaudatus | Horwitz, Decapoda | Scottsdale Burrowing Crayfish
 20.  | Haloniscus searlei | Chilton, Isopoda | Salt Lake Slater
 21.  | Hoplogonus bornemisszai | Bartoluzzi, Coleoptera | Bornemisszas Stag Beetle
+21A.  | Leucopatus anophthalmus | (Ruhberg, Mesibov, Briscoe & Tait), Onychophora | Blind Velvet Worm
 22.  | Lissotes latidens | Westwood, Coleoptera | Broad-toothed Stag Beetle
 24.  | Micropathus kiernani | Richards, Orthoptera | Southern Sandstone Cave Cricket
 24A.  | Migas plomleyi | Raven and Churchill, Araneae | Plomleys Trapdoor Spider
@@ -85,9 +87,9 @@ Invertebrates
 27A.  | Patiriella littoralis | (Dartnell), Asterinidae | Derwent River Seastar
 28.  | Plesiothele fentoni | Hickman, Araneae | Lake Fenton Trapdoor Spider
 29.  | Schayera baiulus | Erichson, Orthoptera | Schayer's Grasshopper
+29A.  | Smilasterias tasmaniae | O’Loughlin and O’Hara, Asterinidae | Bruny Island Seastar
 30.  | Taskiria mccubbini | Neboiss, Trichoptera | Caddis Fly (Lake Pedder)
 31.  | Taskiropsyche lacustris | Neboiss, Trichoptera | Caddis Fly (Lake Pedder)
-32.  | Tasmanipatus anophthalmus | Ruhberg, Onychophora | Blind Velvet Worm
 Flora
 Dicotyledonae
 | Column 1 | Column 2 | Column 3
@@ -135,13 +137,13 @@ Dicotyledonae
 34.  | Mentha australis | R.Br., Lamiaceae | river mint
 34A.  | Millotia muelleri | (Sond.) P.S.Short, Asteraceae | clustered bowflower
 34B.  | Myosurus australis | F.Muell., Ranunculaceae | southern mousetail
+34C.  | Ozothamnus floribundus | de Salas & Schmidt-Leb., Asteraceae | flowery everlastingbush
 35.  | Persicaria subsessilis | (R.Br.) K.L. Wilson, Polygonaceae | bristly waterpepper
 36.  | Phebalium daviesii | Hook.f., Rutaceae | davies waxflower
 37.  | Philotheca freyciana | Rozefelds, Rutaceae | freycinet waxflower
 38.  | Pimelea axiflora subsp. axiflora | F.Muell. ex Meisn., Thymelaeaceae | bootlace bush
 38A.  | Pimelea sp. Tunbridge | (A.Moscal 9026) Tas Herbarium, Thymelaeaceae | grassland riceflower
 39.  | Polyscias sp. Douglas-Denison | (R.B.Schahinger HO 526133) Tas. Herbarium, Araliaceae | ferny panax
-39A.  | Pomaderris pilifera subsp. talpicutica | A.M.Gray & M.Wapstra, Rhamnaceae | moleskin dogwood
 39B.  | Ranunculus diminutus | B.G.Briggs, Orchidaceae | brackish buttercup
 40.  | Ranunculus prasinus | Menadue, Ranunculaceae | midlands buttercup
 41.  | Rhytidosporum inconspicuum | L.W.Cayzer, Crisp & I.Telford, Pittosporaceae | alpine appleberry
@@ -189,6 +191,7 @@ Monocotyledonae
 26.  | Diuris lanceolata | Lindl., Orchidaceae | large golden moths
 27.  | Diuris palustris | Lindl., Orchidaceae | swamp doubletail
 27B.  | Poa cookii | (Hook.f.) Hook.f., Poaceae | cooks tussockgrass
+28.  | Prasophyllum abblittiorum | P.A. Collier, Orchidaceae | pallid leek-orchid
 30A.  | Prasophyllum atratum | D.L.Jones, Orchidaceae | three hummock leek-orchid
 31.  | Prasophyllum castaneum | D.L.Jones, Orchidaceae | chestnut leek-orchid
 31A.  | Prasophyllum crebriflorum | D.L.Jones, Orchidaceae | crowded leek-orchid
@@ -222,6 +225,7 @@ Monocotyledonae
 54.  | Thelymitra jonesii | Jeanes, Orchidaceae | skyblue sun-orchid
 54A.  | Thelymitra lucida | Jeanes, Orchidaceae | glistening sun-orchid
 55.  | Thelymitra malvina | M.A.Clem., D.L.Jones & Molloy, Orchidaceae | mauvetuft sun-orchid
+55A.  | Thelymitra mucida | Fitzg., Orchidaceae | plum sun-orchid
 56.  | Thynninorchis nothofagicola | (D.L.Jones) D.L.Jones & M.A. Clem., Orchidaceae | myrtle elbow-orchid
 56A.  | Triglochin mucronata | R.Br., Juncaginaceae | prickly arrowgrass
 56B.  | Wurmbea latifolia subsp. vanessae | R.J.Bates, Colchicaceae | broadleaf early nancy
@@ -290,7 +294,7 @@ Monocotyledonae
 | Species | Authority, Family | Common name
 1.  | Caladenia cardiochila | Tate, Orchidaceae | heartlip spider-orchid
 3.  | Deyeuxia lawrencei | Vickery, Poaceae | lawrences bentgrass
-4.  | Lepilaena australis | J.Drumm. ex Harv., Zannichelliaceae | southern watermat
+4.  | Lepilaena australis | J.Drumm. ex Harv., Potomogetonaceae | southern watermat
 5.  | Thynninorchis huntiana | (F.Muell.) D.L.Jones & M.A.Clem., Orchidaceae | elbow-orchid
 Pteridophyta
 | Column 1 | Column 2 | Column 3

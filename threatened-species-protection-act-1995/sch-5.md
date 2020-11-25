@@ -78,7 +78,6 @@ Invertebrates
 52.  | Pseudalmenus chlorinda myrsilus | Couchman, Lepidoptera | Tasmanian Hairstreak (butterfly)
 53.  | Pseudotyrannochthonius typhlus | Dartnall, Pseudoscorpionida | Cave Pseudoscorpion (Mole Creek)
 54.  | Ramiheithrus kocinus | Neboiss, Trichoptera | Caddis Fly (Corinna)
-56.  | Smilasterias tasmaniae | O'Loughlin and O'Hara, Asterinidae | Bruny Island Seastar
 57.  | Stenopsychodes lineata | Neboiss, Trichoptera | Caddis Fly (Bluff Hill Creek)
 58.  | Tasimia drepana | Neboiss, Trichoptera | Caddis Fly (Huon & Picton Rivers)
 59.  | Tasmanipatus barretti | Ruhberg, Onychophora | Giant Velvet Worm
@@ -112,7 +111,7 @@ Dicotyledonae
 25.  | Callitriche umbonata | Hegelm., Plantaginaceae | winged waterstarwort
 26.  | Calocephalus citreus | Less., Asteraceae | lemon beautyheads
 27.  | Calocephalus lacteus | Less., Asteraceae | milky beautyheads
-28.  | Calystegia sepium | (L.) R.Br., Convolvulaceae | swamp bindweed
+28.  | Calystegia sepium subsp. sepium | (L.) R.Br., Convolvulaceae | swamp bindweed
 29.  | Calystegia soldanella | (L.) Roem. & Schult., Convolvulaceae | sea bindweed
 31.  | Centipeda cunninghamii | (DC.) A.Braun & Asch., Asteraceae | erect sneezeweed
 31A.  | Centropappus brunonis | Hook.f., Asteraceae | tasmanian daisytree
@@ -172,7 +171,7 @@ Dicotyledonae
 85.  | Lobelia rhombifolia | de Vriese, Campanulaceae | tufted lobelia
 86.  | Lotus australis | Andrews, Fabaceae | australian trefoil
 87.  | Melaleuca pustulata | Hook.f., Myrtaceae | warty paperbark
-88.  | Micrantheum serpentinum | Orchard, Picodendraceae | western tridentbush
+88.  | Micrantheum serpentinum | Orchard, Picrodendraceae | western tridentbush
 90.  | Monotoca submutica var. autumnalis | Jarman, Ericaceae | roundleaf broomheath
 91.  | Muehlenbeckia axillaris | (Hook.f.) Endl., Polygonaceae | matted lignum
 92.  | Myriophyllum muelleri | Sond., Haloragaceae | hooded watermilfoil
@@ -275,7 +274,6 @@ Monocotyledonae
 42.  | Hydrorchis orbicularis | (R.S.Rogers) D.L.Jones & M.A.Clem., Orchidaceae | swamp onion-orchid
 44.  | Isolepis habra | (Edgar) Sojak, Cyperaceae | wispy clubsedge
 45.  | Isolepis stellata | (C.B.Clarke) K.L.Wilson, Cyperaceae | star clubsedge
-46.  | Juncus amabilis | Edgar, Juncaceae | gentle rush
 47.  | Juncus fockei | Buchenau, Juncaceae | slender jointleaf rush
 48.  | Juncus prismatocarpus | R.Br., Juncaceae | branching rush
 49.  | Juncus vaginatus | R.Br., Juncaceae | clustered rush
@@ -286,9 +284,9 @@ Monocotyledonae
 55.  | Lepidosperma forsythii | A.A.Hamilton, Cyperaceae | stout rapiersedge
 56.  | Lepidosperma tortuosum | F.Muell., Cyperaceae | twisting rapiersedge
 57.  | Lepidosperma viscidum | R.Br., Cyperaceae | sticky swordsedge
-58.  | Lepilaena marina | E.L.Robertson, Zannichelliaceae | sea watermat
-59.  | Lepilaena patentifolia | E.L.Robertson, Zannichelliaceae | spreading watermat
-60.  | Lepilaena preissii | (Lehm.) F.Muell., Zannichelliaceae | slender watermat
+58.  | Lepilaena marina | E.L.Robertson, Potomogetonaceae | sea watermat
+59.  | Lepilaena patentifolia | E.L.Robertson, Potomogetonaceae | spreading watermat
+60.  | Lepilaena preissii | (Lehm.) F.Muell., Potomogetonaceae | slender watermat
 61.  | Luzula atrata | Edgar, Juncaceae | slender woodrush
 62.  | Microtidium atratum | (Lindl.) D.L.Jones & M.A.Clem., Orchidaceae | yellow onion-orchid
 63.  | Milligania johnstonii | F.Muell. ex Benth., Asteliaceae | shortleaf milligania
@@ -303,13 +301,11 @@ Monocotyledonae
 75.  | Puccinellia perlaxa | (Stapf ex N.G.Walsh) N.G. Walsh & A.R.Williams, Poaceae | spreading saltmarshgrass
 76.  | Ruppia megacarpa | R.Mason, Ruppiaceae | largefruit seatassel
 77.  | Ruppia tuberosa | J.S.Davis & Toml., Ruppiaceae | tuberous seatassel
-77A.  | Rytidosperma indutum | (Vickery) Connor & Edgar, Poaceae | tall wallabygrass
 77C.  | Rytidosperma remotum | (D.I.Morris) A.M.Humphreys & H.P.Linder, Poaceae | remote wallabygrass
 78.  | Schoenoplectus tabernaemontani | (C.C.Gmel.) Palla, Cyperaceae | river clubsedge
 79.  | Schoenus brevifolius | R.Br., Cyperaceae | zigzag bogsedge
 81A.  | Stuckenia pectinata | (L.) Börner, Potamogetonaceae | fennel pondweed
 82.  | Thelymitra holmesii | Nicholls, Orchidaceae | bluestar sun-orchid
-83.  | Thelymitra mucida | Fitzg., Orchidaceae | plum sun-orchid
 85.  | Tricostularia pauciflora | (F.Muell.) Benth., Cyperaceae | needle bogsedge
 86.  | Triglochin minutissima | F.Muell., Juncaginaceae | tiny arrowgrass
 87.  | Trithuria submersa | Hook.f., Hydatellaceae | submerged watertuft
