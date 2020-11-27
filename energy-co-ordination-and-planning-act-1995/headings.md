@@ -1,4 +1,5 @@
 Part 1 Preliminary
+Part 1A Renewable Energy
 Part 2 Director of Energy Planning
 Part 2A Monitor and Assessor for Energy Security and Energy Security Co-ordinator
 Part 2A, Division 1 Monitor and Assessor for Energy Security
