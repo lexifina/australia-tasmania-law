@@ -24,6 +24,7 @@ Part 4, Division 2A, Subdivision 8 Transitional matters – trade waste
 Part 4, Division 3 Customer service code
 Part 4, Division 4 Customer contract
 Part 4, Division 5 Price regulation
+Part 4, Division 5A Service standards
 Part 4, Division 6 Performance monitoring, reporting and audits
 Part 4, Division 7 Complaints and disputes
 Part 5 Administrative Review of Regulator's Decisions
