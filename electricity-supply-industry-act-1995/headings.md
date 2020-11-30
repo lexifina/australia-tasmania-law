@@ -25,6 +25,7 @@ Part 3, Division 4A, Subdivision 3 Price monitoring
 Part 3, Division 4A, Subdivision 4 Transitional matters
 Part 3, Division 5 Restrictions on re-supply
 Part 3, Division 5A Feed-in tariffs
+Part 3, Division 5B Special provisions relating to certain transmission and distribution entities
 Part 3, Division 6 Disputes
 Part 3, Division 7 Effect of non-compliance with Act
 Part 3, Division 8 Regulator's powers to take control of operations
