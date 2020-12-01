@@ -940,6 +940,7 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 414.  | RR 300(1) | Drive using mobile phone (when vehicle moving or stationary, but not parked) except to make or receive audio phone call from phone secured in mounting or not required to be touched |  |
 (a)  |  | rider of a bicycle | 0.75 | 0
 (b)  |  | any other driver | 2 | 3
+414A.  | RR 300(1A) | Drive vehicle under learner licence, or P1 provisional licence, while using mobile phone when vehicle moving or stationary, but not parked | 2 | 3
 Miscellaneous animal offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
@@ -1083,18 +1084,20 @@ Vehicle and Traffic (Driver Licensing and Vehicle Registration) Regulations 2010
 Learner, provisional and conditional licence offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-510.  | DLVR 10(9) | Novice driver in L1 stage or L2 stage or novice rider in motorcycle learner stage fail to display clearly visible L-plates as required | 0.50 | 2
-511.  | DLVR 10(9) | Learner driver (other than novice driver in L1 stage or L2 stage or novice rider in motorcycle learner stage) fail to display clearly visible L-plates as required | 0.50 | 2
-512.  | DLVR 10(11) | Novice driver in L1 stage or L2 stage driving without accompanying person as required | 1.25 | 0
+510.  | DLVR 10(9) | Novice driver in novice driver learner stage or novice rider in motorcycle learner stage fail to display clearly visible L-plates as required | 0.50 | 2
+511.  | DLVR 10(9) | Learner driver (other than novice driver in novice driver learner stage or novice rider in motorcycle learner stage) fail to display clearly visible L-plates as required | 0.50 | 2
+512.  | DLVR 10(11) | Novice driver in novice driver learner stage driving without accompanying person as required | 1.25 | 0
 513.  | DLVR 10(11) | Learner driver (other than novice driver) driving without accompanying person as required | 1.25 | 0
 514.  | DLVR 10(15) | Drive with L-plate displayed when not learner driver | 0.50 | 0
 515.  | DLVR 10(16) | Employing, causing or permitting motor vehicle to be driven without L-plates displayed as required | 0.50 | 0
-516.  | DLVR 10(16) | Employing, causing or permitting learner driver (including novice driver in L1 stage or L2 stage) to drive without accompanying person as required | 1.25 | 0
+516.  | DLVR 10(16) | Employing, causing or permitting learner driver (including novice driver in novice driver learner stage) to drive without accompanying person as required | 1.25 | 0
 517.  | DLVR 10(16) | Employing, causing or permitting holder of learner motor cycle licence to drive motor cycle on public street carrying another person unless holder permitted by regulation 10(13) of the DLVR | 1 | 0
 518.  | DLVR 10(16) | Employing, causing or permitting holder of learner motor cycle licence to drive motor cycle, other than learner approved motor cycle, on public street | 1 | 0
 519.  | DLVR 10(16) | Employing, causing or permitting holder of learner motor cycle licence to drive motor cycle on public street unless motor cycle is of a kind prescribed or holder has authorisation | 1 | 0
 520.  | DLVR 12(9) | Novice driver or novice rider in P1 stage fail to display clearly visible P-plates as required | 0.50 | 2
-521.  | DLVR 12(11) | Employ/cause/permit novice driver or novice rider in P1 stage to drive without displaying clearly visible P-plates as required | 0.50 | 0
+520A.  | DLVR 12(9A) | Novice driver, or novice rider, in P2 stage fail to display clearly visible P-plates as required | 0.50 | 2
+521.  | DLVR 12(11) | Employ/cause/permit novice driver or novice rider in P1 stage or P2 stage to drive without displaying clearly visible P-plates as required | 0.50 | 0
+521A.  | DLVR 12A(1) | Holder of P1 provisional licence, in relation to a vehicle other than a motor cycle, transporting more than one passenger, who has attained the age of 16 years but not attained the age of 22 years, otherwise than as permitted by regulation 12A of the DLVR | 1.25 | 2
 522.  | DLVR 13(1) | Holder of P1 provisional licence in relation to motor cycle driving, on public street, motor cycle carrying another person | 1 | 0
 523.  | DLVR 13(2) | Holder of P1 provisional licence in relation to a motor cycle driving motor cycle on public street otherwise than as permitted by regulation 13(2) of the DLVR | 1 | 0
 524.  | DLVR 13(4) | Employing, causing or permitting holder of P1 provisional licence in relation to a motor cycle to drive, on public street, motor cycle carrying another person | 1 | 0
