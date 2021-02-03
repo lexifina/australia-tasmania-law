@@ -2,4 +2,4 @@
 Section 7(5)
 Building Act 2016
 Electricity Industry Safety and Administration Act 1997
-Gas Act 2000
+Gas Safety Act 2019
