@@ -1,5 +1,4 @@
 # Schedule 1 Administrative authorities
-[Not yet in force. Commences: 31 March 2021]
 Sections 34, 38 and 139
 Applications for approval, &c.
 1 Applications
@@ -97,4 +96,3 @@ Application for renewal of relevant authorisation
 (a) the applicant is taken to be a biosecurity certifier subject to any conditions specified in the written notice given by the relevant decision-maker under that clause in respect of the application; and
 (b) the accreditation of the applicant as a biosecurity certifier is taken to remain in force for a period (not exceeding 5 years) specified in the written notice given by the relevant decision-maker under that clause in respect of the application, unless sooner cancelled under this Act.
 (4) If the relevant decision-maker considers it necessary, the relevant decision-maker is to reissue the applicant with a new identity card, in an approved form, if the applicant's application for renewal is granted under clause 6.
-[End of text not yet in force]
