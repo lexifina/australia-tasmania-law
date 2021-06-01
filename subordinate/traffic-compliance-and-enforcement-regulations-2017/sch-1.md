@@ -918,6 +918,9 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 400.  | RR 292 | Drive/tow vehicle with improperly secured/placed load or projecting load likely to injure/damage/obstruct |  |
 (a)  |  | rider of a bicycle | 0.75 | 0
 (b)  |  | any other driver | 1.25 | 0
+400A.  | RR 292A | Drive/tow a vehicle with load improperly restrained and able to move |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1.25 | 0
 401.  | RR 293(2) | Driver fail to remove/have removed from road, as soon as safely can, any thing fallen/put from driver's vehicle (when possibility of injury/damage/obstruction) |  |
 (a)  |  | rider of a bicycle | 1 | 0
 (b)  |  | any other driver | 1 | 0
@@ -1080,151 +1083,136 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 507.  | VT 55(3) | Fail to comply with Registrar's written requirement to provide specified information/evidence/ documents for inspection, or attend for identification (to correct/complete relevant register entry) | 1.25 | 0
 508.  | VT 56A(7) | Fail to comply with police direction (when temporary closure of public street or prohibition on its use – public event) | 1.25 | 0
 509.  | VT 56B(2) | Fail to comply with police direction (when temporary closure of public street or prohibition on its use – danger or obstruction) | 1.25 | 0
-Vehicle and Traffic (Driver Licensing and Vehicle Registration) Regulations 2010
+Vehicle and Traffic (Driver Licensing and Vehicle Registration) Regulations 2021
 Learner, provisional and conditional licence offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-510.  | DLVR 10(9) | Novice driver in novice driver learner stage or novice rider in motorcycle learner stage fail to display clearly visible L-plates as required | 0.50 | 2
-511.  | DLVR 10(9) | Learner driver (other than novice driver in novice driver learner stage or novice rider in motorcycle learner stage) fail to display clearly visible L-plates as required | 0.50 | 2
-512.  | DLVR 10(11) | Novice driver in novice driver learner stage driving without accompanying person as required | 1.25 | 0
-513.  | DLVR 10(11) | Learner driver (other than novice driver) driving without accompanying person as required | 1.25 | 0
-514.  | DLVR 10(15) | Drive with L-plate displayed when not learner driver | 0.50 | 0
-515.  | DLVR 10(16) | Employing, causing or permitting motor vehicle to be driven without L-plates displayed as required | 0.50 | 0
-516.  | DLVR 10(16) | Employing, causing or permitting learner driver (including novice driver in novice driver learner stage) to drive without accompanying person as required | 1.25 | 0
-517.  | DLVR 10(16) | Employing, causing or permitting holder of learner motor cycle licence to drive motor cycle on public street carrying another person unless holder permitted by regulation 10(13) of the DLVR | 1 | 0
-518.  | DLVR 10(16) | Employing, causing or permitting holder of learner motor cycle licence to drive motor cycle, other than learner approved motor cycle, on public street | 1 | 0
-519.  | DLVR 10(16) | Employing, causing or permitting holder of learner motor cycle licence to drive motor cycle on public street unless motor cycle is of a kind prescribed or holder has authorisation | 1 | 0
-520.  | DLVR 12(9) | Novice driver or novice rider in P1 stage fail to display clearly visible P-plates as required | 0.50 | 2
-520A.  | DLVR 12(9A) | Novice driver, or novice rider, in P2 stage fail to display clearly visible P-plates as required | 0.50 | 2
-521.  | DLVR 12(11) | Employ/cause/permit novice driver or novice rider in P1 stage or P2 stage to drive without displaying clearly visible P-plates as required | 0.50 | 0
-521A.  | DLVR 12A(1) | Holder of P1 provisional licence, in relation to a vehicle other than a motor cycle, transporting more than one passenger, who has attained the age of 16 years but not attained the age of 22 years, otherwise than as permitted by regulation 12A of the DLVR | 1.25 | 2
-522.  | DLVR 13(1) | Holder of P1 provisional licence in relation to motor cycle driving, on public street, motor cycle carrying another person | 1 | 0
-523.  | DLVR 13(2) | Holder of P1 provisional licence in relation to a motor cycle driving motor cycle on public street otherwise than as permitted by regulation 13(2) of the DLVR | 1 | 0
-524.  | DLVR 13(4) | Employing, causing or permitting holder of P1 provisional licence in relation to a motor cycle to drive, on public street, motor cycle carrying another person | 1 | 0
-525.  | DLVR 13(4) | Employing, causing or permitting holder of P1 provisional licence in relation to a motor cycle to drive motor cycle on public street unless holder permitted by regulation 13(2) of the DLVR | 1 | 0
-526.  | DLVR 24(5) | Holder of code X conditional Australian driver licence fail to carry explanatory notice as required | 1.25 | 0
+510.  | DLVR 12(2) | Novice driver in novice driver learner stage or novice rider in motorcycle learner stage fail to display clearly visible L-plates as required | 0.50 | 2
+511.  | DLVR 12(2) | Learner driver (other than novice driver in novice driver learner stage or novice rider in motorcycle learner stage) fail to display clearly visible L-plates as required | 0.50 | 2
+512.  | DLVR 12(3) | Novice driver in novice driver learner stage driving without accompanying person as required | 1.25 | 0
+513.  | DLVR 12(3) | Learner driver (other than novice driver) driving without accompanying person as required | 1.25 | 0
+514.  | DLVR 13(1) | Drive with L-plate displayed when not learner driver | 0.50 | 0
+515.  | DLVR 13(2) | Employing, causing or permitting motor vehicle to be driven without L-plates displayed as required | 0.50 | 0
+516.  | DLVR 13(2) | Employing, causing or permitting learner driver (including novice driver in novice driver learner stage) to drive without accompanying person as required | 1.25 | 0
+517.  | DLVR 13(2) | Employing, causing or permitting holder of learner motor cycle licence to drive motor cycle on public street carrying another person unless holder permitted by regulation 12(5) of the DLVR | 1 | 0
+518.  | DLVR 13(2) | Employing, causing or permitting holder of learner motor cycle licence to drive motor cycle, other than learner approved motor cycle, on public street | 1 | 0
+519.  | DLVR 13(2) | Employing, causing or permitting holder of learner motor cycle licence to drive motor cycle on public street unless motor cycle is of a kind prescribed or holder has authorisation | 1 | 0
+520.  | DLVR 17(2) | Novice driver or novice rider in P1 stage fail to display clearly visible P-plates as required | 0.50 | 2
+521.  | DLVR 17(3) | Novice driver or novice rider in P2 stage fail to display clearly visible P-plates as required | 0.50 | 2
+522.  | DLVR 17(5) | Employ/cause/permit novice driver or novice rider in P1 stage or P2 stage to drive without displaying clearly visible P-plates as required | 0.50 | 0
+523.  | DLVR 18(1) | Holder of P1 provisional licence, in relation to motor vehicle other than a motor cycle, transporting more than one passenger, who has attained the age of 16 years but not attained the age of 22 years, otherwise than as permitted by regulation 18(2) or 18(3) of the DLVR | 1.25 | 2
+524.  | DLVR 19(1) | Holder of P1 provisional licence in relation to motor cycle driving, on public street, motor cycle carrying another person | 1 | 0
+525.  | DLVR 19(2) | Holder of P1 provisional licence, in relation to a motor cycle, driving motor cycle on public street otherwise than as permitted by regulation 19(2) of DLVR | 1 | 0
+526.  | DLVR 19(4) | Employing, causing or permitting holder of P1 provisional licence in relation to a motor cycle to drive, on public street, motor cycle carrying another person | 1 | 0
+527.  | DLVR 19(4) | Employing, causing or permitting holder of P1 provisional licence in relation to a motor cycle to drive motor cycle on public street unless holder permitted by regulation 19(2) of the DLVR | 1 | 0
+528.  | DLVR 33(6) | Holder of code X conditional Australian driver licence fail to carry explanatory notice as required | 1.25 | 0
 Miscellaneous licensing offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-527.  | DLVR 36(1) | Fail to notify change of name, residential address, or address for service of notices, within 14 days | 0.75 | 0
-528.  | DLVR 36(5) | Fail to attach change of address sticker to driver licence as soon as practicable, and keep attached | 0.75 | 0
+529.  | DLVR 44(1) | Fail to notify change of name, residential address, or address for service of notices, within 14 days | 0.75 | 0
+530.  | DLVR 44(5) | Fail to attach change of address sticker to driver licence as soon as practicable, and keep attached | 0.75 | 0
 General ancillary certificate offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-529.  | DLVR 42(2) | Fail to display identification card (issued to ancillary certificate holder) in vehicle as required | 1.25 | 0
+531.  | DLVR 52(2) | Fail to display identification card (issued to ancillary certificate holder) in vehicle as required | 1.25 | 0
 Document offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-530.  | DLVR 49(1) | Fail to return driver licence to Registrar within 21 days of service of notice of suspension | 1.25 | 0
-531.  | DLVR 49(1) | Fail to return driver licence to Registrar within 21 days of service of notice of cancellation | 1.25 | 0
-532.  | DLVR 49(1) | Fail to return ancillary certificate to Registrar within 21 days of service of notice of suspension | 1.25 | 0
-533.  | DLVR 49(1) | Fail to return ancillary certificate to Registrar within 21 days of service of notice of cancellation | 1.25 | 0
-534.  | DLVR 49(2) | Fail to return restricted driver licence (and any ancillary certificate) to Registrar within 21 days after revocation by court | 1.25 | 0
-535.  | DLVR 49(3) | Fail to return driver licence (and any ancillary certificate) to Registrar within 21 days after being disqualified from driving by court or by automatic statutory penalty | 1.25 | 0
-536.  | DLVR 50(1) | Fail to return driver licence or ancillary certificate to Registrar for endorsement/replacement within 21 days after service of notice or request | 1.25 | 0
+532.  | DLVR 58(1) | Fail to return driver licence to Registrar within 21 days of service of notice of suspension | 1.25 | 0
+533.  | DLVR 58(1) | Fail to return driver licence to Registrar within 21 days of service of notice of cancellation | 1.25 | 0
+534.  | DLVR 58(2) | Fail to return ancillary certificate to Registrar within 21 days of service of notice of suspension | 1.25 | 0
+535.  | DLVR 58(2) | Fail to return ancillary certificate to Registrar within 21 days of service of notice of cancellation | 1.25 | 0
+536.  | DLVR 58(3) | Fail to return restricted driver licence (and any ancillary certificate) to Registrar within 21 days after revocation by court | 1.25 | 0
+537.  | DLVR 58(4) | Fail to return driver licence (and any ancillary certificate) to Registrar within 21 days after being disqualified from driving by court or by automatic statutory penalty | 1.25 | 0
+538.  | DLVR 59(1) | Fail to return driver licence or ancillary certificate to Registrar for endorsement/replacement within 21 days after service of notice or request | 1.25 | 0
 General registration offence
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-537.  | DLVR 55(1) | Fail to stamp/display new identification number as required by Registrar (when no, or altered/defaced, identification number) | 1.25 | 0
-538.  | DLVR 55(2) | Fail to overstrike existing identification number and stamp/display new identification number as specified and required by the Registrar (when number is same as for other vehicle) | 1.25 | 0
-539.  | DLVR 59(6) | Fail to install and keep installed an "operations plate" on conditionally registered vehicle as required | 1.25 | 0
-540.  | DLVR 59(6) | Fail to ensure a "certificate of approved operations" carried at all times in conditionally registered vehicle | 1.25 | 0
-541.  | DLVR 63(1) | Registered operator fail to ensure within 7 days that motor vehicle number plate for that vehicle is permanently affixed as required | 1 | 0
-542.  | DLVR 63(1) | Registered operator fail to ensure within 7 days that trailer number plate for that vehicle is permanently affixed as required | 1 | 0
-543.  | DLVR 63(2)(a) | Registered operator fail to ensure any motor vehicle number plate cover is clear, clean, untinted, flat over entire surface and has no characteristics preventing production of clear number plate photograph by photographic detection device | 1 | 0
-544.  | DLVR 63(2)(a) | Registered operator fail to ensure any trailer number plate cover is clear, clean, untinted, flat over entire surface and has no characteristics preventing production of clear number plate photograph by photographic detection device | 1 | 0
-545.  | DLVR 63(2)(b) | Registered operator fail to ensure that no object obscures/reduces visibility of any motor vehicle number plate and that number plate has no characteristics preventing production of clear number plate photograph by photographic detection device | 1 | 0
-546.  | DLVR 63(2)(b) | Registered operator fail to ensure that no object obscures/reduces visibility of any trailer number plate and that number plate has no characteristics preventing production of clear number plate photograph by photographic detection device | 1 | 0
-547.  | DLVR 63(3) | Apply substance to number plate that prevents production of clear number plate photograph by photographic detection device | 1 | 0
-548.  | DLVR 63(4)(a) | Use motor vehicle without number plates issued for the vehicle affixed and displayed as required | 1 | 0
-549.  | DLVR 63(4)(a) | Use trailer without number plates issued for the vehicle affixed and displayed as required | 1 | 0
-550.  | DLVR 63(4)(a) | Permit use of motor vehicle without number plates issued for the vehicle affixed and displayed as required | 1 | 0
-551.  | DLVR 63(4)(a) | Permit use of trailer without number plates issued for the vehicle affixed and displayed as required | 1 | 0
-552.  | DLVR 63(4)(b) | Use motor vehicle not complying with number plate/cover regulations (other than affix and display) | 1 | 0
-553.  | DLVR 63(4)(b) | Use trailer not complying with number plate/cover regulations (other than affix and display) | 1 | 0
-554.  | DLVR 63(4)(b) | Permit use of motor vehicle not complying with number plate/cover regulations (other than affix and display) | 1 | 0
-555.  | DLVR 63(4)(b) | Permit use of trailer not complying with number plate/cover regulations (other than affix and display) | 1 | 0
+539.  | DLVR 80(2)(a) | Fail to stamp/display new reference number as required by Registrar (when no, or altered/defaced, identification number) | 1.25 | 0
+540.  | DLVR 80(2)(b) | Fail to make existing identification number illegible and stamp/display new reference number as specified and required by Registrar (when number is same as for other vehicle) | 1.25 | 0
+541.  | DLVR 84(6) | Fail to install and keep installed an "operations plate" on conditionally registered vehicle as required | 1.25 | 0
+542.  | DLVR 84(6) | Fail to ensure a "certificate of approved operations" carried at all times in conditionally registered vehicle | 1.25 | 0
+543.  | DLVR 89(1) | Registered operator fail to ensure within 7 days that vehicle number plate for that vehicle is permanently affixed as required | 1 | 0
+544.  | DLVR 89(2)(a) | Registered operator fail to ensure any vehicle number plate cover is clear, clean, untinted, flat over entire surface and has no characteristics preventing production of clear number plate photograph by photographic detection device | 1 | 0
+545.  | DLVR 89(2)(b) | Registered operator fail to ensure no object obscures/reduces visibility of any vehicle number plate and that number plate has no characteristics preventing production of clear number plate photograph by photographic detection device | 1 | 0
+546.  | DLVR 89(3) | Apply substance to number plate that prevents production of clear number plate photograph by photographic detection device | 1 | 0
+547.  | DLVR 89(4)(a) | Use vehicle without number plates issued for the vehicle affixed and displayed as required | 1 | 0
+548.  | DLVR 89(4)(a) | Permit use of vehicle without number plates issued for the vehicle affixed and displayed as required | 1 | 0
+549.  | DLVR 89(4)(b) | Use vehicle not complying with number plate/cover regulations (other than affix and display) | 1 | 0
+550.  | DLVR 89(4)(b) | Permit use of vehicle not complying with number plate/cover regulations (other than affix and display) | 1 | 0
 Transfer or surrender of registration offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-562.  | DLVR 69(3) | Registered operator transferring registration fail to comply with requirements for transfer of vehicle registration | 0.75 | 0
-563.  | DLVR 69(5) | Proposed transferee fail to comply with requirements for transfer of vehicle registration | 0.75 | 0
-564.  | DLVR 69(6) | Person taking possession of vehicle under court order/powers conferred by security interest fail to comply with requirements for transfer of vehicle registration | 0.75 | 0
-565.  | DLVR 71(6) | Fail to destroy registration label as soon as practicable after surrendering registration | 0.50 | 0
+551.  | DLVR 101(4) | Registered operator transferring registration fail to comply with requirements for transfer of vehicle registration | 0.75 | 0
+552.  | DLVR 101(6) | Proposed transferee fail to comply with requirements for transfer of vehicle registration | 0.75 | 0
+553.  | DLVR 101(7) | Person taking possession of vehicle under court order/powers conferred by security interest fail to comply with requirements for transfer of vehicle registration | 0.75 | 0
 Vehicle defect notice offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-566.  | DLVR 86(3) | Driver fail to give/send formal warning notice to registered operator as soon as practicable | 1 | 0
-567.  | DLVR 87(7) | Driver fail to give/send vehicle defect notice to registered operator as soon as practicable | 1 | 0
-568.  | DLVR 88(5) | Remove/deface a defective vehicle label without authorisation | 1.25 | 0
-569.  | DLVR 89(1) | Use motor vehicle subject of major vehicle defect notice (other than one imposing total prohibition on use) after time allowed for compliance has passed (when notice not complied with) | 1.25 | 3
-570.  | DLVR 89(1) | Use trailer subject of major vehicle defect notice (other than one imposing total prohibition on use) after time allowed for compliance has passed (when notice not complied with) | 1.25 | 3
-571.  | DLVR 89(2) | Use motor vehicle subject of minor vehicle defect notice after time allowed for compliance has passed (when notice not complied with) | 1 | 1
-572.  | DLVR 89(2) | Use trailer subject of minor vehicle defect notice after time allowed for compliance has passed (when notice not complied with) | 1 | 1
-573.  | DLVR 89(3) | Use motor vehicle with minor vehicle defect notice contrary to a condition limiting its use | 1 | 1
-574.  | DLVR 89(3) | Use trailer with minor vehicle defect notice contrary to a condition limiting its use | 1 | 1
-575.  | DLVR 89(3) | Use motor vehicle with major vehicle defect notice contrary to a condition limiting its use (other than total prohibition on use) | 1.25 | 3
-576.  | DLVR 89(3) | Use trailer with major vehicle defect notice contrary to a condition limiting its use (other than total prohibition on use) | 1.25 | 3
-577.  | DLVR 89(5) | Permit use of motor vehicle subject of minor vehicle defect notice after time allowed for compliance has passed (when notice not complied with) | 1.25 | 0
-578.  | DLVR 89(5) | Permit use of trailer subject of minor vehicle defect notice after time allowed for compliance has passed (when notice not complied with) | 1.25 | 0
-579.  | DLVR 89(5) | Permit use of motor vehicle with minor vehicle defect notice contrary to a condition limiting its use | 1.25 | 0
-580.  | DLVR 89(5) | Permit use of trailer with minor vehicle defect notice contrary to a condition limiting its use | 1.25 | 0
-581.  | DLVR 89(5) | Permit use of motor vehicle subject of major vehicle defect notice (other than one imposing total prohibition on use) after time allowed for compliance has passed (when notice not complied with) | 2.25 | 0
-582.  | DLVR 89(5) | Permit use of trailer subject of major vehicle defect notice (other than one imposing total prohibition on use) after time allowed for compliance has passed (when notice not complied with) | 2.25 | 0
-583.  | DLVR 89(5) | Permit use of motor vehicle with major vehicle defect notice contrary to a condition limiting its use (other than total prohibition on use) | 2.25 | 0
-584.  | DLVR 89(5) | Permit use of trailer with major vehicle defect notice contrary to a condition limiting its use (other than total prohibition on use) | 2.25 | 0
+554.  | DLVR 118(3) | Driver fail to give formal warning notice to registered operator as soon as practicable | 1 | 0
+555.  | DLVR 119(8) | Driver fail to give vehicle defect notice to registered operator as soon as practicable | 1 | 0
+556.  | DLVR 120(5) | Remove/deface a defective vehicle label without authorisation | 1.25 | 0
+557.  | DLVR 121(1) | Use vehicle subject of major vehicle defect notice (other than one imposing total prohibition on use) after time allowed for compliance has passed (when notice not complied with) | 1.25 | 3
+558.  | DLVR 121(2) | Use vehicle subject of minor vehicle defect notice after time allowed for compliance has passed (when notice not complied with) | 1 | 1
+559.  | DLVR 121(3) | Use vehicle with minor vehicle defect notice contrary to a condition of the notice | 1 | 1
+560.  | DLVR 121(3) | Use vehicle with major vehicle defect notice contrary to a condition of the notice (other than total prohibition on use) | 1.25 | 3
+561.  | DLVR 121(5) | Permit use of vehicle subject of minor vehicle defect notice after time allowed for compliance has passed (when notice not complied with) | 1.25 | 0
+562.  | DLVR 121(5) | Permit use of vehicle with minor vehicle defect notice contrary to a condition of the notice | 1.25 | 0
+563.  | DLVR 121(5) | Permit use of vehicle subject of major vehicle defect notice (other than one imposing total prohibition on use) after time allowed for compliance has passed (when notice not complied with) | 2.25 | 0
+564.  | DLVR 121(5) | Permit use of vehicle with major vehicle defect notice contrary to a condition of the notice (other than total prohibition on use) | 2.25 | 0
 Unregistered vehicle offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-585.  | DLVR 91(5) | Holder of trade plate fail to ensure trade plate used only for prescribed purposes | 1.25 | 0
-586.  | DLVR 91(6) | Use trade plate for other than authorised purpose | 1.25 | 0
-587.  | DLVR 91(6) | Permit use of trade plate for other than authorised purpose | 1.25 | 0
-588.  | DLVR 91(7) | Use unregistered vehicle under authority of trade plate without plate being temporarily fixed to rear of vehicle in appropriate position or displayed in way acceptable to Registrar | 1 | 0
-589.  | DLVR 91(7) | Permit use of unregistered vehicle under authority of trade plate without plate being temporarily fixed to rear of vehicle in appropriate position or displayed in way acceptable to Registrar | 1 | 0
-590.  | DLVR 92(5) | Holder of short term unregistered vehicle permit fail to ensure such permit is affixed, carried or removed as required | 1 | 0
-591.  | DLVR 92(6) | Use vehicle under short term unregistered vehicle permit without permit affixed or carried as required | 1 | 0
-592.  | DLVR 92(6) | Permit use of vehicle under short term unregistered vehicle permit without permit affixed or carried as required | 1 | 0
+565.  | DLVR 124(1) | Holder of trade plate fail to ensure trade plate used only for prescribed purposes | 1.25 | 0
+566.  | DLVR 124(2) | Use trade plate for other than authorised purpose | 1.25 | 0
+567.  | DLVR 124(2) | Permit use of trade plate for other than authorised purpose | 1.25 | 0
+568.  | DLVR 124(3) | Use unregistered vehicle under authority of trade plate without plate being temporarily fixed to rear of vehicle in appropriate position or displayed in way acceptable to Registrar | 1 | 0
+569.  | DLVR 124(3) | Permit use of unregistered vehicle under authority of trade plate without plate being temporarily fixed to rear of vehicle in appropriate position or displayed in way acceptable to Registrar | 1 | 0
+570.  | DLVR 126(5) | Holder of short term unregistered vehicle permit fail to ensure such permit is affixed, carried or removed as required | 1 | 0
+571.  | DLVR 126(6) | Use vehicle under short term unregistered vehicle permit without permit affixed or carried as required | 1 | 0
+572.  | DLVR 126(6) | Permit use of vehicle under short term unregistered vehicle permit without permit affixed or carried as required | 1 | 0
 Miscellaneous registration offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-593.  | DLVR 102(7) | Registered operator fail to affix and keep affixed as required vehicle inspection label (under vehicle inspection program) | 0.75 | 0
-594.  | DLVR 102(7)(a) | Registered operator fail to affix inspection label to vehicle in accordance with instructions issued under regulation 102(6) of DLVR | 1 | 0
-595.  | DLVR 102(7)(b) | Registered operator fail to keep inspection label affixed (unless removal of label authorised under regulation 102(8) of DLVR) to vehicle until date vehicle next inspected under vehicle inspection program | 1 | 0
-596.  | DLVR 102(8) | Remove/deface current inspection label (under vehicle inspection program) without authority | 1 | 0
-597.  | DLVR 102(10) | Use vehicle on public street that has not passed inspection (after completion of that inspection) under vehicle inspection program | 1 | 0
-598.  | DLVR 102(10) | Permit use of vehicle on public street that has not passed inspection (after completion of that inspection) under vehicle inspection program | 1 | 0
-599.  | DLVR 102(10)(a) | Use, or permit use of, vehicle on public street for hire or reward if vehicle has not been presented for inspection required under vehicle inspection program | 1.50 | 0
-600.  | DLVR 102(10)(b) | Use, or permit use of, vehicle on public street if vehicle does not pass inspection under vehicle inspection program | 1.50 | 0
-601.  | DLVR 104 | Use modified vehicle not complying with relevant vehicle standard or if modification is unacceptable to Registrar | 1.25 | 0
-602.  | DLVR 104 | Permit use of modified vehicle not complying with relevant vehicle standard or if modification is unacceptable to Registrar | 1.25 | 0
-603.  | DLVR 105(1) | Fail to notify Registrar within 14 days of change of circumstance affecting information recorded in register (about registered operator/registered vehicle) | 0.75 | 0
-604.  | DLVR 105(3) | Fail to notify Registrar within 14 days after any change affecting information recorded about a short term unregistered vehicle permit (about vehicle or holder) | 0.75 | 0
-605.  | DLVR 105(4) | Fail to notify Registrar within 14 days of change of circumstance affecting information recorded in the register about holder of trade plate/business carried on by holder of trade plate | 0.75 | 0
-606.  | DLVR 106(1) | Fail to return number plates as required after cancellation or expiry without renewal | 0.75 | 0
-607.  | DLVR 106(3) | Fail to return trade plates as required after cancellation or expiry without renewal | 0.75 | 0
-608.  | DLVR 106(4) | Fail to return number plate/trade plate as required by terms on issue | 0.75 | 0
-609.  | DLVR 106(5) | Fail to return number plate/trade plate as and when required by Registrar's written notice | 1 | 0
-610.  | DLVR 107(1) | Fail to return certificate of registration as required by Registrar (on cancellation or expiry without renewal) | 1 | 0
-611.  | DLVR 107(2) | Registered operator fail to destroy registration label as required | 0.50 | 0
+573.  | DLVR 136(9) | Registered operator fail to affix and keep affixed as required vehicle inspection label (under vehicle inspection program) | 0.75 | 0
+574.  | DLVR 136(9)(a) | Registered operator fail to affix inspection label to vehicle in accordance with instructions issued under regulation 136(8) of DLVR | 1 | 0
+575.  | DLVR 136(9)(b) | Registered operator fail to keep inspection label affixed (unless removal of label authorised under regulation 136(10) of DLVR) to vehicle until date vehicle next inspected under vehicle inspection program | 1 | 0
+576.  | DLVR 136(10) | Remove/deface current inspection label (under vehicle inspection program) without authority | 1 | 0
+577.  | DLVR 136(12) | Use vehicle on public street that has not passed inspection (after completion of that inspection) under vehicle inspection program | 1 | 0
+578.  | DLVR 136(12) | Permit use of vehicle on public street that has not passed inspection (after completion of that inspection) under vehicle inspection program | 1 | 0
+579.  | DLVR 136(12)(a) | Operate vehicle on public street for hire or reward if vehicle has not been presented for inspection required under vehicle inspection program | 1.50 | 0
+580.  | DLVR 136(12)(a) | Permit operation of vehicle on public street for hire or reward if vehicle has not been presented for inspection required under vehicle inspection program | 1.50 | 0
+581.  | DLVR 136(12)(b) | Use vehicle on public street if vehicle does not pass inspection under vehicle inspection program | 1.50 | 0
+582.  | DLVR 136(12)(b) | Permit use of vehicle on public street if vehicle does not pass inspection under vehicle inspection program | 1.50 | 0
+583.  | DLVR 138 | Use modified vehicle not complying with relevant vehicle standard or if modification is unacceptable to Registrar | 1.25 | 0
+584.  | DLVR 138 | Permit use of modified vehicle not complying with relevant vehicle standard or if modification is unacceptable to Registrar | 1.25 | 0
+585.  | DLVR 141(1) | Fail to notify Registrar within 14 days of change of circumstance affecting information recorded in register (about registered operator/registered vehicle) | 0.75 | 0
+586.  | DLVR 141(3) | Fail to notify Registrar within 14 days after any change affecting information recorded in register about a short term unregistered vehicle permit (about vehicle or holder) | 0.75 | 0
+587.  | DLVR 141(4) | Fail to notify Registrar within 14 days of change of circumstance affecting information recorded in register about holder of trade plate/business carried on by holder of trade plate | 0.75 | 0
+588.  | DLVR 142(1) | Fail to return number plates as required after cancellation or expiry without renewal | 0.75 | 0
+589.  | DLVR 142(3) | Fail to return trade plates as required after cancellation or expiry without renewal | 0.75 | 0
+590.  | DLVR 142(4) | Fail to return number plate/trade plate as required by terms on issue | 0.75 | 0
+591.  | DLVR 142(5) | Fail to return number plate/trade plate as and when required by Registrar's written notice | 1 | 0
+592.  | DLVR 143 | Fail to return certificate of registration as required by Registrar (on cancellation or expiry without renewal) | 1 | 0
 Temporary upgrade permit offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-612.  | DLVR 110(6) | Use vehicle for which temporary upgrade permit in force contrary to conditions of permit | 1.25 | 0
-613.  | DLVR 110(6) | Permit use of vehicle for which temporary upgrade permit in force contrary to conditions of permit | 1.25 | 0
-614.  | DLVR 110(7) | Use vehicle for which temporary upgrade permit in force without ensuring permit carried in vehicle | 1 | 0
-615.  | DLVR 110(7) | Permit use of vehicle for which temporary upgrade permit in force without ensuring permit carried in vehicle | 1 | 0
-616.  | DLVR 117(3) | Fail to affix and keep affixed distinctive number plates to truck as required (farm vehicle rebate) | 0.75 | 0
-617.  | DLVR 117(5)(b) | Fail to return truck distinctive number plates within 14 days of cessation of entitlement to farm vehicle rebate (motor tax) | 0.75 | 0
+593.  | DLVR 146(7) | Use vehicle for which temporary upgrade permit in force contrary to conditions of permit | 1.25 | 0
+594.  | DLVR 146(7) | Permit use of vehicle for which temporary upgrade permit in force contrary to conditions of permit | 1.25 | 0
+595.  | DLVR 146(8) | Use vehicle for which temporary upgrade permit in force without ensuring permit carried in vehicle | 1 | 0
+596.  | DLVR 146(8) | Permit use of vehicle for which temporary upgrade permit in force without ensuring permit carried in vehicle | 1 | 0
+597.  | DLVR 153(4) | Fail to affix and keep affixed distinctive number plates to truck as required (farm vehicle rebate) | 0.75 | 0
+598.  | DLVR 153(6)(b) | Fail to return truck distinctive number plates within 14 days of cessation of entitlement to farm vehicle rebate (motor tax) | 0.75 | 0
 Interchangeable trailer offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-618.  | DLVR 119(4) | Fail to affix and keep affixed distinctive number plate to vehicle as required (interchangeable trailer) | 0.75 | 0
-619.  | DLVR 119(6)(b) | Fail to return number plate on cessation of entitlement to rebate (interchangeable trailer) within 14 days | 0.75 | 0
-620.  | DLVR 119(10)(a) | Fail to return distinctive number plate (interchangeable trailer rebate) within 14 days of Registrar's written notice that rebate ceased | 0.75 | 0
+599.  | DLVR 154(4) | Fail to affix and keep affixed distinctive number plate to vehicle as required (interchangeable trailer) | 0.75 | 0
+600.  | DLVR 154(6)(b) | Fail to return distinctive number plate on cessation of entitlement to rebate (interchangeable trailer) within 14 days | 0.75 | 0
+601.  | DLVR 154(9)(a) | Fail to return distinctive number plate (interchangeable trailer rebate) within 14 days of Registrar's written notice that rebate ceased | 0.75 | 0
 Miscellaneous offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-621.  | DLVR 138(10) | Fail to deliver to Registrar within allowed time a document, plate or device as required by a recall notice (on issue of duplicate or replacement) | 1.75 | 0
+602.  | DLVR 174(10) | Fail to deliver to Registrar within allowed time a document, plate or device as required by a recall notice (on issue of duplicate or replacement) | 1.75 | 0
 Vehicle and Traffic (Vehicle Operations) Regulations 2014
 Tyre pressure offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
