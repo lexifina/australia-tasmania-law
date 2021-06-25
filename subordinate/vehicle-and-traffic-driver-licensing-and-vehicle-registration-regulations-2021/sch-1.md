@@ -68,7 +68,7 @@ Regulation 163
 6.  | DLVR 81(1)(h), 99(1)(d) | Administrative fee – |
 (a)  |  | for seasonal registration, or renewal of seasonal registration, of a heavy vehicle | 5
 (b)  |  | for registration, or renewal of registration, of a heavy vehicle for a period of 3 months or 6 months | 5
-(c)  |  | for registration, or renewal of registration, of a light vehicle for a period of 6 months – |
+(c)  |  | for registration, or renewal of registration, of a light vehicle for a period of 3 months or 6 months – |
 (i)  |  | in the case of a pensioner, an eligible asylum seeker, a person with a severe disability, or the parent or guardian of a person who has a severe disability and has not attained the age of 16 years | 2.5
 (ii)  |  | in the case of any other person | 5
 7.  | DLVR 81(1)(h), 99(1)(d), 101(5) | Issue of a set of number plates, other than national heavy vehicle number plates – |
