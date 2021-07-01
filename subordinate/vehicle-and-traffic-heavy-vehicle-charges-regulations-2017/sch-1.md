@@ -1,36 +1,35 @@
 # Schedule 1 Heavy Vehicle Tax
 Regulation 9
-Division 1 – Load-carrying vehicles
+Load-carrying vehicles
 Vehicle type | 2 axles | 3 axles | 4 axles | 5 or more axles
 Trucks |  |  |  |
-Truck (type 1) | $412 | $720 | $720 | $720
-Truck (type 2) | $720 | $817 | $817 | $817
-Short combination truck | $720 | $817 | $1 695 | $1 695
-Medium combination truck | $8 906 | $8 906 | $9 619 | $9 619
-Long combination truck | $12 312 | $12 312 | $12 312 | $12 312
+Truck (type 1) | $422 | $738 | $738 | $738
+Truck (type 2) | $738 | $837 | $837 | $837
+Short combination truck | $738 | $837 | $1 737 | $1 737
+Medium combination truck | $9 129 | $9 129 | $9 859 | $9 859
+Long combination truck | $12 620 | $12 620 | $12 620 | $12 620
 Prime movers |  |  |  |
-Short combination prime mover | $720 | $4 108 | $4 416 | $4 416
-Multi-combination prime mover | $10 421 | $10 421 | $11 463 | $11 463
-Division 2 – Load-carrying trailers
-Charge per axle ($)
+Short combination prime mover | $738 | $4 211 | $4 526 | $4 526
+Multi-combination prime mover | $10 682 | $10 682 | $11 750 | $11 750
+Load-carrying trailers
+| Charge | per axle ($) |  |
 Trailer type | Single axle | Tandem axle group | Tri-axle group | Quad-axle group and above
 Goods-carrying trailer with a GVM less than 9 tonnes | $201 | $100 | $67 | $50
-Pig trailer with a GVM of 9 tonnes or more | $612 | $612 | $612 | $612
-Dog trailer with a GVM of 9 tonnes or more | $612 | $612 | $612 | $612
-Semi-trailer with a GVM of 9 tonnes or more | $612 | $778 | $553 | $415
-B-double lead trailer and B-triple lead and middle trailers with a GVM of 9 tonnes or more | $612 | $778 | $553 | $415
+Pig trailer with a GVM of 9 tonnes or more | $627 | $627 | $627 | $627
+Dog trailer with a GVM of 9 tonnes or more | $627 | $627 | $627 | $627
+Semi-trailer with a GVM of 9 tonnes or more | $627 | $797 | $567 | $425
+B-double lead trailer and B-triple lead and middle trailers with a GVM of 9 tonnes or more | $627 | $797 | $567 | $425
 Converter dolly | $0 | $0 | $0 | $0
-Division 3 – Buses |  |  |
+Buses
 Bus type | 2 axles | 3 axles | 4 or more axles
-Bus (type 1) | $309 |  |
-Bus (type 2) | $309 | $2 260 | $2 260
-Articulated bus |  | $309 | $309
-Division 4 – Special-purpose vehicles |
+Bus (type 1) | $317 |  |
+Bus (type 2) | $317 | $2 317 | $2 317
+Articulated bus |  | $317 | $317
+Special-purpose vehicles
 Vehicle type |
 Special-purpose vehicle (type P) | No charge
-Special-purpose vehicle (type T) | $300
-Special-purpose vehicle (type O) | Calculated using the formula:
-| $375 + ($375 x number of axles more than 2)
+Special-purpose vehicle (type T) | $308
+Special-purpose vehicle (type O) | Calculated using the formula: $384 + ($384 x number of axles more than 2)
 Load-carrying vehicles
 Vehicle type | 2 axles | 3 axles | 4 axles | 5 or more axles
 Trucks |  |  |  |
