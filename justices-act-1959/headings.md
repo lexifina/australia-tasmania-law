@@ -17,6 +17,5 @@ Part XI, Division 2 Appeals to, and review by, magistrates
 Part XI, Division 3 Stated case
 Part XI, Division 4 Rule to show cause
 Part XI, Division 5 General provisions
-Part XI, Division 6 Appeals relating to bail
 Part XII Protection of Justices in the Execution of Their Office
 Part XIII Miscellaneous

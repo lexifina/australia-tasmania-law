@@ -8,7 +8,7 @@ Part 3 Minor offences
 Part 3, Division 1 Proceedings on offences
 Part 3, Division 2 Manufacturing and cultivation
 Part 3, Division 3 Possession, use and administration
-Part 3, Division 4 Sale and supply
+Part 3, Division 4 Sale, supply and trafficking
 Part 3, Division 5 Miscellaneous
 Part 4 Enforcement
 Part 4, Division 1 Police powers
