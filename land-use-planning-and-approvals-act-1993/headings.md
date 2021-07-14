@@ -12,6 +12,8 @@ Part 3, Division 2 Amendment of the SPPs
 Part 3, Division 2, Subdivision 1 Interpretation of Division 2
 Part 3, Division 2, Subdivision 2 Preparation of draft amendments of the SPPs
 Part 3, Division 2, Subdivision 3 Public exhibition
+Part 3, Division 2, Subdivision 3A Minor amendments of the SPPs
+Part 3, Division 2, Subdivision 3B Interim SPPs amendments
 Part 3, Division 2, Subdivision 4 Making of amendment of the SPPs
 Part 3, Division 3 Miscellaneous
 Part 3A Local Provisions Schedules
