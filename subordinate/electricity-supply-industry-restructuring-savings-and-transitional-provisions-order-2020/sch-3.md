@@ -22,9 +22,9 @@ Clause 5(1)
 19.  | Higgins, Richard Hardwicke | 6752799 | 1 000
 20.  | Hill, David John | 6738129 | 150
 21.  | Kode Pty Ltd | 7823528 | 475
-22.  | Walch, James Reginald Brett and Tole, Robbie John and Lawrence, Samuel Ian Effingham | 6748044 | 1 100
+22.  | Koombahla Pty Ltd | 6748044 | 1 100
 23.  | Lake River Farm Holdings Pty Ltd | 6752836 | 1 000
-24.  | Lawrence, Ian Martin and Walch, James Reginald Brett and Tole, Robbie John | 6751390 | 2 750
+24.  | Walch, James Reginald Brett and Tole, Robbie John and Lawrence, Samuel Ian Effingham | 6751390 | 2 750
 25.  | Little Forest Pty Ltd | 6751438 | 500
 26.  | Lowe, Neville James and Lowe, Lynden Joy | 7897076 | 30
 27.  | McCormick, Freyr Sally | 2867644 | 35
