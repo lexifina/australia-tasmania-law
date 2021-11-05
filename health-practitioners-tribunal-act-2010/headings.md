@@ -1,7 +1,5 @@
 Part 1 Preliminary
-Part 2 Establishment of Health Practitioners Tribunal
 Part 3 Membership of Tribunal
-Part 3, Division 1 Chairperson and Deputy Chairperson
 Part 3, Division 2 Other members of Tribunal for National Law proceedings
 Part 4 Constitution of Tribunal
 Part 4, Division 1 National Law proceedings

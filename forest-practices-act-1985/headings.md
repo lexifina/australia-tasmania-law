@@ -7,7 +7,7 @@ Part III Plans
 Part III, Division 1 Forest practices plans
 Part III, Division 2 Three-year plans
 Part IV Forest Practices Code
-Part V Forest Practices Tribunal
+Part V Proceedings of Tribunal
 Part VA Forest Practices Advisory Council
 Part VI Miscellaneous
 Part VI, Division 1 Officers and forest practices officers
