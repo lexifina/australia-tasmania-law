@@ -1,7 +1,7 @@
 Part I Preliminary
 Part II Administration
 Part II, Division 1 WorkCover Tasmania Board
-Part II, Division 2 Workers Rehabilitation and Compensation Tribunal
+Part II, Division 2 Provisions relating to Tribunal
 Part III Entitlement to compensation
 Part III, Division 1 Entitlement to compensation
 Part III, Division 2 Employment connection with State

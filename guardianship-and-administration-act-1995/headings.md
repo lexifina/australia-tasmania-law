@@ -1,5 +1,4 @@
 Part 1 Preliminary
-Part 2 Establishment, Constitution and Procedure of Board
 Part 3 The Public Guardian
 Part 4 Guardianship Orders
 Part 4, Division 1 Application for guardianship order
@@ -18,8 +17,6 @@ Part 7, Division 4 Powers and duties of administrator
 Part 8 Emergency Orders
 Part 9 Annual Reports and Review of Orders
 Part 10 Miscellaneous and Supplemental
-Part 10, Division 1 Hearings by Board
-Part 10, Division 2 Special case and appeals
 Part 10, Division 3 Powers of courts
 Part 10, Division 4 Legal provisions
 Part 10, Division 5 Accounts and reports

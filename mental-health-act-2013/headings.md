@@ -44,7 +44,7 @@ Chapter 3, Part 2, Division 2 Appointment, functions and powers
 Chapter 3, Part 2, Division 3 Visits and complaints
 Chapter 3, Part 2, Division 4 Miscellaneous
 Chapter 3, Part 2, Division 5 Reporting
-Chapter 3, Part 3 Mental Health Tribunal
+Chapter 3, Part 3 Tribunal
 Chapter 3, Part 3, Division 1 Administrative
 Chapter 3, Part 3, Division 2 Reviews
 Chapter 3, Part 3, Division 3 Determinations
