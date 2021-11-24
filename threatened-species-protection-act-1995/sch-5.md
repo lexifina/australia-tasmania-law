@@ -129,7 +129,6 @@ Dicotyledonae
 43.  | Elaeocarpus reticulatus | Sm., Elaeocarpaceae | blueberry ash
 45.  | Epacris curtisiae | Jarman, Ericaceae | northwest heath
 45A.  | Epacris moscaliana | Crowden, Ericaceae | seepage heath
-46.  | Epilobium pallidiflorum | Sol. ex A.Cunn., Onagraceae | showy willowherb
 47.  | Epilobium willisii | P.H.Raven & Engelhorn, Onagraceae | carpet willowherb
 48.  | Eucalyptus barberi | L.A.S.Johnson & Blaxell, Myrtaceae | barbers gum
 49.  | Eucalyptus globulus subsp. pseudoglobulus | (Naudin ex Maiden) J.B.Kirkp., Myrtaceae | gippsland blue gum
@@ -270,7 +269,6 @@ Monocotyledonae
 38.  | Deyeuxia minor | F.Muell. ex Benth., Poaceae | small bentgrass
 39.  | Dianella amoena | G.W.Carr & P.F.Horsfall, Hemerocallidaceae | grassland flaxlily
 40.  | Dryopoa dives | (F.Muell.) Vickery, Poaceae | tasmanian giant mountaingrass
-41.  | Hierochloe rariflora | Hook.f., Poaceae | cane holygrass
 42.  | Hydrorchis orbicularis | (R.S.Rogers) D.L.Jones & M.A.Clem., Orchidaceae | swamp onion-orchid
 44.  | Isolepis habra | (Edgar) Sojak, Cyperaceae | wispy clubsedge
 45.  | Isolepis stellata | (C.B.Clarke) K.L.Wilson, Cyperaceae | star clubsedge

@@ -111,6 +111,7 @@ Dicotyledonae
 41.  | Scleranthus diander | R.Br., Caryophyllaceae | tufted knawel
 42.  | Scleranthus fasciculatus | (R.Br.) Hook.f., Caryophyllaceae | spreading knawel
 42A.  | Senecio campylocarpus | I.Thomps., Asteraceae | bulging fireweed
+42B.  | Senecio longipilus | I. Thomps., Asteraceae | longhair fireweed
 43.  | Spyridium lawrencei | (Hook.f.) Benth., Rhamnaceae | small-leaf dustymiller
 44.  | Spyridium obcordatum | (Hook.f.) W.M.Curtis, Rhamnaceae | creeping dustymiller
 44A.  | Stackhousia pulvinaris | F.Muell., Celastraceae | alpine candles

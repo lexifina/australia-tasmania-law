@@ -149,6 +149,7 @@ Dicotyledonae
 41.  | Rhytidosporum inconspicuum | L.W.Cayzer, Crisp & I.Telford, Pittosporaceae | alpine appleberry
 42.  | Sagina diemensis | L.G.Adams, Caryophyllaceae | tasmanian pearlwort
 43.  | Scaevola aemula | R.Br., Goodeniaceae | fairy fanflower
+43AA.  | Senecio extensus | I. Thomps., Asteraceae | subalpine fireweed
 43A.  | Senecio psilocarpus | Belcher & Albr., Asteraceae | swamp fireweed
 44.  | Solanum opacum | A.Braun & Bouché, Solanaceae | greenberry nightshade
 45.  | Spyridium eriocephalum var. eriocephalum | Fenzl, Rhamnaceae | heath dustymiller
@@ -180,6 +181,7 @@ Monocotyledonae
 17.  | Calochilus campestris | R.Br., Orchidaceae | copper beard-orchid
 18.  | Centrolepis pedderensis | W.M.Curtis, Centrolepidaceae | pedder bristlewort
 19.  | Chiloglottis trapeziformis | Fitzg., Orchidaceae | broadlip bird-orchid
+19A.  | Chiloglottis valida | D.L. Jones, Orchidaceae | large bird-orchid
 20.  | Chorizandra enodis | Nees, Cyperaceae | black bristlesedge
 21.  | Corunastylis brachystachya | (Lindl.) D.L.Jones & M.A.Clem., Orchidaceae | shortspike midge-orchid
 22.  | Corunastylis firthii | (L.Cady) D.L.Jones & M.A.Clem., Orchidaceae | firths midge-orchid
@@ -288,6 +290,7 @@ Dicotyledonae
 12.  | Prostanthera cuneata | Benth., Lamiaceae | alpine mintbush
 12A.  | Senecio georgianus | DC., Asteraceae | grey groundsel
 13.  | Senecio macrocarpus | Belcher, Asteraceae | largefruit fireweed
+13A.  | Senecio tasmanicus | I. Thomps., Asteraceae | tasmanian fireweed
 14.  | Thesium australe | R.Br., Santalaceae | southern toadflax
 Monocotyledonae
 | Column 1 | Column 2 | Column 3
