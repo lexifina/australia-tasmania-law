@@ -22,5 +22,5 @@ Macquarie Point Development Corporation | Chief executive officer
 Port Arthur Historic Site Management Authority | Chief executive officer
 Tasmanian Dairy Industry Authority | Chairperson of the Tasmanian Dairy Industry Authority
 TasTAFE | Chief executive officer
-The Public Trustee | Chairperson of The Public Trustee
+The Public Trustee | Chief executive officer
 Tourism Tasmania | Chief executive officer
