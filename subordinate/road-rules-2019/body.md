@@ -59,11 +59,14 @@
 (a) a person driving a motorised wheelchair that cannot travel at or over 10 kilometres per hour (on level ground);
 (b) a person in a non-motorised wheelchair;
 (c) a person pushing a motorised or non-motorised wheelchair;
-(d) a person in or on a wheeled recreational device or wheeled toy (see rule 18).
-2 Wheelchair, wheeled recreational device and wheeled toy are defined in the dictionary.
+(d) a person in or on a wheeled recreational device or wheeled toy (see rule 18);
+(e) a person in or on a personal mobility device (see rule 18).
+2 Personal mobility device, wheelchair, wheeled recreational device and wheeled toy are defined in the dictionary.
 1 For the Road Rules a person in or on a wheeled recreational device or wheeled toy is a pedestrian, not a rider – see rule 18(d). This Division contains rules that apply only to persons travelling in or on wheeled recreational devices and wheeled toys.
 2 Wheeled recreational device and wheeled toy are defined in the dictionary.
 3 Rules that apply to users of wheeled recreational devices also apply to users of motorised scooters – see the definitions of wheeled recreational device and motorised scooter in the dictionary.
+1 For the Road Rules, a person in or on a personal mobility device is a pedestrian, not a rider – see rule 18(e). This Division contains rules that apply only to persons travelling in or on personal mobility devices.
+2 Personal mobility device is defined in the dictionary.
 1 This Part contains rules that apply only to bicycle riders. Most rules in the Road Rules apply to bicycle riders in the same way as they apply to drivers – see rule 19. There are some other rules that are for bicycle riders only, or that have exceptions for bicycle riders. These include:
 (a) optional hook turn by bicycle riders – rule 35
 (b) bicycle riders making a hook turn contrary to a no hook turn by bicycles sign – rule 36

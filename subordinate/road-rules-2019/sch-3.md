@@ -172,6 +172,14 @@ No parking sign (for an area) (rule 168)
 [Picture in the source, not reproduced]
 No parking sign (for an area) (rule 168)
 [Picture in the source, not reproduced]
+No personal mobility devices sign (rule 244E)
+[Picture in the source, not reproduced]
+No personal mobility devices sign (rule 244E)
+[Picture in the source, not reproduced]
+No personal mobility devices sign (rule 244E)
+[Picture in the source, not reproduced]
+No personal mobility devices sign (rule 244E)
+[Picture in the source, not reproduced]
 No right turn sign (Standard sign) (rule 91)
 [Picture in the source, not reproduced]
 No right turn sign (Variable illuminated message sign) (rule 91)

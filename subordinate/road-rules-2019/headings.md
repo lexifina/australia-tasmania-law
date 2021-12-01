@@ -57,6 +57,7 @@ Part 13, Division 4 Portable warning triangles for heavy vehicles
 Part 14 Rules for Pedestrians
 Part 14, Division 1 General
 Part 14, Division 2 Rules for persons travelling in or on wheeled recreational devices and wheeled toys
+Part 14, Division 3 Rules for persons travelling in or on personal mobility devices
 Part 15 Additional Rules for Bicycle Riders
 Part 16 Rules for Persons Travelling in or on Vehicles
 Part 17 Additional Rules for Drivers of Trams, Tram Recovery Vehicles and Public Buses
