@@ -7,12 +7,13 @@ Department of Health | Secretary of the Department
 Department of Justice | Secretary of the Department
 Department of Police, Fire and Emergency Management | Secretary of the Department
 Department of Premier and Cabinet | Secretary of the Department
-Department of Primary Industries, Parks, Water and Environment | Secretary of the Department
+Department of Natural Resources and Environment Tasmania | Secretary of the Department
 Department of State Growth | Secretary of the Department
 Department of Treasury and Finance | Secretary of the Department
 Brand Tasmania | The chief executive officer appointed under section 21 of the Brand Tasmania Act 2018
 Director of Inland Fisheries | The Director of Inland Fisheries appointed under section 11 of the Inland Fisheries Act 1995
 Director of Public Prosecutions | The person appointed as Director of Public Prosecutions under section 4(1) of the Director of Public Prosecutions Act 1973
+Environment Protection Authority | The chief executive officer of the Environment Protection Authority
 Finance - General | Secretary of the responsible Department in relation to the Financial Management Act 2016
 Integrity Commission | The chief executive officer appointed under section 17 of the Integrity Commission Act 2009
 Marine and Safety Authority | The chief executive officer appointed under section 16 of the Marine and Safety Authority Act 1997
