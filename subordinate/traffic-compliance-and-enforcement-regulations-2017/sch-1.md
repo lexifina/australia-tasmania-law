@@ -828,6 +828,32 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 326.  | RR 244(1) | Travel in/on wheeled recreational device/toy that is being towed by vehicle | 0.75 | 0
 327.  | RR 244(2) | Travel in/on wheeled recreational device/toy while holding onto moving vehicle | 0.75 | 0
 328.  | RR 244(3) | Travel in/on wheeled recreational device/toy within 2 metres of rear of moving vehicle (continuously for more than 200 metres) | 0.75 | 0
+Personal mobility devices
+Col 1 | Col 2 | Col 3 | Col 4 | Col 5
+Item | Legislation creating offence | Offence | Penalty units | Demerit points
+328A.  | RR 244E | PMD user travel past no personal mobility devices sign | 0.25 | 0
+328B.  | RR 244F(1) | PMD user travel on certain prohibited roads | 0.50 | 0
+328C.  | RR 244F(3) | PMD user travel on road prohibited to personal mobility devices | 0.50 | 0
+328D.  | RR 244G(1)(a) | PMD user fail to keep to left of road | 0.25 | 0
+328E.  | RR 244G(1)(b) | PMD user travel alongside more than one other pedestrian or vehicle unless overtaking | 0.25 | 0
+328F.  | RR 244H(1)(a) | PMD user fail to give way to pedestrian | 0.25 | 0
+328G.  | RR 244H(1)(b) | PMD user fail to travel sufficient distance from pedestrian | 0.25 | 0
+328H.  | RR 244H(2) | PMD user fail to keep to left of crossing, footpath or shared path | 0.25 | 0
+328I.  | RR 244I(1) | PMD user travel on part of separated footpath designated for pedestrians unless crossing as specified | 0.50 | 0
+328J.  | RR 244J | PMD user fail to keep to left of oncoming bicycle riders or other PMD users | 0.50 | 0
+328K.  | RR 244K(1) | Travel in/on personal mobility device that is being towed by vehicle | 0.75 | 0
+328L.  | RR 244K(2) | Travel in/on personal mobility device while holding onto moving vehicle | 0.75 | 0
+328M.  | RR 244K(3) | Travel in/on personal mobility device within 2 metres of rear of moving vehicle (continuously for more than 200 metres) | 0.75 | 0
+328N.  | RR 244L | PMD user fail to wear securely fitted and fastened approved bicycle helmet unless exempt | 0.75 | 0
+328O.  | RR 244M | PMD user carry another person or animal | 0.75 | 0
+328P.  | RR 244N | PMD user not 16 years or older | 0.50 | 0
+328Q.  | RR 244O(a) | PMD user travel in or on personal mobility device on footpath at more than 15 km/hr | 0.50 | 0
+328R.  | RR 244O(b) | PMD user travel in or on personal mobility device on shared path, separated footpath, bicycle path or road at more than 25 km/hr | 0.50 | 0
+328S.  | RR 244P(a) | Drive at night or in weather-reduced-visibility conditions without flashing or steady white light visible for at least 200m from front of personal mobility device | 0.75 | 0
+328T.  | RR 244P(b) | Drive at night or in weather-reduced-visibility conditions without flashing or steady red light visible for at least 200m from rear of personal mobility device | 0.75 | 0
+328U.  | RR 244P(c) | Drive at night or in weather-reduced-visibility conditions without red reflector visible for at least 50m from rear of personal mobility device | 0.75 | 0
+328V.  | RR 244R | Personal mobility device fitted with object or fitting having sharp protrusions likely to cause bodily harm or injury | 0.75 | 0
+328W.  | RR 244S(1) | Using mobile phone in hand while using personal mobility device | 0.75 | 0
 Additional bicycle rule offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
@@ -845,7 +871,7 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 340.  | RR 249 | Rider of bicycle ride on pedestrian part of separated footpath | 0.50 | 0
 341.  | RR 250(2)(a) | Rider of bicycle fail to keep left of footpath or shared path | 0.50 | 0
 342.  | RR 250(2)(b) | Rider of bicycle fail to give way to pedestrian on footpath or shared path | 0.50 | 0
-343.  | RR 251 | Rider of bicycle fail to keep left of oncoming rider of bicycle (on path) | 0.50 | 0
+343.  | RR 251 | Rider of bicycle fail to keep left of oncoming rider of bicycle and person using personal mobility device (on path) | 0.50 | 0
 344.  | RR 252(1) | Rider of bicycle ride where forbidden by sign or road marking | 0.50 | 0
 345.  | RR 253 | Rider of bicycle cause traffic hazard (move into path of driver/pedestrian) | 0.75 | 0
 346.  | RR 254(1) | Ride bicycle while being towed by another vehicle | 0.75 | 0
@@ -987,8 +1013,8 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 436.  | RR 363(1) | Turn right or left at traffic lights intersection at more than 20km/h | 0.75 | 2
 437.  | RR 364(1) | Drive ride-on lawnmower on road (excluding road-related area but including shoulder, footpath, bicycle path) except as permitted | 0.75 | 0
 438.  | RR 365(1) | Travel in/on wheeled recreational device or wheeled toy on a road past a no wheeled recreational devices or toys road marking | 0.25 | 0
-439.  | RR 366(a) | Travel in/on wheeled recreational device/toy without due care and attention | 0.50 | 0
-440.  | RR 366(b) | Travel in/on wheeled recreational device/toy on road without reasonable consideration for other road users | 0.25 | 0
+439.  | RR 366(a) | Travel in/on wheeled recreational device/toy or personal mobility device without due care and attention | 0.50 | 0
+440.  | RR 366(b) | Travel in/on wheeled recreational device/toy or personal mobility device on road without reasonable consideration for other road users | 0.25 | 0
 441.  | RR 367(1) | Drive without due care and attention |  |
 (a)  |  | rider of a bicycle | 0.75 | 0
 (b)  |  | any other driver | 1 | 3
