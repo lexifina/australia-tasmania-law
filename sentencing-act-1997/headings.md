@@ -3,7 +3,6 @@ Part 2 General sentencing powers
 Part 3 Custodial sentences
 Part 3, Division 1 General
 Part 3, Division 2 Parole
-Part 3, Division 3 Dangerous criminals
 Part 3, Division 4 Suspended sentences
 Part 3A Drug treatment orders
 Part 4 Community service orders

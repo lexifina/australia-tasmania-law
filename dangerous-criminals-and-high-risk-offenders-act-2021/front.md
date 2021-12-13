@@ -1,0 +1,3 @@
+Dangerous Criminals and High Risk Offenders Act 2021
+An Act to provide for the protection of the community from persons who have committed offences involving violence, or an element of violence, and who are declared to be dangerous criminals, or who have committed serious offences and are determined to be at a high risk of committing further serious offences, to amend various enactments consequent upon the enactment of this Act, and for related purposes
+Be it enacted by Her Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
