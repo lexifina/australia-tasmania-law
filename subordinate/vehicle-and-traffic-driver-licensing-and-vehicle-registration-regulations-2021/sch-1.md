@@ -39,7 +39,7 @@ Regulation 163
 (b)  |  | if the licence is simultaneously renewed for a further term | 12 plus the fee for renewal
 11.  | DLVR 27(3)(b), 38(3) | Testing or assessing a person’s ability to drive a motor vehicle – |
 (a)  |  | in the case of a class “C” driver licence where the person is not a novice driver | 26
-(b)  |  | in the case of a class "C" driver licence where the person is a novice driver in the novice driver learner stage | 55.59
+(b)  |  | in the case of a class "C" driver licence where the person is a novice driver in the novice driver learner stage | 50.53
 (c)  |  | in the case of a class “R” driver licence | 26
 (d)  |  | in any other case | 30
 12.  | DLVR 174(3) | Issue of a duplicate driver licence – |
