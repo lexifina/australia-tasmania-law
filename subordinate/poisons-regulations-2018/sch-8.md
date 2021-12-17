@@ -26,6 +26,10 @@ Item No. | Section of Act | Penalty
 17.  | Section 34(1) | 2
 18.  | Section 36(1) | 10
 19.  | Section 37(2) | 4
+19. 19A | Section 38G | 2
+19. 19B | Section 38H | 2
+19. 19C | Section 38I(1) | 2
+19. 19D | Section 38I(2) | 2
 20.  | Section 41(1) | 2
 21.  | Section 43 | 2
 22.  | Section 45(1) | 10
