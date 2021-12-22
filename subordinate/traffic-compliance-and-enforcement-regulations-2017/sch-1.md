@@ -907,19 +907,21 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 373.  | RR 269(1) | Alight from moving vehicle except as permitted | 0.75 | 0
 374.  | RR 269(3) | Cause hazard by opening/leaving open a vehicle door or getting out of/off vehicle | 1 | 0
 375.  | RR 269(4) | Bus driver moving bus while doors not closed | 1 | 0
-376.  | RR 270(1)(a) | Motor bike rider fail to wear securely fitted and fastened approved motor bike helmet (when vehicle moving/stationary, but not parked) | 1 | 3
-377.  | RR 270(1)(b) | Motor bike rider fail to ensure passenger wearing securely fitted and fastened approved motor bike helmet (when vehicle moving/stationary, but not parked) | 1 | 3
-378.  | RR 270(2) | Motor bike passenger fail to wear securely fitted and fastened approved motor bike helmet (when vehicle moving/stationary, but not parked) | 1 | 0
-379.  | RR 271(1)(a) | Ride motor bike not sitting astride seat and facing forward (including when stationary, but not parked) | 1 | 0
-380.  | RR 271(1)(b) | Ride motor bike without at least one hand on handlebars (including when stationary, but not parked) | 1 | 0
+376.  | RR 270(1)(a) | Motor bike, or quad bike, rider fail to wear securely fitted and fastened approved motor bike helmet (when vehicle moving/stationary, but not parked) | 1 | 3
+377.  | RR 270(1)(b) | Motor bike, or quad bike, rider fail to ensure passenger wearing securely fitted and fastened approved motor bike helmet (when vehicle moving/stationary, but not parked) | 1 | 3
+378.  | RR 270(2) | Motor bike, or quad bike, passenger fail to wear securely fitted and fastened approved motor bike helmet (when vehicle moving/stationary, but not parked) | 1 | 0
+379.  | RR 271(1)(a) | Ride motor bike, or quad bike, not sitting astride seat and facing forward (including when stationary, but not parked) | 1 | 0
+380.  | RR 271(1)(b) | Ride motor bike, or quad bike, without at least one hand on handlebars (including when stationary, but not parked) | 1 | 0
 381.  | RR 271(2)(a) | Motor bike pillion passenger not sitting astride seat and facing forwards (when vehicle moving/stationary, but not parked) | 0.75 | 0
 382.  | RR 271(2)(b) | Motor bike pillion passenger not keeping both feet on passenger footrests (when vehicle moving/stationary, but not parked) | 0.75 | 0
-383.  | RR 271(3) | Ride motor bike when pillion passenger not facing forwards sitting astride seat and not having both feet on passenger footrests (when vehicle moving/stationary, but not parked) | 0.75 | 0
-384.  | RR 271(4) | Ride motor bike with more than one passenger (excluding in sidecar or seat other than pillion seat) | 1 | 0
-385.  | RR 271(5) | Ride motor bike with sidecar passengers or other non-pillion passengers exceeding number designed to carry | 1 | 0
+383.  | RR 271(3) | Ride motor bike, or quad bike, when pillion passenger not facing forwards sitting astride seat and not having both feet on passenger footrests (when vehicle moving/stationary, but not parked) | 0.75 | 0
+384.  | RR 271(4) | Ride motor bike, or quad bike, with more than one passenger (excluding in sidecar or seat other than pillion seat) | 1 | 0
+385.  | RR 271(5) | Ride motor bike, or quad bike, with sidecar passengers or other non-pillion passengers exceeding number designed to carry | 1 | 0
 386.  | RR 271(5A) | Ride motor bike with passenger who is under 8 years old, unless in sidecar | 1 | 3
 387.  | RR 271(5B) | Motor bike sidecar passenger ride when not safely seated in sidecar | 0.75 | 0
 388.  | RR 271(5C) | Ride motor bike when sidecar passenger not safely seated in side car | 0.75 | 0
+388A.  | RR 271(5D) | Ride quad bike with passenger who is under 6 years old | 1 | 3
+388B.  | RR 271(5D) | Ride quad bike with passenger who is not safely seated | 2 | 3
 389.  | RR 272 | Passenger in/on vehicle interfere with driver's control or obstruct driver's view of road/traffic | 1 | 0
 General bus offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
@@ -963,7 +965,7 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 408.  | RR 297(1) | Drive without proper control of vehicle | 1 | 0
 409.  | RR 297(1A) | Drive with person or animal in the driver's lap | 1 | 0
 410.  | RR 297(2) | Drive motor vehicle without clear view of road and traffic ahead, behind and to each side | 1 | 0
-411.  | RR 297(3) | Ride motor bike with animal on motor bike that interferes with rider's control or prevents clear view of road | 1 | 0
+411.  | RR 297(3) | Ride motor bike or quad bike with animal on bike that interferes with rider's control or prevents clear view of road | 1 | 0
 412.  | RR 298 | Drive motor vehicle towing trailer with person in/on it except as permitted | 1 | 0
 413.  | RR 299(1) | Drive vehicle with TV/VDU image visible to driver or likely to distract another driver | 1 | 0
 414.  | RR 300(1) | Drive using mobile phone (when vehicle moving or stationary, but not parked) except to make or receive audio phone call from phone secured in mounting or not required to be touched |  |
