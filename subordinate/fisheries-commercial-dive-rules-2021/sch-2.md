@@ -1,0 +1,35 @@
+# Schedule 2 Infringement notice offences and penalties
+Rule 37
+| Rule | Penalty (penalty units)
+1.  | Rule 12(3) | 5
+2.  | Rule 12(4) | 5
+3.  | Rule 12(5) | 5
+4.  | Rule 13(2) | 2
+5.  | Rule 15 | 2
+6.  | Rule 16 | 2
+7.  | Rule 17(2) | 2
+8.  | Rule 17(3) | 2
+9.  | Rule 17(4) | 2
+10.  | Rule 17(5) | 2
+11.  | Rule 17(6) | 2
+12.  | Rule 17(7) | 2
+13.  | Rule 18(1) | 2
+14.  | Rule 18(2) | 2
+15.  | Rule 19(1) | 2
+16.  | Rule 19(2) | 2
+17.  | Rule 20(2) | 2
+18.  | Rule 20(3) | 2
+19.  | Rule 21(1) | 2
+20.  | Rule 21(2) | 2
+21.  | Rule 22(1) | 2
+22.  | Rule 22(2) | 2
+23.  | Rule 24(1) | 2
+24.  | Rule 27(1) | 4
+25.  | Rule 27(2) | 4
+26.  | Rule 29(1) | 4
+27.  | Rule 29(2) | 3
+28.  | Rule 30 | 2
+29.  | Rule 31 | 3
+30.  | Rule 32(1) | 3
+31.  | Rule 33 | 3
+32.  | Rule 34(1) | 3
