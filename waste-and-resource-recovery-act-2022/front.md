@@ -1,0 +1,3 @@
+Waste and Resource Recovery Act 2022
+An Act to encourage the diversion of waste from landfill, increase the recovery of resources from waste, impose a levy on waste received at a landfill facility and provide for a rebate in relation to that levy in certain circumstances, provide for standards and guidelines to be made in relation to landfill and resource recovery facilities, establish the Tasmanian Waste and Resource Recovery Board, and for related purposes
+Be it enacted by Her Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
