@@ -126,6 +126,7 @@ Regulation 3(1)
 27.  | Pardalotidae | Yellow-rumped Thornbill | Acanthiza chrysorrhoa
 27.  |  | Tasmanian Thornbill | Acanthiza ewingii
 27.  |  | Tasmanian Brown Thornbill | Acanthiza pusilla diemenensis
+27.  |  | Tasmanian Scrubtit | Acanthornis magna
 27.  |  | Striated Fieldwren | Calamanthus fuliginosus
 27.  |  | Spotted Pardalote | Pardalotus punctatus
 27.  |  | Striated Pardalote | Pardalotus striatus

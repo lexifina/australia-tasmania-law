@@ -20,7 +20,7 @@ Regulation 3(1)
 4.  |  | White-fronted Tern | Sterna striata
 4.  |  | New Zealand Antarctic Tern | Sterna vittata bethunei
 4.  |  | Indian Ocean Antarctic Tern | Sterna vittata vittata
-5.  | Pardalotidae | King Island Brown Thornbill | Acanthiza pusilla archibaldi
+5.  | Pardalotidae | King Island Brown Thornbill | Acanthiza pusilla magnirostris
 5.  |  | King Island Scrubtit | Acanthornis magna greeniana
 5.  |  | Forty-spotted Pardalote | Pardalotus quadragintus
 6.  | Phalacrocoracidae | Macquarie Island Shag | Leucocarbo atriceps purpurascens

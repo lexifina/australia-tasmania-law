@@ -43,6 +43,7 @@ Regulation 3(1)
 10.  |  | Siberian Tiger | Panthera tigris altaica
 10.  |  | Sumatran Tiger | Panthera tigris sumatrae
 10.  |  | Bengal Tiger | Panthera tigris tigris
+10A.  | Giraffidae | Giraffe | Giraffa camelopardalis
 11.  | Herpestidae | Meerkat | Suricata suricatta
 12.  | Hylobatidae | Northern White-cheeked Gibbon | Nomascus leucogenys
 12.  |  | Silvery Gibbon | Hylobates moloch
@@ -54,6 +55,7 @@ Regulation 3(1)
 17.  | Procyonidae | Coati | Nasua nasua
 18.  | Sciuridae | Northern Palm Squirrel | Funambulus pennantii
 19.  | Thylacomyidae | Greater Bilby | Macrotis lagotis
+20.  | Viverridae | Binturong | Arctictis binturong
 | Order or Family | Common Name | Species
 1.  | Agamidae | Central Bearded Dragon | Pogona vitticeps
 2.  | Alligatoridae | American Alligator | Alligator mississippiensis
