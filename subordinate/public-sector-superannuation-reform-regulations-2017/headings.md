@@ -21,3 +21,19 @@ Part 10, Division 1 Reduction in salary
 Part 10, Division 2 Miscellaneous powers of Commission
 Part 11 Review of Commission's Decisions
 Part 12 Miscellaneous and Supplemental
+Part 13 Tasmanian Ambulance Service Superannuation Scheme
+Part 13, Division 1 Preliminary
+Part 13, Division 2 Operation of Fund
+Part 13, Division 3 Membership
+Part 13, Division 4 Contributions
+Part 13, Division 5 Benefits
+Part 13, Division 6 Financial provisions
+Part 13, Division 7 General provisions
+Part 14 State Fire Commission Superannuation Scheme
+Part 14, Division 1 Preliminary
+Part 14, Division 2 Operation of SFCS Fund
+Part 14, Division 3 Membership
+Part 14, Division 4 Contributions
+Part 14, Division 5 Benefits
+Part 14, Division 6 Financial provisions
+Part 14, Division 7 General provisions
