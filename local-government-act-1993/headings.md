@@ -73,6 +73,7 @@ Part 14, Division 5 Proceedings for offences
 Part 15 Council Elections
 Part 15, Division 1 Preliminary
 Part 15, Division 2 Electors
+Part 15, Division 2A Compulsory voting
 Part 15, Division 3 Issuing places and electoral officials
 Part 15, Division 4 Notices of elections and nominations
 Part 15, Division 5 Advertising in respect of elections
