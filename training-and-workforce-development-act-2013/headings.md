@@ -10,14 +10,4 @@ Part 3, Division 1 Training contracts
 Part 3, Division 2 Vocational placements
 Part 3, Division 3 Restrictions on entering into training contract or vocational placement agreement
 Part 4 Disputes, Inquiries and Inspections
-Part 5 TasTAFE
-Part 5, Division 1 Establishment of TasTAFE
-Part 5, Division 2 Board of Directors of TasTAFE
-Part 5, Division 3 TasTAFE chief executive officer and other TasTAFE employees
-Part 5, Division 4 Committees
-Part 5, Division 5 Directions, expectations and plans
-Part 5, Division 6 Financial affairs
-Part 5, Division 7 Annual report
-Part 5, Division 8 By-laws
-Part 5, Division 9 Miscellaneous
 Part 6 Miscellaneous
