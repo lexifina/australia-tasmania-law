@@ -22,7 +22,7 @@ Royal Tasmanian Botanical Gardens | The Director of the Botanical Gardens appoin
 State Fire Commission | The Chief Officer appointed under section 10 of the Fire Service Act 1979
 Tasmanian Audit Office | Auditor-General
 Tasmanian Health Service | Secretary of the responsible Department in relation to the Tasmanian Health Service Act 2018
-TasTAFE | The chief executive officer of TasTAFE appointed under section 66 of the Training and Workforce Development Act 2013
+TasTAFE | The TasTAFE CEO within the meaning of the TasTAFE (Skills and Training Business) Act 2021
 Tourism Tasmania | The chief executive officer appointed under section 17 of the Tourism Tasmania Act 1996
 Column 1 – Agency | Column 2 – Accountable authority
 Office of the Governor | A person appointed as Official Secretary under section 7 of the Governor of Tasmania Act 1982
