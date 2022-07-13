@@ -111,6 +111,12 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 54.  | RR 42 | Start U-turn at intersection from incorrect position |  |
 (a)  |  | rider of a bicycle | 0.50 | 0
 (b)  |  | any other driver | 0.75 | 2
+54A.  | RR 43 | Make U-turn at certain crossings |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
+54B.  | RR 43A | Make U-turn on road-related area with traffic lights |  |
+(a)  |  | rider of a bicycle | 0.75 | 0
+(b)  |  | any other driver | 1 | 2
 Change of direction signal offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
@@ -567,11 +573,20 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 208.  | RR 152(1) | Fail to comply with overhead lane control device |  |
 (a)  |  | rider of a bicycle | 1 | 0
 (b)  |  | any other driver | 1.25 | 3
-Marked land for special purpose offences
+Marked lane for special purpose offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
 209.  | RR 153(1) | Drive in bicycle lane except as permitted | 0.75 | 2
 210.  | RR 154(1) | Drive in bus lane except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+210A.  | RR 154A(1) | Drive in bus only lane except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+210B.  | RR 154A(3) | Drive across bus only lane except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.75 | 0
+210C.  | RR 154A(5) | Turn at intersection after bus only lane except as permitted |  |
 (a)  |  | rider of a bicycle | 0.50 | 0
 (b)  |  | any other driver | 0.75 | 0
 211.  | RR 156(1) | Drive in transit lane except as permitted |  |
@@ -658,6 +673,9 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 (a)  |  | rider of a bicycle | 0.50 | 0
 (b)  |  | any other driver | 0.50 | 0
 235.  | RR 187(2) | Stop in bicycle lane except as permitted | 0.75 | 0
+235A.  | RR 187(4) | Stop in bus only lane except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 0.50 | 0
 236.  | RR 188 | Stop in shared zone except as permitted |  |
 (a)  |  | rider of a bicycle | 0.25 | 0
 (b)  |  | any other driver | 0.50 | 0
@@ -707,6 +725,12 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 254.  | RR 203A | Stop in slip lane except as permitted |  |
 (a)  |  | rider of a bicycle | 0.50 | 0
 (b)  |  | any other driver | 0.75 | 0
+254A.  | RR 203B | Stop in parking area for electric-powered vehicles except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 1 | 0
+254B.  | RR 203C | Stop in parking area for charging of electric-powered vehicles except as permitted |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 1 | 0
 Permissive parking sign/parking fee offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
@@ -972,6 +996,9 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 (a)  |  | rider of a bicycle | 0.75 | 0
 (b)  |  | any other driver | 2 | 3
 414A.  | RR 300(1A) | Drive vehicle under learner licence, or P1 provisional licence, while using mobile phone when vehicle moving or stationary, but not parked | 2 | 3
+414B.  | RR 300A | Driver interfere with or interrupt funeral procession |  |
+(a)  |  | rider of a bicycle | 0.50 | 0
+(b)  |  | any other driver | 1 | 0
 Miscellaneous animal offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
