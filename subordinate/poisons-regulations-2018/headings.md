@@ -16,6 +16,7 @@ Part 4 Poisons and Restricted Substances
 Part 4, Division 1 Storage of poisons, &c.
 Part 4, Division 2 Advertising, prescribing, sale, supply and dispensing of restricted substances
 Part 4, Division 3 Advertising, sale, supply, dispensing and recording of potent substances
+Part 4, Division 3A Advertising of narcotic substances
 Part 4, Division 4 Use, &c., of restricted substances in medical institutions
 Part 4, Division 5 Administration of substances by nurses
 Part 4, Division 6 Possession and supply of nitrous oxide and methoxyflurane at relevant workplaces
