@@ -17,6 +17,8 @@ Bus lane sign (rule 154)
 [Picture in the source, not reproduced]
 Buses must enter sign (rule 107)
 [Picture in the source, not reproduced]
+Bus only lane sign (rule 154A)
+[Picture in the source, not reproduced]
 Bus zone sign (rule 183)
 [Picture in the source, not reproduced]
 Children crossing flag (rule 80)
@@ -27,6 +29,10 @@ Clearance sign (rule 102)
 [Picture in the source, not reproduced]
 Clearway sign (rule 176)
 [Picture in the source, not reproduced]
+Electric-powered vehicle charging symbol (rule 203C)
+[Picture in the source, not reproduced]
+Electric-powered vehicle symbol (rule 203B)
+[Picture in the source, not reproduced]
 Emergency stopping lane only sign (rule 95)
 [Picture in the source, not reproduced]
 End area speed-limit sign (rule 22)
@@ -36,6 +42,8 @@ End bicycle lane sign (rule 153)
 End bicycle path sign (rule 239)
 [Picture in the source, not reproduced]
 End bus lane sign (rule 154)
+[Picture in the source, not reproduced]
+End bus only lane sign (rule 154A)
 [Picture in the source, not reproduced]
 End clearway sign (rule 176)
 [Picture in the source, not reproduced]

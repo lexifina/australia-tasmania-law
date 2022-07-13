@@ -30,15 +30,13 @@ Bus lane sign (rule 154)
 [Picture in the source, not reproduced]
 Bus lane sign (rule 154)
 [Picture in the source, not reproduced]
-Bus lane sign (rule 154)
-[Picture in the source, not reproduced]
-Bus lane sign (rule 154)
-[Picture in the source, not reproduced]
-Bus lane sign (rule 154)
-[Picture in the source, not reproduced]
-Bus lane sign (rule 154)
-[Picture in the source, not reproduced]
 Buses must enter sign (rule 107)
+[Picture in the source, not reproduced]
+Bus only lane sign (rule 154A)
+[Picture in the source, not reproduced]
+Bus only lane sign (rule 154A)
+[Picture in the source, not reproduced]
+Bus only lane sign (rule 154A)
 [Picture in the source, not reproduced]
 Bus zone sign (rule 183)
 [Picture in the source, not reproduced]
@@ -60,11 +58,11 @@ End bicycle path sign (rule 239)
 [Picture in the source, not reproduced]
 End bus lane sign (rule 154)
 [Picture in the source, not reproduced]
-End bus lane sign (rule 154)
+End bus only lane sign (rule 154A)
 [Picture in the source, not reproduced]
-End bus lane sign (rule 154)
+End bus only lane sign (rule 154A)
 [Picture in the source, not reproduced]
-End bus lane sign (rule 154)
+End bus only lane sign (rule 154A)
 [Picture in the source, not reproduced]
 End freeway sign (rules 97, 177)
 [Picture in the source, not reproduced]
