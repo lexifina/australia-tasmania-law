@@ -276,6 +276,18 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 105.  | RR 79(1) | Fail to give way to police/emergency vehicle displaying flashing red/blue light or sounding alarm |  |
 (a)  |  | rider of a bicycle | 1 | 0
 (b)  |  | any other driver | 1.25 | 3
+105A.  | RR 79A(1) | Fail to slow to safe stopping speed when approaching police/emergency/assistance/escort vehicle displaying flashing light or sounding alarm |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.75 | 3
+105B.  | RR 79A(2) | Fail to give way to police/emergency/assistance/escort vehicle worker in vicinity of vehicle displaying flashing light or sounding alarm |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.75 | 3
+105C.  | RR 79A(3) | Pass or overtake police/emergency/assistance/escort vehicle displaying flashing light or sounding alarm at speed greater than 40km/h |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.75 | 3
+105D.  | RR 79A(5) | Fail to maintain safe speed when passing or overtaking police/emergency/assistance/escort vehicle displaying flashing light or sounding alarm so as to cause danger to police/emergency/assistance vehicle worker in vicinity |  |
+(a)  |  | rider of a bicycle | 1 | 0
+(b)  |  | any other driver | 1.75 | 3
 Giving way at crossing/shared zone offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
