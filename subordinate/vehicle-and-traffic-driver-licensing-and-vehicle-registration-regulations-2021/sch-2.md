@@ -223,6 +223,10 @@ Regulation 43
 25.  | Novice driver or novice rider in P2 stage fail to display clearly visible P-plates as required | DLVR 17(3) | 2
 26.  | Driver in P1 stage drive with more than one passenger, who has attained the age of 16 years but not attained the age of 22 years, in motor vehicle | DLVR 18(1) | 2
 27.  | Enter intersection or marked foot crossing contrary to red traffic light | RR 59(1) | 3
+27A.  | Fail to slow to safe stopping speed when approaching police/emergency/assistance/escort vehicle displaying flashing light or sounding alarm | RR 79A(1) | 3
+27B.  | Fail to give way to police/emergency/assistance/escort vehicle worker in vicinity of vehicle displaying flashing light or sounding alarm | RR 79A(2) | 3
+27C.  | Pass or overtake police/emergency/assistance/escort vehicle displaying flashing light or sounding alarm at speed greater than 40km/h | RR 79A(3) | 3
+27D.  | Fail to maintain safe speed when passing or overtaking police/emergency/assistance/escort vehicle displaying flashing light or sounding alarm so as to cause danger to police/emergency/assistance vehicle worker in vicinity | RR 79A(5) | 3
 28.  | Drive with passenger in/on part of motor vehicle not designed primarily for carriage of passengers or goods | RR 268(4A) | 3
 29.  | Drive with passenger in/on part of motor vehicle designed primarily for carriage of goods unless part is enclosed and passenger occupies suitable seating position and is fitted with seatbelt | RR 268(4B) | 3
 30.  | Ride motor bike with passenger aged under 8 years, unless in sidecar | RR 271(5A) | 3
