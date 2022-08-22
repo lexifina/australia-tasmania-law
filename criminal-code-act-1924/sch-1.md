@@ -18,6 +18,7 @@ Committing an unlawful act intended to cause bodily harm.
 Preventing escape from a wreck.
 Wounding or causing grievous bodily harm.
 Persistent family violence.
+Strangulation.
 Intentionally endangering persons on a railway.
 Wantonly endangering persons on a railway.
 Causing injury by poison.
