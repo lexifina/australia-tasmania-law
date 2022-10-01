@@ -4,7 +4,7 @@ Column 1 | Column 2
 Agency | Head of Agency
 Division 1 |
 Department of Communities Tasmania | Secretary
-Department of Education | Secretary
+Department for Education, Children and Young People | Secretary
 Department of Health | Secretary
 Department of Justice | Secretary
 Department of Police, Fire and Emergency Management | Secretary
