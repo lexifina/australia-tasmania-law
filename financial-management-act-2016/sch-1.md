@@ -2,7 +2,7 @@
 Section 3
 Column 1 - Agency | Column 2 - Accountable authority
 Department of Communities Tasmania | Secretary of the Department
-Department of Education | Secretary of the Department
+Department for Education, Children and Young People | Secretary of the Department
 Department of Health | Secretary of the Department
 Department of Justice | Secretary of the Department
 Department of Police, Fire and Emergency Management | Secretary of the Department
