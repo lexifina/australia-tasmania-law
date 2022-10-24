@@ -19,6 +19,7 @@ Part 4, Division 3 Advertising, sale, supply, dispensing and recording of potent
 Part 4, Division 3A Advertising of narcotic substances
 Part 4, Division 4 Use, &c., of restricted substances in medical institutions
 Part 4, Division 5 Administration of substances by nurses
+Part 4, Division 5A Non-application of section 59C
 Part 4, Division 6 Possession and supply of nitrous oxide and methoxyflurane at relevant workplaces
 Part 4, Division 7 Possession, &c., of nitrous oxide and methoxyflurane by relevant first-aiders
 Part 4, Division 8 Possession and supply of salbutamol (S4)
