@@ -165,6 +165,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 120.  | Ethyloestronol |
 120A.  | Ethylphenidate | 25g
 121.  | Eticyclidine (otherwise known as N-ethyl-1-phenylcyclohexylamine or PCE) |
+121A.  | Etodesnitazene (otherwise known as Etazene) |
 122.  | Etonitazene |
 123.  | Etorphine |
 124.  | Etoxeridine |
@@ -270,6 +271,7 @@ Column 1Item | Column 2Controlled drug | Column 3Trafficable quantity
 189.  | 4-methylthioamphetamine | 25g
 190.  | 3-methylthiofentanyl |
 191.  | Methyprylone |
+191A.  | Metonitazene |
 192.  | Metopon |
 193.  | Mibolerone |
 194.  | Midazolam |
