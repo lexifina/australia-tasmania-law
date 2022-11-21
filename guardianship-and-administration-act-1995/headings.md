@@ -5,6 +5,17 @@ Part 4, Division 1 Application for guardianship order
 Part 4, Division 2 Appointment of guardian
 Part 4, Division 3 Powers and duties of guardian
 Part 5 Appointment of enduring guardian
+Part 5A Advance care directives
+Part 5A, Division 1 Objects and principles
+Part 5A, Division 2 Preliminary
+Part 5A, Division 3 Advance care directives
+Part 5A, Division 4 Operation of advance care directives
+Part 5A, Division 5 Consent to health care when advance care directive in effect
+Part 5A, Division 6 Registration of advance care directives
+Part 5A, Division 7 Revocation of advance care directives
+Part 5A, Division 8 Validity and limitation of liability
+Part 5A, Division 9 Dispute resolution, review and appeals
+Part 5A, Division 10 Miscellaneous
 Part 6 Consent to Medical and Dental Treatment
 Part 6, Division 1 Preliminary
 Part 6, Division 2 Medical and dental treatment
