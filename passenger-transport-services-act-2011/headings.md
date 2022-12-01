@@ -4,6 +4,8 @@ Part 2, Division 1 Accreditation policy
 Part 2, Division 2 Application and accreditation procedure
 Part 2, Division 3 Nature of accreditation
 Part 2, Division 4 Management of accreditation
+Part 2, Division 5 Booking service providers
+Part 2A Safety Requirements
 Part 3 Regular Passenger Services
 Part 3, Division 1 Authorisation
 Part 3, Division 2 Operation of regular passenger services
