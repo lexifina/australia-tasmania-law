@@ -1,0 +1,3 @@
+Homes Tasmania Act 2022
+An Act to establish Homes Tasmania, to promote the development of affordable housing, to enable the provision of housing assistance to, and improve the housing conditions of, eligible persons, to support the provision of affordable housing, housing support services and community support services to persons who require such housing or services, to assist in the formation of policy in relation to housing, and for related purposes
+Be it enacted by Her Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
