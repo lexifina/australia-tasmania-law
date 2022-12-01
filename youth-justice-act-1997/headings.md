@@ -5,6 +5,9 @@ Part 2, Division 2 Diversionary procedure by police
 Part 2, Division 3 Community conferences
 Part 2, Division 4 Provisions of general application
 Part 3 Arrest, search, bail and custody of youth
+Part 3, Division 1 Application
+Part 3, Division 2 Power of arrest and bail
+Part 3, Division 3 Searches
 Part 4 Court proceedings against a youth
 Part 4, Division 1 Commencing proceedings
 Part 4, Division 2 Confidentiality of proceedings
