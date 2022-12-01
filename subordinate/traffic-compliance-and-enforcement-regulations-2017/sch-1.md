@@ -1536,22 +1536,12 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 Taximeter offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-784.  | TIR 20(1) | Person, other than authorised meter adjuster, seal taximeter | 1.75 | 0
-785.  | TIR 20(2)(a) | Responsible operator fail to ensure vehicle is not operated as a taxi under the authority of the licence if taximeter not sealed by authorised meter adjuster with tamperproof seal | 1.75 | 0
-786.  | TIR 20(2)(b) | Responsible operator fail to ensure vehicle is not operated as a taxi under the authority of the licence if taximeter requires, but does not have, an electronic seal | 1.75 | 0
-787.  | TIR 20(3)(a) | Operate a taxi with taximeter without tamperproof seal | 1.75 | 0
-788.  | TIR 20(3)(b) | Operate a taxi with taximeter with non-compliant tamperproof seal | 1.75 | 0
-789.  | TIR 21(1) | Responsible operator fail to ensure vehicle operating as taxi is fitted with compliant taximeter | 1.75 | 0
-790.  | TIR 21(2)(a) | Driver operate taxi not fitted with taximeter | 1.75 | 0
-791.  | TIR 21(2)(b) | Driver operate taxi if knows, or reasonably ought to know, taximeter not calculating and displaying relevant fares | 1.75 | 0
-792.  | TIR 21(2)(c) | Driver operate taxi with taximeter with broken seal | 1.75 | 0
+784.  | TIR 20 | Person, other than authorised meter adjuster, seal taximeter | 1.75 | 0
 793.  | TIR 23 | Responsible person fail to submit, within prescribed period, reprogrammed taximeter to authorised meter adjuster for testing | 0.75 | 0
 794.  | TIR 25(3) | Fail to produce, or present, vehicle for inspection or testing of taximeter as prescribed | 1.75 | 0
 795.  | TIR 25(4) | Authorised meter adjuster fail to provide test certificate or similar document as prescribed | 1.25 | 0
 796.  | TIR 25(5) | Authorised meter adjuster fail to provide copy of test certificate or similar document to Commission within 7 days after testing | 1.25 | 0
 797.  | TIR 26 | Responsible operator fail to provide to Commission, within 7 days of request, most recent evidence of taximeter testing | 1.25 | 0
-798.  | TIR 27(1)(a) | Driver fail to start taximeter at commencement of hiring period and not before | 1.75 | 0
-799.  | TIR 27(1)(b) | Driver fail to stop taximeter, or hold taximeter reading constant, at conclusion of hiring period | 1.75 | 0
 800.  | TIR 28(1) | Interfere, or cause or permit another person to interfere, with installed taximeter | 1.75 | 0
 Sign, light and communication device offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
@@ -1624,23 +1614,6 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 860.  | TIR 53(3) | Temporary taxi licence holder fail to remove expiry date label immediately after expiry of licence | 0.25 | 0
 861.  | TIR 56(1) | Fail to notify Commission in writing, as soon as practicable, that taxi label is lost or unusable due to damage | 0.50 | 0
 862.  | TIR 56(3) | Fail to comply with Commission request, within specified period, for evidence of loss of or damage to taxi label | 0.75 | 0
-863.  | TIR 59(1) | Driver fail to travel by route nominated by passenger or, if route not nominated, by most direct route | 1.75 | 0
-864.  | TIR 59(2) | Driver operate taxi while taximeter operating on wrong tariff | 1.75 | 0
-865.  | TIR 59(3) | Driver operate taxi with taximeter on third or fourth tariff except as permitted | 1.75 | 0
-866.  | TIR 59(4)(a) | Driver refuse to accept hiring while taxi in taxi zone | 1.75 | 0
-867.  | TIR 59(4)(b) | Driver permit person to ride in or on taxi without consent of hirer of taxi | 2.50 | 0
-868.  | TIR 59(4)(c) | Driver fail to stand taxi in foremost vacant space of taxi zone | 0.50 | 0
-869.  | TIR 59(4)(d) | Driver leave taxi unattended in taxi zone without reasonable grounds | 1 | 0
-870.  | TIR 59(4)(e) | Driver prevent a taxi from leaving taxi zone | 2.50 | 0
-871.  | TIR 59(4)(f) | Driver inform a person that person is required to hire taxi in foremost space of taxi zone | 1 | 0
-872.  | TIR 59(4)(g) | Driver advise person that prescribed taxi cannot be hired without wheelchair passenger | 1.75 | 0
-873.  | TIR 59(4)(h) | Driver refuse to transport assistance animal other than as permitted by law | 2.50 | 0
-874.  | TIR 60(1) | Wheelchair-accessible taxi licence holder allow person without prescribed training to drive the taxi | 2.50 | 0
-875.  | TIR 60(2) | Driver of wheelchair-accessible taxi fail to ensure wheelchair is restrained as prescribed | 2.50 | 0
-876.  | TIR 60(3) | Driver drive wheelchair-accessible taxi if driver has not completed prescribed driver training | 2.50 | 0
-877.  | TIR 61(2) | Driver charge passenger more than total fare for hiring period | 1.75 | 0
-878.  | TIR 61(3) | Driver charge passenger for period while taxi is delayed due to prescribed event | 1.75 | 0
-879.  | TIR 62 | Responsible operator fail to cause prominent notice of relevant fares and charges to be displayed in taxi | 0.50 | 0
 Authorised meter adjuster offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
@@ -1740,76 +1713,6 @@ Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
 936.  | RHVIR 26(1) | Holder of restricted hire vehicle licence hire out, or cause or permit another person to hire out, restricted hire vehicle if hiring charge (or method of calculating hiring charge) has not been agreed before commencement of hiring | 1.75 | 0
 937.  | RHVIR 26(2) | Driver of restricted hire vehicle undertake hiring if hiring charge (or method of calculating hiring charge) has not been agreed before commencement of hiring | 1.75 | 0
-Passenger Transport Services Act 2011
-Accreditation offences
-Col 1 | Col 2 | Col 3 | Col 4 | Col 5
-Item | Legislation creating offence | Offence | Penalty units | Demerit points
-938.  | PTSA 29(1) | Person holding accreditation contravenes, or causes or allows another person to contravene, condition of accreditation | 1.75 | 0
-939.  | PTSA 29(2) | Responsible person in respect of accreditation contravenes, or causes or allows another person to contravene, condition of accreditation | 1.75 | 0
-940.  | PTSA 32(2) | Accredited operator fail to comply with Commission requirement to provide information on relevant accredited service within specified period | 0.50 | 0
-941.  | PTSA 32(3) | Responsible person in respect of accreditation fail to comply with Commission requirement to provide information on relevant accredited service within specified period | 0.50 | 0
-942.  | PTSA 33(1) | Accredited operator, who is natural person, fail to notify Commission within 14 days that operator has been charged with serious offence | 1 | 0
-943.  | PTSA 33(2) | Responsible person in respect of accreditation fail to notify Commission, within specified period, that responsible person has been charged with serious offence | 1 | 0
-944.  | PTSA 33(3) | Accredited operator fail to notify Commission, within 14 days, that person nominated as responsible person has ceased to be responsible person, and fail to nominate a new responsible person in same notice | 0.50 | 0
-Regular passenger service offences
-Col 1 | Col 2 | Col 3 | Col 4 | Col 5
-Item | Legislation creating offence | Offence | Penalty units | Demerit points
-945.  | PTSA 41 | Service operator of authorised regular passenger service contravene, or cause or allow another person to contravene, condition of authorisation | 1.75 | 0
-Miscellaneous offences
-Col 1 | Col 2 | Col 3 | Col 4 | Col 5
-Item | Legislation creating offence | Offence | Penalty units | Demerit points
-946.  | PTSA 64(6) | Person who has benefit of exemption fail to comply with condition of exemption | 1.75 | 0
-Passenger Transport Services Regulations 2013
-Passenger service
-Col 1 | Col 2 | Col 3 | Col 4 | Col 5
-Item | Legislation creating offence | Offence | Penalty units | Demerit points
-947.  | PTSR 7(2) | Accredited operator fail to comply with Commission's written instructions on how to display evidence of accreditation in vehicles used to provide services under accreditation | 0.75 | 0
-948.  | PTSR 8(1) | Accredited operator or responsible person place safety of driver of, or passenger on, a passenger transport service vehicle at unreasonable risk | 1.75 | 0
-949.  | PTSR 9 | Authorised person fail to provide whole, or any part of, regular passenger service without prior written permission of Commission | 1.75 | 0
-950.  | PTSR 10(1) | Operate, or cause or permit another person to operate, passenger transport service with a vehicle exceeding its operational capacity without prior written permission of Commission | 1.50 | 0
-951.  | PTSR 10(2) | Operate, or cause or permit another person to operate, passenger transport service with vehicle that does not prominently display the operational seating capacity and standing capacity (if greater than zero) without prior written permission from Commission | 1 | 0
-Travel and traveller offences
-Col 1 | Col 2 | Col 3 | Col 4 | Col 5
-Item | Legislation creating offence | Offence | Penalty units | Demerit points
-952.  | PTSR 11(4) | Accredited operator fail to prominently display (if practicable) in a vehicle used to provide passenger transport services a copy of each condition of travel imposed on the service or ensure such a copy is available on request | 0.25 | 0
-953.  | PTSR 13(1) | Driver of vehicle providing regular passenger service fail to stop vehicle and pick up any person indicating that they wish to travel on the vehicle except in specified circumstances | 0.75 | 0
-954.  | PTSR 14(1) | Driver of vehicle providing regular passenger service set down passenger at a place other than the destination nominated by the passenger except in specified circumstances | 0.75 | 0
-955.  | PTSR 15(2) | Fail to provide name and address if requested by driver of, or authorised officer on, vehicle providing passenger transport service | 0.75 | 0
-956.  | PTSR 16(1)(a) | Person travelling on vehicle providing passenger transport service endanger the safety of himself or herself, or another person, or the vehicle | 1.25 | 0
-957.  | PTSR 16(1)(b) | Person travelling on vehicle providing passenger transport service threaten, harass or attempt to intimidate another person | 1.25 | 0
-958.  | PTSR 16(1)(c) | Person travelling on vehicle providing passenger transport service wilfully obstruct or hinder another person | 1.25 | 0
-959.  | PTSR 16(1)(d) | Person travelling on vehicle providing passenger transport service wilfully disturb the comfort or convenience of another person | 1.25 | 0
-960.  | PTSR 16(1)(e) | Person travelling on vehicle providing passenger transport service soil, damage or deface vehicle, any of the vehicle's fittings or property of another person | 1.25 | 0
-961.  | PTSR 16(1)(f) | Person travelling on vehicle providing passenger transport service behave in an offensive or indecent manner | 1.25 | 0
-962.  | PTSR 16(1)(g) | Person travelling on vehicle providing passenger transport service use any profane, indecent, obscene, offensive or blasphemous language | 1.25 | 0
-963.  | PTSR 16(1)(h) | Person travelling on vehicle providing passenger transport service throw anything inside, or from, the vehicle | 1.25 | 0
-964.  | PTSR 16(2)(a) | Person smoke while travelling on vehicle providing regular passenger service | 0.75 | 0
-965.  | PTSR 16(2)(b) | Person consume alcohol while travelling on vehicle providing regular passenger service | 0.75 | 0
-966.  | PTSR 16(2)(c) | Person possess open container of alcohol while travelling on vehicle providing regular passenger service | 0.75 | 0
-967.  | PTSR 16(2)(d) | Person litter while travelling on vehicle providing regular passenger service | 0.25 | 0
-968.  | PTSR 16(2)(e) | Person travelling on vehicle providing regular passenger service have animal on board, other than an animal permitted by law | 0.25 | 0
-969.  | PTSR 16(2)(f) | Person travelling on vehicle providing regular passenger service place his or her feet on seat of the vehicle | 0.25 | 0
-970.  | PTSR 16(2)(g) | Person travelling on vehicle providing regular passenger service spit on any part of vehicle | 0.25 | 0
-971.  | PTSR 16(2)(h) | Person play an instrument while travelling on vehicle providing regular passenger service | 0.25 | 0
-972.  | PTSR 16(2)(i) | Person busk while travelling on vehicle providing regular passenger service | 0.25 | 0
-973.  | PTSR 16(3) | Person travelling on vehicle providing regular passenger service fail to vacate, or fail to offer to vacate, seat for another passenger in specified circumstances | 0.75 | 0
-974.  | PTSR 16(5)(a) | Person travelling on vehicle providing regular passenger transport service eat or drink something other than water without permission of driver, or authorised officer, unless for clear or diagnosed medical reason | 0.25 | 0
-975.  | PTSR 16(5)(b) | Person travelling on vehicle providing regular passenger service occupy more than one seat without permission of driver or authorised officer | 0.25 | 0
-976.  | PTSR 16(5)(c) | Person travelling on vehicle providing regular passenger service sell or distribute, or attempt to sell or distribute, anything without permission of driver or authorised officer | 0.25 | 0
-977.  | PTSR 16(5)(d) | Person travelling on vehicle providing regular passenger service display, or attempt to display, any sign without permission of driver or authorised officer | 0.25 | 0
-978.  | PTSR 16(5)(e) | Person travelling on vehicle providing regular passenger service affix, or attempt to affix, anything to the vehicle without permission of driver or authorised officer | 0.25 | 0
-979.  | PTSR 17(2) | Fail to leave a vehicle providing passenger transport service when directed to by driver or authorised officer | 0.75 | 0
-980.  | PTSR 18(1) | Person travel on vehicle providing regular passenger service without paying required fare, or holding valid ticket or pass authorising travel, except as specified | 0.75 | 0
-981.  | PTSR 18(3) | Fail to comply with request of driver, or authorised officer, to produce ticket or pass entitling travel for inspection or to pay all or part of any outstanding fare amount | 0.75 | 0
-Miscellaneous offences
-Col 1 | Col 2 | Col 3 | Col 4 | Col 5
-Item | Legislation creating offence | Offence | Penalty units | Demerit points
-982.  | PTSR 19(a) | Driver operating vehicle as passenger transport service cause or allow passenger on the vehicle, who is travelling in a standing position, to obstruct an entrance or exit on the vehicle | 1 | 0
-983.  | PTSR 19(b) | Driver operating vehicle as passenger transport service cause or allow passenger on the vehicle to travel in a standing position to the danger or discomfort of another passenger or driver | 1 | 0
-984.  | PTSR 20(a) | Driver operate vehicle as passenger transport service while freight or luggage being carried on the vehicle is not safely stowed | 1 | 0
-985.  | PTSR 20(b) | Driver operate vehicle as passenger transport service while aisle, entrance or emergency exit on the vehicle is obstructed by freight or luggage | 1 | 0
-986.  | PTSR 21(a) | Driver stand or park vehicle providing passenger transport service, or cause or allow vehicle to stand or park, to pick up or set down passenger where it would be likely to create unreasonable risk to safety of passenger being picked up or set down, the driver of, or passengers on, the vehicle or other person in street whether in a vehicle or as pedestrian | 1.50 | 0
-987.  | PTSR 21(b) | Driver stand or park vehicle providing passenger transport service, or cause or allow vehicle to stand or park, to pick up or set down passenger where it would be likely to unreasonably disrupt lawful movement of traffic | 1.50 | 0
 Vehicle insurance cover
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
