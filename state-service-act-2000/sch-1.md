@@ -3,7 +3,6 @@ Sections 3(1), 12, 29 and 30
 Column 1 | Column 2
 Agency | Head of Agency
 Division 1 |
-Department of Communities Tasmania | Secretary
 Department for Education, Children and Young People | Secretary
 Department of Health | Secretary
 Department of Justice | Secretary
@@ -18,6 +17,7 @@ Column 1 | Column 2
 Agency | Head of Agency
 Brand Tasmania | Chief executive officer
 Environment Protection Authority | Chief executive officer
+Homes Tasmania | Chief executive officer
 Integrity Commission | Chief executive officer
 Macquarie Point Development Corporation | Chief executive officer
 Port Arthur Historic Site Management Authority | Chief executive officer
