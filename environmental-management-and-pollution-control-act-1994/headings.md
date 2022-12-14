@@ -42,4 +42,7 @@ Part 7, Division 1A Environment protection policies
 Part 7, Division 1A, Subdivision 1 Environment Protection Policy Review Panel
 Part 7, Division 1A, Subdivision 2 Contents and effect of environment protection policy
 Part 7, Division 1A, Subdivision 3 Making of environment protection policy
+Part 7, Division 1B Environmental standards and technical standards
+Part 7, Division 1B, Subdivision 1 Environmental standards
+Part 7, Division 1B, Subdivision 2 Technical standards
 Part 7, Division 2 Miscellaneous provisions
