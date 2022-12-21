@@ -142,7 +142,6 @@ Dicotyledonae
 57.  | Euphrasia gibbsiae subsp. wellingtonensis | W.R.Barker, Orobanchaceae | mt wellington eyebright
 58.  | Eutaxia microphylla | (R.Br.) C.H.Wright & Dewar, Fabaceae | spiny bushpea
 59.  | Frankenia pauciflora var. gunnii | Summerh., Frankeniaceae | southern seaheath
-60.  | Geococcus pusillus | J.Drumm. ex Harv., Brassicaceae | earth cress
 61.  | Geum talbotianum | W.M.Curtis, Rosaceae | tasmanian snowrose
 62.  | Glossostigma elatinoides | (Benth.) Benth. ex Hook.f., Phrymaceae | small mudmat
 63.  | Gratiola pubescens | R.Br., Plantaginaceae | hairy brooklime

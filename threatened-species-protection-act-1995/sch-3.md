@@ -46,7 +46,8 @@ Fish
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
 1.  | Brachionichthys hirsutus | Lacepede | Spotted Handfish
-1A.  | Brachiopsilus ziebelli | Last & Gledhill | Ziebells Handfish
+1A.  | Brachiopsilus dianthus | Last & Gledhill | Pink Handfish
+1B.  | Brachiopsilus ziebelli | Last & Gledhill | Ziebells Handfish
 2.  | Galaxias fontanus | Fulton | Swan Galaxias
 3.  | Galaxias johnstoni | Scott | Clarence Galaxias
 4.  | Galaxias pedderensis | Frankenberg | Pedder Galaxias
@@ -84,7 +85,8 @@ Invertebrates
 25.  | Miselaoma weldii | (Tenison-Woods), Sigmurethra | Stanley Pinhead Snail
 26.  | Onchotelson spatulatus | Nicholls, Isopoda | Isopod (Great Lake)
 27.  | Oreisplanus munionga larana | Olliff, Lepidoptera | Marrawah Skipper
-27A.  | Patiriella littoralis | (Dartnell), Asterinidae | Derwent River Seastar
+27A.  | Oreixenica ptunarra | Couchman, Lepidoptera | Ptunarra Brown Butterfly
+27B.  | Patiriella littoralis | (Dartnell), Asterinidae | Derwent River Seastar
 28.  | Plesiothele fentoni | Hickman, Araneae | Lake Fenton Trapdoor Spider
 29.  | Schayera baiulus | Erichson, Orthoptera | Schayer's Grasshopper
 29A.  | Smilasterias tasmaniae | O’Loughlin and O’Hara, Asterinidae | Bruny Island Seastar
@@ -104,7 +106,8 @@ Dicotyledonae
 6A.  | Cassinia rugata | N.G.Walsh, Asteraceae | wrinkled dollybush
 7.  | Craspedia preminghana | Rozefelds, Asteraceae | preminghana billybuttons
 8.  | Cryptandra amara | Sm., Rhamnaceae | pretty pearlflower
-8A.  | Desmodium varians | (Labill.) G.Don, Fabaceae | slender ticktrefoil
+8A.  | Cryptandra exilis | D.I.Morris, Rhamnaceae | slender pearlflower
+8B.  | Desmodium varians | (Labill.) G.Don, Fabaceae | slender ticktrefoil
 9.  | Discaria pubescens | (Brongn.) Druce, Rhamnaceae | spiky anchorplant
 10.  | Epacris apsleyensis | Crowden, Ericaceae | apsley heath
 11.  | Epacris barbata | Melville, Ericaceae | bearded heath
@@ -123,6 +126,7 @@ Dicotyledonae
 22.  | Euphrasia semipicta | W.R.Barker, Orobanchaceae | peninsula eyebright
 23.  | Euphrasia sp. Bivouac Bay | (W.R.Barker 7626 et al.) W.R.Barker, Orobanchaceae | masked cliff-eyebright
 23A.  | Galium antarcticum | Hook.f., Rubiaceae | subantarctic bedstraw
+23B.  | Geococcus pusillus | J.Drumm. ex Harv., Brassicaceae | earth cress
 24.  | Gompholobium ecostatum | Kuchel, Fabaceae | dwarf wedgepea
 24A.  | Goodenia geniculata | R.Br., Goodeniaceae | bent native-primrose
 25.  | Hardenbergia violacea | (Schneev.) Stearn, Fabaceae | purple coralpea
