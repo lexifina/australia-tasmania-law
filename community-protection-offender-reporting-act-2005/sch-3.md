@@ -16,6 +16,7 @@ Section 127A(1) | Aggravated sexual assault (if the person against whom the offe
 Section 130 | Involving a person under the age of 18 years in the production of child exploitation material
 Section 133(1) | Incest (if the person against whom the offence is committed is a child)
 Section 169 | Administering a drug with intent to facilitate the commission of an offence (if the person against whom the offence is committed is a child)
+Section 170A | Persistent family violence (the commission of which involved an unlawful family violence act involving an offence against another provision listed in this Schedule)
 Section 185 | Rape
 Section 191(1) | Abduction of a child
 Section 191(2) | Harbouring an abducted child
