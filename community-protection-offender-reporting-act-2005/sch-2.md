@@ -30,6 +30,7 @@ Section 130B(1) | Distributing child exploitation material
 Section 133(1) | Incest
 Section 139(b) | Interfering (indecently) with human remains
 Section 169 | Administering a drug with intent to facilitate the commission of an offence
+Section 170A | Persistent family violence (the commission of which involved an unlawful family violence act involving an offence against another provision listed in this Schedule)
 Section 186(1) | Forcible abduction
 Section 189 | Abduction of a young person under the age of 17 years
 Section 192(1) | Stalking and bullying
