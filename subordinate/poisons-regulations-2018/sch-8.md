@@ -132,6 +132,7 @@ Item No. | Regulation | Penalty
 57.  | Regulation 43(2) | 2
 58.  | Regulation 43(3) | 2
 59.  | Regulation 43(4) | 2
+59A.  | Regulation 43(5) | 2
 60.  | Regulation 44 | 2
 61.  | Regulation 45(1) | 2
 62.  | Regulation 45(5) | 2
