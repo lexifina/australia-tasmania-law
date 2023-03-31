@@ -55,6 +55,7 @@ Part 9, Division 9 Indictable offences
 Part 9, Division 10 Special penalties
 Part 10 Miscellaneous
 Part 10, Division 1 Disease and pests
+Part 10, Division 1A Electronic decision making
 Part 10, Division 2 Fees, charges and royalties
 Part 10, Division 3 Reviews of decisions
 Part 10, Division 4 Regulations
