@@ -2,6 +2,7 @@
 Section 3(1)
 1.  | Criminal Code Act 1924 |
 1.  | Section 124 | Penetrative sexual abuse of a child [or young person]
+1.  | Section 124A | Penetrative sexual abuse of a child [or young person] by a person in a position of authority
 1.  | Section 125A | Persistent sexual abuse of a child [or young person]
 1.  | Section 125C(2) | Procuring a child [or young person] for penetrative sexual abuse
 1.  | Section 126 | Penetrative sexual abuse of a person with a mental impairment

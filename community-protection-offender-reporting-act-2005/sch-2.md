@@ -18,6 +18,7 @@ Section 474.25B | Aggravated offence – child with mental impairment or under c
 Criminal Code |
 Section 122 | Bestiality
 Section 124 | Penetrative sexual abuse of a child [or young person]
+Section 124A | Penetrative sexual abuse of a child [or young person] by a person in a position of authority
 Section 125 | Permitting penetrative sexual abuse of a child [or young person] on premises
 Section 125A | Persistent sexual abuse of a child [or young person]
 Section 125B | Indecent act with or directed at a child [or young person]
