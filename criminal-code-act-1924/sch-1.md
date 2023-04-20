@@ -49,6 +49,7 @@ Forms of Indictment
 Serious Crimes
 1. | Criminal Code Act 1924 |
 | Section 124 | Penetrative sexual abuse of a child [or young person]
+| Section 124A | Penetrative sexual abuse of a child [or young person] by a person in a position of authority
 | Section 125A | Persistent sexual abuse of a child [or young person]
 | Section 125C(2) | Procuring a child [or young person] for penetrative sexual abuse
 | Section 126 | Penetrative sexual abuse of a person with a mental impairment
