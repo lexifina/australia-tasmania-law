@@ -4,3 +4,4 @@ Column 1
 1. Chief Parliamentary Counsel
 2. Crown Solicitor
 3. Director of Public Health
+4. State Litigator
