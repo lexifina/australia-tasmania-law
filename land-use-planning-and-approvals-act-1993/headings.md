@@ -42,7 +42,7 @@ Part 4, Division 2A, Subdivision 1 Interpretation of Division 2A
 Part 4, Division 2A, Subdivision 2 Proposals for major project declarations and major project proposals
 Part 4, Division 2A, Subdivision 3 Determination guidelines
 Part 4, Division 2A, Subdivision 4 Declaration of major projects
-Part 4, Division 2A, Subdivision 5 Revocation of declaration
+Part 4, Division 2A, Subdivision 5 Amendment and revocation of declaration of major project
 Part 4, Division 2A, Subdivision 6 Establishment of Development Assessment Panel
 Part 4, Division 2A, Subdivision 7 Referral of major project proposal to relevant regulators
 Part 4, Division 2A, Subdivision 8 No reasonable prospect notices

@@ -10,6 +10,7 @@
 (3) The relevant decision-maker may only amend under section 60ZZW(1) or (2) a major project permit if the amendment –
 (a) will not cause an increase in detriment to any person other than the proponent; and
 (b) does not change the use or development for which the permit was issued, other than by changing in a minor way the description of the use or development.
+(3A) The relevant decision-maker may, subject to subsection (3), amend under section 60ZZW(1) or (2) a major project permit in relation to an additional area of land that is specified in an amendment to a declaration of a major project made under section 60TG(2).
 (4) The relevant decision-maker may only amend under section 60ZZW(1) or (2) a major project permit in relation to an area of land if the relevant decision-maker is satisfied that the permit, as so amended –
 (a) would further the objectives specified in Schedule 1; and
 (b) would not be in contravention of a State Policy; and

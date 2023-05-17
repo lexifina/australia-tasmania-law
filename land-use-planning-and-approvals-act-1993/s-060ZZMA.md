@@ -1,0 +1,2 @@
+# 60ZZMA. Major project permit may relate to additional area of land included by amendment to declaration of a major project
+A major project permit may be granted under section 60ZZM(1) in relation to a major project, even though the permit relates to an area of land that was not specified in the declaration of a major project in relation to the major project when it was made under section 60O, if the declaration of a major project was amended under section 60TG(2) so that the declaration also relates to the area of land.

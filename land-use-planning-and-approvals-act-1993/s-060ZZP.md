@@ -13,4 +13,8 @@
 (a) a person is granted a major project permit on which is imposed a condition, referred to in subsection (6), that all reasonable steps must be taken to enter into an agreement; and
 (b) that person is not the owner of all of the land in respect of which the agreement must be entered into –
 the Panel must, within 7 days of granting the permit, serve on each other owner of the land notice of the Panel's decision to impose the condition.
-(9) If a condition or restriction is imposed on a major project permit, the Panel must designate on the permit the relevant regulator, or relevant regulators, that is or are responsible for the enforcement of the condition or restriction.
+(9) If a condition or restriction is imposed under subsection (1) on a major project permit in accordance with subsection (4), the Panel must designate on the permit the relevant regulator, or relevant regulators, if any, that has or have the responsibility under section 60ZZZD(4) for the enforcement of the condition or restriction.
+(10) Without limiting the conditions or restrictions that may be imposed under subsection (1) on a major project permit otherwise than in accordance with subsection (4), such a condition or restriction may specify that –
+(a) plans, information, designs, or other documents, are required, under the condition or restriction, to be prepared and provided to the Panel or a planning authority; and
+(b) particular actions or works are to be carried out to the satisfaction of the Panel or a planning authority –
+and, if such a condition or restriction refers to the Panel, then, after the major project permit has taken effect, the reference in the condition or restriction to the Panel is taken to be a reference to the Commission.

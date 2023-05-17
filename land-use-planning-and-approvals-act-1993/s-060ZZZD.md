@@ -14,4 +14,4 @@ the major project permit is, for the purposes of that Act, to be taken to be a p
 (a) the EMPC Act;
 (b) the Historic Cultural Heritage Act 1995;
 (c) the Water and Sewerage Industry Act 2008;
-(d) the Gas Pipelines Act 2000.
+(d) the Gas Industry Act 2019.

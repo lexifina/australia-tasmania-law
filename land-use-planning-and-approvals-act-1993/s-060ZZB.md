@@ -13,7 +13,7 @@
 (ii) the major project impact statement in relation to the major project; and
 (iii) the initial assessment report in relation to the major project –
 will be available for inspection by the public during normal business hours during the exhibition period; and
-(c) is to specify that the copies referred to in paragraph (b) will also be available for viewing at the website address of the Commission that is specified in the notice, being the Commission’s principal website; and
+(c) is to specify that the copies referred to in paragraph (b) will also be available for viewing or downloading at the website address of the Commission that is specified in the notice, being the Commission’s principal website; and
 (d) is to specify that representations in relation to the major project may be made to the Panel during the exhibition period; and
 (e) is to specify the address, and an electronic address, at which a representation may be lodged; and
 (f) is to contain the prescribed information, if any.

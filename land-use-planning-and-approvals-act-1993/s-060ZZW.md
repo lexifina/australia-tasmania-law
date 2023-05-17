@@ -1,4 +1,4 @@
-# 60ZZW. Minor amendment of major project permit
+# 60ZZW. Amendment of major project permit where no detriment except to proponent, &c.
 (1) Subject to section 60ZZX, the relevant decision-maker may, on the application of a proponent of a major project, or an owner, occupier or lessee of land, to which a major project permit relates, by notice in writing to the applicant, amend the major project permit.
 (2) The relevant decision-maker may, on the application of –
 (a) a relevant regulator in relation to a major project to which the major project permit relates; or
