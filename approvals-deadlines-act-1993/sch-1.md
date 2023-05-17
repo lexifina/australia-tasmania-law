@@ -10,11 +10,6 @@ Pilot (chemical rating) licence | 60 days from the day on which an application u
 Agricultural aircraft operator licence | 60 days from the day on which an application under Schedule 5 of the Agricultural and Veterinary Chemicals (Control of Use) Act 1995 is received by the Registrar of Chemical Products.
 Animal (Brands and Movement) Act 1984 |
 Registration of brand or tag | 60 days from the day on which an application under section 11 (6) of the Animal (Brands and Movement) Act 1984 is received by the Registrar of Animal Brands.
-Animal Health Act 1995 |
-Special authority | 60 days from the day on which an application under section 19 of the Animal Health Act 1995 is received by the Chief Veterinary Officer.
-Industry disease control program | 180 days from the day on which the draft industry disease control program under section 47 of the Animal Health Act 1995 is received by the responsible Minister.
-Licence to collect, process or collect and process any semen, embryo or ovum | 60 days from the day on which an application under the Animal Health Act 1995 is received by the Chief Veterinary Officer.
-Permit | 60 days from the day on which an application under the Animal Health Act 1995 is received by the Chief Veterinary Officer, or inspector, who is to issue or refuse to issue the permit.
 Apiaries Act 1978 |
 Registration as a bee-keeper | 60 days from the day on which an application under section 4(1) of the Apiaries Act 1978 is received by the Secretary of the responsible Department.
 Apple and Pear Industry (Crop Insurance) Act 1982 |
