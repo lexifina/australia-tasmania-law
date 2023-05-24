@@ -86,6 +86,7 @@ Invertebrates
 26.  | Onchotelson spatulatus | Nicholls, Isopoda | Isopod (Great Lake)
 27.  | Oreisplanus munionga larana | Olliff, Lepidoptera | Marrawah Skipper
 27A.  | Oreixenica ptunarra | Couchman, Lepidoptera | Ptunarra Brown Butterfly
+27AB.  | Parvulastra vivipara | (Dartnell), Asterinidae | Live-bearing Seastar
 27B.  | Patiriella littoralis | (Dartnell), Asterinidae | Derwent River Seastar
 28.  | Plesiothele fentoni | Hickman, Araneae | Lake Fenton Trapdoor Spider
 29.  | Schayera baiulus | Erichson, Orthoptera | Schayer's Grasshopper
@@ -272,6 +273,10 @@ Birds
 2.  | Dromaius ater | Vieillot | King Island Emu
 3.  | Dromaius novaehollandiae diemenensis | Le Souef | Tasmanian Emu
 4.  | Gallirallus philippensis macquariensis | Hutton | Macquarie Island Rail
+Fish
+| Column 1 | Column 2 | Column 3
+| Species | Authority | Common name
+1.  | Sympterichthys unipennis | Last & Gledhill | Smooth Handfish
 Invertebrates
 | Column 1 | Column 2 | Column3
 | Species | Authority, Order | Common name

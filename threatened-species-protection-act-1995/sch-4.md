@@ -62,7 +62,6 @@ Invertebrates
 15.  | Goedetrechus parallelus | Moore, Coleoptera | Cave Beetle (Junee-Florentine)
 16.  | Hoplogonus simsoni | Parry, Coleoptera | Simsons Stag Beetle
 17.  | Hoplogonus vanderschoori | Bartoluzzi, Coleoptera | Vanderschoors Stag Beetle
-19A.  | Parvulastra vivipara | (Dartnall), Asterinidae | Live-bearing Seastar
 20.  | Pasmaditta jungermanniae | Petterd, Sigmurethra | Cataract Gorge Pinhead Snail
 Dicotyledonae
 | Column 1 | Column 2 | Column 3
