@@ -23,10 +23,14 @@ Regulation 3(1)
 4.  | Callitrichidae | Common Marmoset | Callithrix jacchus
 4.  |  | Pygmy Marmoset | Callithrix pygmaea
 4.  |  | Golden Lion Tamarin | Leontopithecus rosalia
+4.  |  | Emperor tamarin | Saguinus imperator
+4.  |  | Red-handed tamarin | Saguinus midas
 4.  |  | Cotton-top Tamarin | Saguinus oedipus
-5.  | Canidae | African Painted Dog | Lycaon pictus
+5.  | Canidae | Maned wolf | Chrysocyon brachyurus
+5.  |  | African Painted Dog | Lycaon pictus
 6.  | Caviidae | Capybara | Hydrochoerus hydrochaeris
 7.  | Cebidae | Black-tufted Capuchin | Cebus paella
+7.  |  | Bolivian squirrel monkey | Saimiri boliviensis
 8.  | Cercopithecidae | De Brazza's Monkey | Cercopithecus neglectus
 8.  |  | Mantled Guereza | Colobus guereza
 8.  |  | Long-tailed Macaque | Macaca fascicularis
@@ -45,9 +49,11 @@ Regulation 3(1)
 10.  |  | Bengal Tiger | Panthera tigris tigris
 10A.  | Giraffidae | Giraffe | Giraffa camelopardalis
 11.  | Herpestidae | Meerkat | Suricata suricatta
+11A.  | Hyaenidae | Spotted hyena | Crocuta crocuta
 12.  | Hylobatidae | Northern White-cheeked Gibbon | Nomascus leucogenys
 12.  |  | Silvery Gibbon | Hylobates moloch
 12.  |  | Siamang | Symphalangus syndactylus
+12A.  | Hystricidae | Cape porcupine | Hystrix africaeaustralis
 13.  | Lemuridae | Ring-tailed Lemur | Lemur catta
 14.  | Mustelidae | Oriental Small-clawed Otter | Aonyx cinereus
 15.  | Petauridae | Sugar Glider | Petaurus breviceps
@@ -57,7 +63,8 @@ Regulation 3(1)
 19.  | Thylacomyidae | Greater Bilby | Macrotis lagotis
 20.  | Viverridae | Binturong | Arctictis binturong
 | Order or Family | Common Name | Species
-1.  | Agamidae | Central Bearded Dragon | Pogona vitticeps
+1.  | Agamidae | Downs bearded dragon | Pogona henrylawsoni
+1.  |  | Central Bearded Dragon | Pogona vitticeps
 2.  | Alligatoridae | American Alligator | Alligator mississippiensis
 3.  | Boidae | Red-tailed Boa | Boa constrictor
 3.  |  | Green Anaconda | Eunectes murinus
