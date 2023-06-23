@@ -931,8 +931,10 @@ Rule for person travelling in/on vehicle offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
 363.  | RR 264(1) | Driver fail to wear properly adjusted and fastened seatbelt (when vehicle moving/stationary, but not parked) | 2 | 3
+363A.  | RR 264(1) | Driver fail to wear properly adjusted and fastened seatbelt (when vehicle moving/stationary, but not parked) (photographic detection device) | 2 | 3
 364.  | RR 265(1) | Passenger (aged 16 years or more) fail to wear properly adjusted and fastened seatbelt (when vehicle moving/stationary, but not parked) | 2 | 0
 365.  | RR 265(3) | Driver fail to ensure passenger aged 16 years or more is restrained as required (when vehicle moving/stationary, but not parked) | 2 | 3
+365A.  | RR 265(3) or 266(1) | Driver fail to ensure passenger is restrained as required (when vehicle moving/stationary, but not parked) (photographic detection device) | 2 | 3
 366.  | RR 266(1) | Driver fail to ensure passenger under 16 years old is restrained as required (when vehicle moving/stationary, but not parked) | 2.25 | 3
 367.  | RR 268(1) | Travel in/on part of vehicle not designed primarily for carriage of passengers/goods | 2 | 0
 368.  | RR 268(2) | Travel in/on part of vehicle designed primarily for carriage of goods unless part is enclosed and passenger occupies suitable seating position | 2 | 0
@@ -1008,6 +1010,7 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 (a)  |  | rider of a bicycle | 0.75 | 0
 (b)  |  | any other driver | 2 | 3
 414A.  | RR 300(1A) | Drive vehicle under learner licence, or P1 provisional licence, while using mobile phone when vehicle moving or stationary, but not parked | 2 | 3
+414AB.  | RR 300(1) or 300(1A) | Drive using mobile phone (when vehicle moving or stationary, but not parked) except as permitted (photographic detection device) | 2 | 3
 414B.  | RR 300A | Driver interfere with or interrupt funeral procession |  |
 (a)  |  | rider of a bicycle | 0.50 | 0
 (b)  |  | any other driver | 1 | 0
