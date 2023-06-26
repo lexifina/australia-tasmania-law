@@ -46,5 +46,5 @@ Column 1 | Column 2 – Decision of Commission | Column 3 – Section | Column 4
 43.  | To cancel a restricted hire vehicle licence (excluding decision to cancel licence in prescribed circumstance set out in regulation 7(d) of the Restricted Hire Vehicle Industry Regulations 2013) | Section 84P(1) | The licence holder
 44.  | To suspend or cancel a restricted hire vehicle licence (when satisfied there is an immediate and serious danger to public safety) | Section 84P(3) | The licence holder
 Column 1 | Column 2 – Decision of Commission | Column 3 – Regulation | Column 4 – Eligible person
-1.  | To refuse an application for appointment as an authorised meter adjuster | Regulation 63(5) | The applicant
-2.  | To suspend or cancel the appointment of a person as an authorised meter adjuster | Regulation 69(1) | The authorised meter adjuster
+1.  | To refuse an application for appointment as an authorised meter adjuster | Regulation 18(3)(b) | The applicant
+2.  | To suspend or cancel the appointment of a person as an authorised meter adjuster | Regulation 18(6) | The authorised meter adjuster
