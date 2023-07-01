@@ -2,7 +2,7 @@
 Clause 3
 1. | The Uniting Church in Australia Property Trust (Tas) and any organisation operating under the auspices of the Uniting Church in Australia Property Trust (Tas)
 2.  | The Salvation Army in Tasmania, and any organisation operating under the auspices of the Salvation Army in Tasmania
-3.  | Any school, as defined by the Education Act 1994, other than a registered school
+3.  | Any school, as defined by the Education Act 2016, other than a registered school
 4.  | Any unincorporated Catholic school or college, and any unincorporated Parents and Friends Associations relating to a Catholic school or college, including but without limitation the following organisations:
 (a)  | Corpus Christi Catholic School
 (b)  | Corpus Christi Catholic School Parents and Friends Association
