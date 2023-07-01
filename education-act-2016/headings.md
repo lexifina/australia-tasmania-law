@@ -59,7 +59,7 @@ Part 6, Division 10 Non-government Schools Register
 Part 7 Office Holders, Statutory Bodies and Conciliators
 Part 7, Division 1 Principal Officer, Non-attendance
 Part 7, Division 2 Registrar, Education
-Part 7, Division 2, Subdivision 1 Appointment, functions and duties of Registrar, Education
+Part 7, Division 2, Subdivision 1 Appointment, review, functions and duties of Registrar, Education
 Part 7, Division 2, Subdivision 2 Specific functions of Registrar
 Part 7, Division 3 Registration officers
 Part 7, Division 4 Non-government Schools Registration Board
