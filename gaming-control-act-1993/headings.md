@@ -1,10 +1,11 @@
 Part 1 Preliminary
 Part 1A Gaming and related activities prohibited in certain circumstances
 Part 2 2003 Deed
-Part 3 Licensing of Casinos and Gaming Operations
-Part 4 Licensing of Licensed Premises Operators, Employees and Technicians and Listing of Manufacturers
+Part 3 Licensing of Casinos and Keno Operations
+Part 4 Licensing of Venue Operators, Monitoring Operators, Employees and Technicians and Listing of Manufacturers
 Part 4, Division 1 General
-Part 4, Division 2 Licensed premises gaming licence
+Part 4, Division 2 Venue licence
+Part 4, Division 2A Monitoring operator's licence
 Part 4, Division 3 Special employee's licence
 Part 4, Division 4 Technician's licence
 Part 4, Division 5 Manufacturers, suppliers and testers of gaming equipment
@@ -59,7 +60,6 @@ Part 9 Financial Provisions
 Part 9, Division 1 Accounts and levies
 Part 9, Division 1A Point of consumption tax
 Part 9, Division 2 Licence fees, taxation and other amounts payable
-Part 9, Division 2A Gaming machine rental
 Part 9, Division 3 Gaming and wagering guarantee
 Part 9, Division 4 Miscellaneous
 Part 10 Miscellaneous

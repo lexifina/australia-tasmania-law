@@ -3,3 +3,4 @@ Schedule 5, Part 4 Transitional provisions consequent on Gaming Control Amendmen
 Schedule 5, Part 5 Further transitional provisions consequent on Gaming Control Amendment (Community Interest) Act 2016
 Schedule 5, Part 6 Transitional provisions consequent on Gaming Control Amendment (Wagering) Act 2019
 Schedule 5, Part 7 Transitional provisions consequent on Gaming Control Amendment (Future Gaming Market) Act 2021
+Schedule 5, Part 8 Further transitional provisions consequent on Gaming Control Amendment (Future Gaming Market) Act 2021
