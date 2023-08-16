@@ -13,6 +13,7 @@ Regulations 6 and 10
 11.  | The Gardens Lagoon
 12.  | Wrinklers Lagoon
 1.  | Ansons River, downstream from the C843 Road Bridge at grid reference 603574 5454132
+1A.  | Arthur River, downstream from an imaginary line drawn between grid references 304168 5453126 and 304084 5453206
 2.  | Apsley River, downstream from the A3 road bridge at grid reference 604297 5361056
 3.  | Blythe River, downstream from an imaginary straight line drawn between grid references 414414 5452064 and 414414 5452173
 4.  | Bream Creek, downstream from an imaginary straight line drawn between grid references 570959 5261529 and 570982 5261529
@@ -33,7 +34,7 @@ Regulations 6 and 10
 19.  | Inglis River, downstream from the C234 road bridge at grid reference 392255 5462770
 20.  | Jordan River, downstream from the C326 road bridge at grid reference 521489 5269106
 21.  | Lisdillon River, downstream from the A3 road bridge at grid reference 582230 5318061
-22.  | Little Forester River, downstream from the Sandy Points Road bridge at grid reference 529633 5461504
+22.  | Polelewawta/Little Forester River, downstream from the Sandy Points Road bridge at grid reference 529633 5461504
 23.  | Little Swanport River, downstream from an imaginary straight line drawn between grid references 576771 5313222 and 576757 5313251 (approximately 800 metres above the A3 Tasman Highway Bridge)
 24.  | Medeas Cove, St Helens, downstream from where the Golden Fleece Rivulet enters Medeas Cove at grid reference 603346 5424678
 25.  | Meredith River, downstream from the A3 main road bridge at grid reference 587714 5336804
@@ -45,6 +46,6 @@ Regulations 6 and 10
 31.  | Sandspit River, downstream from Wielangta Road at grid reference 573614 5277554
 32.  | Scamander River, downstream from Ryans Bridge at grid reference 599738 5411400
 33.  | Swan River, downstream from the Grange Road bridge at grid reference 589139 5345208
-34.  | Tomahawk River, downstream from the West Tomahawk Road bridge at grid reference 563046 5473708
+34.  | Leengtenner/Tomahawk River, downstream from the West Tomahawk Road bridge at grid reference 563046 5473708
 35.  | Wye River, downstream from the A3 Tasman Hwy Bridge at grid reference 588019 5342093
 36.  | Any other river consisting of estuarine waters

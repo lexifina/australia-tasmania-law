@@ -2,17 +2,16 @@
 Regulation 17(4)
 Column 1 | Column 2 | Column 3
 Item | Water | Bag limit (number of salmon)
-1.  | Big Lagoon (Bruny Island) | 5
 2.  | Big Waterhouse Lake | 5
 3.  | Blackmans Lagoon | 5
 4.  | Bradys Lake | 5
 5.  | Briseis Hole | 5
 6.  | Bruisers Lagoon | 2
 7.  | Brushy Lagoon | 5
-8.  | Camden Dam | 5
+8.  | Camden Lake | 5
 9.  | Camerons Lagoon | 2
 10.  | Carter Lakes | 2
-11.  | Craigbourne Dam | 5
+11.  | Craigbourne Lake | 5
 12.  | Curries River Reservoir | 5
 13.  | Dee Lagoon | 5
 14.  | Double Lagoon | 2
@@ -34,14 +33,14 @@ Item | Water | Bag limit (number of salmon)
 30.  | Lake Crescent waters | 2
 31.  | Lake Dudley | 1
 32.  | Lake Dulverton | 5
-33.  | Lake Duncan | 5
+33.  | Lake Duncan | 2
 34.  | Lake Flora | 2
 35.  | Lake Gordon | 20
 36.  | Lake Isandula | 5
 37.  | Lake Kara | 5
 38.  | Lake King William | 20
 39.  | Lake Leake | 5
-40.  | Lake Lynch | 5
+40.  | Lake Lynch | 2
 41.  | Lake Mikany | 5
 42.  | Lake O’Dells | 2
 43.  | Lake Paget | 2
@@ -59,7 +58,6 @@ Item | Water | Bag limit (number of salmon)
 55.  | Penstock Lagoon | 2
 56.  | Pet Reservoir | 5
 57.  | Pioneer Lake | 5
-58.  | Plenty River adjacent to the Salmon Ponds | 1
 59.  | Prescribed waters (of the Western Lakes) | 5
 60.  | Risdon Brook Reservoir | 5
 61.  | Rocky Lagoon | 2
@@ -68,7 +66,7 @@ Item | Water | Bag limit (number of salmon)
 64.  | Sandy Lake | 2
 65.  | Second Lagoon | 2
 66.  | Shannon Lagoon | 5
-67.  | South Riana Dam | 5
+67.  | South Riana Lake | 5
 68.  | St Clair Lagoon | 5
 69.  | Talbots Lagoon | 5
 70.  | Talinah Lagoon | 2
