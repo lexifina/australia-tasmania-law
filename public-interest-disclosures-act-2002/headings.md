@@ -15,6 +15,5 @@ Part 7, Division 1 Establishment of procedures
 Part 7, Division 2 Requirement to investigate
 Part 7, Division 3 Investigation by public body
 Part 7, Division 4 Action on investigation
-Part 8 Investigation of disclosures about members of Parliament
 Part 9 Annual reports and other reports
 Part 10 General
