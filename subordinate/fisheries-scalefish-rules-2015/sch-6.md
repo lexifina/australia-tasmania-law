@@ -70,5 +70,5 @@
 17.  | Pipe Clay Lagoon
 18.  | Pitt Water
 19.  | Prosser River
-20.  | Taroona waters, as defined in the Fisheries Rules 2009
+20.  | Taroona waters, as defined in the Fisheries Rules 2019
 21.  | Waterfall Bay, within 200 metres of the low-water mark of the shore from the main waterfall in Waterfall Bay east to the southern extremity of Waterfall Bluff

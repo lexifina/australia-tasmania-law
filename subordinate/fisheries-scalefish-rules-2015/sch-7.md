@@ -35,5 +35,4 @@ Rule 24
 (c)  | the waters of Frederick Henry Bay and Norfolk Bay referred to in items 5 and 6;
 (d)  | Great Oyster Bay;
 (e)  | Mercury Passage within 200 metres of the low-water mark outside the Maria Island National Park;
-(f)  | River Tamar waters downstream of a line from the northern extremity of Garden Island to the George Town Monument;
-(g)  | River Derwent.
+(f)  | River Tamar waters downstream of a straight line running from the northern extremity of Garden Island to the George Town Monument.

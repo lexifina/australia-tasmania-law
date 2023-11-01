@@ -14,4 +14,5 @@ Rule 10
 11.  | redfish | 1.1 | 1.5 | 2.5
 12.  | silver trevally | 1.1 | 1.5 | 2.5
 13.  | silver warehou | 1.1 | 1.5 | 2.5
-14.  | other scalefish | 1.1 | 1.5 | 2.5
+14.  | other scalefish, excluding calamari, squid and octopus | 1.1 | 1.5 | 2.5
+15.  | pale octopus | 1.233472 |  |

@@ -44,7 +44,7 @@ Rule 3(2)
 41.  | "hapuku" | means fish of the species Polyprion oxygeneios
 42.  | "hardyhead" | means fish of the family Atherinidae
 43.  | "herring cale" | means fish of the family Osacidae
-44.  | "inshore crab" | means crab of the families Portunidae and Grapsidae
+44.  | "inshore crab" | means crab of the families Portunidae and Grapsidae and includes spider crab
 45.  | "invertebrate bait species" | means soldier crabs of the family Mictyridae, sand worms of the family Onuphidae, and shrimps of the suborder Nantantia
 46.  | "jackass morwong" | means fish of the species Nemadactylus macropterus (also known as perch)
 47.  | "king dory" | means fish of the species Cyttus traversi
@@ -70,7 +70,7 @@ Rule 3(2)
 62.  | "mulloway" | means fish of the species Argyrosomus hololepidotus
 63.  | "northern bluefin tuna" | means fish of the species Thunnus thynnus
 64.  | "ocean trout" | means fish of the species Salmo trutta
-65.  | "octopus" | means fish of the genus Octopus
+65.  | "octopus" | means fish of the family Octopodidae
 66.  | "orange roughy" | means fish of the species Hoplostethus atlanticus
 67.  | "ox-eye oreodory" | means fish of the species Oreosoma atlanticum
 68.  | "pelagic shark" | means sharks of the genus Isurus and species Prionace glauca, also known as mako and blue shark, respectively
@@ -82,6 +82,7 @@ Rule 3(2)
 74.  | "redfish" | means fish of the species Centroberyx affinis
 75.  | "red velvetfish" | means fish of the species Gnathanacanthus goetzeei
 76.  | "rock flathead" | means fish of the species Platycephalus laevigatus
+76A.  | "sand crab" | means crab of the species Ovalipes australiensis
 77.  | "sand flathead" | means fish of the species Platycephalus bassensis
 78.  | "scalefish" | means the following fish:
 (a)  |  | fish of the superclass Agnatha;
@@ -103,6 +104,7 @@ Rule 3(2)
 88.  | "southern bluefin tuna" | means fish of the species Thunnus maccoyii
 89.  | "southern calamari" | means squid of the species Sepioteuthis australis
 90.  | "southern sea garfish" | means fish of the species Hyporhamphus melanochir
+90A.  | "spider crab" | means crab of the species Leptomithrax gaimardii
 91.  | "spiky oreodory" | means fish of the species Neocyttus rhomboidalis
 92.  | "squid" | means molluscs of the order Teuthoidea
 93.  | "striped trumpeter" | means fish of the species Latris lineata

@@ -2,11 +2,14 @@
 | Type of fish | Minimum size of fish (mm) | Maximum size of fish(mm)
 1.  | Australian salmon | 200 | -
 2.  | banded morwong | 360 | 460
-3.  | bastard trumpeter | 380 | -
+3.  | bastard trumpeter | 420 | -
 4.  | blue warehou | 250 | -
 5.  | bream | 250 | -
 6.  | flathead (southern bluespotted and rock species) | 400 | -
-7.  | flathead (other than southern bluespotted and rock species) | 320 | -
+7.  | flathead (other than bluespotted, sand and rock species) | 320 | -
+7A.  | flathead, sand (in southern region) | 350 | 400
+7B.  | flathead, sand (in Bass Strait islands) | 350 | -
+7C.  | flathead, sand (in State waters excluding southern region and Bass Strait Islands) | 350 | 400
 8.  | flounder | 250 | -
 9.  | garfish | 250 | -
 10.  | jackass morwong (perch) | 250 | -
