@@ -13,3 +13,12 @@ Section 27
 10.  | Primary site ureter cancer | 15 years
 11.  | Primary site colorectal cancer | 15 years
 12.  | Primary site oesophageal cancer | 25 years
+13.  | Primary site cervical cancer | 10 years
+14.  | Primary site ovarian cancer | 10 years
+15.  | Primary site penile cancer | 15 years
+16.  | Primary site thyroid cancer | 10 years
+17.  | Primary site pancreatic cancer | 10 years
+18.  | Primary site skin cancer | 15 years
+19.  | Primary site lung cancer | 15 years
+20.  | Primary site uterine cancer | 10 years
+21.  | Malignant mesothelioma | 15 years
