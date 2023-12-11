@@ -50,6 +50,7 @@ Part 10 Trusts
 Part 10, Division 1 Establishment of trusts
 Part 10, Division 2 Powers and duties of trusts
 Part 10, Division 3 Dissolution of trusts
+Part 10A Delegation of administration of irrigation district
 Part 11 Meters
 Part 12 Authorised officers
 Part 12, Division 1 Appointment of authorised officers
