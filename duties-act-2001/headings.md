@@ -18,6 +18,8 @@ Chapter 2, Part 5, Division 2A First home buyer duty concession
 Chapter 2, Part 5, Division 2B Pensioner duty concession
 Chapter 2, Part 5, Division 3 Miscellaneous
 Chapter 2, Part 6 Exemptions
+Chapter 2, Part 6, Division 1 Exemptions in general
+Chapter 2, Part 6, Division 2 First home buyer duty exemption
 Chapter 3 Certain transactions treated as transfers
 Chapter 3, Part 1 Preliminary
 Chapter 3, Part 2 Charging of Duty on Acquisitions of Interests of Landholders
