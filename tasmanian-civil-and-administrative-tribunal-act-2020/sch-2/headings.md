@@ -6,3 +6,4 @@ Schedule 2, Part 5 Health Practitioners Stream
 Schedule 2, Part 6 Forestry Practices Stream
 Schedule 2, Part 7 Personal Compensation Stream
 Schedule 2, Part 8 Resource and Planning Stream
+Schedule 2, Part 9 Civil and Consumer Stream
