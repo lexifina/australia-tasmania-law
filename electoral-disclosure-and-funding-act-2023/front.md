@@ -1,0 +1,3 @@
+Electoral Disclosure and Funding Act 2023
+An Act to make provision for the prohibition of certain donations in relation to elections, for the acceptance, use and disclosure of certain donations in relation to elections, for the disclosure of expenditure on election campaigns, for the public funding of election campaigns for the House of Assembly and of Assembly administrative expenditure, to make consequential amendments to the Electoral Act 2004, and for related purposes
+Be it enacted by Her Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
