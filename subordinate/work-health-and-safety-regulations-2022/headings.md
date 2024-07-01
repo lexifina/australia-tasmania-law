@@ -145,6 +145,12 @@ Chapter 8, Part 8.10, Division 4 Amendment of licence and licence document
 Chapter 8, Part 8.10, Division 5 Renewal of licence
 Chapter 8, Part 8.10, Division 6 Suspension and cancellation of licence
 Chapter 8, Part 8.10, Division 7 General
+Chapter 8A Engineered Stone, Porcelain Products and Sintered Stone
+Chapter 8A, Part 8A.1 Preliminary
+Chapter 8A, Part 8A.2 Work Involving Engineered Stone Benchtops, Panels or Slabs
+Chapter 8A, Part 8A.3 Regulator to be Notified of Particular Processing of Engineered Stone
+Chapter 8A, Part 8A.4 Processing Engineered Stone other than Benchtops, Panels or Slabs
+Chapter 8A, Part 8A.5 Processing Porcelain Products and Sintered Stone
 Chapter 9 Major Hazard Facilities
 Chapter 9, Part 9.1 Preliminary
 Chapter 9, Part 9.1, Division 1 Application and interpretation
@@ -176,6 +182,7 @@ Chapter 11, Part 11.2 Exemptions
 Chapter 11, Part 11.2, Division 1 General
 Chapter 11, Part 11.2, Division 2 High risk work licences
 Chapter 11, Part 11.2, Division 3 Major hazard facilities
+Chapter 11, Part 11.2, Division 3A Engineered stone
 Chapter 11, Part 11.2, Division 4 Exemption process
 Chapter 11, Part 11.3 Miscellaneous
-Chapter 11, Part 11.4 Reserved
+Chapter 11, Part 11.4 Savings and Transitional Provisions in relation to Work Health and Safety Amendment (Engineered Stone) Regulations 2024
