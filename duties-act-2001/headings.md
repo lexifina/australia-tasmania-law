@@ -16,6 +16,7 @@ Chapter 2, Part 5, Division 1 Trusts
 Chapter 2, Part 5, Division 2 Superannuation
 Chapter 2, Part 5, Division 2A First home buyer duty concession
 Chapter 2, Part 5, Division 2B Pensioner duty concession
+Chapter 2, Part 5, Division 2C Pre-completion duty concession
 Chapter 2, Part 5, Division 3 Miscellaneous
 Chapter 2, Part 6 Exemptions
 Chapter 2, Part 6, Division 1 Exemptions in general
