@@ -132,7 +132,7 @@ Dicotyledonae
 47.  | Epilobium willisii | P.H.Raven & Engelhorn, Onagraceae | carpet willowherb
 48.  | Eucalyptus barberi | L.A.S.Johnson & Blaxell, Myrtaceae | barbers gum
 49.  | Eucalyptus globulus subsp. pseudoglobulus | (Naudin ex Maiden) J.B.Kirkp., Myrtaceae | gippsland blue gum
-50.  | Eucalyptus perriniana | F.Muell. ex Rodway, Myrtaceae | spinning gum
+50.  | Eucalyptus perriniana subp. perriniana | F.Muell. ex Rodway, Myrtaceae | spinning gum
 51.  | Eucalyptus radiata subsp. radiata | Sieber ex DC., Myrtaceae | forth river peppermint
 52.  | Eucalyptus risdonii | Hook.f., Myrtaceae | risdon peppermint
 53.  | Euphrasia amphisysepala | W.R.Barker, Orobanchaceae | shiny cliff-eyebright
@@ -162,7 +162,6 @@ Dicotyledonae
 78.  | Lasiopetalum micranthum | Hook.f., Malvaceae | tasmanian velvetbush
 79.  | Lepidium flexicaule | Kirk, Brassicaceae | springy peppercress
 80.  | Leucopogon affinis | R.Br., Ericaceae | lanceleaf beardheath
-81.  | Leucopogon esquamatus | R.Br., Ericaceae | swamp beardheath
 83.  | Leucopogon virgatus var. brevifolius | Benth., Ericaceae | shortleaf beardheath
 84.  | Limonium australe var. australe | (R.Br.) Kuntze, Plumbaginaceae | yellow sea-lavender
 84A.  | Liparophyllum exaltatum | (Sol. ex Sims) Tippery & Les, Menyanthaceae | erect marshwort
@@ -185,7 +184,6 @@ Dicotyledonae
 103.  | Phyllangium distylis | (F.Muell.) Dunlop, Loganiaceae | tiny mitrewort
 104.  | Pimelea curviflora var. gracilis | (R.Br.) Threlfall, Thymelaeaceae | slender curved riceflower
 105.  | Pimelea curviflora var. sericea | Benth., Thymelaeaceae | silky curved riceflower
-106.  | Pimelea flava subsp. flava | R.Br., Thymelaeaceae | yellow riceflower
 107.  | Pimelea milliganii | Meisn., Thymelaeaceae | silver riceflower
 108.  | Planocarpa nitida | (Jarman) C.M.Weiller, Ericaceae | black cheeseberry
 109.  | Planocarpa sulcata | (Mihaich) C.M.Weiller, Ericaceae | grooved cheeseberry
@@ -213,6 +211,7 @@ Dicotyledonae
 135.  | Stylidium beaugleholei | J.H.Willis, Stylidiaceae | blushing triggerplant
 136.  | Stylidium despectum | R.Br., Stylidiaceae | small triggerplant
 137.  | Stylidium perpusillum | Hook.f., Stylidiaceae | tiny triggerplant
+137A.  | Styphelia esquamatus | (R.Br.) Spreng. Ericaceae | swamp beardheath
 138.  | Taraxacum aristum | Hagl. & Markl., Asteraceae | mountain dandelion
 139.  | Tetratheca ciliata | Lindl., Elaeocarpaceae | northern pinkbells
 140.  | Teucrium corymbosum | R.Br., Lamiaceae | forest germander
@@ -244,8 +243,6 @@ Monocotyledonae
 8.  | Australopyrum velutinum | (Nees) B.K.Simon, Poaceae | velvet wheatgrass
 11.  | Austrostipa bigeniculata | (Hughes) S.W.L.Jacobs & J.Everett, Poaceae | doublejointed speargrass
 12.  | Austrostipa blackii | (C.E.Hubb.) S.W.L.Jacobs & J.Everett, Poaceae | crested speargrass
-15.  | Baumea articulata | (R.Br.) S.T.Blake, Cyperaceae | jointed twigsedge
-16.  | Baumea gunnii | (Hook.f.) S.T.Blake, Cyperaceae | slender twigsedge
 17.  | Bolboschoenus caldwellii | (V.J.Cook) Sojak, Cyperaceae | sea clubsedge
 18.  | Bolboschoenus medianus | (V.J.Cook) Sojak, Cyperaceae | marsh clubsedge
 19.  | Caesia calliantha | R.J.F.Hend., Hemerocallidaceae | blue grasslily
@@ -275,9 +272,9 @@ Monocotyledonae
 48.  | Juncus prismatocarpus | R.Br., Juncaceae | branching rush
 49.  | Juncus vaginatus | R.Br., Juncaceae | clustered rush
 50.  | Lachnagrostis billardierei subsp. tenuiseta | (D.I.Morris) S.W.L.Jacobs, Poaceae | small-awn blowngrass
-51.  | Lachnagrostis punicea subsp. filifolia | (Vickery) S.W.L.Jacobs, Poaceae | narrowleaf blowngrass
-52.  | Lachnagrostis punicea subsp. punicea | (A.J.Br. & N.G.Walsh) S.W.L.Jacobs, Poaceae | bristle blowngrass
 53.  | Lachnagrostis robusta | (Vickery) S.W.L.Jacobs, Poaceae | tall blowngrass
+53A.  | Lachnagrostis semibarbata var. filifolia | (Trin.) S.W.L.Jacobs, Poaceae | narrowleaf blowngrass
+53B.  | Lachnagrostis semibarbata var. semibarbata | (Trin.) A.J.Br., Poaceae | bristle blowngrass
 55.  | Lepidosperma forsythii | A.A.Hamilton, Cyperaceae | stout rapiersedge
 56.  | Lepidosperma tortuosum | F.Muell., Cyperaceae | twisting rapiersedge
 57.  | Lepidosperma viscidum | R.Br., Cyperaceae | sticky swordsedge
@@ -285,6 +282,8 @@ Monocotyledonae
 59.  | Lepilaena patentifolia | E.L.Robertson, Potomogetonaceae | spreading watermat
 60.  | Lepilaena preissii | (Lehm.) F.Muell., Potomogetonaceae | slender watermat
 61.  | Luzula atrata | Edgar, Juncaceae | slender woodrush
+61A.  | Machaerina articulata | (R.Br.) T.Koyama, Cyperaceae | jointed twigsedge
+61B.  | Machaerina gunnii | (Hook.f.) J.Kern, Cyperaceae | slender twigsedge
 62.  | Microtidium atratum | (Lindl.) D.L.Jones & M.A.Clem., Orchidaceae | yellow onion-orchid
 63.  | Milligania johnstonii | F.Muell. ex Benth., Asteliaceae | shortleaf milligania
 64.  | Milligania longifolia | Hook.f., Asteliaceae | longleaf milligania

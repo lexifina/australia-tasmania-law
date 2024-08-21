@@ -53,7 +53,6 @@ Invertebrates
 6.  | Beddomeia wiseae | Ponder & Clark, Mesogastropoda | Blizzards Creek Freshwater Snail
 7.  | Catadromus lacordairei | Boisduval, Coleoptera | Green-lined Ground Beetle
 7. 7A. | Chloritobadistes victoriae | (Cox), Eupulmonata | Southern Hairy Red Snail
-8.  | Dasybela achroa | Lower, Lepidoptera | Saltmarsh Looper Moth
 10.  | Engaeus martigener | Horwitz, Decapoda | Furneaux Burrowing Crayfish
 11.  | Engaeus orramakunna | Horwitz, Decapoda | Mt. Arthur Burrowing Crayfish
 12.  | Engaeus yabbimunna | Horwitz, Decapoda | Burrowing Crayfish (Burnie)
@@ -63,6 +62,7 @@ Invertebrates
 16.  | Hoplogonus simsoni | Parry, Coleoptera | Simsons Stag Beetle
 17.  | Hoplogonus vanderschoori | Bartoluzzi, Coleoptera | Vanderschoors Stag Beetle
 20.  | Pasmaditta jungermanniae | Petterd, Sigmurethra | Cataract Gorge Pinhead Snail
+21.  | Scopula achroa | Lower, Lepidoptera | Saltmarsh Looper Moth
 Dicotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
@@ -77,11 +77,11 @@ Dicotyledonae
 9.  | Conospermum hookeri | (Meisn.) E.M.Benn., Proteaceae | tasmanian smokebush
 10.  | Desmodium gunnii | Benth. ex Hook.f., Fabaceae | southern ticktrefoil
 12.  | Epacris graniticola | Crowden, Ericaceae | granite heath
-13.  | Epacris virgata | Hook.f., Ericaceae | pretty heath
 14.  | Eryngium ovinum | A.Cunn., Apiaceae | blue devil
 15.  | Euphrasia phragmostoma | W.R.Barker, Orobanchaceae | hairy cliff-eyebright
 16.  | Glycine latrobeana | (Meisn.) Benth., Fabaceae | clover glycine
 17.  | Glycine microphylla | (Benth.) Tindale, Fabaceae | small-leaf glycine
+17A.  | Goodenia paradoxa | (Hook.f.) K.A.Sheph., Goodeniaceae | spur velleia
 19.  | Hakea ulicina | R.Br., Proteaceae | furze needlebush
 20.  | Haloragis aspera | Lindl., Haloragaceae | rough raspwort
 21.  | Hibbertia calycina | (DC.) N.A.Wakef., Dilleniaceae | lesser guineaflower
@@ -116,7 +116,6 @@ Dicotyledonae
 45.  | Stenanthemum pimeleoides | (Hook.f.) Benth., Rhamnaceae | propeller plant
 46.  | Thryptomene micrantha | Hook.f., Myrtaceae | ribbed heathmyrtle
 47.  | Triptilodiscus pygmaeus | Turcz., Asteraceae | dwarf sunray
-48.  | Velleia paradoxa | R.Br., Goodeniaceae | spur velleia
 48A.  | Veronica ciliolata subsp. fiordensis | (Ashwin) Meudt, Plantaginaceae | ben lomond cushionplant
 49.  | Veronica novae-hollandiae | Poir., Plantaginaceae | coast speedwell
 50.  | Xerochrysum palustre | (Flann) R.J.Bayer, Asteraceae | swamp paperdaisy
@@ -126,8 +125,8 @@ Monocotyledonae
 1.  | Caladenia caudata | Nicholls, Orchidaceae | tailed spider-orchid
 2.  | Caladenia patersonii | R.Br., Orchidaceae | patersons spider-orchid
 2A.  | Corybas dienemus | D.L.Jones, Orchidaceae | windswept helmet-orchid
-2B.  | Prasophyllum amoenum | D.L.Jones, Orchidaceae | dainty leek-orchid
-2C.  | Prasophyllum apoxychilum | D.L.Jones, Orchidaceae | tapered leek-orchid
+2B.  | Paraprasophyllum amoenum | (D.L.Jones) M.A.Clem. & D.L.Jones, Orchidaceae | dainty leek-orchid
+2C.  | Paraprasophyllum apoxychilum | (D.L.Jones) M.A.Clem. & D.L.Jones, Orchidaceae | tapered leek-orchid
 3.  | Pterostylis pratensis | D.L.Jones, Orchidaceae | liawenee greenhood
 3A.  | Pterostylis squamata | R.Br., Orchidaceae | ruddy greenhood
 4.  | Pterostylis ziegeleri | D.L.Jones, Orchidaceae | grassland greenhood

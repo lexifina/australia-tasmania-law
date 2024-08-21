@@ -15,7 +15,7 @@ Mammals
 Birds
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
-1.  | Acanthiza pusilla archibaldi | Mathews | King Island Brown Thornbill
+1.  | Acanthiza pusilla magnirostris | Campbell | King Island Brown Thornbill
 2.  | Acanthornis magna greeniana | Schodde & Mason | King Island Scrubtit
 3.  | Accipiter novaehollandiae | Gmelin | Grey Goshawk
 5.  | Aquila audax fleayi | Latham | Wedge-tailed Eagle
@@ -105,6 +105,7 @@ Dicotyledonae
 5A.  | Bossiaea heterophylla | Vent., Fabaceae | variable bossia
 6.  | Calystegia marginata | R.Br., Convolvulaceae | forest bindweed
 6A.  | Cassinia rugata | N.G.Walsh, Asteraceae | wrinkled dollybush
+6B.  | Coronidium gunnianum | (Hook.) N.G.Walsh, Asteraceae | swamp everlasting
 7.  | Craspedia preminghana | Rozefelds, Asteraceae | preminghana billybuttons
 8.  | Cryptandra amara | Sm., Rhamnaceae | pretty pearlflower
 8A.  | Cryptandra exilis | D.I.Morris, Rhamnaceae | slender pearlflower
@@ -117,6 +118,7 @@ Dicotyledonae
 13.  | Epacris grandis | Crowden, Ericaceae | tall heath
 14.  | Epacris limbata | K.J.Williams & F.Duncan, Ericaceae | bordered heath
 15.  | Epacris stuartii | Stapf, Ericaceae | southport heath
+15A.  | Epacris virgata | Hook.f., Ericaceae | pretty heath
 16.  | Eucalyptus gunnii subsp. divaricata | (McAulay & Brett) B.M.Potts, Myrtaceae | miena cider gum
 17.  | Eucalyptus morrisbyi | Brett, Myrtaceae | morrisbys gum
 17A.  | Euphrasia amplidens | W.R.Barker, Orobanchaceae | pieman eyebright
@@ -157,7 +159,7 @@ Dicotyledonae
 43AA.  | Senecio extensus | I. Thomps., Asteraceae | subalpine fireweed
 43A.  | Senecio psilocarpus | Belcher & Albr., Asteraceae | swamp fireweed
 44.  | Solanum opacum | A.Braun & Bouché, Solanaceae | greenberry nightshade
-45.  | Spyridium eriocephalum var. eriocephalum | Fenzl, Rhamnaceae | heath dustymiller
+45.  | Spyridium eriocephalum | Fenzl, Rhamnaceae | heath dustymiller
 46.  | Stackhousia subterranea | W.R.Barker, Celastraceae | grassland candles
 47.  | Stenopetalum lineare | R.Br. ex DC., Brassicaceae | narrow threadpetal
 48.  | Stonesiella selaginoides | (Hook.f.) Crisp & P.H.Weston, Fabaceae | clubmoss bushpea
@@ -199,22 +201,22 @@ Monocotyledonae
 27.  | Diuris palustris | Lindl., Orchidaceae | swamp doubletail
 27B.  | Poa cookii | (Hook.f.) Hook.f., Poaceae | cooks tussockgrass
 28.  | Prasophyllum abblittiorum | P.A. Collier, Orchidaceae | pallid leek-orchid
-30A.  | Prasophyllum atratum | D.L.Jones, Orchidaceae | three hummock leek-orchid
-31.  | Prasophyllum castaneum | D.L.Jones, Orchidaceae | chestnut leek-orchid
-31A.  | Prasophyllum crebriflorum | D.L.Jones, Orchidaceae | crowded leek-orchid
-32.  | Prasophyllum favonium | D.L.Jones, Orchidaceae | western leek-orchid
-33.  | Prasophyllum incorrectum | D.L.Jones, Orchidaceae | golfers leek-orchid
-33A.  | Prasophyllum limnetes | D.L.Jones, Orchidaceae | marsh leek-orchid
-34.  | Prasophyllum milfordense | D.L.Jones, Orchidaceae | milford leek-orchid
-35.  | Prasophyllum olidum | D.L.Jones, Orchidaceae | pungent leek-orchid
-36.  | Prasophyllum perangustum | D.L.Jones, Orchidaceae | knocklofty leek-orchid
-37.  | Prasophyllum pulchellum | D.L.Jones, Orchidaceae | pretty leek-orchid
-39.  | Prasophyllum robustum | (Nicholls) M.A. Clem. & D.L.Jones, Orchidaceae | robust leek-orchid
-40.  | Prasophyllum secutum | D.L.Jones, Orchidaceae | northern leek-orchid
+30A.  | Paraprasophyllum atratum | (D.L.Jones & D.T.Rouse) M.A.Clem. & D.L.Jones, Orchidaceae | three hummock leek-orchid
+31.  | Paraprasophyllum castaneum | (D.L.Jones) M.A.Clem. & D.L.Jones, Orchidaceae | chestnut leek-orchid
+31A.  | Paraprasophyllum crebriflorum | (D.L.Jones) M.A.Clem. & D.L.Jones, Orchidaceae | crowded leek-orchid
+32.  | Paraprasophyllum favonium | (D.L.Jones) M.A.Clem. & D.L.Jones, Orchidaceae | western leek-orchid
+33.  | Paraprasophyllum incorrectum | (D.L.Jones) M.A.Clem. & D.L.Jones, Orchidaceae | golfers leek-orchid
+33A.  | Paraprasophyllum limnetes | (D.L.Jones) M.A.Clem. & D.L.Jones, Orchidaceae | marsh leek-orchid
+34.  | Paraprasophyllum milfordense | (D.L.Jones) M.A.Clem. & D.L.Jones, Orchidaceae | Milford leek-orchid
+35.  | Paraprasophyllum olidum | (D.L.Jones) M.A.Clem. & D.L.Jones, Orchidaceae | pungent leek-orchid
+36.  | Paraprasophyllum perangustum | (D.L.Jones) M.A.Clem. & D.L.Jones, Orchidaceae | Knocklofty leek-orchid
+37.  | Paraprasophyllum pulchellum | (D.L.Jones) M.A.Clem. & D.L.Jones, Orchidaceae | pretty leek-orchid
+39.  | Paraprasophyllum robustum | (Nicholls) M.A. Clem. & D.L.Jones, Orchidaceae | robust leek-orchid
+40.  | Paraprasophyllum secutum | (D.L.Jones) M.A.Clem. & D.L.Jones, Orchidaceae | northern leek-orchid
+40AA.  | Paraprasophyllum stellatum | (D.L.Jones) M.A.Clem.& D.L.Jones, Orchidaceae | Ben Lomond leek-orchid
+40AB.  | Paraprasophyllum taphanyx | (D.L.Jones) M.A.Clem.& D.L.Jones, Orchidaceae | graveside leek-orchid
+40AC.  | Paraprasophyllum tunbridgense | (D.L.Jones) M.A.Clem.& D.L.Jones, Orchidaceae | Tunbridge leek-orchid
 40A.  | Prasophyllum sp. Arthurs Lake | (R.Smith DLJ11363) Tas Herbarium, Orchidaceae | mountain leek-orchid
-41.  | Prasophyllum stellatum | D.L.Jones, Orchidaceae | ben lomond leek-orchid
-42.  | Prasophyllum taphanyx | D.L.Jones, Orchidaceae | graveside leek-orchid
-43.  | Prasophyllum tunbridgense | D.L.Jones, Orchidaceae | tunbridge leek-orchid
 45.  | Pterostylis commutata | D.L.Jones, Orchidaceae | midlands greenhood
 46.  | Pterostylis cucullata subsp. cucullata | R.Br., Orchidaceae | leafy greenhood
 46A.  | Pterostylis falcata | R.S.Rogers, Orchidaceae | sickle greenhood
@@ -245,7 +247,7 @@ Pteridophyta
 2.  | Cheilanthes distans | (R.Br.) Mett., Adiantaceae | bristly rockfern
 3.  | Cyathea cunninghamii | Hook.f., Cyatheaceae | slender treefern
 4.  | Cyathea Xmarcescens | N.A.Wakef., Cyatheaceae | skirted treefern
-6.  | Hypolepis distans | Hook., Dennstaedtiaceae | scrambling groundfern
+6.  | Hiya distans | (Hook.) Brownsey & Perrie, Dennstaedtiaceae | scrambling groundfern
 7.  | Pneumatopteris pennigera | (G.Forst.) Holttum, Thelypteridaceae | lime fern
 8.  | Polystichum vestitum | (G.Forst.) C.Presl, Dryopteridaceae | prickly shieldfern
 Lichens
