@@ -7,6 +7,7 @@ Part II, Division 4 Effect of consents
 Part II, Division 5 Donations of blood
 Part II, Division 5A Blood transfusions
 Part II, Division 6 Revocation of consent
+Part II, Division 7 Donations for approved research
 Part III Donations of Tissue After Death
 Part IIIA Non-coronial autopsies and medical examinations
 Part IIIA, Division 1 General
