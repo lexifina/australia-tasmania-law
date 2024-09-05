@@ -32,7 +32,7 @@ Part 10, Division 4 Statutory compensation under other laws
 Part 11 Medical, Funeral, Travel, &c., Expenses
 Part 12 Dispute Resolution
 Part 12, Division 1 Referral of matters to Tribunal
-Part 12, Division 2 Asbestos Compensation Tribunal
+Part 12, Division 2 Tribunal
 Part 12, Division 3 Hearings
 Part 13 Asbestos Compensation Commissioner
 Part 14 Compensation Fund
