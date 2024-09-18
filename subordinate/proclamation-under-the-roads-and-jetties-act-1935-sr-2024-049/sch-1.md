@@ -1,0 +1,4 @@
+# Schedule 1 Portions of roads declared to be State Highway – West Tamar Highway
+| Road | Extent | Length in kilometres
+1.  | York Street | From the western boundary of its intersection with Wellington Street to its intersection with the existing West Tamar Road, excluding the area of its junction with Bathurst Street, at Launceston, and excluding such part of that street that is contained in certificate of title Volume 6871, Folio 1, and certificate of title Volume 150670, Folio 1, of the Register kept under section 33 of the Land Titles Act 1980. | 0.327
+2.  | Brisbane Street | From the western boundary of its intersection with Wellington Street to its intersection with the existing West Tamar Road, excluding such part of that street in the junction with Bathurst Street, at Launceston. | 0.327
