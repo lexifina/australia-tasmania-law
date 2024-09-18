@@ -1283,7 +1283,7 @@ Miscellaneous offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
 602.  | DLVR 174(10) | Fail to deliver to Registrar within allowed time a document, plate or device as required by a recall notice (on issue of duplicate or replacement) | 1.75 | 0
-Vehicle and Traffic (Vehicle Operations) Regulations 2014
+Vehicle and Traffic (Vehicle Operations) Regulations 2024
 Tyre pressure offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
@@ -1331,131 +1331,132 @@ Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
 652.  | VOR 30 | Use, or cause or permit the use of, light combination with coupling not securely fastened | 1.75 | 0
 653.  | VOR 31(2) | Use, or cause or permit the use of, light motor vehicle to tow light trailer in excess of towing capacity of motor vehicle or towing attachment fitted to motor vehicle | 1.25 | 0
-654.  | VOR 32 | Use, or cause or permit the use of, light motor vehicle to tow more than one other vehicle except as permitted | 1.25 | 0
-655.  | VOR 69(1) | Use, or cause or permit the use of, vehicle contrary to conditions of exemption | 1 | 0
-656.  | VOR 70(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass by not more than 1 tonne) | 0.75 | 0
-657.  | VOR 70(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass between 1 and 2 tonnes) | 1.50 | 0
-658.  | VOR 70(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption dimension limits | 2.25 | 0
-659.  | VOR 70(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass between 2 and 3 tonnes) | 2.50 | 0
-660.  | VOR 70(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass between 3 and 4 tonnes) | 3.25 | 0
-661.  | VOR 70(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass between 4 and 5 tonnes) | 4.25 | 0
-662.  | VOR 71(1) | Use, or cause or permit the use of, exempt vehicle or combination in contravention of warning sign requirements | 1 | 0
-663.  | VOR 71(2) | Use, or cause or permit the use of, vehicle or combination displaying warning sign when sign not required | 0.75 | 0
-664.  | VOR 71(3) | Use, or cause or permit the use of, exempt vehicle or combination without warning light illuminated as required | 1.75 | 0
-665.  | VOR 71(4) | Use, or cause or permit the use of, accompanying pilot vehicle without warning light illuminated as required | 1.75 | 0
-666.  | VOR 71(5) | Use, or cause or permit the use of, vehicle or combination displaying warning light when light not required | 0.75 | 0
-667.  | VOR 72(1) | Use, or cause or permit the use of, pilot vehicle that does not comply with requirements | 1.25 | 0
-668.  | VOR 72(2) | Use, or cause or permit the use of, vehicle or combination without accompanying pilot vehicle when pilot vehicle required | 2.25 | 0
-669.  | VOR 74 | Fail to carry permit in motor vehicle if motor vehicle or combination is operating under permit | 0.75 | 0
+654.  | VOR 32 | Use, or cause or permit the use of, light motor vehicle to tow more than one other vehicle, except as permitted | 1.25 | 0
+655.  | VOR 47(1) | Use, or cause or permit the use of, vehicle contrary to conditions of exemption | 1 | 0
+656.  | VOR 48(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass by not more than 1 tonne) | 0.75 | 0
+657.  | VOR 48(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass by between 1 and 2 tonnes) | 1.50 | 0
+658.  | VOR 48(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption dimension limits | 2.25 | 0
+659.  | VOR 48(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass by between 2 and 3 tonnes) | 2.50 | 0
+660.  | VOR 48(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass by between 3 and 4 tonnes) | 3.25 | 0
+661.  | VOR 48(1) | Use, or cause or permit the use of, exempt vehicle or combination in breach of exemption mass limits (exceeding mass by between 4 and 5 tonnes) | 4.25 | 0
+662.  | VOR 49(1) | Use, or cause or permit the use of, exempt vehicle or combination in contravention of warning sign requirements | 1 | 0
+663.  | VOR 49(2) | Use, or cause or permit the use of, vehicle or combination displaying warning sign when sign not required | 0.75 | 0
+664.  | VOR 49(3) | Use, or cause or permit the use of, exempt vehicle or combination without warning light illuminated as required | 1.75 | 0
+665.  | VOR 49(4) | Use, or cause or permit the use of, accompanying pilot vehicle without warning light illuminated as required | 1.75 | 0
+666.  | VOR 49(5) | Use, or cause or permit the use of, vehicle or combination with warning light illuminated when light not required | 0.75 | 0
+667.  | VOR 50(1) | Use, or cause or permit the use of, pilot vehicle that does not comply with requirements | 1.25 | 0
+668.  | VOR 50(2) | Use, or cause or permit the use of, vehicle or combination without accompanying pilot vehicle when pilot vehicle required | 2.25 | 0
+669.  | VOR 52 | Fail to carry permit in motor vehicle if motor vehicle or combination is operating under permit | 0.75 | 0
 Load limit road sign offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-670.  | VOR 75(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass by not more than 1 tonne) | 0.75 | 0
-671.  | VOR 75(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass between 1 and 2 tonnes) | 1.50 | 0
-672.  | VOR 75(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass between 2 and 3 tonnes) | 2.50 | 0
-673.  | VOR 75(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass between 3 and 4 tonnes) | 3.25 | 0
-674.  | VOR 75(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass between 4 and 5 tonnes) | 4.25 | 0
-675.  | VOR75(3)(b) | Use, or cause or permit the use of, vehicle or combination in breach of road sign dimension limit | 2.25 | 0
-Vehicle and Traffic (Vehicle Standards) Regulations 2014
+670.  | VOR 53(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass by not more than 1 tonne) | 0.75 | 0
+671.  | VOR 53(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass by between 1 and 2 tonnes) | 1.50 | 0
+672.  | VOR 53(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass by between 2 and 3 tonnes) | 2.50 | 0
+673.  | VOR 53(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass by between 3 and 4 tonnes) | 3.25 | 0
+674.  | VOR 53(3)(a) | Use, or cause or permit the use of, vehicle or combination in breach of road sign mass limit (exceeding mass by between 4 and 5 tonnes) | 4.25 | 0
+675.  | VOR 53(3)(b) | Use, or cause or permit the use of, vehicle or combination in breach of road sign dimension limit | 2.25 | 0
+Vehicle and Traffic (Vehicle Standards) Regulations 2024
 Australian Design Rules offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-676.  | VSR 4(1)(a) as regards VSR 19(1) or 20(1) | Use, or cause or permit the use of, light vehicle in contravention of applicable second or third edition ADR | 1 | 0
+676.  | VSR 5(1)(a) as regards VSR 14(1) or 15(1) | Use, or cause or permit the use of, light vehicle in contravention of applicable second edition or third edition ADR | 1 | 0
 General safety requirement offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-677.  | VSR 4(1)(a) as regards VSR 27 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - modification requirements | 1 | 0
-678.  | VSR 4(1)(a) as regards VSR 28 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - steering requirements | 1.25 | 0
-679.  | VSR 4(1)(a) as regards VSR 29 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - turning requirements | 1 | 0
-680.  | VSR 4(1)(a) as regards VSR 30 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - unloaded mass over 450kg without ability to travel backwards/forwards | 0.75 | 0
-681.  | VSR 4(1)(a) as regards VSR 31(1) | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - object not designed, built, fitted to or maintained on light vehicle in way that minimises likelihood of injury to person | 1 | 0
-682.  | VSR 4(1)(a) as regards VSR 32 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - driver’s viewing and light vehicle control requirements | 1.25 | 0
-683.  | VSR 4(1)(a) as regards VSR 33 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - without seating securely attached | 1.25 | 0
-684.  | VSR 4(1)(a) as regards VSR 34 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - mudguard requirements | 0.75 | 0
-685.  | VSR 4(1)(a) as regards VSR 35 | Use, or cause or permit the use of, vehicle in contravention of vehicle standards - oil, grease, fuel, brake fluid or hydraulic fluid dripping onto street surface | 0.75 | 0
-686.  | VSR 4(1)(a) as regards VSR 36 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - horn/alarm/other device requirements | 0.75 | 0
-687.  | VSR 4(1)(a) as regards VSR 37, 38 or 39 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - rear vision mirror requirements | 1 | 0
-688.  | VSR 4(1)(a) as regards VSR 40 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - automatic transmission requirements | 1 | 0
-689.  | VSR 4(1)(a) as regards VSR 41 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - diesel engine without device fitted preventing engine starting accidentally/inadvertently | 0.75 | 0
-690.  | VSR 4(1)(a) as regards VSR 42 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - bonnet-securing device requirements | 1 | 0
-691.  | VSR 4(1)(a) as regards VSR 43 | Use, or cause or permit the use of, vehicle in contravention of vehicle standards - electrical wiring requirements | 1 | 0
-692.  | VSR 4(1)(a) as regards VSR 44 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - television receiver/visual display unit requirements | 1 | 0
-693.  | VSR 4(1)(a) as regards VSR 45 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - requirement to fit windscreen | 1 | 0
-694.  | VSR 4(1)(a) as regards VSR 46 | Use, or cause or permit the use of, motor vehicle in contravention of vehicle standards - windscreen/window/interior partition requirements | 1 | 0
-695.  | VSR 4(1)(a) as regards VSR 47 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - window tinting requirements | 0.75 | 0
-696.  | VSR 4(1)(a) as regards VSR 48 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - windscreen wiper/washer requirements | 0.75 | 0
-697.  | VSR 4(1)(a) as regards VSR 49, 50, 51, 52, 53, 54, 55, or 56 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - wheel and tyre requirements | 1 | 0
+677.  | VSR 5(1)(a) as regards VSR 21 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - modification requirements | 1 | 0
+678.  | VSR 5(1)(a) as regards VSR 22 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - steering requirements | 1.25 | 0
+679.  | VSR 5(1)(a) as regards VSR 23 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - turning requirements | 1 | 0
+680.  | VSR 5(1)(a) as regards VSR 24 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - unloaded mass over 450kg without ability to travel backwards/forwards | 0.75 | 0
+681.  | VSR 5(1)(a) as regards VSR 25(1) | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - object not designed, built, fitted to or maintained on light vehicle in way that minimises likelihood of injury to person | 1 | 0
+682.  | VSR 5(1)(a) as regards VSR 27 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - driver’s view and light vehicle controls requirements | 1.25 | 0
+683.  | VSR 5(1)(a) as regards VSR 28 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - without seating securely attached | 1.25 | 0
+684.  | VSR 5(1)(a) as regards VSR 29 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - mudguard requirements | 0.75 | 0
+685.  | VSR 5(1)(a) as regards VSR 30 | Use, or cause or permit the use of, vehicle in contravention of Vehicle Standards - oil, grease, fuel, brake fluid or hydraulic system fluid dripping onto street surface | 0.75 | 0
+686.  | VSR 5(1)(a) as regards VSR 31 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - horn/alarm/other device requirements | 0.75 | 0
+687.  | VSR 5(1)(a) as regards VSR 32, 33 or 34 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - rear vision mirror requirements | 1 | 0
+688.  | VSR 5(1)(a) as regards VSR 35 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - automatic transmission requirements | 1 | 0
+689.  | VSR 5(1)(a) as regards VSR 36 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - diesel engine without device fitted preventing engine starting accidentally/inadvertently | 0.75 | 0
+690.  | VSR 5(1)(a) as regards VSR 37 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - bonnet-securing device requirements | 1 | 0
+691.  | VSR 5(1)(a) as regards VSR 38 | Use, or cause or permit the use of, vehicle in contravention of Vehicle Standards - electrical wiring, components, connections and installation requirements | 1 | 0
+692.  | VSR 5(1)(a) as regards VSR 39 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - television receiver/visual display unit requirements | 1 | 0
+693.  | VSR 5(1)(a) as regards VSR 40 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - requirement to fit windscreen | 1 | 0
+694.  | VSR 5(1)(a) as regards VSR 41 | Use, or cause or permit the use of, motor vehicle in contravention of Vehicle Standards - windscreen/window/interior partition requirements | 1 | 0
+695.  | VSR 5(1)(a) as regards VSR 42 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - window tinting requirements | 0.75 | 0
+696.  | VSR 5(1)(a) as regards VSR 43 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - windscreen wiper/washer requirements | 0.75 | 0
+697.  | VSR 5(1)(a) as regards VSR 44, 45, 46, 47, 48, 49 or 50 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - wheel and tyre requirements | 1 | 0
 Additional motorbike safety requirement offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-698.  | VSR 4(1)(a) as regards VSR 57 | Use, or cause or permit the use of, motor bike in contravention of vehicle standards - steering gear and hand grips/handlebar requirements | 1 | 0
-699.  | VSR 4(1)(a) as regards VSR 58 | Use, or cause or permit the use of, motor bike in contravention of vehicle standards - foot rests for driver/passenger requirements | 1 | 0
-700.  | VSR 4(1)(a) as regards VSR 59 | Use, or cause or permit the use of, motor bike in contravention of vehicle standards - chain guard requirements | 1 | 0
+698.  | VSR 5(1)(a) as regards VSR 51 | Use, or cause or permit the use of, motor bike in contravention of Vehicle Standards - steering gear and hand grips/handlebar requirements | 1 | 0
+699.  | VSR 5(1)(a) as regards VSR 52 | Use, or cause or permit the use of, motor bike in contravention of Vehicle Standards - foot rests for driver/passenger requirements | 1 | 0
+700.  | VSR 5(1)(a) as regards VSR 53 | Use, or cause or permit the use of, motor bike in contravention of Vehicle Standards - chain guard requirements | 1 | 0
 Vehicle marking offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-701.  | VSR 4(1)(a) as regards VSR 60 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - light vehicle and engine identification number requirements | 0.75 | 0
-702.  | VSR 4(1)(a) as regards VSR 61 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - white or silver band requirements | 0.75 | 0
+701.  | VSR 5(1)(a) as regards VSR 54 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - light vehicle and engine identification number requirements | 0.75 | 0
+702.  | VSR 5(1)(a) as regards VSR 55 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - white or silver band requirements | 0.75 | 0
 Vehicle configuration offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-703.  | VSR 4(1)(a) as regards VSR 62 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - axle configuration requirements | 0.75 | 0
+703.  | VSR 5(1)(a) as regards VSR 56 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - axle configuration requirements | 0.75 | 0
 Vehicle light offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-704.  | VSR 4(1)(a) as regards VSR 64 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - with light (other than high-beam headlight) not fitted/adjusted to provide necessary amount of light, without dazzling driver | 1 | 0
-705.  | VSR 4(1)(a) as regards VSR 65 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - requirement for lights to be a matching pair | 1 | 0
-706.  | VSR 4(1)(a) as regards VSR 66, 67, 68, 69, 70, 71, or 72 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - headlight requirements | 1 | 0
-707.  | VSR 4(1)(a) as regards VSR 73 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - parking light requirements | 1 | 0
-708.  | VSR 4(1)(a) as regards VSR 74 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - daytime running lights requirements | 1 | 0
-709.  | VSR 4(1)(a) as regards VSR 75, 76, 77, or 78 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - tail light requirements | 1 | 0
-710.  | VSR 4(1)(a) as regards VSR 79 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - number plate light requirements | 0.75 | 0
-711.  | VSR 4(1)(a) as regards VSR 80, 81, or 82 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - front and rear clearance light/external cabin light requirements | 1 | 0
-712.  | VSR 4(1)(a) as regards VSR 83, 84, or 85 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - side marker light requirements | 1 | 0
-713.  | VSR 4(1)(a) as regards VSR 87 or 88 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - brake light requirements | 1 | 0
-714.  | VSR 4(1)(a) as regards VSR 89 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - reversing light requirements | 0.75 | 0
-715.  | VSR 4(1)(a) as regards VSR 90, 91, 92, or 93 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - direction indicator light requirements | 1 | 0
-716.  | VSR 4(1)(a) as regards VSR 94 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - front fog light requirements | 0.75 | 0
-717.  | VSR 4(1)(a) as regards VSR 95 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - rear fog light requirements | 0.75 | 0
+704.  | VSR 5(1)(a) as regards VSR 60 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards – glare prevention requirements | 1 | 0
+705.  | VSR 5(1)(a) as regards VSR 61 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - requirement for lights to be a matching pair | 1 | 0
+706.  | VSR 5(1)(a) as regards VSR 62, 63, 64, 65, 66 or 67 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - headlight requirements | 1 | 0
+707.  | VSR 5(1)(a) as regards VSR 68 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - parking light requirements | 1 | 0
+708.  | VSR 5(1)(a) as regards VSR 69 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - daytime running lights requirements | 1 | 0
+709.  | VSR 5(1)(a) as regards VSR 70, 71, 72 or 73 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - tail light requirements | 1 | 0
+710.  | VSR 5(1)(a) as regards VSR 74 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - number plate light requirements | 0.75 | 0
+711.  | VSR 5(1)(a) as regards VSR 75, 76 or 77 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - front and rear clearance light/external cabin light requirements | 1 | 0
+712.  | VSR 5(1)(a) as regards VSR 78, 79 or 80 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards – side-marker light requirements | 1 | 0
+713.  | VSR 5(1)(a) as regards VSR 82 or 83 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - brake light requirements | 1 | 0
+714.  | VSR 5(1)(a) as regards VSR 84 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - reversing light requirements | 0.75 | 0
+715.  | VSR 5(1)(a) as regards VSR 85, 86, 87, or 88 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - direction indicator light requirements | 1 | 0
+716.  | VSR 5(1)(a) as regards VSR 89 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - front fog light requirements | 0.75 | 0
+717.  | VSR 4(1)(a) as regards VSR 90 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - rear fog light requirements | 0.75 | 0
 Reflector offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-718.  | VSR 4(1)(a) as regards VSR Division 14, 15, 16 or 17, of Part 8 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - reflector requirements | 1 | 0
+718.  | VSR 5(1)(a) as regards VSR Division 15, 16 17 or 18 of Part 8 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - reflector requirements | 1 | 0
 Bus warning light/warning sign offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-719.  | VSR 4(1)(a) as regards VSR Division 18 of Part 8 | Use, or cause or permit the use of, bus mainly used for carrying schoolchildren in contravention of vehicle standards - warning light/warning sign requirements | 1.25 | 0
+719.  | VSR 5(1)(a) as regards VSR Division 19 of Part 8 | Use, or cause or permit the use of, bus mainly used for carrying schoolchildren in contravention of Vehicle Standards - warning light/warning sign requirements | 1.25 | 0
 Other light, reflector and general offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-720.  | VSR 4(1)(a) as regards VSR 107 | Use, or cause or permit the use of, light vehicle in contravention of vehicle standards - flashing light/other light or reflector requirements | 1 | 0
-721.  | VSR 4(1)(a) as regards VSR 109, 110, or 111 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - mechanical signalling device or turn signal requirements | 1 | 0
+720.  | VSR 5(1)(a) as regards VSR 102 | Use, or cause or permit the use of, light vehicle in contravention of Vehicle Standards - flashing light/other light or reflector requirements | 1 | 0
+721.  | VSR 5(1)(a) as regards VSR 104, 105 or 106 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - mechanical signalling device or turn signal requirements | 1 | 0
 Braking system offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-722.  | VSR 4(1)(a) as regards VSR Part 9 | Use, or cause or permit the use of, light vehicle or light combination in contravention of vehicle standards - braking system requirements | 1.25 | 0
+722.  | VSR 5(1)(a) as regards VSR Part 9 | Use, or cause or permit the use of, light vehicle or light combination in contravention of Vehicle Standards - braking system requirements | 1.25 | 0
 Control of emissions offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-723.  | VSR 4(1)(a) as regards VSR 124 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - light motor vehicle powered by petrol engine built/fitted so as not to prevent crank case gases escaping | 0.75 | 0
-724.  | VSR 4(1)(a) as regards VSR 125 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - light motor vehicle propelled by internal combustion engine emitting more than allowable visible emissions | 0.75 | 0
-725.  | VSR 4(1)(a) as regards VSR 126 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - certain light motor vehicle powered by diesel engine emitting more than allowable emissions | 0.75 | 0
-726.  | VSR 4(1)(a) as regards VSR 129 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - exhaust outlet requirements for motor trike or bus | 0.75 | 0
-726A.  | VSR 4(1)(a) as regards VSR 132 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - light motor vehicle propelled by internal combustion engine not fitted with effective silencing device through which all exhaust from engine passes | 0.75 | 0
-727.  | VSR 4(1)(a) as regards VSR 134, 134A, 134B or 134C | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - stationary noise emission requirements | 0.75 | 0
+723.  | VSR 5(1)(a) as regards VSR 117 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - light motor vehicle powered by petrol engine must be built/fitted so as to prevent crank case gases escaping | 0.75 | 0
+724.  | VSR 5(1)(a) as regards VSR 118 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - light motor vehicle propelled by internal combustion engine must not emit more than allowable visible emissions | 0.75 | 0
+725.  | VSR 5(1)(a) as regards VSR 119 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - certain light motor vehicle powered by diesel engine must not emit more than allowable emissions | 0.75 | 0
+726.  | VSR 5(1)(a) as regards VSR 122 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - exhaust outlet requirements for motor trike or bus | 0.75 | 0
+726A.  | VSR 5(1)(a) as regards VSR 125 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - light motor vehicle propelled by internal combustion engine to be fitted with effective silencing device through which all exhaust from engine passes | 0.75 | 0
+727.  | VSR 5(1)(a) as regards VSR 127, 128, 129 or 130 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - stationary noise level requirements | 0.75 | 0
 Alternative fuel system offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-728.  | VSR 4(1)(a) as regards VSR 135 | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - LPG fuel system requirements | 1 | 0
-728A.  | VSR 4(1)(a) as regards VSR 135A | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - hydrogen fuel system requirements | 1 | 0
-728B.  | VSR 4(1)(a) as regards VSR 135B | Use, or cause or permit the use of, light motor vehicle in contravention of vehicle standards - electric propulsion system requirements | 1 | 0
+728.  | VSR 5(1)(a) as regards VSR 131 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - LPG fuel system requirements | 1 | 0
+728A.  | VSR 5(1)(a) as regards VSR 132 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards – natural gas system requirements | 1 | 0
+728B.  | VSR 5(1)(a) as regards VSR 133 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards - hydrogen fuel system requirements | 1 | 0
+728C.  | VSR 5(1)(a) as regards VSR 134 | Use, or cause or permit the use of, light motor vehicle in contravention of Vehicle Standards – electric-powered light vehicle labelling requirements | 1 | 0
 General offences
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
-729.  | VSR 4(1)(a) as regards VSR Part 12 | Use, or cause or permit the use of, motor vehicle/trailer in light combination in contravention of vehicle standards - coupling requirements | 1.25 | 0
-730.  | VSR 4(1)(a) as regards VSR Part 13 or VSR 96(2) | Use, or cause or permit the use of, bus (used for carrying passengers) in contravention of vehicle standards - bus construction and fitting requirements | 1.25 | 0
-731.  | VSR 4(1)(b) | Use, or cause or permit the use of, vehicle or combination in an unsafe and unroadworthy condition | 4 | 0
-732.  | VSR 4(1)(c) | Use, or cause or permit the use of, vehicle or combination with unclean or obscured light, reflector, sign, writing, colouring or band | 0.75 | 0
+729.  | VSR 5(1)(a) as regards VSR Part 12 | Use, or cause or permit the use of, motor vehicle/trailer in light combination in contravention of Vehicle Standards - coupling requirements | 1.25 | 0
+730.  | VSR 5(1)(a) as regards VSR Part 13 or VSR 91(2) | Use, or cause or permit the use of, bus (used for carrying passengers) in contravention of Vehicle Standards - bus construction and fitting requirements | 1.25 | 0
+731.  | VSR 5(1)(b) | Use, or cause or permit the use of, vehicle or combination in an unsafe and unroadworthy condition | 4 | 0
+732.  | VSR 5(1)(c) | Use, or cause or permit the use of, vehicle or combination with unclean or obscured light, reflector, sign, writing, colouring or band | 0.75 | 0
 Vehicle insurance cover
 Col 1 | Col 2 | Col 3 | Col 4 | Col 5
 Item | Legislation creating offence | Offence | Penalty units | Demerit points
