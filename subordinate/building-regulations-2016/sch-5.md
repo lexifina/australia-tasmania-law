@@ -8,8 +8,10 @@ Regulation 85
 5.  | Section 20(4) | 10 | -
 6.  | Section 22(3) | 10 | -
 7.  | Section 22(4) | 10 | 50
+7A.  | Section 24(2) | - | 50
 8.  | Section 27(1) | 10 | -
 9.  | Section 27(2) | 10 | -
+9A.  | Section 27B(6) | 10 | 50
 10.  | Section 28(2) | 10 | 50
 11.  | Section 28(3) | 10 | 50
 12.  | Section 29(1) | 10 | 50
@@ -93,6 +95,7 @@ Regulation 85
 90.  | Section 208(4) | 10 | -
 91.  | Section 208(5) | 10 | -
 92.  | Section 209 | 10 | -
+92A.  | Section 209A(8) | 10 | 50
 93.  | Section 210(1) | 10 | -
 94.  | Section 210(4) | 10 | -
 95.  | Section 210(5) | 10 | -
@@ -117,6 +120,7 @@ Regulation 85
 114.  | Section 250(5) | 10 | 50
 115.  | Section 253 | 2 | 5
 116.  | Section 260(2) | 10 | -
+116A.  | 265(1) | 1 | 1
 117.  | Section 273(1) | 2 | 5
 118.  | Section 275(2) | 10 | 50
 119.  | Section 275(3) | 10 | 50
