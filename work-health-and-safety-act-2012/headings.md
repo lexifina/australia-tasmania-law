@@ -12,6 +12,7 @@ Part 2, Division 1, Subdivision 2 What is reasonably practicable
 Part 2, Division 2 Primary duty of care
 Part 2, Division 3 Further duties of persons conducting businesses or undertakings
 Part 2, Division 4 Duty of officers, workers and other persons
+Part 2, Division 4A Industrial manslaughter
 Part 2, Division 5 Offences and penalties
 Part 3 Incident Notification
 Part 4 Authorisations
