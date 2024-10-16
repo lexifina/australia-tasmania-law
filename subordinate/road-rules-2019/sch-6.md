@@ -39,7 +39,7 @@ has the same meaning as in the Air Services Regulations 1995 of the Commonwealth
 A device is declared to be a mechanical signalling device for the Road Rules if it is an approved mechanical signalling device complying with the Vehicle Standards.
 5 Oversize vehicle
 A vehicle is declared to be an oversize vehicle for the Road Rules if its dimensions, including any load, exceed –
-(a) in the case of a light vehicle, the maximum allowable dimensions specified for that vehicle in the Vehicle and Traffic (Vehicle Operations) Regulations 2014; and
+(a) in the case of a light vehicle, the maximum allowable dimensions specified for that vehicle in the Vehicle and Traffic (Vehicle Operations) Regulations 2024; and
 (b) in the case of a heavy vehicle, the maximum allowable dimensions specified for that vehicle in the Heavy Vehicle (Mass, Dimension and Loading) National Regulation, as made under the Heavy Vehicle National Law and applied in this jurisdiction by section 5 of the Heavy Vehicle National Law (Tasmania) Act 2013.
 6 Parking permit for people with disabilities
 A permit is a parking permit for people with disabilities for the Road Rules if it is a parking permit issued to a person with a disability by –
