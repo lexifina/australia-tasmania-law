@@ -1,0 +1,3 @@
+Child Safety Reform Implementation Monitor Act 2024
+An Act to establish an independent monitor to monitor and report to Parliament on the implementation of the recommendations of the Commission of Inquiry into the Tasmanian Government’s Responses to Child Sexual Abuse in Institutional Settings, any recommendations of the Royal Commission into Institutional Responses to Child Sexual Abuse that have been accepted by the State but not yet implemented, and certain other relevant recommendations and for related purposes
+Be it enacted by Her Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
