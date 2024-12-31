@@ -8,7 +8,6 @@ Mammals
 1.  | Arctocephalus tropicalis | Gray | Subantarctic Fur Seal
 2.  | Balaenoptera musculus | Linnaeus | Blue Whale
 3.  | Eubalaena australis | Desmoulins | Southern Right Whale
-4.  | Megaptera novaeangliae | Borowski | Humpback Whale
 5.  | Mirounga leonina | Gray | Southern Elephant Seal
 6.  | Pseudomys novaehollandiae | Waterhouse | New Holland Mouse
 7.  | Sarcophilus harrisii | (Thomas) | Tasmanian Devil
@@ -41,7 +40,7 @@ Reptiles
 Amphibians
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
-1.  | Limnodynastes peroni | Dumeril & Bibron | Striped Marsh Frog
+1.  | Limnodynastes peronii | Dumeril & Bibron | Striped Marsh Frog
 Fish
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
@@ -199,7 +198,6 @@ Monocotyledonae
 25.  | Cryptostylis leptochila | F.Muell. ex Benth., Orchidaceae | small tongue-orchid
 26.  | Diuris lanceolata | Lindl., Orchidaceae | large golden moths
 27.  | Diuris palustris | Lindl., Orchidaceae | swamp doubletail
-27B.  | Poa cookii | (Hook.f.) Hook.f., Poaceae | cooks tussockgrass
 28.  | Prasophyllum abblittiorum | P.A. Collier, Orchidaceae | pallid leek-orchid
 30A.  | Paraprasophyllum atratum | (D.L.Jones & D.T.Rouse) M.A.Clem. & D.L.Jones, Orchidaceae | three hummock leek-orchid
 31.  | Paraprasophyllum castaneum | (D.L.Jones) M.A.Clem. & D.L.Jones, Orchidaceae | chestnut leek-orchid
@@ -249,7 +247,6 @@ Pteridophyta
 4.  | Cyathea Xmarcescens | N.A.Wakef., Cyatheaceae | skirted treefern
 6.  | Hiya distans | (Hook.) Brownsey & Perrie, Dennstaedtiaceae | scrambling groundfern
 7.  | Pneumatopteris pennigera | (G.Forst.) Holttum, Thelypteridaceae | lime fern
-8.  | Polystichum vestitum | (G.Forst.) C.Presl, Dryopteridaceae | prickly shieldfern
 Lichens
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name

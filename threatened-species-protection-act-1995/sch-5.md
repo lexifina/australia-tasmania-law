@@ -83,7 +83,7 @@ Invertebrates
 59.  | Tasmanipatus barretti | Ruhberg, Onychophora | Giant Velvet Worm
 60.  | Tasmanotrechus cockerilli | Moore, Coleoptera | Cave Beetle (Mole Creek)
 62.  | Tasniphargus tyleri | Williams & Barnard, Amphipoda | Amphipod (Great Lake)
-63.  | Theclinesthes serpentata lavara | (Herrich-Schäffer), Lepidoptera | Chequered blue
+63.  | Theclinesthes serpentatus lavara | (Herrich-Schäffer), Lepidoptera | Chequered Blue
 64.  | Uramphisopus pearsoni | Nicholls, Isopoda | Isopod (Great Lake)
 Dicotyledonae
 | Column 1 | Column 2 | Column 3
@@ -132,7 +132,7 @@ Dicotyledonae
 47.  | Epilobium willisii | P.H.Raven & Engelhorn, Onagraceae | carpet willowherb
 48.  | Eucalyptus barberi | L.A.S.Johnson & Blaxell, Myrtaceae | barbers gum
 49.  | Eucalyptus globulus subsp. pseudoglobulus | (Naudin ex Maiden) J.B.Kirkp., Myrtaceae | gippsland blue gum
-50.  | Eucalyptus perriniana subp. perriniana | F.Muell. ex Rodway, Myrtaceae | spinning gum
+50.  | Eucalyptus perriniana subsp. perriniana | F.Muell. ex Rodway, Myrtaceae | spinning gum
 51.  | Eucalyptus radiata subsp. radiata | Sieber ex DC., Myrtaceae | forth river peppermint
 52.  | Eucalyptus risdonii | Hook.f., Myrtaceae | risdon peppermint
 53.  | Euphrasia amphisysepala | W.R.Barker, Orobanchaceae | shiny cliff-eyebright
@@ -187,7 +187,6 @@ Dicotyledonae
 107.  | Pimelea milliganii | Meisn., Thymelaeaceae | silver riceflower
 108.  | Planocarpa nitida | (Jarman) C.M.Weiller, Ericaceae | black cheeseberry
 109.  | Planocarpa sulcata | (Mihaich) C.M.Weiller, Ericaceae | grooved cheeseberry
-110.  | Plantago debilis | R.Br., Plantaginaceae | shade plantain
 111.  | Plantago glacialis | B.G.Briggs, Carolin & Pulley, Plantaginaceae | small star plantain
 112.  | Pomaderris intermedia | Sieber ex DC., Rhamnaceae | lemon dogwood
 113.  | Pomaderris oraria subsp. oraria | F.Muell. ex Reissek, Rhamnaceae | bassian dogwood
@@ -211,7 +210,7 @@ Dicotyledonae
 135.  | Stylidium beaugleholei | J.H.Willis, Stylidiaceae | blushing triggerplant
 136.  | Stylidium despectum | R.Br., Stylidiaceae | small triggerplant
 137.  | Stylidium perpusillum | Hook.f., Stylidiaceae | tiny triggerplant
-137A.  | Styphelia esquamatus | (R.Br.) Spreng. Ericaceae | swamp beardheath
+137A.  | Styphelia esquamata | (R.Br.) Spreng. Ericaceae | swamp beardheath
 138.  | Taraxacum aristum | Hagl. & Markl., Asteraceae | mountain dandelion
 139.  | Tetratheca ciliata | Lindl., Elaeocarpaceae | northern pinkbells
 140.  | Teucrium corymbosum | R.Br., Lamiaceae | forest germander
@@ -314,7 +313,7 @@ Pteridophyta
 2.  | Isoetes drummondii subsp. drummondii | A.Braun, Isoetaceae | plain quillwort
 3.  | Isoetes elatior | F.Muell. ex A.Braun, Isoetaceae | tall quillwort
 4.  | Isoetes humilior | F.Muell. ex A.Braun, Isoetaceae | veiled quillwort
-5.  | Isoetes sp. Maxwell River | (S.J.Jarman HO314082) Tas. Herbarium, Isoetaceae | limestone quillwort
+5.  | Isoetes jarmaniae | (S.J.Jarman HO314082) Tas. Herbarium, Isoetaceae | limestone quillwort
 6.  | Pellaea calidirupium | Brownsey & Lovis, Adiantaceae | hotrock fern
 7.  | Phylloglossum drummondii | Kunze, Lycopodiaceae | pygmy clubmoss
 8.  | Pilularia novae-hollandiae | A.Braun, Marsileaceae | australian pillwort
