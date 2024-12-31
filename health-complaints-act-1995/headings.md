@@ -11,5 +11,6 @@ Part 6, Division 1 Application of Part 6
 Part 6, Division 2 Conduct of investigations
 Part 6, Division 3 Privilege
 Part 6, Division 4 Action on investigation
+Part 6, Division 5 Codes of conduct for health care workers
 Part 7 Registration Boards
 Part 8 Miscellaneous

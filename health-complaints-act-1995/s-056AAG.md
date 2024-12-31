@@ -1,0 +1,4 @@
+# 56AAG. Appeals
+(1) A person in relation to whom the Commissioner makes an interim prohibition order or a prohibition order, or intends to publish a statement under section 56AAE(5), may appeal the decision to make the interim prohibition order or prohibition order, or to publish the statement, to the Administrative Appeals Division of the Magistrates Court.
+(2) An appeal under this section must be commenced within one month after notification of the decision to make an interim prohibition order under section 56AAB(6) or service of a prohibition order under section 56AAC(4) or provision of a public warning statement under section 56AAE, or such extended period as may be allowed by the Administrative Appeals Division of the Magistrates Court.
+(3) On an appeal under this section the Court may confirm, vary or revoke an order or publication the subject of the appeal.
