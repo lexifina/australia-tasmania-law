@@ -45,7 +45,7 @@ indirect participant
 Example 2 A team doctor or physiotherapist, a sportsground curator, an official, a member of a tribunal that hears protests or appeals concerning rules, disqualifications or results.
 licensed
 means licensed or registered under –
-(a) the Rules of Racing within the meaning of the Racing Regulation Act 2004; or
+(a) the Rules of Racing within the meaning of the Racing Regulation and Integrity Act 2024; or
 (b) rules in force in another State, or in a Territory, that are equivalent or substantially equivalent to the rules referred to in paragraph (a);
 official
 includes marshal, scorer, steward, time-keeper and umpire;

@@ -7,7 +7,7 @@
 (a) if the endorsement ceases for any reason to have effect before the nominal term of the licence expires, the licence continues in effect after that cessation (but without the endorsement) only for the remaining balance, if any, of the nominal term;
 (b) if the endorsement ceases for any reason to have effect after (or precisely when) the nominal term of the licence expires, the licence continues in effect after that cessation (but without the endorsement) only for a period of 6 months.
 (4) Nothing in subsection (3) limits the operation of section 76ZC.
-(5) The holder of a Tasmanian gaming licence endorsed with the second totalizator endorsement is not, in respect of anything done under that licence as regards that endorsement, subject to section 86 or Part 7 of the Racing Regulation Act 2004.
+(5) The holder of a Tasmanian gaming licence endorsed with the second totalizator endorsement is not, in respect of anything done under that licence as regards that endorsement, subject to section 167 or Part 9 of the Racing Regulation and Integrity Act 2024.
 (6) In this section –
 nominal term
 , of a Tasmanian gaming licence endorsed with the second totalizator endorsement, means the 5-year period commencing on the day on which that licence takes effect.

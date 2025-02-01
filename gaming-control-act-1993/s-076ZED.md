@@ -16,7 +16,7 @@
 (iii) a terminating event occurs; and
 (b) in so far as any subsisting business agreement may expressly or impliedly allow, confers like authority on a TOTE subsidiary to which the transitional licence may be transferred.
 (5) However, subsection (4) has effect subject to section 76VC(4).
-(6) The holder of the transitional licence is not, in respect of anything done under that licence as regards the initial totalizator endorsement, subject to section 86 or Part 7 of the Racing Regulation Act 2004.
+(6) The holder of the transitional licence is not, in respect of anything done under that licence as regards the initial totalizator endorsement, subject to section 167 or Part 9 of the Racing Regulation and Integrity Act 2024.
 (7) In this section –
 terminating event
 , for the transitional licence, means –
