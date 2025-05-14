@@ -18,7 +18,7 @@ Regulations 34 and 35
 (g)  | a person who is 18 years of age or more for the use of one rod and line for 28 consecutive days | 39
 (h)  | a person referred to in paragraph (a) for the use of an additional rod and line for one season | 10
 (i)  | a person referred to in paragraph (a) for the use of an additional rod and line for 5 consecutive seasons | 50
-(j)  | a person referred to in paragraph (b), (c), (d), (f) or (g) for the use of an additional rod and line for the period of the licence | 5
+(j)  | a person referred to in paragraph (b), (c), (d), (e), (f) or (g) for the use of an additional rod and line for the period of the licence | 5
 (k)  | a person referred to in paragraph (b) or (c) for the use of an additional rod and line for 5 consecutive seasons | 25
 (l)  | replacement licence | 2
 2.  | Whitebait licence |

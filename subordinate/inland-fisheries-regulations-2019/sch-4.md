@@ -21,13 +21,13 @@ Column 1 | Column 2
 20.  | Lake Leake
 22.  | Lake Mikany
 23.  | Lake Skinner
+23A.  | Lake Sorell
 24.  | Lamberts Dam
 25.  | Lauriston Reservoir
 26.  | Little Lake
 27.  | Little Pine Lagoon
 28.  | Little Waterhouse Lake
 29.  | Meadowbank Lake
-30.  | Pawleena Reservoir
 31.  | Pet Reservoir
 32.  | Pioneer Lake
 33.  | Prescribed waters (of the Western Lakes)
@@ -37,7 +37,6 @@ Column 1 | Column 2
 37.  | Shannon Lagoon
 38.  | South Riana Lake
 39.  | St Clair Lagoon
-40.  | Talbots Lagoon
 41.  | Tungatinah Lagoon
 42.  | Tooms Lake
 43.  | Woods Lake

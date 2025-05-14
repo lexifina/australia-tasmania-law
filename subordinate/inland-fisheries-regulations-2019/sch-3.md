@@ -30,7 +30,7 @@ Item | Water | Bag limit (number of salmon)
 27.  | Lake Botsford | 1
 28.  | Lake Burbury | 20
 29.  | Lake Chipman | 2
-30.  | Lake Crescent waters | 2
+30.  | Lake Crescent waters | 1
 31.  | Lake Dudley | 1
 32.  | Lake Dulverton | 5
 33.  | Lake Duncan | 2
@@ -54,7 +54,6 @@ Item | Water | Bag limit (number of salmon)
 51.  | Little Pine Lagoon | 5
 52.  | Little Waterhouse Lake | 5
 53.  | Meadowbank Lake | 5
-54.  | Pawleena Reservoir | 5
 55.  | Penstock Lagoon | 2
 56.  | Pet Reservoir | 5
 57.  | Pioneer Lake | 5
