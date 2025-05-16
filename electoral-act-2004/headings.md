@@ -15,6 +15,7 @@ Part 5, Division 6 Entitlement to vote
 Part 5, Division 7 Voting at ordinary, pre-poll and mobile polling places
 Part 5, Division 8 General provisions at polling places and other places where ballot papers are sorted, checked or counted
 Part 5, Division 9 Postal voting
+Part 5, Division 9A Alternative voting procedures
 Part 5, Division 10 Polling in Antarctica, remote areas and outside Tasmania
 Part 5, Division 11 Preliminary scrutiny of declaration votes and postal votes
 Part 5, Division 12 Counting votes
