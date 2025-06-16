@@ -2,6 +2,7 @@ Part 1 Preliminary
 Part 2 General principles
 Part 2, Division 1 Defamation and the general law
 Part 2, Division 2 Causes of action for defamation
+Part 2, Division 2A Exemptions from liability for digital intermediaries
 Part 2, Division 3 Choice of law
 Part 3 Resolution of civil disputes without litigation
 Part 3, Division 1 Concerns notices and offers to make amends
