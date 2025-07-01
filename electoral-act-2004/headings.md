@@ -21,18 +21,14 @@ Part 5, Division 11 Preliminary scrutiny of declaration votes and postal votes
 Part 5, Division 12 Counting votes
 Part 5, Division 13 Custody of election material
 Part 5, Division 14 Compulsory voting
-Part 6 Electoral Expenditure in respect of Council Elections
-Part 6, Division 1 Candidate's or intending candidate's expenditure
-Part 6, Division 2 Party expenditure
-Part 6, Division 3 Provisions relating to candidate's expenditure
 Part 7 Offences
 Part 7, Division 1 General offences
 Part 7, Division 2 Offences relating to polling places
 Part 7, Division 3 Failure to enrol or vote
 Part 7, Division 4 Corrupt practices
 Part 7, Division 5 Offences relating to advertising and other campaigning
-Part 7, Division 6 Offences relating to electoral expenses
 Part 7, Division 7 Continuing offences
+Part 7, Division 8 Investigations
 Part 8 Disputed elections, eligibility and vacancies
 Part 8, Division 1 Interpretation
 Part 8, Division 2 Jurisdiction and powers of Supreme Court
