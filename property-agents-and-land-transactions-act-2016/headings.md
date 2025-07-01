@@ -21,7 +21,6 @@ Part 7, Division 1 Preliminary
 Part 7, Division 2 Code of Conduct
 Part 7, Division 3 Complaints about conduct of property agents
 Part 7, Division 4 Investigations of conduct complaints
-Part 7, Division 5 Establishment of Tribunal
 Part 7, Division 6 Action following hearing
 Part 7, Division 7 Suspension of licence
 Part 7, Division 8 Appeals
