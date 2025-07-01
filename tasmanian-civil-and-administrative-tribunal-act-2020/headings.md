@@ -24,6 +24,7 @@ Part 7, Division 2 Original jurisdiction
 Part 7, Division 3 Review jurisdiction
 Part 8 Principles, Powers and Procedures
 Part 8, Division 1 Principles governing proceedings
+Part 8, Division 1A Preliminary procedure for certain decision-makers
 Part 8, Division 2 Procedure generally
 Part 8, Division 3 Dismissal of proceedings or part of proceedings
 Part 8, Division 4 Tribunal rules, practice directions and codes of conduct
@@ -42,3 +43,4 @@ Part 12 Miscellaneous
 Part 13 Savings and Transitional Provisions
 Part 13, Division 1 Abolition of Boards and Tribunals and transition of certain members
 Part 13, Division 2 Proceedings of former relevant Board or Tribunal
+Part 13, Division 3 Miscellaneous
