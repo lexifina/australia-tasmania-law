@@ -32,7 +32,7 @@ Rules 5, 6 and 9
 10.  | On filing a writ of execution in respect of – |
 (a)  | a debt not exceeding $20 000 | 64
 (b)  | a debt exceeding $20 000 | 129
-11.  | On the appointment of a mediator who is an employee of, or otherwise engaged by, the Court | 483
+11.  | On the appointment of a mediator who is an employee of, or otherwise engaged by, the Court | 1 070
 | Item | Fee(fee units)
 1.  | Transcripts |
 (a)  | for the initial copy, supplied to a party, of a transcript that is required to be transcribed | 5 (per page)
