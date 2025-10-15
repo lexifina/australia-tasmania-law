@@ -76,14 +76,15 @@ Invertebrates
 18.  | Engaeus granulatus | Horwitz, Decapoda | Central North Burrowing Crayfish
 19.  | Engaeus spinicaudatus | Horwitz, Decapoda | Scottsdale Burrowing Crayfish
 20.  | Haloniscus searlei | Chilton, Isopoda | Salt Lake Slater
+20A.  | Hesperilla munionga subsp. larana | Couchman 1962, Lepidoptera | Marrawah Skipper
 21.  | Hoplogonus bornemisszai | Bartoluzzi, Coleoptera | Bornemisszas Stag Beetle
+21AA.  | Hyridella narracanensis | (Cotton & Gabriel), Hyriidae | Narracan Corrugated Mussel
 21A.  | Leucopatus anophthalmus | (Ruhberg, Mesibov, Briscoe & Tait), Onychophora | Blind Velvet Worm
 22.  | Lissotes latidens | Westwood, Coleoptera | Broad-toothed Stag Beetle
 24.  | Micropathus kiernani | Richards, Orthoptera | Southern Sandstone Cave Cricket
 24A.  | Migas plomleyi | Raven and Churchill, Araneae | Plomleys Trapdoor Spider
 25.  | Miselaoma weldii | (Tenison-Woods), Sigmurethra | Stanley Pinhead Snail
 26.  | Onchotelson spatulatus | Nicholls, Isopoda | Isopod (Great Lake)
-27.  | Oreisplanus munionga larana | Olliff, Lepidoptera | Marrawah Skipper
 27A.  | Oreixenica ptunarra | Couchman, Lepidoptera | Ptunarra Brown Butterfly
 27AB.  | Parvulastra vivipara | (Dartnell), Asterinidae | Live-bearing Seastar
 27B.  | Patiriella littoralis | (Dartnell), Asterinidae | Derwent River Seastar
@@ -163,9 +164,11 @@ Dicotyledonae
 47.  | Stenopetalum lineare | R.Br. ex DC., Brassicaceae | narrow threadpetal
 48.  | Stonesiella selaginoides | (Hook.f.) Crisp & P.H.Weston, Fabaceae | clubmoss bushpea
 49.  | Tetratheca gunnii | Hook.f., Elaeocarpaceae | shy pinkbells
-49A.  | Veronica notabilis | F.Muell. ex Benth., Scrophulariaceae | forest speedwell
+49A.  | Veronica ciliolata subsp. fiordensis | (Ashwin) Meudt, Plantaginaceae | Ben Lomond cushionplant
+49B. 49B. | Veronica notabilis | F.Muell. ex Benth., Scrophulariaceae | forest speedwell
 50.  | Viminaria juncea | (Schrad. & J.Wendl.) Hoffmanns., Fabaceae | golden spray
-51.  | Vittadinia australasica var. oricola | N.T.Burb., Asteraceae | coast new-holland-daisy
+51.  | Viola improcera | L.G. Adams (1982), Violaceae | dwarf violet
+51A. 51A. | Vittadinia australasica var. oricola | N.T.Burb., Asteraceae | coast new-holland-daisy
 52.  | Zieria veronicea subsp. veronicea | (F.Muell.) Benth., Rutaceae | pink zieria
 Monocotyledonae
 | Column 1 | Column 2 | Column 3
@@ -214,7 +217,6 @@ Monocotyledonae
 40AA.  | Paraprasophyllum stellatum | (D.L.Jones) M.A.Clem.& D.L.Jones, Orchidaceae | Ben Lomond leek-orchid
 40AB.  | Paraprasophyllum taphanyx | (D.L.Jones) M.A.Clem.& D.L.Jones, Orchidaceae | graveside leek-orchid
 40AC.  | Paraprasophyllum tunbridgense | (D.L.Jones) M.A.Clem.& D.L.Jones, Orchidaceae | Tunbridge leek-orchid
-40A.  | Prasophyllum sp. Arthurs Lake | (R.Smith DLJ11363) Tas Herbarium, Orchidaceae | mountain leek-orchid
 45.  | Pterostylis commutata | D.L.Jones, Orchidaceae | midlands greenhood
 46.  | Pterostylis cucullata subsp. cucullata | R.Br., Orchidaceae | leafy greenhood
 46A.  | Pterostylis falcata | R.S.Rogers, Orchidaceae | sickle greenhood
@@ -303,9 +305,9 @@ Dicotyledonae
 Monocotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Caladenia cardiochila | Tate, Orchidaceae | heartlip spider-orchid
+1.  | Althenia australis | J.Drumm, ex Harv., Potomogetonaceae | southern watermat
+2.  | Caladenia cardiochila | Tate, Orchidaceae | heartlip spider-orchid
 3.  | Deyeuxia lawrencei | Vickery, Poaceae | lawrences bentgrass
-4.  | Lepilaena australis | J.Drumm. ex Harv., Potomogetonaceae | southern watermat
 5.  | Thynninorchis huntiana | (F.Muell.) D.L.Jones & M.A.Clem., Orchidaceae | elbow-orchid
 Pteridophyta
 | Column 1 | Column 2 | Column 3
