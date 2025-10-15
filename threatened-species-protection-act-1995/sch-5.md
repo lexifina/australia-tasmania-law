@@ -198,6 +198,7 @@ Dicotyledonae
 118.  | Ranunculus jugosus | Menadue, Ranunculaceae | twinned buttercup
 119.  | Ranunculus pumilio var. pumilio | R.Br. ex DC., Ranunculaceae | ferny buttercup
 121.  | Rhodanthe anthemoides | (Spreng.) Paul G.Wilson, Asteraceae | chamomile sunray
+122.  | Roepera billardierei | DC., Zygophyllaceae | coast twinleaf
 123A.  | Schenkia australis | (R.Br.) G.Mans., Gentianaceae | spike centaury
 125.  | Scutellaria humilis | R.Br., Lamiaceae | dwarf scullcap
 126.  | Senecio squarrosus | A.Rich., Asteraceae | leafy fireweed
@@ -230,12 +231,14 @@ Dicotyledonae
 155.  | Wilsonia rotundifolia | Hook., Convolvulaceae | roundleaf wilsonia
 156.  | Xerochrysum bicolor | (Lindl.) R.J.Bayer, Asteraceae | eastcoast paperdaisy
 157.  | Zieria littoralis | J.A.Armstr., Rutaceae | downy zieria
-158.  | Zygophyllum billardierei | DC., Zygophyllaceae | coast twinleaf
 Monocotyledonae
 | Column 1 | Column 2 | Column3
 | Species | Authority, Family | Common name
 2.  | Agrostis australiensis | Mez, Poaceae | southern bent
 3.  | Agrostis diemenica | D.I.Morris, Poaceae | flatleaf southern bent
+3A.  | Althenia marina | E.L.Robertson, Potomogetonaceae | sea watermat
+3B.  | Althenia patentifolia | E.L.Robertson, Potomogetonaceae | spreading watermat
+3C.  | Althenia preissii | E.L.Robertson, Potomogetonaceae | slender watermat
 4.  | Amphibromus neesii | Steud., Poaceae | southern swampgrass
 5.  | Aphelia gracilis | Sond., Centrolepidaceae | slender fanwort
 6.  | Aphelia pumilio | F.Muell. ex Sond., Centrolepidaceae | dwarf fanwort
@@ -277,9 +280,6 @@ Monocotyledonae
 55.  | Lepidosperma forsythii | A.A.Hamilton, Cyperaceae | stout rapiersedge
 56.  | Lepidosperma tortuosum | F.Muell., Cyperaceae | twisting rapiersedge
 57.  | Lepidosperma viscidum | R.Br., Cyperaceae | sticky swordsedge
-58.  | Lepilaena marina | E.L.Robertson, Potomogetonaceae | sea watermat
-59.  | Lepilaena patentifolia | E.L.Robertson, Potomogetonaceae | spreading watermat
-60.  | Lepilaena preissii | (Lehm.) F.Muell., Potomogetonaceae | slender watermat
 61.  | Luzula atrata | Edgar, Juncaceae | slender woodrush
 61A.  | Machaerina articulata | (R.Br.) T.Koyama, Cyperaceae | jointed twigsedge
 61B.  | Machaerina gunnii | (Hook.f.) J.Kern, Cyperaceae | slender twigsedge
