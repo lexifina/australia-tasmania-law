@@ -12,6 +12,18 @@ Regulation 4
 5.  | Section 53(3) |
 (a)  | in the case of an individual | 9
 (b)  | in the case of a body corporate | 29.75
+5A.  | Section 64(1) |
+(a)  | for a first offence | 20
+(b)  | for a second offence | 40
+(c)  | for a third or subsequent offence | 80
+5B.  | Section 64(2) |
+(a)  | for a first offence | 20
+(b)  | for a second offence | 40
+(c)  | for a third or subsequent offence | 80
+5C.  | Section 64(3) |
+(a)  | for a first offence | 20
+(b)  | for a second offence | 40
+(c)  | for a third or subsequent offence | 80
 6.  | Section 64(6) | 1
 7.  | Section 64A | 4
 8.  | Section 67C(1) | 2
@@ -30,7 +42,10 @@ Regulation 4
 21.  | Section 69(2) | 2
 22.  | Section 69A(1) | 1
 23.  | Section 69A(2) | 1
+23A.  | Section 69B(1) | 25
+23B.  | Section 69B(2) | 5
 24.  | Section 70(1) | 2
+24A.  | Section 70A(2) | 10
 25.  | Section 71(2) | 2
 26.  | Section 71(4) | 2
 27.  | Section 71(5) | 2
@@ -42,11 +57,70 @@ Regulation 4
 33.  | Section 72A(3) | 2
 34.  | Section 72A(4) | 2
 35.  | Section 72A(5) | 2
-36.  | Section 73 | 2
+36.  | Section 73 |
+(a)  | in the case of an individual |
+(i)  | for a first offence | 20
+(ii)  | for a second offence | 40
+(iii)  | for a third or subsequent offence | 80
+(b)  | in the case of a body corporate |
+(i)  | for a first offence | 40
+(ii)  | for a second offence | 80
+(iii)  | for a third or subsequent offence | 250
 37.  | Section 74 | 2
-38.  | Section 74A | 8
+38.  | Section 74A(1) |
+(a)  | in the case of an individual |
+(i)  | for a first offence | 20
+(ii)  | for a subsequent offence | 80
+(b)  | in the case of a body corporate |
+(i)  | for a first offence | 40
+(ii)  | for a subsequent offence | 160
 39.  | Section 74I | 2
 40.  | Section 74L(1) | 2
+40A.  | Section 74LD(1) |
+(a)  | in the case of an individual |
+(i)  | for a first offence | 20
+(ii)  | for a second offence | 40
+(iii)  | for a third or subsequent offence | 80
+(b)  | in the case of a body corporate |
+(i)  | for a first offence | 40
+(ii)  | for a second offence | 80
+(iii)  | for a third or subsequent offence | 250
+40B.  | Section 74LD(2) |
+(a)  | in the case of an individual |
+(i)  | for a first offence | 20
+(ii)  | for a second offence | 40
+(iii)  | for a third or subsequent offence | 80
+(b)  | in the case of a body corporate |
+(i)  | for a first offence | 40
+(ii)  | for a second offence | 80
+(iii)  | for a third and subsequent offence | 250
+40C.  | Section 74LE(1) |
+(a)  | in the case of an individual |
+(i)  | for a first offence | 20
+(ii)  | for a second offence | 40
+(iii)  | for a third or subsequent offence | 80
+(b)  | in the case of a body corporate |
+(i)  | for a first offence | 40
+(ii)  | for a second offence | 80
+(iii)  | for a third or subsequent offence | 250
+40D.  | Section 74LE(3) |
+(a)  | in the case of an individual |
+(i)  | for a first offence | 20
+(ii)  | for a second offence | 40
+(iii)  | for a third or subsequent offence | 80
+(b)  | in the case of a body corporate |
+(i)  | for a first offence | 40
+(ii)  | for a second offence | 80
+(iii)  | for a third or subsequent offence | 250
+40E.  | Section 74LI(1) |
+(a)  | in the case of an individual | 100
+(b)  | in the case of a body corporate | 200
+40F.  | Section 74LI(2) |
+(a)  | in the case of an individual | 80
+(b)  | in the case of a body corporate | 160
+40G.  | Section 74LI(3) |
+(a)  | in the case of an individual | 80
+(b)  | in the case of a body corporate | 160
 41.  | Section 74M(1) | 2
 42.  | Section 75 |
 (a)  | in the case of an individual | 5
@@ -95,6 +169,7 @@ Regulation 4
 62.  | Section 148(3) | 2
 63.  | Section 150(2) | 2
 64.  | Section 151(2) | 2
+64A.  | Section 154(1) | 50
 65.  | Section 155(1) | 1
 66.  | Section 184(5) | 1
 67.  | Section 186 | 1
