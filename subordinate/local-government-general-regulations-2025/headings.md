@@ -8,5 +8,5 @@ Part 3 Tendering and Contracting
 Part 3, Division 1 Tenders for goods and services
 Part 3, Division 2 Code for tenders and contracts
 Part 3, Division 3 Annual reporting requirements in relation to tenders and contracts
-Part 3. Gifts and Donations
+Part 3A Gifts and Donations
 Part 4 Miscellaneous
