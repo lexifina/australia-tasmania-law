@@ -8,8 +8,6 @@ Restricted chemical product permit | 60 days from the day on which an applicatio
 Agricultural spraying permit | 60 days from the day on which an application under Schedule 5 of the Agricultural and Veterinary Chemicals (Control of Use) Act 1995 is received by the Registrar of Chemical Products.
 Pilot (chemical rating) licence | 60 days from the day on which an application under Schedule 5 of the Agricultural and Veterinary Chemicals (Control of Use) Act 1995 is received by the Registrar of Chemical Products.
 Agricultural aircraft operator licence | 60 days from the day on which an application under Schedule 5 of the Agricultural and Veterinary Chemicals (Control of Use) Act 1995 is received by the Registrar of Chemical Products.
-Animal (Brands and Movement) Act 1984 |
-Registration of brand or tag | 60 days from the day on which an application under section 11 (6) of the Animal (Brands and Movement) Act 1984 is received by the Registrar of Animal Brands.
 Apiaries Act 1978 |
 Registration as a bee-keeper | 60 days from the day on which an application under section 4(1) of the Apiaries Act 1978 is received by the Secretary of the responsible Department.
 Apple and Pear Industry (Crop Insurance) Act 1982 |
