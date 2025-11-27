@@ -1,4 +1,5 @@
 Part 1 Preliminary
 Part 2 Applications
 Part 3 Consequences of Expungement
+Part 3A Redress payments payable under Act
 Part 4 Miscellaneous
