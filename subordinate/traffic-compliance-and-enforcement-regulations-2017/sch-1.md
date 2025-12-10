@@ -880,7 +880,7 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 328K.  | RR 244K(1) | Travel in/on personal mobility device that is being towed by vehicle | 0.75 | 0
 328L.  | RR 244K(2) | Travel in/on personal mobility device while holding onto moving vehicle | 0.75 | 0
 328M.  | RR 244K(3) | Travel in/on personal mobility device within 2 metres of rear of moving vehicle (continuously for more than 200 metres) | 0.75 | 0
-328N.  | RR 244L | PMD user fail to wear securely fitted and fastened approved bicycle helmet unless exempt | 0.75 | 0
+328N.  | RR 244L(1) | PMD user fail to wear securely fitted and fastened approved bicycle helmet unless exempt | 0.75 | 0
 328O.  | RR 244M | PMD user carry another person or animal | 0.75 | 0
 328P.  | RR 244N | PMD user not 16 years or older | 0.50 | 0
 328Q.  | RR 244O(a) | PMD user travel in or on personal mobility device on footpath at more than 15 km/hr | 0.50 | 0
@@ -913,12 +913,12 @@ Item | Legislation creating offence | Offence | Penalty units | Demerit points
 346.  | RR 254(1) | Ride bicycle while being towed by another vehicle | 0.75 | 0
 347.  | RR 254(2) | Ride bicycle while holding onto another moving vehicle | 0.75 | 0
 348.  | RR 255 | Ride bicycle within 2 metres of rear of moving motor vehicle (continuously for more than 200 metres) | 0.75 | 0
-349.  | RR 256(1) | Rider of bicycle fail to wear securely fitted and fastened approved bicycle helmet | 0.75 | 0
-350.  | RR 256(2) | Bicycle passenger (except fare-paying passenger on 3 or 4-wheeled bicycle) fail to wear securely fitted and fastened approved bicycle helmet | 0.25 | 0
-351.  | RR 256(3) | Rider of bicycle carry passenger (except fare-paying passenger on 3 or 4-wheeled bicycle) without securely fitted and fastened approved bicycle helmet | 0.75 | 0
+349.  | RR 256(1) | Rider of bicycle fail to wear securely fitted and fastened approved bicycle helmet unless exempt | 0.75 | 0
+350.  | RR 256(2) | Bicycle passenger (except fare-paying passenger on 3 or 4-wheeled bicycle) fail to wear securely fitted and fastened approved bicycle helmet unless exempt | 0.25 | 0
+351.  | RR 256(3) | Rider of bicycle carry passenger (except fare-paying passenger on 3 or 4-wheeled bicycle) without securely fitted and fastened approved bicycle helmet unless exempt | 0.75 | 0
 352.  | RR 257(1)(b) | Rider of bicycle tow bicycle trailer carrying person 10 or more years old | 0.50 | 0
 353.  | RR 257(1)(c) | Rider of bicycle tow person in/on bicycle trailer when trailer can not carry person safely | 0.75 | 0
-354.  | RR 257(1)(d) | Rider of bicycle carry person in/on bicycle trailer without person wearing securely fitted and fastened approved bicycle helmet | 0.75 | 0
+354.  | RR 257(1)(d) | Rider of bicycle carry person in/on bicycle trailer without person wearing securely fitted and fastened approved bicycle helmet unless exempt | 0.75 | 0
 355.  | RR 258(a) | Ride bicycle with no effective brake | 0.50 | 0
 356.  | RR 258(b) | Ride bicycle with no warning device in working order | 0.50 | 0
 357.  | RR 259(a) | Cycle at night without white light visible from 200 or more metres in front | 0.75 | 0
