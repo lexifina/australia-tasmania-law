@@ -30,6 +30,7 @@ Item | Offence | Penalty:Individual(penalty units) | Penalty:Body corporate(pena
 9.  | Regulation 22(1) | 1 | -
 10.  | Regulation 22(3) | 1.5 | -
 11.  | Regulation 22(4) | 1.5 | -
+11A.  | Regulation 22A(1) | 1.5 | -
 12.  | Regulation 23 | 17 | -
 13.  | Regulation 24(2) | 1.5 | -
 14.  | Regulation 24(3) | 1.25 | -
