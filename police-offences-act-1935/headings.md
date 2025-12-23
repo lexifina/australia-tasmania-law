@@ -21,6 +21,7 @@ Part IVA, Division 2, Subdivision 5 Disposal of vehicles, &c.
 Part IVA, Division 2, Subdivision 6 Miscellaneous
 Part V Offences Involving Dishonesty
 Part VA Offences Relating to Computers
+Part VB Explosives
 Part VI Miscellaneous Offences
 Part VI, Division I Bogus advertisements and false notices
 Part VI, Division IIA Setting of traps

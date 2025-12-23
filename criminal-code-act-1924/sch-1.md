@@ -36,6 +36,12 @@ Aggravated Armed Robbery.
 Carjacking.
 Aggravated carjacking.
 Demanding property with menaces with intent to steal.
+Using, possessing or supplying explosive device.
+Taking steps in the manufacture of explosive device.
+Possessing or supplying information for manufacture of explosive device.
+Using, possessing or supplying explosive substance.
+Possessing or supplying equipment or information for explosive substance.
+Placing or sending article or substance to induce belief of explosion, ignition or discharge.
 Any crime under Chapter XXVII.
 Receiving stolen property.
 Arson or any other crime under Chapter XXXI, except under sections 272 to 276.
