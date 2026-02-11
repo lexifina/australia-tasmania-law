@@ -402,7 +402,7 @@ Local Government Act 1993
 Local Government (Savings and Transitional) Act 1993
 DEPARTMENT OF STATE GROWTH
 Local Government (Highways) Act 1982
-DEPARTMENT OF STATE GROWTH
+DEPARTMENT OF PREMIER AND CABINET
 Macquarie Point Development Corporation Act 2012
 DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENT TASMANIA
 Abandoned Lands Act 1973
