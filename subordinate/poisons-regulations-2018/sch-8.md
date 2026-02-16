@@ -92,6 +92,7 @@ Item No. | Regulation | Penalty
 17.  | Regulation 20(5) | 2
 18.  | Regulation 20(7) | 2
 19.  | Regulation 20(10) | 2
+19A.  | Regulation 20(10A) | 2
 20.  | Regulation 20(11) | 2
 21.  | Regulation 20(12) | 2
 22.  | Regulation 20(16) | 2
@@ -137,6 +138,7 @@ Item No. | Regulation | Penalty
 61.  | Regulation 45(1) | 2
 62.  | Regulation 45(5) | 2
 63.  | Regulation 45(8) | 2
+63A.  | Regulation 45(9) | 2
 64.  | Regulation 47(2) | 2
 65.  | Regulation 49(1) | 2
 66.  | Regulation 49(2) | 2
