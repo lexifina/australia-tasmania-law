@@ -76,14 +76,14 @@ Regulation 163
 (i)  |  | in the case of a pensioner, an eligible asylum seeker, a person with a severe disability, or the parent or guardian of a person who has a severe disability and has not attained the age of 16 years | 2.5
 (ii)  |  | in the case of any other person | 5
 7.  | DLVR 81(1)(h), 99(1)(d), 101(5) | Issue of a set of number plates, other than national heavy vehicle number plates – |
-(a)  |  | for a motor vehicle other than a motor cycle | 13.5
+(a)  |  | for a motor vehicle other than a motor cycle or quad bike | 13.5
 (b)  |  | for a trailer | 11.5
-(c)  |  | for a motor cycle | 11.5
-8.  | DLVR 88(5) | Issue of an accessory number plate for a vehicle (other than a motor cycle) | 11.5
-9.  | DLVR 174(3) | Issue of a set of duplicate number plates for a motor vehicle (other than a motor cycle) | 51.5
-10.  | DLVR 174(3) | Issue of a duplicate number plate for a motor cycle or a trailer | 51.5
-11.  | DLVR 174(3) | Issue of a set of replacement number plates, other than national heavy vehicle number plates, for a motor vehicle (other than a motor cycle) | 13.5
-12.  | DLVR 174(3) | Issue of a replacement number plate, other than a national heavy vehicle number plate, for a motor cycle or a trailer | 11.5
+(c)  |  | for a motor cycle or quad bike | 11.5
+8.  | DLVR 88(5) | Issue of an accessory number plate for a vehicle (other than a motor cycle or quad bike) | 11.5
+9.  | DLVR 174(3) | Issue of a set of duplicate number plates for a motor vehicle (other than a motor cycle or quad bike) | 51.5
+10.  | DLVR 174(3) | Issue of a duplicate number plate for a motor cycle, quad bike or trailer | 51.5
+11.  | DLVR 174(3) | Issue of a set of replacement number plates, other than national heavy vehicle number plates, for a motor vehicle (other than a motor cycle or quad bike) | 13.5
+12.  | DLVR 174(3) | Issue of a replacement number plate, other than a national heavy vehicle number plate, for a motor cycle, quad bike or trailer | 11.5
 13.  | DLVR 174(3) | Issue of a duplicate or replacement certificate of registration | 10
 14.  | VT 58A DLVR 79, 81 | Inspection fees for registration purposes in the case of – |
 (a)  |  | a bus | 50
