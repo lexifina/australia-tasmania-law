@@ -64,7 +64,6 @@ Invertebrates
 37.  | Mesacanthotelson setosus | Nicholls, Isopoda | Isopod (Great Lake)
 38.  | Mesacanthotelson tasmaniae | Thomson, Isopoda | Isopod (Great Lake)
 40.  | Oecetis gilva | Neboiss, Trichoptera | Caddis Fly (South Esk River)
-41.  | Olgania excavata | Hickman, Araneae | Cave Spider (Bubs Hill Cave)
 42.  | Onchotelson brevicaudatus | Smith, Isopoda | Isopod (Great Lake & Shannon Lagoon)
 43.  | Orphninotrichia maculata | Mosley, Trichoptera | Caddis Fly (Wedge River)
 44.  | Orthotrichia adornata | Wells, Trichoptera | Caddis Fly (Derwent River)
@@ -182,8 +181,8 @@ Dicotyledonae
 101.  | Persoonia moscalii | Orchard, Proteaceae | creeping geebung
 102.  | Persoonia muelleri subsp. angustifolia | (Benth.) L.A.S.Johnson & P.H.Weston, Proteaceae | narrowleaf geebung
 103.  | Phyllangium distylis | (F.Muell.) Dunlop, Loganiaceae | tiny mitrewort
-104.  | Pimelea curviflora var. gracilis | (R.Br.) Threlfall, Thymelaeaceae | slender curved riceflower
-105.  | Pimelea curviflora var. sericea | Benth., Thymelaeaceae | silky curved riceflower
+104.  | Pimelea curviflora subsp. gracilis | (R.Br.) Threlfall, Thymelaeaceae | slender curved riceflower
+105.  | Pimelea curviflora subsp. sericea | (Benth.) N.G.Walsh, Thymelaeaceae | silky curved riceflower
 107.  | Pimelea milliganii | Meisn., Thymelaeaceae | silver riceflower
 108.  | Planocarpa nitida | (Jarman) C.M.Weiller, Ericaceae | black cheeseberry
 109.  | Planocarpa sulcata | (Mihaich) C.M.Weiller, Ericaceae | grooved cheeseberry
@@ -198,7 +197,7 @@ Dicotyledonae
 118.  | Ranunculus jugosus | Menadue, Ranunculaceae | twinned buttercup
 119.  | Ranunculus pumilio var. pumilio | R.Br. ex DC., Ranunculaceae | ferny buttercup
 121.  | Rhodanthe anthemoides | (Spreng.) Paul G.Wilson, Asteraceae | chamomile sunray
-122.  | Roepera billardierei | DC., Zygophyllaceae | coast twinleaf
+122.  | Roepera billardierei | (DC.) G.Don, Zygophyllaceae | coast twinleaf
 123A.  | Schenkia australis | (R.Br.) G.Mans., Gentianaceae | spike centaury
 125.  | Scutellaria humilis | R.Br., Lamiaceae | dwarf scullcap
 126.  | Senecio squarrosus | A.Rich., Asteraceae | leafy fireweed
@@ -236,9 +235,9 @@ Monocotyledonae
 | Species | Authority, Family | Common name
 2.  | Agrostis australiensis | Mez, Poaceae | southern bent
 3.  | Agrostis diemenica | D.I.Morris, Poaceae | flatleaf southern bent
-3A.  | Althenia marina | E.L.Robertson, Potomogetonaceae | sea watermat
-3B.  | Althenia patentifolia | E.L.Robertson, Potomogetonaceae | spreading watermat
-3C.  | Althenia preissii | E.L.Robertson, Potomogetonaceae | slender watermat
+3A.  | Althenia marina | (E.L.Robertson) Yu Ito, Potomogetonaceae | sea watermat
+3B.  | Althenia patentifolia | (E.L.Robertson) T.D.Macfarl. & D.D.Sokoloff, Potomogetonaceae | spreading watermat
+3C.  | Althenia preissii | (Lehm.) F.Muell., Potomogetonaceae | slender watermat
 4.  | Amphibromus neesii | Steud., Poaceae | southern swampgrass
 5.  | Aphelia gracilis | Sond., Centrolepidaceae | slender fanwort
 6.  | Aphelia pumilio | F.Muell. ex Sond., Centrolepidaceae | dwarf fanwort

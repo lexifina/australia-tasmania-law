@@ -9,9 +9,11 @@ Mammals
 Birds
 | Column 1 | Column 2 | Column 3
 | Species | Authority | Common name
-1.  | Haliaeetus leucogaster | Gmelin | White-bellied Sea-Eagle
+1.  | Ardenna grisea | Gmelin | Sooty Shearwater
+1A.  | Gallinago hardwickii | Gray | Latham’s Snipe
 2.  | Halobaena caerulea | Gmelin | Blue Petrel
-3.  | Leucocarbo atriceps purpurascens | Brant | Macquarie Island Shag
+2A.  | Icthyophaga leucogaster | Gmelin | White-bellied Sea-Eagle
+3.  | Leucocarbo purpurascens | Brandt | Macquarie Island Shag
 4.  | Macronectes giganteus | Gmelin | Southern Giant Petrel
 4A.  | Neophema chrysostoma | (Kuhl), Psittacidae | Blue-winged Parrot
 5.  | Phoebetria palpebrata | Forster | Light-mantled Albatross
@@ -85,7 +87,7 @@ Dicotyledonae
 17A.  | Goodenia paradoxa | (Hook.f.) K.A.Sheph., Goodeniaceae | spur velleia
 19.  | Hakea ulicina | R.Br., Proteaceae | furze needlebush
 20.  | Haloragis aspera | Lindl., Haloragaceae | rough raspwort
-21.  | Hibbertia calycina | (DC.) N.A.Wakef., Dilleniaceae | lesser guineaflower
+21.  | Hibbertia mathinnicola | Wapstra, Dilleniaceae | ironbark guineaflower
 22.  | Isoetopsis graminifolia | Turcz., Asteraceae | grass cushion
 23.  | Isopogon ceratophyllus | R.Br., Proteaceae | horny conebush
 24.  | Limonium australe var. baudinii | (Lincz.) A.M.Gray, Plumbaginaceae | tasmanian sea-lavender
@@ -93,7 +95,7 @@ Dicotyledonae
 26.  | Lythrum salicaria | L., Lythraceae | purple loosestrife
 28.  | Myoporum parvifolium | R.Br., Scrophulariaceae | creeping boobialla
 29.  | Myriophyllum integrifolium | (Hook.f.) Hook.f., Haloragaceae | tiny watermilfoil
-30.  | Oxylobium oxylobioides | F.Muell., Fabaceae | sandstone bushpea
+30.  | Oxylobium oxylobioides | (F.Muell.) Crisp & R.L.Barrett, Fabaceae | sandstone bushpea
 31.  | Ozothamnus reflexifolius | K.Leeson & Rozefelds, Asteraceae | reflexed everlastingbush
 32.  | Persicaria decipiens | (R.Br.) K.L.Wilson, Polygonaceae | slender waterpepper
 33.  | Phyllangium divergens | (Hook.f.) Dunlop, Loganiaceae | wiry mitrewort

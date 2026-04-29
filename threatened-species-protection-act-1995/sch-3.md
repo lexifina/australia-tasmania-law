@@ -16,11 +16,12 @@ Birds
 | Species | Authority | Common name
 1.  | Acanthiza pusilla magnirostris | Campbell | King Island Brown Thornbill
 2.  | Acanthornis magna greeniana | Schodde & Mason | King Island Scrubtit
-3.  | Accipiter novaehollandiae | Gmelin | Grey Goshawk
 5.  | Aquila audax fleayi | Latham | Wedge-tailed Eagle
+5AA.  | Calidris ferruginea | Pontoppidan | Curlew Sandpiper
 5A.  | Ceyx azureus diemenensis | (Gould) | Tasmanian Azure Kingfisher
 6.  | Diomedea exulans | Linnaeus | Wandering Albatross
 7.  | Lathamus discolor | Shaw | Swift Parrot
+7A.  | Limosa lapponica baueri | Naumann | Alaskan Bar-tailed Godwit
 8.  | Neophema chrysogaster | Latham | Orange-bellied Parrot
 9.  | Numenius madagascariensis | Linnaeus | Eastern Curlew
 10.  | Pachyptila turtur subantarctica | Kuhl | Southern Fairy Prion
@@ -28,7 +29,8 @@ Birds
 12.  | Procellaria cinerea | Gmelin | Grey Petrel
 13.  | Pterodroma mollis | Gould | Soft-plumaged Petrel
 15.  | Sterna vittata bethunei | Buller | Antarctic Tern
-15A.  | Sternula albifrons sinensis | Gmelin | Little Tern
+15A.  | Sternula albifrons subsp. placens | Gould | Tasman Little Tern
+15B.  | Tachyspiza novaehollandiae | Gmelin | Grey Goshawk
 16.  | Thalassarche chrysostoma | Forster | Grey-headed Albatross
 17.  | Thalassarche melanophris | (Temminck) | Black-browed Albatross
 18.  | Tyto novaehollandiae castanops | (Gould) | Masked Owl
@@ -305,7 +307,7 @@ Dicotyledonae
 Monocotyledonae
 | Column 1 | Column 2 | Column 3
 | Species | Authority, Family | Common name
-1.  | Althenia australis | J.Drumm, ex Harv., Potomogetonaceae | southern watermat
+1.  | Althenia australis | (J.Drumm. ex Harv.) F.Muell., Potomogetonaceae | southern watermat
 2.  | Caladenia cardiochila | Tate, Orchidaceae | heartlip spider-orchid
 3.  | Deyeuxia lawrencei | Vickery, Poaceae | lawrences bentgrass
 5.  | Thynninorchis huntiana | (F.Muell.) D.L.Jones & M.A.Clem., Orchidaceae | elbow-orchid
