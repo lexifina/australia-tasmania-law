@@ -4,7 +4,7 @@ Part 3 Custodial sentences
 Part 3, Division 1 General
 Part 3, Division 2 Parole
 Part 3, Division 4 Suspended sentences
-Part 3A Drug treatment orders
+Part 3A Drug and alcohol treatment orders
 Part 4 Community service orders
 Part 5 Probation orders
 Part 5A Home Detention Orders
