@@ -42,13 +42,14 @@ Regulation 3(1)
 6.  |  | Grey Butcherbird | Cracticus torquatus
 6.  |  | Black Currawong | Strepera fuliginosa
 6.  |  | Grey Currawong | Strepera versicolor
-7.  | Cacatuidae | Major Mitchell Cockatoo | Cacatua leadbeateri
+7.  | Cacatuidae | Pink Cockatoo | Cacatua leadbeateri
 7.  |  | Red-tailed Black Cockatoo | Calyptorhynchus banksii
 7.  |  | Yellow-tailed Black Cockatoo | Calyptorhynchus funereus
 7.  |  | Glossy Black Cockatoo | Calyptorhynchus lathami
 8.  | Campephagidae | Black-faced Cuckoo-shrike | Coracina novaehollandiae
 8.  |  | White-winged Triller | Lalage sueurii
 9.  | Charadriidae | Double-banded Plover | Charadrius bicinctus
+9.  |  | Hooded Plover | Charadrius cucullatus
 9.  |  | Greater Sand Plover | Charadrius leschenaultii
 9.  |  | Lesser Sand Plover | Charadrius mongolus
 9.  |  | Red-capped Plover | Charadrius ruficapillus
@@ -57,7 +58,6 @@ Regulation 3(1)
 9.  |  | Red-kneed Dotterel | Erythrogonys cinctus
 9.  |  | Pacific Golden Plover | Pluvialis fulva
 9.  |  | Grey Plover | Pluvialis squatarola
-9.  |  | Hooded Plover | Thinornis rubricollis
 9.  |  | Masked Lapwing | Vanellus miles
 9.  |  | Banded Lapwing | Vanellus tricolor
 10.  | Columbidae | Topknot Pigeon | Lopholaimus antarcticus
@@ -110,11 +110,13 @@ Regulation 3(1)
 23.  | Meliphagidae | Eastern Spinebill | Acanthorhynchus tenuirostris
 23.  |  | Little Wattlebird | Anthochaera chrysoptera
 23.  |  | Yellow Wattlebird | Anthochaera paradoxa
+23.  |  | Yellow-faced Honeyeater | Caligavis chrysops
 23.  |  | White-fronted Chat | Ephthianura albifrons
 23.  |  | Tawny-crowned Honeyeater | Glyciphila melanops
 23.  |  | Yellow-throated Honeyeater | Lichenostomus flavicollis
 23.  |  | Noisy Miner | Manorina melanocephala
 23.  |  | Black-headed Honeyeater | Melithreptus affinis
+23.  |  | White-naped honeyeater | Melithreptus lunatus
 23.  |  | Strong-billed Honeyeater | Melithreptus validirostris
 23.  |  | New Holland Honeyeater | Phylidonyris novaehollandiae
 23.  |  | Crescent Honeyeater | Phylidonyris pyrrhoptera
@@ -137,15 +139,14 @@ Regulation 3(1)
 30.  |  | Scarlet Robin | Petroica boodang
 30.  |  | Flame Robin | Petroica phoenicea
 30.  |  | Pink Robin | Petroica rodinogaster
-31.  | Phalacrocoracidae | Great Cormorant | Phalacrocorax carbo
+31.  | Phalacrocoracidae | Little Pied Cormorant | Micorcarbo melanoleucos
+31.  |  | Great Cormorant | Phalacrocorax carbo
 31.  |  | Black-faced Cormorant | Phalacrocorax fuscescens
 31.  |  | Little Black Cormorant | Phalacrocorax sulcirostris
-31.  |  | Pied Cormorant | Phalacrocorax varius
 32.  | Podargidae | Tawny Frogmouth | Podargus strigoides
 33.  | Podicipedidae | Hoary-headed Grebe | Poliocephalus poliocephalus
 33.  |  | Australasian Grebe | Tachybaptus novaehollandiae
 34.  | Procellariidae | Buller's Shearwater | Ardenna bulleri
-34.  |  | Sooty Shearwater | Ardenna grisea
 34.  |  | Cape Petrel | Daption capense
 34.  |  | Antarctic Fulmar, Southern Fulmar | Fulmarus glacialoides
 34.  |  | Slender-billed Prion | Pachyptila belcheri
@@ -163,18 +164,18 @@ Regulation 3(1)
 34.  |  | Hutton's Shearwater | Puffinus huttoni
 34.  |  | Antarctic Petrel | Thalassoica antarctica
 35.  | Psittacidae | Musk Lorikeet | Glossopsitta concinna
-35.  |  | Blue-winged Parrot | Neophema chrysostoma
 35.  |  | Ground Parrot | Pezoporus wallicus
 35.  |  | Green Rosella | Platycercus caledonicus caledonicus
+35.  |  | Crimson Rosella | Platycercus elegans
 35.  |  | Eastern Rosella | Platycercus eximius
 36.  | Rallidae | Eurasian Coot | Fulica atra
-36.  |  | Tasmanian Native Hen | Gallinula mortierii
 36.  |  | Dusky Moorhen | Gallinula tenebrosa
 36.  |  | Buff-banded Rail | Gallirallus philippensis
 36.  |  | Purple Swamphen | Porphyrio porphyrio
 36.  |  | Australian Spotted Crake | Porzana fluminea
 36.  |  | Baillon's Crake | Porzana pusilla
 36.  |  | Spotless Crake | Porzana tabuensis
+36.  |  | Tasmanian Native Hen | Tribonyx mortierii
 36.  |  | Lewin’s Rail | Rallus pectoralis
 37.  | Recurvirostridae | Banded Stilt | Cladorhynchus leucocephalus
 37.  |  | Black-winged Stilt | Himantopus himantopus
@@ -185,11 +186,9 @@ Regulation 3(1)
 39.  |  | Sanderling | Calidris alba
 39.  |  | Baird's Sandpiper | Calidris bairdii
 39.  |  | Red Knot | Calidris canutus
-39.  |  | Curlew Sandpiper | Calidris ferruginea
 39.  |  | Pectoral Sandpiper | Calidris melanotos
 39.  |  | Red-necked Stint | Calidris ruficollis
 39.  |  | Great Knot | Calidris tenuirostris
-39.  |  | Latham's Snipe | Gallinago hardwickii
 39.  |  | Bar-tailed Godwit | Limosa lapponica
 39.  |  | Black-tailed Godwit | Limosa limosa
 39.  |  | Little Curlew, Little Whimbrel | Numenius minutus
@@ -211,7 +210,7 @@ Regulation 3(1)
 40.  |  | Adelie Penguin | Pygoscelis adeliae
 40.  |  | Chinstrap Penguin | Pygoscelis antarctica
 40.  |  | Gentoo Penguin | Pygoscelis papua
-41.  | Strigidae | Southern Boobook | Ninox novaeseelandiae
+41.  | Strigidae | Tasmanian Boobook | Ninox novaeseelandiae
 42.  | Sulidae | Australasian Gannet | Morus serrator
 43.  | Sylviidae | Clamorous Reed-Warbler | Acrocephalus australis
 43.  |  | Golden-headed Cisticola | Cisticola exilis
@@ -236,25 +235,25 @@ Regulation 3(1)
 1.  |  | Eastern Pygmy Possum | Cercartetus nanus
 2.  | Cetacea | Whales and dolphins of order Cetacea, excluding those listed in Schedule 5 | All species of Cetacea, excluding those listed in Schedule 5
 3.  | Dasyuridae | Swamp Antechinus | Antechinus minimus
-3.  |  | Dusky Antechinus | Antechinus swainsonii
+3.  |  | Tasmanian Dusky Antechinus | Antechinus swainsonii
 3.  |  | Eastern Quoll | Dasyurus viverrinus
 3.  |  | White-footed Dunnart | Sminthopsis leucopus
 4.  | Macropodidae | Forester Kangaroo | Macropus giganteus
 5.  | Megachiroptera | Fruit bats | Pteropus spp.
 6.  | Microchiroptera | Gould's Wattled Bat | Chalinolobus gouldi
 6.  |  | Chocolate Wattled Bat | Chalinolobus morio
-6.  |  | Great Pipistrelle Bat | Falsistrellus tasmaniensis
+6.  |  | Eastern Falsistrelle | Falsistrellus tasmaniensis
 6.  |  | Lesser Long-eared Bat | Nyctophilus geoffroyi
 6.  |  | Tasmanian Long-eared Bat | Nyctophilus sherrini
 6.  |  | Large Forest Bat | Vespadelus darlingtoni
 6.  |  | Southern Forest Bat | Vespadelus regulus
 6.  |  | Little Forest Bat | Vespadelus vulturnus
 7.  | Monotremata | Platypus | Ornithorhynchus anatinus
-7.  |  | Echidna | Tachyglossus aculeatus
+7.  |  | Short-beaked Echidna | Tachyglossus aculeatus
 8.  | Muridae | Water Rat | Hydromys chrysogaster
 8.  |  | Broad-toothed Rat | Mastacomys fuscus
 8.  |  | Long-tailed Mouse | Pseudomys higginsi
-8.  |  | Velvet-furred Rat, Eastern Swamp Rat | Rattus lutreolus
+8.  |  | Swamp Rat | Rattus lutreola
 9.  | Otariidae | Antarctic Fur Seal | Arctocephalus gazella
 9.  |  | Australian Fur Seal | Arctocephalus pusillus doriferus
 10.  | Peramelidae | Southern Brown Bandicoot | Isoodon obesulus
@@ -274,7 +273,7 @@ Regulation 3(1)
 4.  |  | Northern Snow Skink | Carinascincus greeni
 4.  |  | Metallic Skink | Carinascincus metallicus
 4.  |  | Southern Snow Skink | Carinascincus microlepidotus
-4.  |  | Spotted Skink | Carinascincus ocellatus
+4.  |  | Ocellated Skink | Carinascincus ocellatus
 4.  |  | Mountain Skink | Carinascincus orocryptus
 4.  |  | Tasmanian Tree Skink | Carinascincus pretiosus
 4.  |  | She-oak Skink | Cyclodomorphus casuarinae

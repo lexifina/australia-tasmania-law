@@ -4,9 +4,9 @@ Regulation 3(1)
 1.  | Hylidae | Green and Gold Frog | Litoria raniformis
 2.  | Myobatrachidae | Striped Marsh Frog | Limnodynastes peronii
 | Order | Common Name | Species
-1.  | Accipitridae | Grey Goshawk | Accipiter novaehollandiae
-1.  |  | Tasmanian Wedge-tailed Eagle | Aquila audax fleayi
-1.  |  | White-bellied Sea-Eagle | Haliaeetus leucogaster
+1.  | Accipitridae | Tasmanian Wedge-tailed Eagle | Aquila audax fleayi
+1.  |  | White-bellied Sea-Eagle | Icthyophaga leucogaster
+1.  |  | Grey Goshawk | Tachyspiza novaehollandiae
 2.  | Alcedinidae | Tasmanian Azure Kingfisher | Ceyx azureus diemenensis
 3.  | Diomedeidae | Wandering Albatross | Diomedea exulans
 3.  |  | Sooty Albatross | Phoebetria fusca
@@ -15,17 +15,18 @@ Regulation 3(1)
 3.  |  | Grey-headed Albatross | Thalassarche chrysostoma
 3.  |  | Black-browed Albatross | Thalassarche melanophris
 3.  |  | White-capped Albatross | Thalassarche steadi
-4.  | Laridae | Little Tern | Sternula albifrons sinensis
-4.  |  | Fairy Tern | Sternula nereis nereis
-4.  |  | White-fronted Tern | Sterna striata
+4.  | Laridae | White-fronted Tern | Sterna striata
 4.  |  | New Zealand Antarctic Tern | Sterna vittata bethunei
 4.  |  | Indian Ocean Antarctic Tern | Sterna vittata vittata
+4.  |  | Tasman Little Tern | Sternula albifrons subsp. placens
+4.  |  | Fairy Tern | Sternula nereis nereis
 5.  | Pardalotidae | King Island Brown Thornbill | Acanthiza pusilla magnirostris
 5.  |  | King Island Scrubtit | Acanthornis magna greeniana
 5.  |  | Forty-spotted Pardalote | Pardalotus quadragintus
-6.  | Phalacrocoracidae | Macquarie Island Shag | Leucocarbo atriceps purpurascens
+6.  | Phalacrocoracidae | Macquarie Island Shag | Leucocarbo purpurascens
 7.  | Podicipedidae | Great Crested Grebe | Podiceps cristatus
-8.  | Procellariidae | Blue Petrel | Halobaena caerulea
+8.  | Procellariidae | Sooty Shearwater | Ardenna grisea
+8.  |  | Blue Petrel | Halobaena caerulea
 8.  |  | Southern Giant Petrel | Macronectes giganteus
 8.  |  | Northern Giant Petrel | Macronectes halli
 8.  |  | Wilson’s Storm Petrel | Oceanites oceanicus
@@ -36,13 +37,16 @@ Regulation 3(1)
 8.  |  | Soft-plumaged Petrel | Pterodroma mollis
 9.  | Psittacidae | Swift Parrot | Lathamus discolor
 9.  |  | Orange-bellied Parrot | Neophema chrysogaster
+9.  |  | Blue-winged Parrot | Neophema chrysotoma
 9.  |  | King Island Green Rosella | Platycercus caledonicus brownii
-10.  | Scolopacidae | Eastern Curlew | Numenius madagascariensis
+10.  | Scolopacidae | Curlew Sandpiper | Calidris ferruginea
+10.  |  | Latham’s Snipe | Gallinago hardwickii
+10.  |  | Alaskan Bar-tailed Godwit | Limosa lapponica baueri
+10.  |  | Eastern Curlew | Numenius madagascariensis
 11.  | Tytonidae | Masked Owl | Tyto novaehollandiae castanops
 | Order | Common Name | Species
 1.  | Amphipoda | Amphipod (Great Lake) | Tasniphargus tyleri
 2.  | Araneae | Plomleys Trapdoor Spider | Migas plomleyi
-2.  |  | Cave Spider (Bubs Hill Cave) | Olgania excavata
 2.  |  | Lake Fenton Trapdoor Spider | Plesiothele fentoni
 3.  | Basommatophora | Great Lake Glacidorbid Snail | Benthodorbis pawpela
 4.  | Coleoptera | Miena Jewel Beetle | Castiarina insculpta
@@ -75,11 +79,11 @@ Regulation 3(1)
 9.  | Lepidoptera | Chevron Looper Moth | Amelora acontistica
 9.  |  | Chaostola Skipper | Antipodia chaostola leucophaea
 9.  |  | Tunbridge Looper Moth | Chrysolarentia decisaria
-9.  |  | Saltmarsh Looper Moth | Dasybela achroa
-9.  |  | Marrawah Skipper | Oreisplanus munionga larana
+9.  |  | Marrawah Skipper | Hesperilla munionga larana
 9.  |  | Ptunarra Brown Butterfly | Oreixenica ptunarra
 9.  |  | Tasmanian Hairstreak butterfly | Pseudalmenus chlorinda myrsilus
-9.  |  | Chequered Blue | Theclinesthes serpentata lavara
+9.  |  | Saltmarsh Looper Moth | Scopula achroa
+9.  |  | Chequered Blue | Theclinesthes serpentatus lavara
 10.  | Mesogastropoda | Freshwater snails | Beddomeia spp.
 10.  |  | Freshwater snails | Phrantela spp.
 11.  | Onychophora | Blind Velvet Worm | Leucopatus anophthalmus

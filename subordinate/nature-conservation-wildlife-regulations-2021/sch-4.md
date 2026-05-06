@@ -7,6 +7,7 @@ Regulation 3(1)
 4.  | Caudata | Fire-bellied Newt | Cynops pyrrogaster
 5.  | Caudata | Warty Newt, Crested Newt | Triturus cristatus
 6.  | Caudata | Common Newt | Triturus vulgaris
+7.  | Hylidae | Green Tree Frog | Littoria caerula
 | Order or Family | Common Name | Species
 1.  | Anseranatidae | Magpie Goose | Anseranas semipalmata
 2.  | Burhinidae | Bush Stone-curlew | Burhinus grallarius
@@ -44,6 +45,7 @@ Regulation 3(1)
 10.  |  | African Serval | Leptailurus serval
 10.  |  | African Lion | Panthera leo
 10.  |  | Snow Leopard | Panthera onca
+10.  |  | Sri Lankan Leopard | Panthera pardus kotiya
 10.  |  | Siberian Tiger | Panthera tigris altaica
 10.  |  | Sumatran Tiger | Panthera tigris sumatrae
 10.  |  | Bengal Tiger | Panthera tigris tigris
@@ -55,8 +57,9 @@ Regulation 3(1)
 12.  |  | Siamang | Symphalangus syndactylus
 12A.  | Hystricidae | Cape porcupine | Hystrix africaeaustralis
 13.  | Lemuridae | Ring-tailed Lemur | Lemur catta
+13.  |  | Black and White Ruffled Lemur | Varecia variegata
 14.  | Mustelidae | Oriental Small-clawed Otter | Aonyx cinereus
-15.  | Petauridae | Sugar Glider | Petaurus breviceps
+15.  | Petauridae | Krefft’s Glider | Petaurus notatus
 16.  | Phascolarctos | Koala | Phascolarctos cinereus
 17.  | Procyonidae | Coati | Nasua nasua
 18.  | Sciuridae | Northern Palm Squirrel | Funambulus pennantii
