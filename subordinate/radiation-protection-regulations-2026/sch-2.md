@@ -1,0 +1,37 @@
+# Schedule 2 Infringement Notices
+Regulation 71
+| Provision | Penalty (Penalty units)
+1.  | Section 13(1) | 2
+2.  | Section 14 | 2
+3.  | Section 15 | 2
+4.  | Section 16(1) | 2
+5.  | Section 16(2) | 2
+6.  | Section 18 | 1
+7.  | Section 23(4) | 1
+8.  | Section 30(1) | 1
+9.  | Section 36 | 1
+10.  | Section 38 | 2
+11.  | Section 40(3) | 1
+12.  | Section 43 | 2
+13.  | Section 45 | 1
+14.  | Regulation 13(3) | 2
+15.  | Regulation 13(4) | 1
+16.  | Regulation 14(2) | 2
+17.  | Regulation 16 | 2
+18.  | Regulation 17 | 2
+19.  | Regulation 18(1) | 1
+20.  | Regulation 19 | 2
+21.  | Regulation 20 | 1
+22.  | Regulation 21(2) | 2
+23.  | Regulation 21(3) | 1
+24.  | Regulation 21(4) | 2
+25.  | Regulation 21(5) | 1
+26.  | Regulation 22 | 1
+27.  | Regulation 25 | 1
+28.  | Regulation 26(2) | 1
+29.  | Regulation 26(3) | 1
+30.  | Regulation 27 | 1
+31.  | Regulation 29 | 1
+32.  | Regulation 30 | 1
+33.  | Regulation 31(2) | 1
+34.  | Regulation 51(2) | 1
