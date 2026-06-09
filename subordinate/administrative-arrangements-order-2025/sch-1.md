@@ -15,11 +15,6 @@ Plomley Trusts Act 1984
 Tasmanian Museum and Art Gallery Act 2017
 Theatre Royal Management Act 1986
 Theatre Royal Precinct Redevelopment Act 2016
-DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENT TASMANIA
-Historic Cultural Heritage Act 1995
-National Trust Act 2006
-National Trust Preservation Fund (Winding-Up) Act 1999
-Port Arthur Historic Site Management Authority Act 1987
 DEPARTMENT OF JUSTICE
 Access to Neighbouring Land Act 1992
 Acts Enumeration Act 1947
@@ -165,7 +160,7 @@ Police Powers (Controlled Operations) Act 2006
 Police Powers (Public Safety) Act 2005
 Police Powers (Surveillance Devices) Act 2006
 Powers of Attorney Act 2000
-in so far as it relates to the functions and powers of the Tasmanian Civil and Administrative Tribunal in relation to enduring powers of attorney (otherwise see Department of Natural Resources and Environment Tasmania under the Minister for Parks)
+in so far as it relates to the functions and powers of the Tasmanian Civil and Administrative Tribunal in relation to enduring powers of attorney (otherwise see Department of Natural Resources and Environment Tasmania under the Minister for Parks and Heritage)
 Presumption of Survivorship Act 1921
 Prisoners (Interstate Transfer) Act 1982
 Prisoners (Removal of Civil Disabilities) Act 1991
@@ -244,7 +239,7 @@ Public Land (Administration and Forests) Act 1991
 except Part 2 (see Department of State Growth under the Minister for Housing and Planning)
 Pulp Mill Assessment Act 2007
 Regional Forest Agreement (Land Classification) Act 1998
-except Divisions 2 and 3 of Part 2, and the making of regulations under section 26 in so far as those regulations relate to Divisions 2 and 3 of Part 2 (see Department of Natural Resources and Environment Tasmania under the Minister for Parks)
+except Divisions 2 and 3 of Part 2, and the making of regulations under section 26 in so far as those regulations relate to Divisions 2 and 3 of Part 2 (see Department of Natural Resources and Environment Tasmania under the Minister for Parks and Heritage)
 Rosetta Landslip Act 1992
 Rural Adjustment Act 1995
 Tasmanian Development Act 1983
@@ -420,13 +415,17 @@ Electronic Conveyancing (Adoption of National Law) Act 2013
 Estates Tail Act 1853
 Forestry Rights Registration Act 1990
 Government House Land Act 1964
+Historic Cultural Heritage Act 1995
 Ida Bay Railway Repeal Act 2001
 Land Acquisition Act 1993
 Land Titles Act 1980
 Land Valuers Act 2001
 National Parks and Reserves Management Act 2002
+National Trust Act 2006
+National Trust Preservation Fund (Winding-Up) Act 1999
 Partition Act 1869
 Place Names Act 2020
+Port Arthur Historic Site Management Authority Act 1987
 Powers of Attorney Act 2000
 except in so far as it relates to the functions and powers of the Tasmanian Civil and Administrative Tribunal in relation to enduring powers of attorney (see Department of Justice under the Attorney-General/Minister for Justice, Corrections and Rehabilitation)
 Public Trusts Act 1882
@@ -539,7 +538,7 @@ Marine Resources (Savings and Transitional) Act 1995
 Meander Dam Project Act 2003
 Natural Resource Management Act 2002
 Nature Conservation Act 2002
-Part 4 and the making of regulations under section 76, in so far as those regulations relate to Part 4 (otherwise see Department of Natural Resources and Environment Tasmania under the Minister for Environment)
+Part 4 and the making of regulations under section 76, in so far as those regulations relate to Part 4 (otherwise see Department of Natural Resources and Environment Tasmania under the Minister for Environment and Climate Change)
 Poisons Act 1971
 in so far as it relates to the Poppy Advisory and Control Board (otherwise see Department of Health under the Minister for Health, Mental Health and Wellbeing)
 Primary Industry Activities Protection Act 1995
