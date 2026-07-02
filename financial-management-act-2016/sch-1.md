@@ -1,13 +1,13 @@
 # Schedule 1 General Government Sector Agencies
 Section 3
 Column 1 - Agency | Column 2 - Accountable authority
+Building Tasmania | Secretary of the Department
 Department for Education, Children and Young People | Secretary of the Department
 Department of Health | Secretary of the Department
 Department of Justice | Secretary of the Department
 Department of Police, Fire and Emergency Management | Secretary of the Department
 Department of Premier and Cabinet | Secretary of the Department
 Department of Natural Resources and Environment Tasmania | Secretary of the Department
-Department of State Growth | Secretary of the Department
 Department of Treasury and Finance | Secretary of the Department
 Brand Tasmania | The chief executive officer appointed under section 21 of the Brand Tasmania Act 2018
 Director of Inland Fisheries | The Director of Inland Fisheries appointed under section 11 of the Inland Fisheries Act 1995
