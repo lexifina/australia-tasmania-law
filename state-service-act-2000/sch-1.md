@@ -3,13 +3,13 @@ Sections 3(1), 12, 29 and 30
 Column 1 | Column 2
 Agency | Head of Agency
 Division 1 |
+Building Tasmania | Secretary
 Department for Education, Children and Young People | Secretary
 Department of Health | Secretary
 Department of Justice | Secretary
 Department of Police, Fire and Emergency Management | Secretary
 Department of Premier and Cabinet | Secretary
 Department of Natural Resources and Environment Tasmania | Secretary
-Department of State Growth | Secretary
 Department of Treasury and Finance | Secretary
 Division 2 |
 Tasmanian Audit Office | Auditor-General
