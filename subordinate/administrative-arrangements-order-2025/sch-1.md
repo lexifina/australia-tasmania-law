@@ -7,7 +7,7 @@ Aboriginal Heritage Act 1975
 Aboriginal Land Council Elections Act 2004
 Aboriginal Lands Act 1995
 Native Title (Tasmania) Act 1994
-DEPARTMENT OF STATE GROWTH
+BUILDING TASMANIA
 Cultural and Creative Industries Act 2017
 Meteorites Act 1973
 Museums (Aboriginal Remains) Act 1984
@@ -140,7 +140,7 @@ Minors Contracts Act 1988
 Misuse of Drugs Act 2001
 Monetary Penalties Enforcement Act 2005
 Motor Accidents (Liabilities and Compensation) Act 1973
-in so far as it relates to the functions, powers and operation of the Tasmanian Civil and Administrative Tribunal (otherwise see Department of State Growth under the Minister for Infrastructure and Transport)
+in so far as it relates to the functions, powers and operation of the Tasmanian Civil and Administrative Tribunal (otherwise see Building Tasmania under the Minister for Infrastructure and Transport)
 National Redress Scheme for Institutional Child Sexual Abuse (Commonwealth Powers) Act 2018
 Neighbourhood Disputes About Plants Act 2017
 Notaries Public Act 1990
@@ -214,7 +214,7 @@ Witness (Identity Protection) Act 2006
 Wrongs Act 1954
 Youth Justice Act 1997
 in so far as it relates to the establishment and operation of the Magistrates Court (Youth Justice Division) (otherwise see Department for Education, Children and Young People under the Minister for Children and Youth)
-DEPARTMENT OF STATE GROWTH
+BUILDING TASMANIA
 Beauty Point Landslip Act 1970
 Cable Car (kunanyi/Mount Wellington) Facilitation Act 2017
 Closer Settlement Act 1957
@@ -236,7 +236,7 @@ Mining (Strategic Prospectivity Zones) Act 1993
 Petroleum (Submerged Lands) Act 1982
 Private Forests Act 1994
 Public Land (Administration and Forests) Act 1991
-except Part 2 (see Department of State Growth under the Minister for Housing and Planning)
+except Part 2 (see Building Tasmania under the Minister for Housing and Planning)
 Pulp Mill Assessment Act 2007
 Regional Forest Agreement (Land Classification) Act 1998
 except Divisions 2 and 3 of Part 2, and the making of regulations under section 26 in so far as those regulations relate to Divisions 2 and 3 of Part 2 (see Department of Natural Resources and Environment Tasmania under the Minister for Parks and Heritage)
@@ -257,7 +257,7 @@ DEPARTMENT OF PREMIER AND CABINET
 Carer Recognition Act 2023
 Pensioners (Heating Allowances) Act 1971
 Tasmanian Community Fund Act 2005
-DEPARTMENT OF PREMIER AND CABINET
+DEPARTMENT OF HEALTH
 Disability Rights, Inclusion and Safeguarding Act 2024
 Disability Rights, Inclusion and Safeguarding (Transitional and Consequential Provisions) Act 2025
 Guide Dogs and Hearing Dogs Act 1967
@@ -272,7 +272,7 @@ Libraries Act 1984
 Tasmanian Assessment, Standards and Certification Act 2003
 Teachers Registration Act 2000
 University of Tasmania Act 1992
-DEPARTMENT OF STATE GROWTH
+BUILDING TASMANIA
 Electricity – National Scheme (Tasmania) Act 1999
 Electricity Reform Act 2012
 Electricity Supply Industry Act 1995
@@ -285,6 +285,8 @@ Hydro-Electric Corporation Act 1995
 National Energy Retail Law (Tasmania) Act 2012
 National Gas (Tasmania) Act 2008
 Petroleum Products Emergency Act 1994
+BUILDING TASMANIA
+Climate Change (State Action) Act 2008
 DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENT TASMANIA
 Container Refund Scheme Act 2022
 Environmental Management and Pollution Control Act 1994
@@ -298,8 +300,6 @@ Plastic Shopping Bags Ban Act 2013
 Threatened Species Protection Act 1995
 Waste and Resource Recovery Act 2022
 Whales Protection Act 1988
-DEPARTMENT OF STATE GROWTH
-Climate Change (State Action) Act 2008
 DEPARTMENT OF HEALTH
 Ambulance Service Act 1982
 Anatomical Examinations Act 2006
@@ -328,10 +328,7 @@ Reproductive Health (Access to Terminations) Act 2013
 Royal Derwent Hospital (Sale of Land) Act 1995
 Tasmanian Health Service Act 2018
 Therapeutic Goods Act 2001
-DEPARTMENT OF JUSTICE
-Short Stay Accommodation Act 2019
-Tasmanian Planning Commission Act 1997
-DEPARTMENT OF STATE GROWTH
+BUILDING TASMANIA
 Community Housing Providers National Law (Tasmania) Act 2013
 Fire Damage Relief Act 1967
 Homes Tasmania Act 2022
@@ -344,17 +341,20 @@ except Part 7 (see Department of Justice under the Minister for Small Business, 
 Local Government (Subdivision Approval Validation) Act 1995
 Major Infrastructure Development Approvals Act 1999
 Public Land (Administration and Forests) Act 1991
-Part 2 (otherwise see Department of State Growth under the Minister for Business, Industry and Resources)
+Part 2 (otherwise see Building Tasmania under the Minister for Business, Industry and Resources)
 State Coastal Policy Validation Act 2003
 State Policies and Projects Act 1993
 State Policies and Projects (Validation of Actions) Act 2001
 Sullivans Cove Waterfront Authority (Repeal) Act 2011
 Validation (State Coastal Policy) Act 2024
+DEPARTMENT OF JUSTICE
+Short Stay Accommodation Act 2019
+Tasmanian Planning Commission Act 1997
 DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENT TASMANIA
 Approvals (Deadlines) Act 1993
 DEPARTMENT OF TREASURY AND FINANCE
 Parliament Square Planning Permit Act 2012
-DEPARTMENT OF STATE GROWTH
+BUILDING TASMANIA
 Abt Railway Development Act 1999
 Aerodrome Fees Act 2002
 Air Navigation Act 1937
@@ -388,6 +388,8 @@ Vehicle and Traffic Act 1999
 Vehicle and Traffic (Transitional and Consequential) Act 1999
 DEPARTMENT OF PREMIER AND CABINET
 National Broadband Network (Tasmania) Act 2010
+BUILDING TASMANIA
+Local Government (Highways) Act 1982
 DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENT TASMANIA
 Launceston Flood Risk Management Act 2015
 DEPARTMENT OF PREMIER AND CABINET
@@ -395,8 +397,6 @@ Burial and Cremation Act 2019
 Dog Control Act 2000
 Local Government Act 1993
 Local Government (Savings and Transitional) Act 1993
-DEPARTMENT OF STATE GROWTH
-Local Government (Highways) Act 1982
 DEPARTMENT OF PREMIER AND CABINET
 Macquarie Point Development Corporation Act 2012
 DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENT TASMANIA
@@ -431,7 +431,7 @@ except in so far as it relates to the functions and powers of the Tasmanian Civi
 Public Trusts Act 1882
 Ralphs Bay Conservation Area (Clarification) Act 2006
 Regional Forest Agreement (Land Classification) Act 1998
-Divisions 2 and 3 of Part 2, and the making of regulations under section 26 in so far as those regulations relate to Divisions 2 and 3 of Part 2 (otherwise see Department of State Growth under the Minister for Business, Industry and Resources)
+Divisions 2 and 3 of Part 2, and the making of regulations under section 26 in so far as those regulations relate to Divisions 2 and 3 of Part 2 (otherwise see Building Tasmania under the Minister for Business, Industry and Resources)
 Registration of Deeds Act 1935
 Royal Tasmanian Botanical Gardens Act 2002
 Self’s Point Land Act 1951
@@ -556,12 +556,14 @@ Lyons Trusts Act 1993
 Racing Regulation and Integrity Act 2024
 Racing (Tasracing Pty Ltd) Act 2009
 Racing (Tasracing Pty Ltd) (Transitional and Consequential Provisions) Act 2009
-DEPARTMENT OF STATE GROWTH
+BUILDING TASMANIA
 Building and Construction Industry Training Fund Act 1990
 TasTAFE (Skills and Training Business) Act 2021
 Training and Workforce Development Act 2013
 Training and Workforce Development (Transitional Provisions) Act 2013
 Vocational Education and Training (Commonwealth Powers) Act 2011
+BUILDING TASMANIA
+Farm Debt Mediation Act 2024
 DEPARTMENT OF JUSTICE
 Architects Act 1929
 Asbestos-Related Diseases (Occupational Exposure) Compensation Act 2011
@@ -583,13 +585,13 @@ Electricity Industry Safety and Administration Act 1997
 Electricity Industry Safety and Administration (Consequential and Transitional Provisions) Act 1997
 Electricity Safety Act 2022
 Electricity Supply Industry Act 1995
-Part 8 and regulations that relate to Part 8 (otherwise see Department of State Growth under the Minister for Energy and Renewables and Department of Treasury and Finance under the Treasurer)
+Part 8 and regulations that relate to Part 8 (otherwise see Building Tasmania under the Minister for Energy and Renewables and Department of Treasury and Finance under the Treasurer)
 Explosives Act 2012
 Flammable Clothing Act 1973
 Gas Safety Act 2019
 Landlord and Tenant Act 1935
 Local Government (Building and Miscellaneous Provisions) Act 1993
-Part 7 (otherwise see Department of State Growth under the Minister for Housing and Planning)
+Part 7 (otherwise see Building Tasmania under the Minister for Housing and Planning)
 Mines Work Health and Safety (Supplementary Requirements) Act 2012
 Motor Vehicle Traders Act 2011
 Occupational Licensing Act 2005
@@ -611,9 +613,7 @@ Workers’ (Occupational Diseases) Relief Fund Act 1954
 Workers Rehabilitation and Compensation Act 1988
 Work Health and Safety Act 2012
 Work Health and Safety (Transitional and Consequential Provisions) Act 2012
-DEPARTMENT OF STATE GROWTH
-Farm Debt Mediation Act 2024
-DEPARTMENT OF STATE GROWTH
+BUILDING TASMANIA
 Stadiums Tasmania Act 2022
 TOURISM TASMANIA
 Tourism Tasmania Act 1996
@@ -637,7 +637,7 @@ Economic Regulator Act 2009
 Electoral Disclosure and Funding Act 2023
 Electricity Companies Act 1997
 Electricity Supply Industry Act 1995
-Part 2 and Divisions 3, 4, 4A, 5, 5A, 6 and 10 of Part 3 and in so far as it relates to contestable customers, price regulation and contracts, and the making of regulations under section 122 in so far as those regulations relate to that Part, those Divisions and those matters (otherwise see Department of State Growth under the Minister for Energy and Renewables and Department of Justice under the Minister for Small Business, Trade and Consumer Affairs)
+Part 2 and Divisions 3, 4, 4A, 5, 5A, 6 and 10 of Part 3 and in so far as it relates to contestable customers, price regulation and contracts, and the making of regulations under section 122 in so far as those regulations relate to that Part, those Divisions and those matters (otherwise see Building Tasmania under the Minister for Energy and Renewables and Department of Justice under the Minister for Small Business, Trade and Consumer Affairs)
 Fee Units Act 1997
 Financial Agreement Act 1994
 Financial Management Act 2016
@@ -652,7 +652,7 @@ in so far as it relates to the superannuation entitlements of the Governor (othe
 HomeBuilder Grants Act 2020
 Homes (Sale of Mortgages) Act 1993
 Homes Tasmania Act 2022
-in so far as it relates to the lending of funds for home ownership (otherwise see Department of State Growth under the Minister for Housing and Planning)
+in so far as it relates to the lending of funds for home ownership (otherwise see Building Tasmania under the Minister for Housing and Planning)
 Judges’ Contributory Pensions Act 1968
 Land Tax Act 2000
 Land Tax Rating Act 2000
