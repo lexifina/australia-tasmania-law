@@ -14,8 +14,10 @@ Part 3, Division 3 Confidentiality
 Part 4 Tobacco and other smoking products
 Part 4, Division 1 Under-age smoking
 Part 4, Division 1A Smoke-free areas
-Part 4, Division 2 Display, advertising, packaging, &c.
+Part 4, Division 2 Display, sale, advertising, packaging, &c.
 Part 4, Division 3 Smoking product licence
+Part 4, Division 3A Prohibited tobacco and other products
+Part 4, Division 3B Closure of certain premises
 Part 4, Division 4 Miscellaneous
 Part 5 Premises
 Part 5, Division 1 Places of assembly
