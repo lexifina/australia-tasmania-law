@@ -185,6 +185,8 @@ Regulation 43
 161.  | Two-up driver of fatigue-regulated heavy vehicle in breach of standard hours (critical risk breach) | HVNL 251(1) | 4
 162.  | Solo driver of fatigue-regulated heavy vehicle in breach of BFM hours (severe risk breach) | HVNL 254(1) | 3
 163.  | Solo driver of fatigue-regulated heavy vehicle in breach of BFM hours (critical risk breach) | HVNL 254(1) | 4
+163A.  | Driver of fatigue-regulated heavy vehicle in breach of alternative compliance hours (severe risk breach) | HVNL 254 | 3
+163B.  | Driver of fatigue-regulated heavy vehicle in breach of alternative compliance hours (critical risk breach) | HVNL 254 | 4
 164.  | Two-up driver of fatigue-regulated heavy vehicle in breach of BFM hours (severe risk breach) | HVNL 256(1) | 3
 165.  | Two-up driver of fatigue-regulated heavy vehicle in breach of BFM hours (critical risk breach) | HVNL 256(1) | 4
 166.  | Driver of fatigue-regulated heavy vehicle in breach of AFM hours (severe risk breach) | HVNL 258(1) | 3
