@@ -285,9 +285,8 @@ Hydro-Electric Corporation Act 1995
 National Energy Retail Law (Tasmania) Act 2012
 National Gas (Tasmania) Act 2008
 Petroleum Products Emergency Act 1994
-BUILDING TASMANIA
-Climate Change (State Action) Act 2008
 DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENT TASMANIA
+Climate Change (State Action) Act 2008
 Container Refund Scheme Act 2022
 Environmental Management and Pollution Control Act 1994
 Litter Act 2007
