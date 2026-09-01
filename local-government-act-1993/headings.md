@@ -3,6 +3,7 @@ Part 3 Local Government
 Part 3, Division 1 Municipal areas and electoral districts
 Part 3, Division 2 Councils
 Part 3, Division 3 Councillors
+Part 3, Division 3AAA Councillor allowances and numbers
 Part 3, Division 3AA Dispute resolution procedures
 Part 3, Division 3A Code of conduct, complaints and complaint resolution
 Part 3, Division 3A, Subdivision 1 Code of Conduct Panel and Executive Officer
@@ -62,6 +63,7 @@ Part 12A, Division 1 Local Government Board
 Part 12A, Division 2 Reviews of councils
 Part 12A, Division 3 Reviews of single and joint authorities
 Part 12B Performance Improvement Directions
+Part 12C Temporary Advisors
 Part 13 Inquiries
 Part 13, Division 1 Board of Inquiry
 Part 13, Division 2 Commissioners
@@ -79,6 +81,7 @@ Part 15, Division 3 Issuing places and electoral officials
 Part 15, Division 4 Notices of elections and nominations
 Part 15, Division 5 Advertising in respect of elections
 Part 15, Division 6 Postal voting
+Part 15, Division 7 Alternative voting
 Part 15, Division 8 Determination of result of elections
 Part 15, Division 9 Casual vacancies
 Part 15, Division 10 Offences relating to elections
