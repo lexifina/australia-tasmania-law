@@ -47,7 +47,6 @@ Invertebrates
 21.  | Beddomeia wilmotensis | Ponder & Clark, Mesogastropoda | Wilmot River Freshwater Snail
 22.  | Beddomeia zeehanensis | Ponder & Clark, Mesogastropoda | Zeehan Freshwater Snail
 23.  | Benthodorbis pawpela | Winston Ponder, Mesogastropoda | Great Lake Glacidorbid Snail
-24.  | Cavernotettix craggiensis | Richards, Orthoptera | Craggy Island Cave Cricket
 25.  | Charopidae "Skemps" | Sigmurethra | Skemps Snail
 26.  | Dasyurotaenia robusta | Beddard, Cyclophyllideae | Tapeworm (Tasmanian Devil)
 27.  | Echinodillo cavaticus | Green, Isopoda | Flinders Island Cave Slater
@@ -77,6 +76,7 @@ Invertebrates
 52.  | Pseudalmenus chlorinda myrsilus | Couchman, Lepidoptera | Tasmanian Hairstreak (butterfly)
 53.  | Pseudotyrannochthonius typhlus | Dartnall, Pseudoscorpionida | Cave Pseudoscorpion (Mole Creek)
 54.  | Ramiheithrus kocinus | Neboiss, Trichoptera | Caddis Fly (Corinna)
+55.  | Speliotettix craggiensis | Richards, Orthoptera | Craggy Island Cave Cricket
 57.  | Stenopsychodes lineata | Neboiss, Trichoptera | Caddis Fly (Bluff Hill Creek)
 58.  | Tasimia drepana | Neboiss, Trichoptera | Caddis Fly (Huon & Picton Rivers)
 59.  | Tasmanipatus barretti | Ruhberg, Onychophora | Giant Velvet Worm
@@ -143,11 +143,9 @@ Dicotyledonae
 59.  | Frankenia pauciflora var. gunnii | Summerh., Frankeniaceae | southern seaheath
 61.  | Geum talbotianum | W.M.Curtis, Rosaceae | tasmanian snowrose
 62.  | Glossostigma elatinoides | (Benth.) Benth. ex Hook.f., Phrymaceae | small mudmat
-63.  | Gratiola pubescens | R.Br., Plantaginaceae | hairy brooklime
 66.  | Gynatrix pulchella | (Willd.) Alef., Malvaceae | fragrant hempbush
 67.  | Gyrostemon thesioides | (Hook.f.) A.S.George, Gyrostemonaceae | broom wheelfruit
 67A.  | Hackelia latifolia | (R.Br.) Dimon & M.A.M.Renner, Boraginaceae | forest houndstongue
-68.  | Haloragis heterophylla | Brongn., Haloragaceae | variable raspwort
 69.  | Haloragis myriocarpa | Orchard, Haloragaceae | prickly raspwort
 70.  | Hedycarya angustifolia | A.Cunn., Monimiaceae | australian mulberry
 70A.  | Hibbertia rufa | N.A.Wakef., Dilleniaceae | brown guineaflower
@@ -176,7 +174,6 @@ Dicotyledonae
 95.  | Orites milliganii | Meisn., Proteaceae | toothed orites
 96.  | Ozothamnus lycopodioides | Hook.f., Asteraceae | clubmoss everlastingbush
 97.  | Pandorea pandorana | (Andrews) Steenis, Bignoniaceae | wonga vine
-98.  | Parietaria debilis | G.Forst., Urticaceae | shade pellitory
 99.  | Pentachondra ericifolia | Hook.f., Ericaceae | fine frillyheath
 101.  | Persoonia moscalii | Orchard, Proteaceae | creeping geebung
 102.  | Persoonia muelleri subsp. angustifolia | (Benth.) L.A.S.Johnson & P.H.Weston, Proteaceae | narrowleaf geebung
@@ -213,7 +210,6 @@ Dicotyledonae
 137A.  | Styphelia esquamata | (R.Br.) Spreng. Ericaceae | swamp beardheath
 138.  | Taraxacum aristum | Hagl. & Markl., Asteraceae | mountain dandelion
 139.  | Tetratheca ciliata | Lindl., Elaeocarpaceae | northern pinkbells
-140.  | Teucrium corymbosum | R.Br., Lamiaceae | forest germander
 141.  | Utricularia australis | R.Br., Lentibulariaceae | yellow bladderwort
 142.  | Utricularia tenella | R.Br., Lentibulariaceae | pink bladderwort
 143.  | Utricularia violacea | R.Br., Lentibulariaceae | violet bladderwort

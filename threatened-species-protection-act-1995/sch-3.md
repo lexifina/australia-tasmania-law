@@ -33,6 +33,7 @@ Birds
 15B.  | Tachyspiza novaehollandiae | Gmelin | Grey Goshawk
 16.  | Thalassarche chrysostoma | Forster | Grey-headed Albatross
 17.  | Thalassarche melanophris | (Temminck) | Black-browed Albatross
+17A.  | Tringa nebularia | Gunnerus | Common Greenshank
 18.  | Tyto novaehollandiae castanops | (Gould) | Masked Owl
 Reptiles
 | Column 1 | Column 2 | Column 3
@@ -105,6 +106,7 @@ Dicotyledonae
 4.  | Bertya tasmanica subsp. tasmanica | (Sond. & F.Muell.) Müll.Arg., Euphorbiaceae | tasmanian bertya
 5.  | Boronia hemichiton | Duretto, Rutaceae | mt arthur boronia
 5A.  | Bossiaea heterophylla | Vent., Fabaceae | variable bossia
+5B.  | Brachyscome tasmanica | P.S.Short, Asteraceae | salt daisy
 6.  | Calystegia marginata | R.Br., Convolvulaceae | forest bindweed
 6A.  | Cassinia rugata | N.G.Walsh, Asteraceae | wrinkled dollybush
 6B.  | Coronidium gunnianum | (Hook.) N.G.Walsh, Asteraceae | swamp everlasting
@@ -189,6 +191,7 @@ Monocotyledonae
 14.  | Caladenia saggicola | D.L.Jones, Orchidaceae | sagg spider-orchid
 15.  | Caladenia sylvicola | D.L.Jones, Orchidaceae | forest fingers
 16.  | Caladenia tonellii | D.L.Jones, Orchidaceae | robust fingers
+16A.  | Caladenia vulgaris var. nunguensis | Wapstra & Broadfield, Orchidaceae | bog finger orchid
 17.  | Calochilus campestris | R.Br., Orchidaceae | copper beard-orchid
 18.  | Centrolepis pedderensis | W.M.Curtis, Centrolepidaceae | pedder bristlewort
 19.  | Chiloglottis trapeziformis | Fitzg., Orchidaceae | broadlip bird-orchid
