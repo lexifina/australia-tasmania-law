@@ -1,0 +1,17 @@
+# Schedule 2 Plan for European fallow deer
+Clause 9
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
