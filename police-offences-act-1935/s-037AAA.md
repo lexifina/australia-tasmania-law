@@ -1,6 +1,11 @@
 # 37AAA. Interference with war memorials
 (1) A person must not interfere with a war memorial or a war memorial area.
-Fine not exceeding 25 penalty units or imprisonment for a term not exceeding 12 months.
+(1A) A person who contravenes subsection (1) is guilty of an offence and is liable on summary conviction to –
+(a) a penalty not less than 25 penalty units and not more than 500 penalty units; or
+(b) imprisonment for a term not exceeding 3 years.
+(1B) In addition to any other penalty that may be imposed in respect of an offence against subsection (1), the court –
+(a) if it considers it reasonable in the circumstances, is to make a community correction order, under the Sentencing Act 1997, that requires the person convicted of the offence to perform a period of community service in the community where the offence occurred; and
+(b) may also impose such other sanctions, and make such other orders, as the court considers appropriate in the circumstances.
 (2) In this section –
 interfere
 , with a war memorial, includes –
