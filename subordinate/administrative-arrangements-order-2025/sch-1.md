@@ -347,6 +347,9 @@ State Policies and Projects (Validation of Actions) Act 2001
 Sullivans Cove Waterfront Authority (Repeal) Act 2011
 Validation (State Coastal Policy) Act 2024
 DEPARTMENT OF JUSTICE
+Building Act 2016
+Building and Construction Industry Security of Payment Act 2009
+Residential Building Work Contracts and Dispute Resolution Act 2016
 Short Stay Accommodation Act 2019
 Tasmanian Planning Commission Act 1997
 DEPARTMENT OF NATURAL RESOURCES AND ENVIRONMENT TASMANIA
@@ -568,8 +571,6 @@ Architects Act 1929
 Asbestos-Related Diseases (Occupational Exposure) Compensation Act 2011
 Associations Incorporation Act 1964
 Australian Consumer Law (Tasmania) Act 2010
-Building Act 2016
-Building and Construction Industry Security of Payment Act 2009
 Collections for Charities Act 2001
 Commissioner for Corporate Affairs Act 1980
 Construction Industry (Long Service) Act 1997
@@ -598,7 +599,6 @@ Occupational Licensing National Law Repeal Act 2016
 Prepaid Funerals Act 2004
 Professional Standards Act 2005
 Property Agents and Land Transactions Act 2016
-Residential Building Work Contracts and Dispute Resolution Act 2016
 Residential Tenancy Act 1997
 Retail Leases Act 2022
 Retirement Villages Act 2004
