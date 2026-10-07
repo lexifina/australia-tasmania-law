@@ -76,11 +76,13 @@ Item No. | Regulation | Penalty
 1.  | Regulation 7(3) | 2
 2.  | Regulation 12(3) | 2
 3.  | Regulation 15(1) | 2
+3A.  | Regulation 15(1A) | 2
 4.  | Regulation 15(2) | 2
 5.  | Regulation 16(1) | 2
 6.  | Regulation 16(2) | 2
 7.  | Regulation 16(3) | 2
 8.  | Regulation 16(4) | 2
+8A.  | Regulation 16(4A) | 2
 9.  | Regulation 16(5) | 2
 10.  | Regulation 16(7) | 2
 11.  | Regulation 18(1) | 2
@@ -97,7 +99,7 @@ Item No. | Regulation | Penalty
 21.  | Regulation 20(12) | 2
 22.  | Regulation 20(16) | 2
 23.  | Regulation 22(1) | 2
-24.  | Regulation 22(2) | 2
+24.  | Regulation 22(3) | 2
 25.  | Regulation 23(2) | 2
 26.  | Regulation 24 | 2
 27.  | Regulation 27(1) | 2
