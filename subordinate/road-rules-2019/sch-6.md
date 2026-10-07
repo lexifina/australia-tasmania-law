@@ -72,7 +72,7 @@ A person is a transport inspector for the Road Rules if the person –
 (a) is authorised as an authorised officer under the Traffic Act 1925; or
 (b) is appointed as an authorised officer under the Heavy Vehicle National Law; or
 (c) is otherwise authorised by the Transport Commission under section 9 of the Traffic Act 1925 –
-and, in his or her instrument of authorisation or appointment, is specified as a transport inspector for the Road Rules.
+and, in the person’s instrument of authorisation or appointment, is specified as a transport inspector for the Road Rules.
 Meaning of terms for particular rules
 13 Rule 199: Public postbox
 For rule 199, a structure is declared to be a public postbox for the Road Rules if it is a structure –

@@ -60,6 +60,13 @@ Part 14, Division 2 Rules for persons travelling in or on wheeled recreational d
 Part 14, Division 3 Rules for persons travelling in or on personal mobility devices
 Part 15 Additional Rules for Bicycle Riders
 Part 16 Rules for Persons Travelling in or on Vehicles
+Part 16, Division 1 Application of Part
+Part 16, Division 2 Wearing of seatbelts by drivers and passengers 16 years old or older
+Part 16, Division 3 Wearing of seatbelts by passengers under 16 years old
+Part 16, Division 3, Subdivision 1 Preliminary
+Part 16, Division 3, Subdivision 2 Requirements about wearing of seatbelts and seating positions
+Part 16, Division 4 Exemptions from wearing seatbelts
+Part 16, Division 5 Other rules for persons travelling in or on vehicles
 Part 17 Additional Rules for Drivers of Trams, Tram Recovery Vehicles and Public Buses
 Part 17, Division 1 Trams
 Part 17, Division 2 Public buses
