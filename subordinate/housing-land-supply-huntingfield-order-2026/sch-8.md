@@ -1,0 +1,15 @@
+# Schedule 8 Modified Planning Provisions – Inner Residential Zone Area
+Clause 8
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
+[Picture in the source, not reproduced]
