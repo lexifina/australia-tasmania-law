@@ -16,6 +16,7 @@ Tasmanian Audit Office | Auditor-General
 Column 1 | Column 2
 Agency | Head of Agency
 Brand Tasmania | Chief executive officer
+Commission for Children and Young People | Commissioner for Children and Young People
 Environment Protection Authority | Chief executive officer
 Homes Tasmania | Chief executive officer
 Integrity Commission | Chief executive officer
