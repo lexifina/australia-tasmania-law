@@ -10,6 +10,7 @@ Department of Premier and Cabinet | Secretary of the Department
 Department of Natural Resources and Environment Tasmania | Secretary of the Department
 Department of Treasury and Finance | Secretary of the Department
 Brand Tasmania | The chief executive officer appointed under section 21 of the Brand Tasmania Act 2018
+Commission for Children and Young People | The Commissioner for Children and Young People appointed under section 12 of the Commission for Children and Young People Act 2025
 Director of Inland Fisheries | The Director of Inland Fisheries appointed under section 11 of the Inland Fisheries Act 1995
 Director of Public Prosecutions | The person appointed as Director of Public Prosecutions under section 4(1) of the Director of Public Prosecutions Act 1973
 Environment Protection Authority | The chief executive officer of the Environment Protection Authority

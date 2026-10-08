@@ -1,0 +1,3 @@
+Commission for Children and Young People Act 2025
+An Act to establish a Commission for Children and Young People, to establish the statutory positions of the Commissioner for Children and Young People, the Child Advocate and the Commissioner for Aboriginal Children and Young People, to enable the offices of Commissioner for Children and Young People and the Independent Regulator to be held by a single person, and for related purposes
+Be it enacted by Her Excellency the Governor of Tasmania, by and with the advice and consent of the Legislative Council and House of Assembly, in Parliament assembled, as follows:
