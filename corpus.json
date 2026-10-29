@@ -1,0 +1,38 @@
+{
+  "corpus": "au/tasmania/acts",
+  "parent": "au/federal/acts",
+  "name": "Tasmanian law: every principal Act in force (that the source serves whole), version by version",
+  "label": "Tasmania",
+  "language": "en",
+  "acts": 567,
+  "history_from": "1994-03-15",
+  "record_to": "2026-10-13",
+  "record_note": "Every in-force Tasmanian principal Act the host could serve whole (567 of 609), from the point-in-time database's first day (1994-03-15) to the last version in force on or before 2026-10-29, from Tasmanian Legislation; data retrieved 2026-10-29. The largest Acts (including the Criminal Code Act 1924) are not included: see NOT-FETCHED.md.",
+  "in_force_trailer": "In-force",
+  "built": "2026-10-29",
+  "checked_on": "2026-10-29",
+  "history": "in-force",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Assented"
+    ],
+    "time": "12:00 Hobart (AEST, UTC+10; AEDT, UTC+11, in daylight saving time)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "repeal or amendment does not affect previous operation or accrued rights; common-law presumption against retrospective operation",
+      "meaning": "where an Act repeals any other enactment then, unless the contrary is expressly provided, the repeal does not affect its previous operation or any right, privilege, obligation or liability acquired, accrued or incurred under it; Acts are presumed not to operate retrospectively on substantive rights",
+      "authority": "Acts Interpretation Act 1931 (Tas) s 16(1) (Effect of repeal, expiry, &c.; text in this corpus); Maxwell v Murphy (1957) 96 CLR 261 (common law; not checked here)",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/in_force_on.py",
+  "citation": {
+    "file": "([a-z0-9-]+)/s-0*([0-9]+[A-Z]*)\\.md",
+    "cites": "(section|s\\.?) ?{n}([^0-9A-Za-z]|$)"
+  },
+  "verification": "Every point-in-time version is checked against the source XML on its first day: files equal the rendering byte for byte, and an independent word check (a separate regex reader of the raw XML) requires the letters and digits of every line of every file to tile the source text exactly, in order (history notes, omitted provisions and spent amending text excepted, as on the site)."
+}
