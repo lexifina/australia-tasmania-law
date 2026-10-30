@@ -1,0 +1,53 @@
+{
+  "corpus": "au/tasmania/acts",
+  "parent": "au/federal/acts",
+  "name": "Tasmanian law: every principal Act and statutory rule in force, version by version",
+  "label": "Tasmania",
+  "language": "en",
+  "acts": 609,
+  "statutory_rules": 1365,
+  "layers": {
+    "acts": {
+      "folders": "<slug>/",
+      "count": 609,
+      "versions": 4521
+    },
+    "statutory_rules": {
+      "folders": "subordinate/<slug>/",
+      "count": 1365,
+      "versions": 1816,
+      "tags": "subordinate/<slug>/<day>, subordinate/act/<year>-<no>, subordinate/sr/<year>-<no>"
+    }
+  },
+  "history_from": "1991-10-23",
+  "record_to": "2026-10-19",
+  "record_note": "Every in-force Tasmanian principal Act (609 of 609 built) and every in-force principal statutory rule (1365 of 1365 built, under subordinate/), from the point-in-time database's first day for Acts (1994-03-15; statutory rules from their first versions, the earliest 1991-10-23) to the last version in force on or before 2026-10-29, from Tasmanian Legislation; data retrieved 2026-10-30. Not built: 0 Acts, 0 statutory rules (NOT-BUILT.md).",
+  "in_force_trailer": "In-force",
+  "built": "2026-10-29",
+  "checked_on": "2026-10-29",
+  "history": "in-force",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Assented",
+      "Gazetted"
+    ],
+    "time": "12:00 Hobart (AEST, UTC+10; AEDT, UTC+11, in daylight saving time)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "repeal or amendment does not affect previous operation or accrued rights; common-law presumption against retrospective operation",
+      "meaning": "where an Act repeals any other enactment then, unless the contrary is expressly provided, the repeal does not affect its previous operation or any right, privilege, obligation or liability acquired, accrued or incurred under it; Acts are presumed not to operate retrospectively on substantive rights",
+      "authority": "Acts Interpretation Act 1931 (Tas) s 16(1) (Effect of repeal, expiry, &c.; text in this corpus); Maxwell v Murphy (1957) 96 CLR 261 (common law; not checked here)",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/in_force_on.py",
+  "citation": {
+    "file": "((?:subordinate/)?[a-z0-9-]+)/s-0*([0-9]+[A-Z]*)\\.md",
+    "cites": "(section|s\\.?) ?{n}([^0-9A-Za-z]|$)"
+  },
+  "verification": "Every point-in-time version is checked against the source XML on its first day: files equal the rendering byte for byte, and an independent word check (a separate regex reader of the raw XML) requires the letters and digits of every line of every file to tile the source text exactly, in order (history notes, omitted provisions and spent amending text excepted, as on the site). The same for every version of every statutory rule, where the dates and end-matter lines the site prints from empty date, PRINTED and GAZETTEDATE elements are expected too. The Acts' commits, contents and tags are checked to be exactly those of the Acts-only build."
+}
